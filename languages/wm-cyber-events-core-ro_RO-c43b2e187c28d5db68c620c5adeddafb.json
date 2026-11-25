@@ -1,0 +1,2825 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "ro_RO",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Evenimente, sesiuni și înscrieri cu double opt-in prin Brevo, check-in, XML factură (EN 16931) și export DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Evenimentul nu a fost găsit sau nu mai este activ."
+      ],
+      "Verbindlich anmelden": [
+        "Înscriere cu obligație de plată"
+      ],
+      "Kostenfrei anmelden": [
+        "Înscriere gratuită"
+      ],
+      "Datum": [
+        "Data"
+      ],
+      "Veranstaltungsort": [
+        "Locația evenimentului"
+      ],
+      "Einlass": [
+        "Acces"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "După confirmarea prin linkul primit pe e-mail"
+      ],
+      "Kontaktdaten": [
+        "Date de contact"
+      ],
+      "Einwilligung": [
+        "Consimțământ"
+      ],
+      "Bestätigung": [
+        "Confirmare"
+      ],
+      "Vorname": [
+        "Prenume"
+      ],
+      "z. B. Erika": [
+        "de ex. Ioana"
+      ],
+      "Nachname": [
+        "Nume de familie"
+      ],
+      "z. B. Mustermann": [
+        "de ex. Popescu"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Adresă de e-mail profesională"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Instituție / autoritate / companie"
+      ],
+      "z. B. Beispiel GmbH": [
+        "de ex. Exemplu SRL"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Fotografie de profil pentru ecusonul de participant (opțional)"
+      ],
+      "Profilbild Vorschau": [
+        "Previzualizare fotografie de profil"
+      ],
+      "Foto auswählen": [
+        "Alege fotografia"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG sau WebP · max. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Protecția datelor și consimțământ double opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Îmi exprim consimțământul pentru prelucrarea datelor mele în vederea participării la conferință conform GDPR. Pentru verificare voi primi un link de confirmare pe e-mail."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Citește politica de confidențialitate"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Înregistrări foto și video (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Îmi exprim consimțământul ca în cadrul evenimentului să fie realizate fotografii și înregistrări video cu persoana mea pentru activitățile de comunicare publică ale organizatorului."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Centru de control și grad de ocupare"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Motorul CyberEvents Enterprise este activ"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Gestionarea capacității, export DATEV și check-in"
+      ],
+      "Events": [
+        "Evenimente"
+      ],
+      "Bestätigte Gäste": [
+        "Invitați confirmați"
+      ],
+      "Ausstehende DOI": [
+        "DOI în așteptare"
+      ],
+      "Mission Control öffnen": [
+        "Deschide centrul de control"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Consimțământ GDPR obligatoriu"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Acest export conține date cu caracter personal protejate conform art. 4 pct. 1 din GDPR. Înainte de descărcare trebuie să confirmați că veți trata datele în mod confidențial, le veți prelucra exclusiv în scopul prevăzut și le veți șterge conform normelor de protecție a datelor după încheierea evenimentului."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Înapoi la gestionarea rezervărilor"
+      ],
+      "DSGVO-Schutz": [
+        "Protecție GDPR"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Exportul datelor financiare și al datelor debitorilor necesită confirmarea că datele vor fi păstrate confidențiale și utilizate exclusiv pentru contabilitate."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Înapoi la DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "Export DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Permisiuni insuficiente."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Panou de control și indicatori KPI"
+      ],
+      "Dashboard": [
+        "Panou de control"
+      ],
+      "Alle Veranstaltungen": [
+        "Toate evenimentele"
+      ],
+      "Veranstaltungen": [
+        "Evenimente"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Creează eveniment nou"
+      ],
+      "Neue Veranstaltung": [
+        "Eveniment nou"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Locații și centre de conferințe"
+      ],
+      "Veranstaltungsorte": [
+        "Locații"
+      ],
+      "Sessions & Agenda": [
+        "Sesiuni și agendă"
+      ],
+      "Neue Session erstellen": [
+        "Creează sesiune nouă"
+      ],
+      "Neue Session": [
+        "Sesiune nouă"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Participanți și rezervări"
+      ],
+      "CSV-Import & Onboarding": [
+        "Import CSV și integrare"
+      ],
+      "CSV-Import": [
+        "Import CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finanțe și export DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Finanțe și DATEV"
+      ],
+      "Audit-Log": [
+        "Jurnal de audit"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Setări și Theme Studio"
+      ],
+      "Einstellungen": [
+        "Setări"
+      ],
+      "Handbuch & Dokumentation": [
+        "Manual și documentație"
+      ],
+      "Handbuch": [
+        "Manual"
+      ],
+      "Events & Konferenzen": [
+        "Evenimente și conferințe"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Permisiuni pentru gestionarea evenimentelor și conferințelor."
+      ],
+      "Teilnehmer verwalten": [
+        "Gestionează participanții"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Permite vizualizarea și exportul înscrierilor la evenimente fără acces complet de administrator WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Setări și temă"
+      ],
+      "Handbuch & Doku": [
+        "Manual și doc"
+      ],
+      "Plugin-Navigation": [
+        "Navigare modul"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Evenimentul a fost salvat cu succes!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Datele au fost actualizate sincron în baza de date și în WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Evenimentul a fost șters!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Înregistrarea a fost eliminată, iar articolul a fost mutat în coșul de gunoi."
+      ],
+      "Demodaten angelegt.": [
+        "Datele demonstrative au fost create."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Au fost create un eveniment demonstrativ, sesiuni și participanți de probă; facturile se emit doar dacă datele emitentului sunt configurate."
+      ],
+      "CyberEvents Command Console": [
+        "Consolă de comandă CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Evenimente, sesiuni și înscrieri cu double opt-in prin Brevo, check-in, XML factură și export DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte din familia de module WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Mod Hub"
+      ],
+      "Standalone": [
+        "Autonom"
+      ],
+      "Demo-Daten auffrischen": [
+        "Reîmprospătează datele demo"
+      ],
+      "Springen zu:": [
+        "Salt la:"
+      ],
+      "Kurzanleitung": [
+        "Ghid rapid"
+      ],
+      "Kennzahlen": [
+        "Indicatori"
+      ],
+      "Rechnungen": [
+        "Facturi"
+      ],
+      "Audit-Protokoll": [
+        "Jurnal de audit"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Ce face CyberEvents și ce găsiți în acest ecran?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Modulul gestionează evenimente cu sesiuni și înscrieri. Participanții își confirmă înscrierea printr-un link double opt-in trimis de Brevo (necesită cheie API), își aleg apoi sesiunile fără risc de suprarezervare și sunt înregistrați la intrare pe baza tokenului lor. Facturile sunt generate în format XML CII (EN 16931) și pot fi exportate ca lot contabil DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Acces rapid:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Participanți și înscrieri"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Exportă facturile ca lot DATEV"
+      ],
+      "Event Auslastung": [
+        "Grad de ocupare evenimente"
+      ],
+      "Kritisch": [
+        "Critic"
+      ],
+      "Optimal": [
+        "Optim"
+      ],
+      "Max. Kapazität:": [
+        "Capacitate max.:"
+      ],
+      "Gebucht:": [
+        "Rezervate:"
+      ],
+      "Live Check-In Counter": [
+        "Contor check-in în timp real"
+      ],
+      "Anwesend": [
+        "Prezenți"
+      ],
+      "Registriert:": [
+        "Înregistrați:"
+      ],
+      "Eingecheckt:": [
+        "Sosiți (check-in):"
+      ],
+      "Wartend:": [
+        "În așteptare:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Înscrieri noi (24 h)"
+      ],
+      "Sessions": [
+        "Sesiuni"
+      ],
+      "in 24 h": [
+        "în 24 h"
+      ],
+      "Ausstehende DOI:": [
+        "DOI în așteptare:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Telemetrie coadă CRM Brevo"
+      ],
+      "Jobs": [
+        "Sarcini"
+      ],
+      "Verarbeitung": [
+        "În curs de procesare"
+      ],
+      "Verarbeitet:": [
+        "Procesate:"
+      ],
+      "Schnellaktionen": [
+        "Acțiuni rapide"
+      ],
+      "Neue Konferenz anlegen": [
+        "Creează conferință nouă"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Listă participanți și check-in"
+      ],
+      "CSV-Batch Import": [
+        "Import CSV în lot"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Prezentare generală evenimente și monitorizare ocupare"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Înscrieri confirmate per eveniment raportat la capacitatea configurată."
+      ],
+      "Event suchen...": [
+        "Caută eveniment..."
+      ],
+      "Neue Konferenz": [
+        "Conferință nouă"
+      ],
+      "Konferenz / Event": [
+        "Conferință / eveniment"
+      ],
+      "Zeitraum": [
+        "Perioadă"
+      ],
+      "Ort": [
+        "Localitate"
+      ],
+      "Kapazität & Belegung": [
+        "Capacitate și ocupare"
+      ],
+      "Status": [
+        "Stare"
+      ],
+      "Aktionen": [
+        "Acțiuni"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Nu s-au găsit evenimente."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Editează în editorul de blocuri Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Editează"
+      ],
+      "Schnellbearbeitung": [
+        "Editare rapidă"
+      ],
+      "Vorschau": [
+        "Previzualizare"
+      ],
+      "Teilnehmer (%d)": [
+        "Participanți (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Sigur doriți să ștergeți definitiv acest eveniment?"
+      ],
+      "Löschen": [
+        "Șterge"
+      ],
+      "%d Sessions": [
+        "%d sesiuni"
+      ],
+      "/ %d Plätze": [
+        "/ %d locuri"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(fără limită de capacitate)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Editează în editorul Gutenberg"
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Deschide editarea rapidă"
+      ],
+      "Quick": [
+        "Rapid"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Vezi pagina publică"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Facturi valide și anulate, precum și înscrieri neconfirmate."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brut, facturi valide"
+      ],
+      "Gültige Rechnungen": [
+        "Facturi valide"
+      ],
+      "Storniert": [
+        "Anulate"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Înscrieri neconfirmate"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Export DATEV și jurnal de audit"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Lot contabil de facturi și facturi storno pentru o perioadă; coordonați conturile și codurile fiscale cu consultantul fiscal."
+      ],
+      "DATEV Format": [
+        "Format DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Categoria 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Lanț HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonimizare după 90 de zile"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Deschide DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Consultă jurnalul de audit"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Jurnal de audit înlănțuit continuu: fiecare înregistrare cosemnează intrarea precedentă, astfel încât modificările, ștergerile sau inserările ulterioare sunt detectate. Dovadă a alterării, nu imuabilitate — cine citește wp-config.php deține cheia."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Deschide jurnalul complet de audit"
+      ],
+      "Zeitstempel": [
+        "Marcaj temporal"
+      ],
+      "Ereignis-Typ": [
+        "Tip eveniment"
+      ],
+      "Benutzer / System": [
+        "Utilizator / sistem"
+      ],
+      "Objekt-ID": [
+        "ID obiect"
+      ],
+      "Audit-Details & Nachweis": [
+        "Detalii audit și dovadă"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Nu există încă înregistrări de audit consemnate."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Editează evenimentul / configurare rapidă"
+      ],
+      "Schließen": [
+        "Închide"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Titlul conferinței / evenimentului:"
+      ],
+      "URL-Slug:": [
+        "Slug URL:"
+      ],
+      "Tagungsort / Location:": [
+        "Locație / sală:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Început (dată și oră):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Sfârșit (dată și oră):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Capacitate max. participanți:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Preț bilet (net în €):"
+      ],
+      "Status:": [
+        "Stare:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Activ (publicat)"
+      ],
+      "Entwurf (Draft)": [
+        "Ciornă"
+      ],
+      "Archiviert": [
+        "Arhivat"
+      ],
+      "Kostenpflichtig": [
+        "Cu plată"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Deschide în editorul de blocuri Gutenberg"
+      ],
+      "Abbrechen": [
+        "Anulează"
+      ],
+      "Änderungen speichern": [
+        "Salvează modificările"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Datele participantului au fost actualizate cu succes!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Datele de înscriere și starea au fost salvate în baza de date."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Participantul a fost șters!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Înscrierea și toate rezervările de sesiuni asociate au fost eliminate."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Starea de check-in a fost actualizată!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Starea de prezență a participantului a fost comutată."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Double opt-in confirmat!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Înscrierea a fost marcată manual ca fiind confirmată."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Gestionarea participanților și a rezervărilor"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Toate înscrierile cu starea double opt-in, rezervările de sesiuni și facturile."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Ecusoane / listă participanți (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrat după conferință: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Șterge filtrul"
+      ],
+      "Alle Teilnehmer": [
+        "Toți participanții"
+      ],
+      "Bestätigt": [
+        "Confirmat"
+      ],
+      "Ausstehend DOI": [
+        "DOI în așteptare"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Caută nume, e-mail sau companie..."
+      ],
+      "Teilnehmer": [
+        "Participant"
+      ],
+      "Organisation / Firma": [
+        "Organizație / companie"
+      ],
+      "Check-In": [
+        "Check-in"
+      ],
+      "Rechnung": [
+        "Factură"
+      ],
+      "Anmeldedatum": [
+        "Data înscrierii"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Nu există înscrieri înregistrate."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Editează datele participantului"
+      ],
+      "Auschecken": [
+        "Anulează check-in"
+      ],
+      "Einchecken": [
+        "Efectuează check-in"
+      ],
+      "DOI bestätigen": [
+        "Confirmă DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Sigur doriți să ștergeți definitiv acest participant?"
+      ],
+      "Status umschalten": [
+        "Comută starea"
+      ],
+      "Eingecheckt": [
+        "Sosit (check-in)"
+      ],
+      "Nicht vor Ort": [
+        "Absent la locație"
+      ],
+      "Rechnungs-XML": [
+        "XML factură"
+      ],
+      "Kostenfrei / Keine": [
+        "Gratuit / niciuna"
+      ],
+      "Edit": [
+        "Editează"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Sigur doriți să ștergeți acest participant?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Editează datele participantului / gestionare participanți"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Fotografie de profil / fotografie ecuson (JPG, PNG, WebP · max. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Elimină fotografia"
+      ],
+      "Vorname:": [
+        "Prenume:"
+      ],
+      "Nachname:": [
+        "Nume de familie:"
+      ],
+      "E-Mail-Adresse:": [
+        "Adresă de e-mail:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizație / companie / instituție:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Conferință alocată:"
+      ],
+      "Anmeldestatus:": [
+        "Starea înscrierii:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Confirmat"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "În așteptare (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Anulat"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Nelivrabil (respins)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Stare check-in (la locație):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nu / absent la locație"
+      ],
+      "Ja / Eingecheckt": [
+        "Da / sosit (check-in)"
+      ],
+      "Rechnungsnummer:": [
+        "Număr factură:"
+      ],
+      "Zahlungsstatus:": [
+        "Starea plății:"
+      ],
+      "Kostenfrei (Free)": [
+        "Gratuit"
+      ],
+      "Ausstehend (Pending)": [
+        "În așteptare"
+      ],
+      "Bezahlt (Paid)": [
+        "Plătit"
+      ],
+      "Erstattet (Refunded)": [
+        "Rambursat"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Consimțământ de confidențialitate GDPR acordat"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Consimțământ foto și video acordat"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Confidențialitate GDPR și consimțământ pentru export"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Protecția datelor cu caracter personal (art. 4 și 5 GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Acest export generează un fișier CSV cu date personale sensibile ale participanților (nume complete, companii, adrese de e-mail profesionale, referințe de facturare și starea de check-in)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Limitarea scopului (art. 5 alin. (1) lit. b) GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Datele pot fi utilizate exclusiv pentru desfășurarea operațională a evenimentului (de ex. tipărirea ecusoanelor și acreditarea la intrare)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Confidențialitate și protecție (art. 5 alin. (1) lit. f) GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Divulgarea către terți neautorizați sau stocarea pe dispozitive mobile necriptate este interzisă."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Obligația de ștergere (art. 17 GDPR):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "După încheierea conferinței, fișierul local exportat trebuie șters fără întârziere, în conformitate cu normele privind protecția datelor."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Confirm consimțământul GDPR:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Iau la cunoștință că acest export conține date cu caracter personal confidențiale. Mă angajez să le prelucrez cu diligență exclusiv în scopul prevăzut și cu respectarea strictă a cerințelor legale privind protecția datelor."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Descarcă acum exportul CSV în siguranță"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML factură (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Copiază XML în clipboard"
+      ],
+      "Keine Berechtigung.": [
+        "Acces refuzat."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Eroare de securitate: sunt permise exclusiv fișiere CSV autentice."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Fișierul este prea mare (maximum 5 MB permis)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Selectați un eveniment și furnizați date CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Import CSV în lot pentru participanți (protecție duplicate TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Import automat de liste de participanți din sisteme externe cu prevenirea strictă a înregistrărilor duplicate."
+      ],
+      "Import-Zusammenfassung": [
+        "Rezumatul importului"
+      ],
+      "Gesamtzeilen": [
+        "Total rânduri"
+      ],
+      "Neu Importiert": [
+        "Importate nou"
+      ],
+      "Dubletten abgewiesen": [
+        "Duplicate respinse"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importă o listă nouă de participanți"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Eveniment țintă *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Selectează evenimentul —"
+      ],
+      "CSV-Datei auswählen": [
+        "Alege fișierul CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Prenume;Nume;Email;Companie (separat prin punct și virgulă sau virgulă, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Sau lipește text CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Rulează importul CSV acum"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Studio loturi contabile"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Export financiar standardizat (categoria 21, versiune format 700 / 125 câmpuri) pentru consultanți fiscali și contabilitate DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Stabilește perioada de export"
+      ],
+      "Laufender Monat": [
+        "Luna curentă"
+      ],
+      "Vormonat": [
+        "Luna precedentă"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Întregul an 2026"
+      ],
+      "Datum von *": [
+        "Data de la *"
+      ],
+      "Datum bis *": [
+        "Data până la *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Confirmare pentru exportul datelor debitorilor:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Confirm că exportul înregistrărilor financiare și al datelor destinatarilor facturilor include date cu caracter personal și este transmis exclusiv cabinetului de contabilitate autorizat pentru evidența contabilă și fiscală prevăzută de lege."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Descarcă lotul contabil DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Pistă de audit înlănțuită a tuturor operațiunilor relevante pentru securitate, confirmărilor double opt-in, anulărilor și verificărilor de acces."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Lanț de audit integru — %1$d înregistrări verificate după conținut, %2$d pseudonimizate (poziția în lanț verificată)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Lanțul de audit NU este integru"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d înregistrare/înregistrări provin dinaintea înlănțuirii și nu poartă o semnătură verificabilă. Acestea sunt considerate neverificate, nu integre."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY nu este definită: cheia lanțului provine din baza de date — exact locul în care ar scrie un atacator cu drepturi de scriere. Definiți AUTH_KEY în wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Marcaj temporal"
+      ],
+      "Ereignistyp": [
+        "Tip eveniment"
+      ],
+      "Referenz-ID": [
+        "ID referință"
+      ],
+      "IP-Adresse": [
+        "Adresă IP"
+      ],
+      "Audit-Details (JSON)": [
+        "Detalii audit (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Nu s-au găsit înregistrări în jurnal."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Evenimentul \"%1$s\" a fost creat cu %2$d sesiuni și %3$d participanți."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Datele demonstrative au fost importate cu succes!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Au fost șterse %1$d evenimente, %2$d sesiuni, %3$d înscrieri și %4$d facturi."
+      ],
+      "Demodaten bereinigt!": [
+        "Datele demonstrative au fost curățate!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Setările din fabrică au fost restaurate!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Toate tabelele au fost golite, iar setările au fost resetate."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Fișierul temei încărcat a fost eliminat."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Setările au fost salvate în siguranță."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Configurare Enterprise și securitate"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Design, Brevo, facturi și DATEV, protecție anti-bot și date demonstrative."
+      ],
+      "Design & Theme Studio": [
+        "Design și Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "CRM Brevo și webhook-uri"
+      ],
+      "Rechnungen & DATEV": [
+        "Facturi și DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Protecție anti-bot (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Date demo și resetare"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Sistem de design frontend și moștenirea temei"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Alegeți modul în care sunt stilizate evenimentele și formularele de înscriere în frontend. În mod implicit, modulul moștenește fonturile, culorile și butoanele din tema WordPress activă."
+      ],
+      "Primärfarbe": [
+        "Culoare primară"
+      ],
+      "Akzentfarbe": [
+        "Culoare de accent"
+      ],
+      "Kartenhintergrund": [
+        "Fundal carduri"
+      ],
+      "Textfarbe": [
+        "Culoare text"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Culori și chenare personalizate ale temei (personalizator)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Culoare primară (butoane și accente):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Culoare de accent (ecusoane și halou):"
+      ],
+      "Seitenhintergrund:": [
+        "Fundal pagină:"
+      ],
+      "Kartenhintergrund:": [
+        "Fundal carduri:"
+      ],
+      "Haupttextfarbe:": [
+        "Culoare text principal:"
+      ],
+      "Eckenabrundung (px):": [
+        "Rotunjire colțuri (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Încarcă temă CSS personalizată (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Încărcați o foaie de stil .css personalizată (de ex. agentie-tema.css). Aceasta este încărcată izolat și validată automat."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Temă personalizată activă prezentă"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Sigur doriți să ștergeți fișierul temei CSS încărcat?"
+      ],
+      "Theme löschen": [
+        "Șterge tema"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "CSS personalizat suplimentar (editor inline)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Introduceți aici reguli CSS personalizate, de ex.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "API Brevo v3 și autentificare webhook"
+      ],
+      "Brevo API Key (v3)": [
+        "Cheie API Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Utilizată pentru trimiterea asincronă a e-mailurilor double opt-in și sincronizarea atributelor de contact."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Secret partajat / token de semnătură webhook"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Token sigur împotriva atacurilor de tip timing, folosit pentru validarea pachetelor de date primite prin webhook Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Cheie API scaner personal (control acces)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Token de autentificare pentru dispozitivele mobile de scanare utilizate de personalul de la intrare."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Sală de așteptare: admiteri pe minut"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Cereri de înscriere și rezervare sesiuni admise pe minut și per eveniment. 0 dezactivează sala de așteptare (implicit). Peste această limită, ruta răspunde cu HTTP 503 și Retry-After înainte de rularea oricărei interogări în baza de date — nu se rezervă niciun loc."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Suportul de contorizare pe această instalare: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "cache persistent de obiecte"
+      ],
+      "Datenbank (Transients)": [
+        "bază de date (transients)"
+      ],
+      "DOI Template ID": [
+        "ID șablon DOI"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID listă de contacte Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Facturi (XML CII) și DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Prefix număr factură"
+      ],
+      "Rechnungssteller": [
+        "Emitentul facturii"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Fără aceste date nu se generează facturi sau facturi storno: %s."
+      ],
+      "Name / Firma": [
+        "Nume / companie"
+      ],
+      "Straße und Hausnummer": [
+        "Stradă și număr"
+      ],
+      "PLZ": [
+        "Cod poștal"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Țară (cod ISO, de ex. DE)"
+      ],
+      "USt-IdNr.": [
+        "Cod TVA"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Cod de identificare fiscală (dacă nu există cod TVA)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-mail pentru facturare"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN pentru transferuri bancare (opțional)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Număr consultant DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Număr client DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Cont de venituri (de ex. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Cont de creanțe (de ex. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Modulul nu include încă un widget captcha: setarea este salvată, dar formularul este procesat fără captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Activează Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Cheie site (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Cheie API / secret"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Gestionarea datelor demo și resetare la setările din fabrică"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importați date demonstrative, eliminați-le din nou sau resetați modulul la valorile implicite."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importă date demonstrative"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Creează o conferință demonstrativă cu sesiuni și participanți de probă. Facturile se generează numai dacă datele emitentului sunt configurate."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Doriți să importați datele demonstrative acum?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importă date demo (conferințe, sesiuni, participanți, facturi)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Curăță datele demo (șterge doar datele de test)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Șterge exclusiv conferințele, sesiunile, participanții și facturile demonstrative generate. Evenimentele și rezervările reale rămân neatinse."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Doriți să eliminați toate datele demonstrative? Datele reale vor fi păstrate."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Curăță datele demo (doar date de test)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Resetare la setările din fabrică (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Atenție (ireversibil):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Golește toate tabelele de evenimente, sesiuni, înscrieri, facturi și jurnal de audit, șterge toate articolele cybevent și cybsession și readuce toate setările la valorile implicite."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "AVERTISMENT: sunteți absolut sigur? Această acțiune va șterge TOATE evenimentele, înscrierile și facturile și va reseta toate setările!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Resetare completă la setările din fabrică (șterge tot și restaurează valorile implicite)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Comportament la dezinstalarea modulului"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Șterge toate tabelele și setările la dezinstalare"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "În mod implicit, toate înregistrările privind evenimentele, înscrierile, facturile și auditul sunt păstrate la ștergerea modulului (obligații legale de arhivare). Activați această opțiune doar dacă toate tabelele trebuie eliminate definitiv la dezinstalare."
+      ],
+      "Alle Einstellungen speichern": [
+        "Salvează toate setările"
+      ],
+      "Platzbuchung": [
+        "Rezervare locuri"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Un loc este rezervat printr-o singură instrucțiune UPDATE condiționată (belegt = belegt + 1, doar cât timp belegt < kapazitaet). Din două cereri simultane pentru ultimul loc, doar una modifică rândul; cealaltă primește mesajul «locuri epuizate»."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Facturile și facturile storno sunt generate ca XML CII conform profilului EN 16931 și verificate în teste cu validatorul Mustang. Nu se generează niciun PDF, astfel încât fișierul XML nu este un fișier hibrid ZUGFeRD. Îndeplinirea cerințelor legale în fiecare caz individual este verificată de consultantul fiscal."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF și contabilitate"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exportă facturile și facturile storno dintr-o perioadă ca lot contabil în format DATEV (EXTF 700, categoria 21) codificat în Windows-1252. Conturile de creanțe și de venituri provin din setări; fiecare rând poartă cheia fiscală 3. Coordonați conturile și cheile cu consultantul fiscal."
+      ],
+      "Handbuch & API:": [
+        "Manual și API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Manual complet"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Dezvoltat de WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Manual pentru administratori și dezvoltatori"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Rezervare locuri, XML factură, export DATEV, double opt-in Brevo, shortcode-uri și presetări de temă."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Rezervarea locurilor fără suprarezervare"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Contorul de ocupare este incrementat într-o singură instrucțiune condiționată; din două cereri simultane pentru ultimul loc, doar una actualizează rândul:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML factură și DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "XML CII (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Facturi și facturi storno cu datele emitentului preluate din setări, data prestării și numerotare secvențială. Fără PDF, fără Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Facturi storno:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Număr secvențial propriu, tip 381 cu referință la factura inițială."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Lot contabil pentru o perioadă din cadrul aceluiași an calendaristic, în Windows-1252. Coordonați conturile și cheile fiscale cu consultantul fiscal."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Double opt-in Brevo CRM și coadă în fundal"
+      ],
+      "Double Opt-In (DOI):": [
+        "Double opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo trimite e-mailul de confirmare cu un link personal; linkul confirmă înscrierea o singură dată. Înscrierile neconfirmate sunt șterse după 14 zile."
+      ],
+      "Warteschlange:": [
+        "Coadă de așteptare:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Apelurile către Brevo trec printr-o coadă în baza de date procesată în fiecare minut de WP-Cron (sau wp cybevents queue-run), cu până la cinci încercări."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcode-uri și integrare Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Formular de înscriere accesibil."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Agendă interactivă a conferinței și prezentare pe secțiuni."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Selectarea sesiunilor pe bază de token după confirmarea DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI pentru administratori"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Presetări de temă și tokenuri de design"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Frontendul se adaptează oricărei teme WordPress sau folosește presetări de design încorporate:"
+      ],
+      "Presets:": [
+        "Presetări:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Mai multe presetări cromatice, inclusiv una în mov închis, violet și roz (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Moștenirea temei (implicit):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Moștenește fonturile, razele colțurilor și culorile primare direct de la tema activă (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Proprietăți personalizate CSS:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Aspecte importante și bune practici"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tabelele sunt create cu ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Termene de păstrare:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Înscrierile neconfirmate sunt șterse după 14 zile, iar înregistrările din jurnalul de audit sunt pseudonimizate după 90 de zile (cu excepția evenimentelor de facturare). Modulul nu șterge automat înscrierile confirmate și nici facturile; nu există o setare în acest sens."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Procesarea cozii și curățarea periodică rulează prin WP-Cron; site-urile fără trafic regulat au nevoie de un cron job de sistem."
+      ],
+      "Cyber Events Suite": [
+        "Suita Cyber Events"
+      ],
+      "Veranstaltung auswählen": [
+        "Selectează evenimentul"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Selectați evenimentul țintă pentru acest bloc."
+      ],
+      "Key Facts Header anzeigen": [
+        "Afișează antetul cu informații esențiale"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Afișează indicatorul de pași (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Afișează butonul de export în calendar (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Afișează cronometrul invers"
+      ],
+      "Freie Plätze anzeigen": [
+        "Afișează locurile libere"
+      ],
+      "Spaltenanzahl": [
+        "Număr de coloane"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Selectați un eveniment valid în setările blocului."
+      ],
+      "Vorschau im Editor": [
+        "Previzualizare în editor"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Selectare sesiuni pentru înscrieri confirmate"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "În frontend, acest bloc este generat dinamic pentru fiecare participant folosind tokenul său individual."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Nu s-a găsit niciun token de confirmare."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Deschideți această pagină folosind linkul personalizat din e-mailul dumneavoastră de confirmare."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Token de participant nevalid sau expirat."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Harta locurilor evenimentului"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "În frontend, acest bloc afișează ocuparea fiecărei sesiuni în format SVG și o menține actualizată prin Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Evenimentul nu a fost găsit."
+      ],
+      "Jetzt anmelden": [
+        "Înscrie-te acum"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Înscrie-te gratuit acum"
+      ],
+      "Programm ansehen": [
+        "Vezi programul"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Participare gratuită"
+      ],
+      "Anmeldung geöffnet": [
+        "Înscrieri deschise"
+      ],
+      "Ausgebucht": [
+        "Locuri epuizate"
+      ],
+      "Preis": [
+        "Preț"
+      ],
+      "%d freier Platz": [
+        "%d loc liber",
+        "%d locuri libere",
+        "%d de locuri libere"
+      ],
+      "von max. %d": [
+        "din max. %d"
+      ],
+      "Beginn in:": [
+        "Începe în:"
+      ],
+      "Tage": [
+        "Zile"
+      ],
+      "Std.": [
+        "Ore"
+      ],
+      "Min.": [
+        "Min"
+      ],
+      "Sek.": [
+        "Sec"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Exportă în calendar (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (fișier .ics)"
+      ],
+      "Google Kalender": [
+        "Google Calendar"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Fișierul .ics include un memento cu o zi înainte de începere."
+      ],
+      "Referenten & Fachexperten": [
+        "Vorbitori și experți"
+      ],
+      "Referenten": [
+        "Vorbitori"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Lista vorbitorilor va fi anunțată în curând."
+      ],
+      "TEILNEHMERPASS": [
+        "ECUSON PARTICIPANT"
+      ],
+      "Teilnehmerpass": [
+        "Ecuson participant"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Deschide biletul și acreditarea"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Introduceți tokenul de securitate de 64 de caractere din e-mailul de confirmare:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Introduceți tokenul (de ex. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Afișează ecusonul"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Token de rezervare nevalid sau necunoscut."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Nu este disponibil niciun ecuson de participant pentru această înscriere: nu este confirmată sau a fost anulată."
+      ],
+      "Max Mustermann": [
+        "Ioana Popescu"
+      ],
+      "Beispiel GmbH": [
+        "Exemplu SRL"
+      ],
+      "Veranstaltung": [
+        "Eveniment"
+      ],
+      "Rechnungs-Nr.": [
+        "Nr. factură"
+      ],
+      "Keine": [
+        "Niciuna"
+      ],
+      "Ticket-Nummer": [
+        "Număr bilet"
+      ],
+      "Pass drucken": [
+        "Tipărește ecusonul"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Protecția datelor și securitate"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double opt-in și termene de păstrare"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "O înscriere produce efecte numai după confirmarea prin linkul trimis pe e-mail. Înscrierile neconfirmate sunt șterse după 14 zile, iar intrările din jurnalul de audit sunt pseudonimizate după 90 de zile."
+      ],
+      "Beschriftete Formulare": [
+        "Formulare cu etichete"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Câmpuri de formular cu etichete vizibile, câmpuri obligatorii marcate și mesaje de stare citite de cititoarele de ecran."
+      ],
+      "Eigene Skripte und Styles": [
+        "Scripturi și stiluri găzduite local"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Modulul încarcă scripturile, foile de stil și pictogramele de pe propriul server, nu dintr-un CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Jurnal de audit și tokenuri"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Un jurnal de audit înlănțuit cu HMAC-SHA256 face detectabile modificările ulterioare. Tokenurile participanților sunt stocate exclusiv ca hash-uri SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML factură și DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Facturi în format XML CII conform profilului EN 16931 și export ca lot contabil DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (dovadă de lucru)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Protecție anti-bot prietenoasă cu confidențialitatea, fără urmărirea utilizatorilor sau puzzle-uri cu imagini, conform normelor europene privind protecția datelor."
+      ],
+      "Zur Anmeldung": [
+        "Mergi la înscriere"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Nu există evenimente arhivate."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "În prezent nu există evenimente programate."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtrează evenimentele după titlu sau locație..."
+      ],
+      "Kostenfrei": [
+        "Gratuit"
+      ],
+      "In Kalender eintragen": [
+        "Adaugă în calendar"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Bandă informativă live pentru conferințe și agendă"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TELEMETRIE AGENDĂ ÎN TIMP REAL"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Comenzi pentru vizualizare și filtrare"
+      ],
+      "Kalenderansichten": [
+        "Vizualizări calendar"
+      ],
+      "Monat": [
+        "Lună"
+      ],
+      "Woche": [
+        "Săptămână"
+      ],
+      "Tag / Agenda": [
+        "Zi / agendă"
+      ],
+      "Liste": [
+        "Listă"
+      ],
+      "Karten": [
+        "Carduri"
+      ],
+      "Räume & Ort": [
+        "Săli și locație"
+      ],
+      "Summit Tracks": [
+        "Secțiuni summit"
+      ],
+      "Vorheriger Zeitraum": [
+        "Perioada anterioară"
+      ],
+      "Nächster Zeitraum": [
+        "Perioada următoare"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Caută eveniment, subiect sau vorbitor..."
+      ],
+      "Suchbegriff eingeben": [
+        "Introdu termenul de căutare"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtrează după secțiune sau categorie"
+      ],
+      "Alle Fach-Tracks": [
+        "Toate secțiunile de specialitate"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Secțiunea 01: Criptografie post-cuantică"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Secțiunea 02: Zero Trust și reziliență DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Secțiunea 03: IA autonomă și secretul profesional"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Secțiunea 04: Lanțul de aprovizionare software și CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtrează sala de conferință"
+      ],
+      "Alle Säle & Räume": [
+        "Toate sălile și spațiile"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Sala plenară Alpha (prezentări principale)"
+      ],
+      "Security Lab Beta": [
+        "Laboratorul de securitate Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Studioul de ateliere Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Hub virtual de transmisie AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Vizualizare calendar lunar"
+      ],
+      "Mo": [
+        "Lun"
+      ],
+      "Di": [
+        "Mar"
+      ],
+      "Mi": [
+        "Mie"
+      ],
+      "Do": [
+        "Joi"
+      ],
+      "Fr": [
+        "Vin"
+      ],
+      "Sa": [
+        "Sâm"
+      ],
+      "So": [
+        "Dum"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Vizualizare orar săptămânal și grilă orară"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Vizualizare agendă zilnică și cronologie"
+      ],
+      "Chronologische Listenansicht": [
+        "Vizualizare listă cronologică"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vizualizare carduri foto"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Vizualizare navigator de locații și săli"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Matrice multi-secțiune a summitului"
+      ],
+      "Dialog schließen": [
+        "Închide fereastra de dialog"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "ID de sesiune sau de înscriere nevalid."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Rezervarea nu a putut fi procesată din cauza unei erori a bazei de date."
+      ],
+      "Session %d existiert nicht.": [
+        "Sesiunea %d nu există."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" are locurile epuizate (%2$d din %2$d locuri ocupate)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Rezervarea nu a putut fi salvată. Locul a fost eliberat din nou."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Anularea nu a putut fi procesată din cauza unei erori a bazei de date."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Nu a fost încărcat niciun fișier valid."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Eroare la încărcarea fișierului."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Imaginea de profil nu poate depăși 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Format de fișier nevalid. Formatele permise sunt JPG, PNG și WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Extensie de fișier nevalidă. Extensiile permise sunt .jpg, .jpeg, .png și .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Eroare la salvarea imaginii de profil."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Jurnalul de audit este gol, deși anterior erau înregistrate %d intrări."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "O înregistrare nesemnată a fost inserată în lanț."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Întrerupere a lanțului la înregistrarea #%d: o intrare a fost ștearsă, inserată sau reordonată."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Semnătura înregistrării #%d nu corespunde amprentei conținutului său."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Înregistrarea #%d este marcată ca pseudonimizată fără dovadă validă: conținutul său ar putea fi modificat."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Conținutul înregistrării #%d a fost modificat ulterior creării."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Finalul jurnalului nu corespunde ultimei intrări consemnate. Cele mai noi înregistrări au fost eliminate."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Evenimente"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Eveniment"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Eveniment"
+      ],
+      "event\u0004Neu erstellen": [
+        "Adaugă nou"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Editează evenimentul"
+      ],
+      "Veranstaltung ansehen": [
+        "Vezi evenimentul"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Caută evenimente"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Nu s-au găsit evenimente în coșul de gunoi."
+      ],
+      "Veranstaltungsdaten": [
+        "Detalii eveniment"
+      ],
+      "Veranstaltungsort:": [
+        "Locația evenimentului:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Gestionează locațiile ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Selectează o locație salvată —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Locație / sală / adresă manuală..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Alegeți o locație salvată din listă sau personalizați descrierea locației ori a sălii."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Început (dată și oră):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Sfârșit (dată și oră):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Eveniment cu plată"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "În prezent nu sunt disponibile programe de conferință."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Caută subiect, vorbitor sau sală..."
+      ],
+      "Konferenz-Agenda": [
+        "Agenda conferinței"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Programul detaliat va fi anunțat în curând."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Date participanți CyberEvents"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Companie / organizație"
+      ],
+      "Profilbild": [
+        "Imagine de profil"
+      ],
+      "Einwilligung Datenschutz": [
+        "Consimțământ confidențialitate"
+      ],
+      "ja": [
+        "da"
+      ],
+      "nein": [
+        "nu"
+      ],
+      "Einwilligung Fotos": [
+        "Consimțământ foto"
+      ],
+      "Bestätigung angefordert": [
+        "Confirmare solicitată"
+      ],
+      "Bestätigt am": [
+        "Confirmat la"
+      ],
+      "Eingecheckt am": [
+        "Check-in efectuat la"
+      ],
+      "Gebuchte Sessions": [
+        "Sesiuni rezervate"
+      ],
+      "Rechnungsnummer": [
+        "Număr factură"
+      ],
+      "CyberEvents Registrierungen": [
+        "Înscrieri CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Facturi CyberEvents"
+      ],
+      "Empfänger": [
+        "Destinatar"
+      ],
+      "Adresse": [
+        "Adresă"
+      ],
+      "Bruttobetrag": [
+        "Sumă brută"
+      ],
+      "Ausgestellt am": [
+        "Emisă la"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Înscrierea #%d nu a putut fi ștearsă."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Înscrierea #%d nu a putut fi anonimizată; datele rămân neschimbate."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Înscrierea #%1$d a fost anonimizată. Factura %2$s cu nume, adresă și e-mail rămâne stocată neschimbată; modulul nu șterge facturile."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Webhook-ul Brevo este dezactivat fără un secret partajat (returnează 401). Respingerile și dezabonările nu vor fi procesate până la configurarea unui secret."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nu este configurată nicio cheie API Brevo: e-mailurile de confirmare nu vor fi trimise; înscrierile noi rămân neconfirmate și sunt șterse după 14 zile."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha este activat, dar nu are efect: modulul nu conține un widget captcha, astfel încât formularul este procesat fără protecție anti-bot."
+      ],
+      "Einstellungen öffnen": [
+        "Deschide setările"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Prea multe cereri. Încercați din nou peste un minut."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Selecția nu a fost salvată: %s Rezervările dumneavoastră anterioare rămân neschimbate."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Sesiunile noi au fost rezervate, dar nu toate sesiunile deselectate au putut fi eliberate: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Token de securitate (nonce) nevalid."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Token de formular (nonce) nevalid."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Participant neautorizat sau negăsit."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nu a fost transmis niciun fișier imagine."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Imaginea de profil a fost actualizată cu succes."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Tokenul de confirmare lipsește."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Bilet nevalid sau încă neconfirmat."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Nu sunt configurate sesiuni pentru acest eveniment."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Harta locurilor: locuri ocupate și libere per sesiune"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d din %3$d locuri ocupate"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Nu a fost specificat niciun eveniment pentru harta locurilor."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Evenimentul asociat hărții locurilor nu există."
+      ],
+      "frei": [
+        "liber"
+      ],
+      "belegt": [
+        "ocupat"
+      ],
+      "von Ihnen gebucht": [
+        "rezervat de dumneavoastră"
+      ],
+      "Belegung je Session": [
+        "Ocupare per sesiune"
+      ],
+      "Session": [
+        "Sesiune"
+      ],
+      "Belegt": [
+        "Ocupate"
+      ],
+      "Frei": [
+        "Libere"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Ocuparea se actualizează automat."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stare la încărcarea paginii; ocuparea nu se actualizează în timp real."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Date demo: rezervarea pentru %1$s a fost respinsă — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Date demo: participare anulată"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sesiuni și secțiuni"
+      ],
+      "post type singular name\u0004Session": [
+        "Sesiune"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sesiuni"
+      ],
+      "Alle Sessions": [
+        "Toate sesiunile"
+      ],
+      "Session bearbeiten": [
+        "Editează sesiunea"
+      ],
+      "Session ansehen": [
+        "Vezi sesiunea"
+      ],
+      "Sessions durchsuchen": [
+        "Caută sesiuni"
+      ],
+      "Keine Sessions gefunden.": [
+        "Nu s-au găsit sesiuni."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Nu s-au găsit sesiuni în coșul de gunoi."
+      ],
+      "Session-Daten": [
+        "Detalii sesiune"
+      ],
+      "Zugehörige Konferenz:": [
+        "Conferință părinte:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Nicio conferință selectată —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Vorbitor și instituție:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "de ex. Ioana Popescu (Exemplu SRL)"
+      ],
+      "Raum / Saal / Track:": [
+        "Sală / amfiteatru / secțiune:"
+      ],
+      "Workshop-Kapazität:": [
+        "Capacitate atelier:"
+      ],
+      "Speaker": [
+        "Vorbitor"
+      ],
+      "Raum / Track": [
+        "Sală / secțiune"
+      ],
+      "Zeitfenster": [
+        "Interval orar"
+      ],
+      "Belegung": [
+        "Ocupare"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Bun venit, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Alegeți sesiunile dorite. Un loc este alocat la salvare atât timp cât sesiunea nu are locurile epuizate."
+      ],
+      "Anmeldung bestätigt": [
+        "Înscriere confirmată"
+      ],
+      "Für diese Session eingetragen": [
+        "Înscris la această sesiune"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Selectează această sesiune"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Locul este alocat la salvare atât timp cât sesiunea nu are locurile epuizate."
+      ],
+      "Sessions ausgewählt": [
+        "Sesiuni selectate"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Salvează selecția"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Standard temă WordPress (moștenit automat)"
+      ],
+      "Empfohlen": [
+        "Recomandat"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Preia direct tipografia, culorile, butoanele și spațierile din tema WordPress activă (GeneratePress, Astra, Twenty Twenty-Four etc.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violet și roz (lila închis, violet, accent roz)"
+      ],
+      "Farbstark": [
+        "Viu"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Lila închis (#482683), violet strălucitor (#7D40E7), accent roz (#DF0079), Noto Sans dacă tema îl încarcă și un gradient discret."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (bleumarin și cyan)"
+      ],
+      "High-Tech Dark": [
+        "Întunecat high-tech"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Aspect personalizat întunecat și cobalt cu accente luminoase, adaptat conferințelor de securitate cibernetică."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (ardezie și monocrom)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Design SaaS curat și sobru cu tonuri neutre de gri, contururi clare și spațiu alb generos."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (clasic și tonuri calde)"
+      ],
+      "Klassik": [
+        "Clasic"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Tonuri calde de fildeș și vișiniu pentru simpozioane academice și congrese executive."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Contrast ridicat (negru pe alb)"
+      ],
+      "Hochkontrast": [
+        "Contrast ridicat"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Text negru pe fundal alb (contrast 21:1) cu accent galben și contururi de focalizare întărite."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Temă personalizată (culori și CSS proprii)"
+      ],
+      "Individuell": [
+        "Personalizat"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Selectoare personalizate de culori și suport pentru foi de stil CSS încărcate."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nu a fost furnizat niciun fișier de încărcare valid."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Eroare de securitate: pot fi încărcate exclusiv fișiere .css simple."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Fișierul CSS depășește limita de 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Fișierul temei nu a putut fi salvat pe server."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Fișierul CSS al temei personalizate a fost încărcat și activat."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Locații"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Locația evenimentului"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Caută locații"
+      ],
+      "Häufige Tagungsorte": [
+        "Locații frecvente"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Toate locațiile"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Editează locația"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Actualizează locația"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Adaugă locație nouă"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Numele noii locații"
+      ],
+      "Orte mit Kommas trennen": [
+        "Separați locațiile prin virgulă"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Adaugă sau elimină locații"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Alege dintre cele mai utilizate locații"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Nu s-au găsit locații."
+      ],
+      "Stadt / Ort:": [
+        "Oraș / localitate:"
+      ],
+      "z. B. Musterstadt": [
+        "de ex. București"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Municipiul sau orașul locației evenimentului."
+      ],
+      "Straße & Hausnummer:": [
+        "Stradă și număr:"
+      ],
+      "z. B. Musterstraße 1": [
+        "de ex. Calea Victoriei 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Cod poștal:"
+      ],
+      "Land:": [
+        "Țară:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Capacitate maximă a sălii (persoane):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Accesibil în scaun rulant"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Bifați doar după verificare. Informația apare în lista locațiilor și pe ruta REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL hartă / indicații de orientare:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Site web al locației:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Capacitate maximă a sălii:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Capacitatea de locuri a zonei de conferință."
+      ],
+      "Zugänglichkeit:": [
+        "Accesibilitate:"
+      ],
+      "Google Maps Link:": [
+        "Link hartă:"
+      ],
+      "Stadt & Adresse": [
+        "Oraș și adresă"
+      ],
+      "Kapazität": [
+        "Capacitate"
+      ],
+      "Rollstuhlgerecht": [
+        "Accesibil în scaun rulant"
+      ],
+      "Ja": [
+        "Da"
+      ],
+      "Nicht angegeben": [
+        "Nespecificat"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Volum foarte ridicat de cereri simultane. Încercați din nou peste %d secunde. Nu a fost rezervat niciun loc."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Fără un cache persistent de obiecte (Redis, Memcached), sala de așteptare contorizează în baza de date: cererile respinse evită interogările de rezervare, dar costă totuși o citire și o scriere în tabela de opțiuni."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Indicatori Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Indicator Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Afișează indicatori în timp real privind conferințele active, înscrierile confirmate și locurile libere."
+      ],
+      "Kennzahl": [
+        "Indicator"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "ID eveniment (opțional)"
+      ],
+      "Dokumentation": [
+        "Documentație"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Specificați un ID de eveniment valid: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Nu s-a găsit niciun token de confirmare valid. Utilizați linkul din e-mailul primit."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Cel mai recent eveniment activ (automat) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automat (conferința curentă)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Selectare eveniment"
+      ],
+      "Ziel-Konferenz": [
+        "Conferință țintă"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Selectați conferința ale cărei detalii sunt afișate în bannerul principal."
+      ],
+      "Design & Layout-Presets": [
+        "Presetări de design și așezare în pagină"
+      ],
+      "Theme-Preset": [
+        "Presetare temă"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (implicit)"
+      ],
+      "Federal Blue": [
+        "Albastru instituțional"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Halou cyan cyberpunk"
+      ],
+      "Clean White & Modern": [
+        "Alb curat și modern"
+      ],
+      "Glassmorphism Blur": [
+        "Estompare glassmorphism"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Rotunjire colțuri (border radius)"
+      ],
+      "Ohne (0px)": [
+        "Fără (0px)"
+      ],
+      "Mittel (8px)": [
+        "Medie (8px)"
+      ],
+      "Groß (16px)": [
+        "Mare (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Foarte mare (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Activează efectul de strălucire"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Texte și butoane de îndemn la acțiune"
+      ],
+      "Badge / Dachzeile": [
+        "Ecuson / supratitlu"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Titlu principal personalizat (opțional)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Implicit: titlul evenimentului"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Text introductiv personalizat"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Implicit: descrierea evenimentului"
+      ],
+      "Primärer CTA-Button Text": [
+        "Eticheta butonului CTA principal"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "URL / ancoră țintă pentru butonul CTA principal"
+      ],
+      "Sekundären Button anzeigen": [
+        "Afișează butonul secundar"
+      ],
+      "Sekundärer Button Text": [
+        "Eticheta butonului secundar"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "URL țintă pentru butonul secundar"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Vizibilitatea elementelor"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Afișează cronometrul invers în timp real"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Afișează pastila cu locuri libere / capacitate"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Afișează pastila de stare (deschis/epuizat)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Afișează locația evenimentului"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Afișează data și ora"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Afișează prețul biletului / ecusonul gratuit"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Afișează butonul de export în calendar (.ics)"
+      ],
+      "Kopfbereich": [
+        "Antet principal"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Implicit: descrierea evenimentului împreună cu data, locația, prețul, locurile libere, cronometrul invers și butonul de înscriere."
+      ],
+      "Countdown": [
+        "Cronometru invers"
+      ],
+      "Freie Plätze": [
+        "Locuri libere"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Buton: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Selectare conferință"
+      ],
+      "Ziel-Veranstaltung": [
+        "Eveniment țintă"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Selectați evenimentul la care se înscriu vizitatorii."
+      ],
+      "Formular-Design & Theme": [
+        "Design și temă formular"
+      ],
+      "Formular-Stil": [
+        "Stil formular"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (implicit)"
+      ],
+      "Clean White Studio": [
+        "Studio alb curat"
+      ],
+      "Eckenabrundung": [
+        "Rotunjire colțuri"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Câmpuri formular și opțiuni de colectare"
+      ],
+      "Individueller Formulartitel": [
+        "Titlu personalizat formular"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Subtitlu / notă personalizată"
+      ],
+      "Standard: kein Untertitel": [
+        "Implicit: fără subtitlu"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Afișează câmpul organizație / companie"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Afișează caseta de consimțământ foto și video"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Afișează antetul cu date esențiale în formular"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Etichetă buton și linkuri de confidențialitate"
+      ],
+      "Absende-Button Beschriftung": [
+        "Eticheta butonului de trimitere"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "URL personalizat pentru politica de confidențialitate (opțional)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Implicit: pagina de confidențialitate din Setări > Confidențialitate"
+      ],
+      "Anmeldeformular": [
+        "Formular de înscriere"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Înscriere cu double opt-in: Brevo trimite linkul de confirmare, iar înscrierea devine valabilă după confirmare."
+      ],
+      "Standard nach Ticketpreis": [
+        "Implicit în funcție de prețul biletului"
+      ],
+      "Überschrift & Untertitel": [
+        "Titlu și subtitlu"
+      ],
+      "Überschrift": [
+        "Titlu"
+      ],
+      "Untertitel / Beschreibung": [
+        "Subtitlu / descriere"
+      ],
+      "Suche, Angaben & Export": [
+        "Căutare, metadate și export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Afișează câmpul de căutare live pentru sesiuni"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Afișează detaliile despre sală și locație"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Afișează avatarele vorbitorilor"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Afișează exportul complet al calendarului (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sesiuni în ordine cronologică cu sală, vorbitor, descriere, căutare și export .ics."
+      ],
+      "Suche": [
+        "Căutare"
+      ],
+      ".ics-Download": [
+        "Descărcare .ics"
+      ],
+      "Layout & Spalten": [
+        "Așezare în pagină și coloane"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Coloane (desktop)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Afișare texte și detalii"
+      ],
+      "Untertitel": [
+        "Subtitlu"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Afișează tema prezentării sesiunii"
+      ],
+      "Raumangabe anzeigen": [
+        "Afișează eticheta sălii"
+      ],
+      "Uhrzeit anzeigen": [
+        "Afișează ora de începere"
+      ],
+      "Konferenz: ": [
+        "Conferință: "
+      ],
+      "%d Spalten": [
+        "%d coloane"
+      ],
+      "Vortragsthemen": [
+        "Teme de prezentare"
+      ],
+      "Titel": [
+        "Titlu"
+      ],
+      "Individueller Titel": [
+        "Titlu personalizat"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Servicii și opțiuni de calendar"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Afișează Apple / Outlook (fișier .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Afișează linkul direct Google Calendar"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Afișează linkul direct Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Afișează linkul direct Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Afișează notificarea privind fusul orar"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Afișează nota privind mementoul din fișierul .ics"
+      ],
+      "Kalender": [
+        "Calendar"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Fișier .ics cu memento cu o zi înainte de începere și linkuri către Google Calendar, Outlook Web și Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Fișier .ics"
+      ],
+      "Session-Auswahl": [
+        "Selector de sesiuni"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Acest bloc nu are setări. Afișează sesiunile asociate tokenului din linkul de confirmare; fără token este afișată o notificare."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Un loc este alocat la salvare atât timp cât sesiunea nu are locurile epuizate."
+      ],
+      "Ticketpass-Optionen": [
+        "Opțiuni ecuson bilet"
+      ],
+      "Pass-Überschrift": [
+        "Titlul ecusonului"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Rând antet (implicit: titlul evenimentului)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Afișează butonul de tipărire (tipărește ecusonul)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Afișează numărul biletului"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Afișează numărul / referința facturii"
+      ],
+      "Check-In Status anzeigen": [
+        "Afișează starea de check-in"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Ecuson pentru înscrierile confirmate, accesat prin tokenul din e-mailul de confirmare: nume, companie, stare, număr factură, număr bilet și buton de tipărire."
+      ],
+      "Ticketnummer": [
+        "Număr bilet"
+      ],
+      "Druckfunktion": [
+        "Buton de tipărire"
+      ],
+      "Titel der Veranstaltung": [
+        "Titlul evenimentului"
+      ],
+      "Layout & Farbschema": [
+        "Așezare în pagină și schemă de culori"
+      ],
+      "Raster-Layout": [
+        "Așezare în grilă"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Grilă cu 4 coloane (implicit)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Grilă cu 2 coloane (lată)"
+      ],
+      "Farbthema": [
+        "Temă de culori"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (implicit)"
+      ],
+      "Angezeigte Karten": [
+        "Carduri afișate"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Carduri care descriu funcțiile modulului. Blocul nu evaluează conformitatea juridică a site-ului web."
+      ],
+      "Double Opt-in": [
+        "Double opt-in"
+      ],
+      "Formulare": [
+        "Formulare"
+      ],
+      "Eigene Assets": [
+        "Resurse găzduite local"
+      ],
+      "Abfrage & Filterung": [
+        "Interogare și filtrare"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Număr maxim de conferințe"
+      ],
+      "Status-Filter": [
+        "Filtru de stare"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Doar evenimente active"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Evenimente active și arhivate"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Doar evenimente arhivate"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Metadate și butoane vizibile"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Afișează bara de căutare live"
+      ],
+      "Preisschild anzeigen": [
+        "Afișează eticheta de preț"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Afișează locația / sala"
+      ],
+      "Datums-Badge anzeigen": [
+        "Afișează ecusonul datei"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Afișează linkul direct către calendarul .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Afișează rezumatul descrierii"
+      ],
+      "CTA-Button Beschriftung": [
+        "Eticheta butonului CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Prezentare generală evenimente"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Grilă de evenimente cu dată, preț, locație, rezumat, buton de înscriere și link .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max. %d evenimente"
+      ],
+      "Cyber Events Sitzplan": [
+        "Harta locurilor Cyber Events"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Setări hartă locuri"
+      ],
+      "Überschrift (optional)": [
+        "Titlu (opțional)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Descriere (opțional)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Activează actualizarea în timp real"
+      ],
+      "Sitzplan": [
+        "Harta locurilor"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Prezentare grafică a ocupării tuturor sesiunilor unui eveniment, însoțită de un tabel de date accesibil."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Calendar multi-vizualizare Cyber Events"
+      ],
+      "Ansichten & Datenquelle": [
+        "Vizualizări și sursă de date"
+      ],
+      "Standardansicht": [
+        "Vizualizare implicită"
+      ],
+      "Monatskalender": [
+        "Calendar lunar"
+      ],
+      "Wochenplan": [
+        "Orar săptămânal"
+      ],
+      "Tagesagenda": [
+        "Agendă zilnică"
+      ],
+      "Listenansicht": [
+        "Vizualizare listă"
+      ],
+      "Kartenansicht": [
+        "Vizualizare carduri"
+      ],
+      "Raumübersicht": [
+        "Prezentare săli"
+      ],
+      "Track-Matrix": [
+        "Matrice secțiuni"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Număr maxim de înregistrări"
+      ],
+      "Bedienleiste & Filter": [
+        "Bară de instrumente și filtre"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Afișează comutatorul de vizualizare"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Afișează filtrele pentru secțiune și sală"
+      ],
+      "Suchfeld anzeigen": [
+        "Afișează câmpul de căutare"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Afișează bara informativă"
+      ],
+      "Kalender-Ansichten": [
+        "Vizualizări calendar"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Calendar și agendă multi-vizualizare"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Vizualizări comutabile pe lună, săptămână, zi, listă, carduri, săli și secțiuni."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Agenda conferinței Cyber Events"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Program interactiv multi-secțiune al conferinței cu cronologie, detalii despre vorbitori, filtre de sală și descărcare iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (calendar, agendă și secțiuni)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Suită extinsă de calendar și agendă cu 7 vizualizări interactive în frontend: calendar lunar, orar săptămânal, agendă zilnică, vizualizare listă, carduri foto, harta sălilor și matrice multi-secțiune."
+      ],
+      "block keyword\u0004event": [
+        "eveniment"
+      ],
+      "block keyword\u0004calendar": [
+        "calendar"
+      ],
+      "block keyword\u0004agenda": [
+        "agendă"
+      ],
+      "block keyword\u0004schedule": [
+        "program"
+      ],
+      "block keyword\u0004summit": [
+        "summit"
+      ],
+      "block keyword\u0004timetable": [
+        "orar"
+      ],
+      "block keyword\u0004matrix": [
+        "matrice"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Widget calendar și .ics Cyber Events"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Widget de calendar cu descărcare .ics și linkuri către Google Calendar, Outlook Web și Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Banner principal și cronometru invers Cyber Event"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Banner principal al evenimentului cu cronometru invers, date esențiale, pastilă de stare și butoane de înscriere."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Grilă de prezentare și arhivă Cyber Events"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Prezentare dinamică pe carduri a conferințelor, simpozioanelor și atelierelor viitoare, cu bară de căutare și filtre de stare."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Formular de înscriere Cyber Events"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Formular de înscriere cu double opt-in prin Brevo, fotografie de profil opțională și consimțământ foto."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Harta locurilor Cyber Events"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Ocuparea tuturor sesiunilor unui eveniment în format SVG, actualizată continuu prin Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Ecusoane de securitate și încredere Cyber Events"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Prezentare a funcțiilor de confidențialitate și securitate ale modulului: double opt-in, termene de păstrare, jurnal de audit și XML factură."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Selector de sesiuni și ateliere Cyber Events"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Selectare sesiuni pentru înscrierile confirmate: locurile sunt alocate la salvare cât timp există capacitate disponibilă."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Grilă de vorbitori și experți Cyber Events"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Prezentare generată automat a vorbitorilor principali, prezentărilor, sălilor și detaliilor biografice."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Ecuson digital de bilet Cyber Events"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Ecuson de participant pentru înscrierile confirmate cu număr bilet, eveniment, locație și buton de tipărire."
+      ]
+    }
+  }
+}

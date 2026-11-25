@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/seat-map",
+	"version": "1.1.0",
+	"title": "Cyber Events Sitzplan",
+	"category": "cyber-events",
+	"icon": "screenoptions",
+	"description": "Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"heading": {
+			"type": "string",
+			"default": ""
+		},
+		"description": {
+			"type": "string",
+			"default": ""
+		},
+		"live": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

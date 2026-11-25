@@ -1,0 +1,71 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/agenda-matrix",
+	"version": "1.1.0",
+	"title": "Cyber Events Konferenz-Agenda",
+	"category": "cyber-events",
+	"icon": "calendar-alt",
+	"description": "Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"layoutStyle": {
+			"type": "string",
+			"default": "interactive-tabs"
+		},
+		"heading": {
+			"type": "string",
+			"default": ""
+		},
+		"subheading": {
+			"type": "string",
+			"default": ""
+		},
+		"showFilterButtons": {
+			"type": "boolean",
+			"default": true
+		},
+		"showTrackBadges": {
+			"type": "boolean",
+			"default": true
+		},
+		"showRoomInfo": {
+			"type": "boolean",
+			"default": true
+		},
+		"showSpeakerAvatars": {
+			"type": "boolean",
+			"default": true
+		},
+		"showExportButton": {
+			"type": "boolean",
+			"default": true
+		},
+		"showSessionExport": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCapacityProgress": {
+			"type": "boolean",
+			"default": true
+		},
+		"showSearchBar": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

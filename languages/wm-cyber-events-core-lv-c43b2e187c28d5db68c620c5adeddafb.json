@@ -1,0 +1,2825 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "lv",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Pasākumi, sesijas un reģistrācijas ar divkāršu apstiprināšanu caur Brevo, ierašanās reģistrāciju, rēķinu XML (EN 16931) un DATEV eksportu."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Pasākums nav atrasts vai vairs nav aktīvs."
+      ],
+      "Verbindlich anmelden": [
+        "Reģistrēties ar maksājuma saistībām"
+      ],
+      "Kostenfrei anmelden": [
+        "Reģistrēties bez maksas"
+      ],
+      "Datum": [
+        "Datums"
+      ],
+      "Veranstaltungsort": [
+        "Norises vieta"
+      ],
+      "Einlass": [
+        "Ieeja"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Pēc apstiprināšanas ar e-pasta saiti"
+      ],
+      "Kontaktdaten": [
+        "Kontaktinformācija"
+      ],
+      "Einwilligung": [
+        "Piekrišana"
+      ],
+      "Bestätigung": [
+        "Apstiprinājums"
+      ],
+      "Vorname": [
+        "Vārds"
+      ],
+      "z. B. Erika": [
+        "piem., Līga"
+      ],
+      "Nachname": [
+        "Uzvārds"
+      ],
+      "z. B. Mustermann": [
+        "piem., Bērziņa"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Darba e-pasta adrese"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Iestāde / institūcija / uzņēmums"
+      ],
+      "z. B. Beispiel GmbH": [
+        "piem., SIA Paraugs"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profila fotoattēls dalībnieka caurlaidei (neobligāti)"
+      ],
+      "Profilbild Vorschau": [
+        "Profila attēla priekšskatījums"
+      ],
+      "Foto auswählen": [
+        "Izvēlēties fotoattēlu"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG vai WebP · maks. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Datu aizsardzība un divkāršās apstiprināšanas piekrišana *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Es piekrītu savu datu apstrādei dalībai konferencē saskaņā ar VDAR. Verifikācijai saņemšu apstiprinājuma saiti e-pastā."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Lasīt privātuma politiku"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Foto un video uzņemšana (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Es piekrītu, ka pasākuma laikā var tikt uzņemti mani fotoattēli un videoieraksti rīkotāja sabiedrisko attiecību vajadzībām."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Vadības centrs un noslodze"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine ir aktīvs"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Ietilpības pārvaldība, DATEV eksports un ierašanās reģistrācija"
+      ],
+      "Events": [
+        "Pasākumi"
+      ],
+      "Bestätigte Gäste": [
+        "Apstiprinātie viesi"
+      ],
+      "Ausstehende DOI": [
+        "Gaidošie DOI"
+      ],
+      "Mission Control öffnen": [
+        "Atvērt vadības centru"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Nepieciešama VDAR piekrišana"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Šis eksports satur aizsargājamus personas datus saskaņā ar VDAR 4. panta 1. punktu. Pirms lejupielādes jāapstiprina, ka ar datiem rīkosieties konfidenciāli, apstrādāsiet tos tikai paredzētajam mērķim un pēc pasākuma dzēsīsiet atbilstoši datu aizsardzības prasībām."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Atpakaļ uz rezervāciju pārvaldību"
+      ],
+      "DSGVO-Schutz": [
+        "VDAR aizsardzība"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Finanšu un debitoru datu eksportam nepieciešams apstiprinājums, ka dati tiks glabāti konfidenciāli un izmantoti vienīgi grāmatvedības vajadzībām."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Atpakaļ uz DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV eksports"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Nepietiekamas tiesības."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Vadības panelis un rādītāji (KPI)"
+      ],
+      "Dashboard": [
+        "Vadības panelis"
+      ],
+      "Alle Veranstaltungen": [
+        "Visi pasākumi"
+      ],
+      "Veranstaltungen": [
+        "Pasākumi"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Izveidot jaunu pasākumu"
+      ],
+      "Neue Veranstaltung": [
+        "Jauns pasākums"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Norises vietas un konferenču centri"
+      ],
+      "Veranstaltungsorte": [
+        "Norises vietas"
+      ],
+      "Sessions & Agenda": [
+        "Sesijas un darba kārtība"
+      ],
+      "Neue Session erstellen": [
+        "Izveidot jaunu sesiju"
+      ],
+      "Neue Session": [
+        "Jauna sesija"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Dalībnieki un rezervācijas"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV imports un ievadīšana"
+      ],
+      "CSV-Import": [
+        "CSV imports"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finanses un DATEV eksports"
+      ],
+      "Finanzen & DATEV": [
+        "Finanses un DATEV"
+      ],
+      "Audit-Log": [
+        "Audita žurnāls"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Iestatījumi un tēmu studija"
+      ],
+      "Einstellungen": [
+        "Iestatījumi"
+      ],
+      "Handbuch & Dokumentation": [
+        "Rokasgrāmata un dokumentācija"
+      ],
+      "Handbuch": [
+        "Rokasgrāmata"
+      ],
+      "Events & Konferenzen": [
+        "Pasākumi un konferences"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Pilnvaras pasākumu un konferenču pārvaldībai."
+      ],
+      "Teilnehmer verwalten": [
+        "Pārvaldīt dalībniekus"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Ļauj skatīt un eksportēt pasākumu reģistrācijas bez pilnām WordPress administratora tiesībām."
+      ],
+      "Einstellungen & Theme": [
+        "Iestatījumi un tēma"
+      ],
+      "Handbuch & Doku": [
+        "Rokasgrāmata un dokumenti"
+      ],
+      "Plugin-Navigation": [
+        "Spraudņa navigācija"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Pasākums veiksmīgi saglabāts!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Dati ir sinhroni atjaunināti datubāzē un WordPress sistēmā."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Pasākums dzēsts!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Ieraksts ir noņemts un ieraksts pārvietots uz atkritni."
+      ],
+      "Demodaten angelegt.": [
+        "Demonstrācijas dati izveidoti."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Izveidots paraugpasākums, sesijas un paraugdalībnieki; rēķini tiek izveidoti tikai tad, ja ir norādīti rēķina izrakstītāja dati."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents vadības konsole"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Pasākumi, sesijas un reģistrācijas ar divkāršu apstiprināšanu caur Brevo, ierašanās reģistrāciju, rēķinu XML un DATEV eksportu."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Daļa no WM Suite spraudņu saimes"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub režīms"
+      ],
+      "Standalone": [
+        "Patstāvīgs"
+      ],
+      "Demo-Daten auffrischen": [
+        "Atsvaidzināt demonstrācijas datus"
+      ],
+      "Springen zu:": [
+        "Pāriet uz:"
+      ],
+      "Kurzanleitung": [
+        "Īsā pamācība"
+      ],
+      "Kennzahlen": [
+        "Rādītāji"
+      ],
+      "Rechnungen": [
+        "Rēķini"
+      ],
+      "Audit-Protokoll": [
+        "Audita žurnāls"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Ko dara CyberEvents un kas atrodams šajā ekrānā?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Spraudnis pārvalda pasākumus ar sesijām un reģistrācijām. Dalībnieki apstiprina savu reģistrāciju ar Brevo nosūtītu divkāršās apstiprināšanas saiti (nepieciešama API atslēga), pēc tam izvēlas sesijas, kuru vietu skaitu nevar pārsniegt, un pie ieejas tiek reģistrēti ar savu marķieri. Rēķini tiek ģenerēti kā CII-XML (EN 16931) un tos var eksportēt kā DATEV grāmatojumu paketi."
+      ],
+      "Schnellzugriff:": [
+        "Ātrā piekļuve:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Dalībnieki un reģistrācijas"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Eksportēt rēķinus kā DATEV paketi"
+      ],
+      "Event Auslastung": [
+        "Pasākuma noslodze"
+      ],
+      "Kritisch": [
+        "Kritisks"
+      ],
+      "Optimal": [
+        "Optimāls"
+      ],
+      "Max. Kapazität:": [
+        "Maks. ietilpība:"
+      ],
+      "Gebucht:": [
+        "Rezervēts:"
+      ],
+      "Live Check-In Counter": [
+        "Tiešsaistes ierašanās skaitītājs"
+      ],
+      "Anwesend": [
+        "Klātesoši"
+      ],
+      "Registriert:": [
+        "Reģistrēti:"
+      ],
+      "Eingecheckt:": [
+        "Ieradušies:"
+      ],
+      "Wartend:": [
+        "Gaida:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Jaunas reģistrācijas (24 h)"
+      ],
+      "Sessions": [
+        "Sesijas"
+      ],
+      "in 24 h": [
+        "24 h laikā"
+      ],
+      "Ausstehende DOI:": [
+        "Gaidošie DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM rindas telemetrija"
+      ],
+      "Jobs": [
+        "Uzdevumi"
+      ],
+      "Verarbeitung": [
+        "Apstrāde"
+      ],
+      "Verarbeitet:": [
+        "Apstrādāts:"
+      ],
+      "Schnellaktionen": [
+        "Ātrās darbības"
+      ],
+      "Neue Konferenz anlegen": [
+        "Izveidot jaunu konferenci"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Dalībnieku saraksts un ierašanās"
+      ],
+      "CSV-Batch Import": [
+        "CSV pakešu imports"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Pasākumu pārskats un noslodzes uzraudzība"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Apstiprinātās reģistrācijas katram pasākumam attiecībā pret noteikto ietilpību."
+      ],
+      "Event suchen...": [
+        "Meklēt pasākumu..."
+      ],
+      "Neue Konferenz": [
+        "Jauna konference"
+      ],
+      "Konferenz / Event": [
+        "Konference / pasākums"
+      ],
+      "Zeitraum": [
+        "Periods"
+      ],
+      "Ort": [
+        "Pilsēta"
+      ],
+      "Kapazität & Belegung": [
+        "Ietilpība un noslodze"
+      ],
+      "Status": [
+        "Statuss"
+      ],
+      "Aktionen": [
+        "Darbības"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Pasākumi nav atrasti."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Rediģēt Gutenberg bloku redaktorā"
+      ],
+      "Bearbeiten": [
+        "Rediģēt"
+      ],
+      "Schnellbearbeitung": [
+        "Ātrā rediģēšana"
+      ],
+      "Vorschau": [
+        "Priekšskatījums"
+      ],
+      "Teilnehmer (%d)": [
+        "Dalībnieki (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Vai tiešām vēlaties neatgriezeniski dzēst šo pasākumu?"
+      ],
+      "Löschen": [
+        "Dzēst"
+      ],
+      "%d Sessions": [
+        "%d sesijas"
+      ],
+      "/ %d Plätze": [
+        "/ %d vietas"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(bez ietilpības ierobežojuma)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Rediģēt Gutenberg redaktorā"
+      ],
+      "Editor": [
+        "Redaktors"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Atvērt ātro rediģēšanu"
+      ],
+      "Quick": [
+        "Ātri"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Skatīt publisko lapu"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Derīgi un anulēti rēķini, kā arī neapstiprinātas reģistrācijas."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Bruto, derīgi rēķini"
+      ],
+      "Gültige Rechnungen": [
+        "Derīgi rēķini"
+      ],
+      "Storniert": [
+        "Anulēts"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Neapstiprināti pieteikumi"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV eksports un audita žurnāls"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Perioda rēķinu un kredītrēķinu grāmatojumu pakete; saskaņojiet kontus un nodokļu kodus ar savu nodokļu konsultantu."
+      ],
+      "DATEV Format": [
+        "DATEV formāts"
+      ],
+      "Kategorie 21 (v13)": [
+        "21. kategorija (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256 ķēde"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseidonimizācija pēc 90 dienām"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Atvērt DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Skatīt audita žurnālu"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Nepārtraukti saistīts audita žurnāls: katrs ieraksts līdzparaksta savu priekšgājēju, lai vēlākas izmaiņas, dzēšanas un iespraušanas būtu pamanāmas. Tas ir viltošanas pierādījums, nevis nemaināmība — kurš lasa wp-config.php, tam pieder atslēga."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Atvērt pilnu audita žurnālu"
+      ],
+      "Zeitstempel": [
+        "Laikspiedols"
+      ],
+      "Ereignis-Typ": [
+        "Notikuma veids"
+      ],
+      "Benutzer / System": [
+        "Lietotājs / sistēma"
+      ],
+      "Objekt-ID": [
+        "Objekta ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Audita detaļas un pierādījums"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Pagaidām nav reģistrētu audita ierakstu."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Rediģēt pasākumu / ātrā konfigurācija"
+      ],
+      "Schließen": [
+        "Aizvērt"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Konferences / pasākuma nosaukums:"
+      ],
+      "URL-Slug:": [
+        "URL saīsinājums (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Norises vieta / lokācija:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Sākums (datums un laiks):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Beigas (datums un laiks):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Maks. dalībnieku ietilpība:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Biļetes cena (neto €):"
+      ],
+      "Status:": [
+        "Statuss:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktīvs (publicēts)"
+      ],
+      "Entwurf (Draft)": [
+        "Melnraksts"
+      ],
+      "Archiviert": [
+        "Arhivēts"
+      ],
+      "Kostenpflichtig": [
+        "Maksas"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Atvērt Gutenberg bloku redaktorā"
+      ],
+      "Abbrechen": [
+        "Atcelt"
+      ],
+      "Änderungen speichern": [
+        "Saglabāt izmaiņas"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Dalībnieka dati veiksmīgi atjaunināti!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Reģistrācijas dati un statuss ir saglabāti datubāzē."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Dalībnieks dzēsts!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Reģistrācija un visas saistītās sesiju rezervācijas ir noņemtas."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Ierašanās statuss atjaunināts!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Dalībnieka klātbūtnes statuss ir pārslēgts."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Divkāršā apstiprināšana (Double Opt-in) apstiprināta!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Reģistrācija ir manuāli atzīmēta kā apstiprināta."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Dalībnieku un rezervāciju pārvaldība"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Visas reģistrācijas ar divkāršās apstiprināšanas statusu, sesiju rezervācijām un rēķiniem."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Vārda kartītes / dalībnieku saraksts (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrēts pēc konferences: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Notīrīt filtru"
+      ],
+      "Alle Teilnehmer": [
+        "Visi dalībnieki"
+      ],
+      "Bestätigt": [
+        "Apstiprināts"
+      ],
+      "Ausstehend DOI": [
+        "Gaida DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Meklēt vārdu, e-pastu vai uzņēmumu..."
+      ],
+      "Teilnehmer": [
+        "Dalībnieks"
+      ],
+      "Organisation / Firma": [
+        "Organizācija / uzņēmums"
+      ],
+      "Check-In": [
+        "Ierašanās"
+      ],
+      "Rechnung": [
+        "Rēķins"
+      ],
+      "Anmeldedatum": [
+        "Reģistrācijas datums"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Reģistrācijas nav atrastas."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Rediģēt dalībnieka datus"
+      ],
+      "Auschecken": [
+        "Atcelt ierašanos"
+      ],
+      "Einchecken": [
+        "Atzīmēt ierašanos"
+      ],
+      "DOI bestätigen": [
+        "Apstiprināt DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Vai tiešām vēlaties neatgriezeniski dzēst šo dalībnieku?"
+      ],
+      "Status umschalten": [
+        "Pārslēgt statusu"
+      ],
+      "Eingecheckt": [
+        "Ieradies"
+      ],
+      "Nicht vor Ort": [
+        "Nav klātienē"
+      ],
+      "Rechnungs-XML": [
+        "Rēķina XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Bezmaksas / nav"
+      ],
+      "Edit": [
+        "Rediģēt"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Vai tiešām vēlaties dzēst šo dalībnieku?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Rediģēt dalībnieka datus / dalībnieku pārvaldība"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profila fotoattēls / dalībnieka caurlaides attēls (JPG, PNG, WebP · maks. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Noņemt fotoattēlu"
+      ],
+      "Vorname:": [
+        "Vārds:"
+      ],
+      "Nachname:": [
+        "Uzvārds:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-pasta adrese:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizācija / uzņēmums / iestāde:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Piešķirtā konference:"
+      ],
+      "Anmeldestatus:": [
+        "Reģistrācijas statuss:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Apstiprināts"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Gaida (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Anulēts"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Nepiegādājams (atgriezts e-pasts)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Ierašanās statuss (klātienē):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nē / nav klātienē"
+      ],
+      "Ja / Eingecheckt": [
+        "Jā / ieradies"
+      ],
+      "Rechnungsnummer:": [
+        "Rēķina numurs:"
+      ],
+      "Zahlungsstatus:": [
+        "Maksājuma statuss:"
+      ],
+      "Kostenfrei (Free)": [
+        "Bezmaksas"
+      ],
+      "Ausstehend (Pending)": [
+        "Gaida"
+      ],
+      "Bezahlt (Paid)": [
+        "Apmaksāts"
+      ],
+      "Erstattet (Refunded)": [
+        "Atmaksāts"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "VDAR privātuma piekrišana sniegta"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Foto un video piekrišana sniegta"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "VDAR privātums un eksporta piekrišana"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Personas datu aizsardzība (VDAR 4. un 5. pants)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Šis eksports izveido CSV failu ar sensitīviem dalībnieku personas datiem (pilniem vārdiem, uzņēmumiem, darba e-pasta adresēm, rēķinu atsaucēm un ierašanās statusu)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Nolūka ierobežojums (VDAR 5. panta 1. punkta b) apakšpunkts):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Datus drīkst izmantot vienīgi pasākuma operatīvai norisei (piem., vārda kartīšu drukāšanai un akreditācijai pie ieejas)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Konfidencialitāte un aizsardzība (VDAR 5. panta 1. punkta f) apakšpunkts):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Izpaušana nepiederošām trešajām personām vai glabāšana nešifrētās mobilajās ierīcēs ir aizliegta."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Dzēšanas pienākums (VDAR 17. pants):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Pēc konferences noslēguma eksportētais lokālais fails nekavējoties jādzēš saskaņā ar datu aizsardzības noteikumiem."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Es apstiprinu VDAR piekrišanu:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Esmu informēts(-a), ka šis eksports satur konfidenciālus personas datus. Apņemos tos apstrādāt rūpīgi tikai paredzētajam nolūkam un stingri ievērojot normatīvās datu aizsardzības prasības."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Droši lejupielādēt CSV eksportu tagad"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Rēķina XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopēt XML starpliktuvē"
+      ],
+      "Keine Berechtigung.": [
+        "Nav piekļuves tiesību."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Drošības kļūda: atļauti tikai īsti CSV faili."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Fails ir pārāk liels (maksimāli atļauti 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Lūdzu, izvēlieties pasākumu un norādiet CSV datus."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Dalībnieku CSV pakešu imports (dublikātu aizsardzība TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automātisks dalībnieku sarakstu imports no ārējām sistēmām ar stingru atkārtotu reģistrāciju novēršanu."
+      ],
+      "Import-Zusammenfassung": [
+        "Importa kopsavilkums"
+      ],
+      "Gesamtzeilen": [
+        "Rindas kopā"
+      ],
+      "Neu Importiert": [
+        "No jauna importēti"
+      ],
+      "Dubletten abgewiesen": [
+        "Noraidītie dublikāti"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importēt jaunu dalībnieku sarakstu"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Mērķa pasākums *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Izvēlieties pasākumu —"
+      ],
+      "CSV-Datei auswählen": [
+        "Izvēlēties CSV failu"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Formāts: Vārds;Uzvārds;E-pasts;Uzņēmums (atdalīts ar semikolu vai komatu, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Vai ielīmējiet CSV tekstu"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Izpildīt CSV importu tagad"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF grāmatojumu pakešu studija"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standartizēts finanšu eksports (21. kategorija, formāta versija 700 / 125 lauki) nodokļu konsultantiem un DATEV grāmatvedībai."
+      ],
+      "Exportzeitraum festlegen": [
+        "Noteikt eksporta periodu"
+      ],
+      "Laufender Monat": [
+        "Pašreizējais mēnesis"
+      ],
+      "Vormonat": [
+        "Iepriekšējais mēnesis"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Viss 2026. gads"
+      ],
+      "Datum von *": [
+        "Datums no *"
+      ],
+      "Datum bis *": [
+        "Datums līdz *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Apstiprinājums debitoru datu eksportam:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Es apstiprinu, ka finanšu un rēķinu saņēmēju datu eksports satur personas datus un tiek nodots vienīgi pilnvarotajam grāmatvedības birojam likumā noteiktajai grāmatvedības un nodokļu uzskaitei."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Lejupielādēt DATEV EXTF grāmatojumu paketi (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Saistīta audita izsekojamība visām ar drošību saistītajām darbībām, divkāršajiem apstiprinājumiem, anulēšanām un piekļuves pārbaudēm."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Audita ķēde ir neskarta — %1$d ieraksti pārbaudīti pēc satura, %2$d pseidonimizēti (pārbaudīta pozīcija ķēdē)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Audita ķēde NAV neskarta"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d ieraksts(-i) radušies pirms sasaistes ķēdē un nesatur pārbaudāmu parakstu. Tie tiek uzskatīti par nepārbaudītiem, nevis neskartiem."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY nav definēts: ķēdes atslēga nāk no datubāzes — tās pašas vietas, kurā uzbrucējs ar rakstīšanas piekļuvi varētu veikt izmaiņas. Definējiet AUTH_KEY failā wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Laiks"
+      ],
+      "Ereignistyp": [
+        "Notikuma veids"
+      ],
+      "Referenz-ID": [
+        "Atsauces ID"
+      ],
+      "IP-Adresse": [
+        "IP adrese"
+      ],
+      "Audit-Details (JSON)": [
+        "Audita detaļas (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Žurnāla ieraksti nav atrasti."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Pasākums \"%1$s\" izveidots ar %2$d sesijām un %3$d dalībniekiem."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demonstrācijas dati veiksmīgi importēti!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Dzēsti %1$d pasākumi, %2$d sesijas, %3$d reģistrācijas un %4$d rēķini."
+      ],
+      "Demodaten bereinigt!": [
+        "Demonstrācijas dati iztīrīti!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Rūpnīcas iestatījumi atjaunoti!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Visas tabulas ir iztukšotas un iestatījumi atiestatīti."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Augšupielādētais tēmas fails ir noņemts."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Iestatījumi droši saglabāti."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Uzņēmuma konfigurācija un drošība"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Dizains, Brevo, rēķini un DATEV, aizsardzība pret robotiem un demonstrācijas dati."
+      ],
+      "Design & Theme Studio": [
+        "Dizaina un tēmu studija"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM un tīmekļāķi (Webhooks)"
+      ],
+      "Rechnungen & DATEV": [
+        "Rēķini un DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Aizsardzība pret robotiem (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demonstrācijas dati un atiestatīšana"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Priekšgala dizaina sistēma un tēmas pārmantošana"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Izvēlieties, kā pasākumi un pieteikšanās veidlapas tiek noformēti vietnē. Pēc noklusējuma spraudnis nemanāmi pārmanto visus fontus, krāsas un pogas no aktīvās WordPress tēmas."
+      ],
+      "Primärfarbe": [
+        "Primārā krāsa"
+      ],
+      "Akzentfarbe": [
+        "Akcenta krāsa"
+      ],
+      "Kartenhintergrund": [
+        "Kartītes fons"
+      ],
+      "Textfarbe": [
+        "Teksta krāsa"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Pielāgotas tēmas krāsas un apmales (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primārā krāsa (pogas un akcenti):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Akcenta krāsa (nozīmītes un mirdzums):"
+      ],
+      "Seitenhintergrund:": [
+        "Lapas fons:"
+      ],
+      "Kartenhintergrund:": [
+        "Kartītes fons:"
+      ],
+      "Haupttextfarbe:": [
+        "Pamatteksta krāsa:"
+      ],
+      "Eckenabrundung (px):": [
+        "Stūru noapaļojums (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Augšupielādēt pielāgotu CSS tēmu (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Augšupielādējiet pielāgotu .css stila failu (piem., agency-theme.css). Tas tiek ielādēts izolēti un automātiski pārbaudīts."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktīva pielāgotā tēma ir pieejama"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Vai tiešām vēlaties dzēst augšupielādēto CSS tēmas failu?"
+      ],
+      "Theme löschen": [
+        "Dzēst tēmu"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Papildu pielāgots CSS (iebūvētais redaktors)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Ievadiet pielāgotus CSS noteikumus šeit, piem.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 un tīmekļāķu autentifikācija"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API atslēga (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Tiek izmantota asinhronai divkāršās apstiprināšanas e-pastu piegādei un kontaktu atribūtu sinhronizācijai."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Tīmekļāķa koplietotais noslēpums / paraksta marķieris"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Pret laika uzbrukumiem drošs marķieris ienākošo Brevo tīmekļāķa datu pārbaudei."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Personāla skenera API atslēga (ieejas kontrole)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Autentifikācijas marķieris ieejas personāla mobilajām skenēšanas ierīcēm."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Uzgaidāmā telpa: ielaistie pieprasījumi minūtē"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Reģistrācijas un sesiju rezervācijas pieprasījumi, kas tiek ielaisti minūtē uz vienu pasākumu. 0 izslēdz uzgaidāmo telpu (noklusējums). Pārsniedzot šo robežu, maršruts atbild ar HTTP 503 un Retry-After pirms datubāzes vaicājuma izpildes — vieta netiek rezervēta."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Šīs instalācijas skaitītāja aizmugursistēma: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "pastāvīgā objektu kešatmiņa"
+      ],
+      "Datenbank (Transients)": [
+        "datubāze (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI veidnes ID"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo kontaktu saraksta ID"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Rēķini (CII-XML) un DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Rēķina numura prefikss"
+      ],
+      "Rechnungssteller": [
+        "Rēķina izrakstītājs"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Bez šīm ziņām rēķini un kredītrēķini netiek izveidoti: %s."
+      ],
+      "Name / Firma": [
+        "Vārds, uzvārds / uzņēmums"
+      ],
+      "Straße und Hausnummer": [
+        "Iela un mājas numurs"
+      ],
+      "PLZ": [
+        "Pasta indekss"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Valsts (ISO kods, piem., LV)"
+      ],
+      "USt-IdNr.": [
+        "PVN numurs"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Nodokļu maksātāja numurs (ja nav PVN numura)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-pasts rēķiniem"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN bankas pārskaitījumiem (neobligāti)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV konsultanta numurs"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV klienta numurs"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Ieņēmumu konts (piem., 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Debitoru konts (piem., 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Spraudnī vēl nav iekļauts captcha logrīks: iestatījums tiek saglabāts, taču veidlapa tiek apstrādāta bez captcha pārbaudes."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Iespējot Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Vietnes atslēga (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API atslēga / noslēpums"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demonstrācijas datu pārvaldība un rūpnīcas atiestatīšana"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importējiet paraugdatus, noņemiet tos vai atiestatiet spraudni uz rūpnīcas iestatījumiem."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importēt demonstrācijas datus"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Izveido paraugkonferenci ar sesijām un paraugdalībniekiem. Rēķini tiek izveidoti tikai tad, ja ir norādīti rēķina izrakstītāja dati."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Vai vēlaties importēt paraugdatus tagad?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importēt demonstrācijas datus (konferences, sesijas, dalībnieki, rēķini)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Iztīrīt demonstrācijas datus (dzēst tikai testa datus)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Dzēš vienīgi ģenerētās demonstrācijas konferences, sesijas, dalībniekus un rēķinus. Īstie pasākumi un rezervācijas paliek pilnībā neskarti."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Vai vēlaties droši noņemt visus demonstrācijas datus? Īstie dati tiks saglabāti."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Iztīrīt demonstrācijas datus (tikai testa datus)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Atiestatīt uz rūpnīcas iestatījumiem (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Brīdinājums (neatgriezeniski):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Iztukšo visas pasākumu, sesiju, reģistrāciju, rēķinu un audita žurnāla tabulas, dzēš visus cybevent un cybsession ierakstus un atiestata visus iestatījumus uz noklusējuma vērtībām."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "BRĪDINĀJUMS: vai esat pilnīgi pārliecināts(-a)? Tas dzēsīs VISUS pasākumus, reģistrācijas un rēķinus un atiestatīs visus iestatījumus!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Pilna rūpnīcas atiestatīšana (dzēst visu un atjaunot noklusējumus)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Rīcība, atinstalējot spraudni"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Atinstalējot dzēst visas tabulas un iestatījumus"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Pēc noklusējuma visi pasākumu, reģistrāciju, rēķinu un audita ieraksti tiek saglabāti, dzēšot spraudni (likumā noteiktie glabāšanas termiņi). Iespējojiet šo opciju tikai tad, ja, noņemot spraudni, visas tabulas ir neatgriezeniski jādzēš."
+      ],
+      "Alle Einstellungen speichern": [
+        "Saglabāt visus iestatījumus"
+      ],
+      "Platzbuchung": [
+        "Vietas rezervēšana"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Vieta tiek rezervēta ar vienu nosacījuma UPDATE vaicājumu (belegt = belegt + 1, tikai kamēr belegt < kapazitaet). No diviem vienlaicīgiem pieprasījumiem uz pēdējo vietu tikai viens maina rindu; otrs saņem paziņojumu „pilnībā rezervēts”."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Rēķini un kredītrēķini tiek ģenerēti kā CII-XML atbilstoši EN 16931 profilam un testos pārbaudīti ar Mustang validatoru. PDF netiek ģenerēts, tāpēc XML nav ZUGFeRD hibrīdfails. To, vai rēķini konkrētā gadījumā atbilst likuma prasībām, izvērtē nodokļu konsultants."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF un grāmatvedība"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Eksportē perioda rēķinus un kredītrēķinus kā DATEV formāta grāmatojumu paketi (EXTF 700, 21. kategorija) Windows-1252 kodējumā. Debitoru un ieņēmumu konti tiek ņemti no iestatījumiem; katrā rindā ir nodokļa kods 3. Saskaņojiet kontus un kodus ar savu nodokļu konsultantu."
+      ],
+      "Handbuch & API:": [
+        "Rokasgrāmata un API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Pilna rokasgrāmata"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Izstrādāja WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Administratora un izstrādātāja rokasgrāmata"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Vietu rezervēšana, rēķinu XML, DATEV eksports, Brevo divkāršā apstiprināšana, īskodi un tēmu sagataves."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Vietu rezervēšana bez virsrezervēšanas"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Noslodzes skaitītājs tiek palielināts vienā nosacījuma izteiksmē; no diviem vienlaicīgiem pieprasījumiem uz pēdējo vietu tikai viens atjaunina rindu:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Rēķinu XML un DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Rēķini un kredītrēķini ar izrakstītāja rekvizītiem no iestatījumiem, pakalpojuma datumu un secīgu numerāciju. Bez PDF, bez Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Kredītrēķini:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Savs kārtas numurs, 381. tips ar atsauci uz sākotnējo rēķinu."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Grāmatojumu pakete periodam viena kalendārā gada ietvaros, Windows-1252. Saskaņojiet kontus un nodokļu kodus ar nodokļu konsultantu."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM divkāršā apstiprināšana un fona rinda"
+      ],
+      "Double Opt-In (DOI):": [
+        "Divkāršā apstiprināšana (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo nosūta apstiprinājuma e-pastu ar personisku saiti; saite vienreizēji apstiprina reģistrāciju. Neapstiprinātās reģistrācijas tiek dzēstas pēc 14 dienām."
+      ],
+      "Warteschlange:": [
+        "Rinda:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Izsaukumi uz Brevo notiek caur datubāzes rindu, ko WP-Cron apstrādā ik minūti (vai ar wp cybevents queue-run), līdz pieciem mēģinājumiem."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Īskodi un Gutenberg integrācija"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Piekļūstama reģistrācijas veidlapa."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktīva konferences darba kārtība un virzienu pārskats."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Uz marķiera balstīta sesiju izvēle pēc DOI apstiprināšanas."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI administratoriem"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Tēmu sagataves un dizaina marķieri"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Priekšgals elastīgi pielāgojas jebkurai WordPress tēmai vai izmanto iebūvētās dizaina sagataves:"
+      ],
+      "Presets:": [
+        "Sagataves:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Vairākas krāsu sagataves, tostarp viena tumši purpura, violetā un rožainā tonī (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Tēmas pārmantošana (noklusējums):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Nemanāmi pārmanto fontus, apmaļu noapaļojumus un primārās krāsas no aktīvās tēmas (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS pielāgotie rekvizīti:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Svarīgas nianses un labā prakse"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tabulas tiek izveidotas ar ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Glabāšanas un dzēšanas termiņi:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Neapstiprinātās reģistrācijas tiek dzēstas pēc 14 dienām, audita žurnāla ieraksti tiek pseidonimizēti pēc 90 dienām (izņemot rēķinu notikumus). Apstiprinātās reģistrācijas un rēķinus spraudnis automātiski nedzēš; tam nav iestatījuma."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Rindas apstrāde un dzēšanas termiņi darbojas caur WP-Cron; vietnēm bez regulāras apmeklētāju plūsmas nepieciešams īsts sistēmas cron uzdevums."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events komplekts"
+      ],
+      "Veranstaltung auswählen": [
+        "Izvēlēties pasākumu"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Izvēlieties mērķa pasākumu šim blokam."
+      ],
+      "Key Facts Header anzeigen": [
+        "Rādīt galveno faktu galveni"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Rādīt soļu indikatoru"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Rādīt kalendāra eksporta (.ics) pogu"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Rādīt atpakaļskaitīšanas taimeri"
+      ],
+      "Freie Plätze anzeigen": [
+        "Rādīt brīvās vietas"
+      ],
+      "Spaltenanzahl": [
+        "Kolonnu skaits"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Lūdzu, bloka iestatījumos izvēlieties derīgu pasākumu."
+      ],
+      "Vorschau im Editor": [
+        "Priekšskatījums redaktorā"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Sesiju izvēle apstiprinātām reģistrācijām"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Publiskajā skatā šis bloks tiek dinamiski atveidots katram dalībniekam, izmantojot viņa individuālo marķieri."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Apstiprinājuma marķieris nav atrasts."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Lūdzu, atveriet šo lapu, izmantojot personalizēto saiti no sava apstiprinājuma e-pasta."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Nederīgs vai beidzies dalībnieka marķieris."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Pasākuma sēdvietu plāns"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Publiskajā skatā šis bloks attēlo katras sesijas noslodzi kā SVG un uztur to aktuālu ar Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Pasākums nav atrasts."
+      ],
+      "Jetzt anmelden": [
+        "Reģistrēties tagad"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Reģistrēties bez maksas tagad"
+      ],
+      "Programm ansehen": [
+        "Skatīt programmu"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Bezmaksas dalība"
+      ],
+      "Anmeldung geöffnet": [
+        "Reģistrācija atvērta"
+      ],
+      "Ausgebucht": [
+        "Pilnībā rezervēts"
+      ],
+      "Preis": [
+        "Cena"
+      ],
+      "%d freier Platz": [
+        "%d brīva vieta",
+        "%d brīvas vietas",
+        "%d brīvu vietu"
+      ],
+      "von max. %d": [
+        "no maks. %d"
+      ],
+      "Beginn in:": [
+        "Sākums pēc:"
+      ],
+      "Tage": [
+        "Dienas"
+      ],
+      "Std.": [
+        "St."
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Eksportēt uz kalendāru (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics fails)"
+      ],
+      "Google Kalender": [
+        "Google kalendārs"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Failā .ics ir iekļauts atgādinājums vienu dienu pirms sākuma."
+      ],
+      "Referenten & Fachexperten": [
+        "Runātāji un nozares eksperti"
+      ],
+      "Referenten": [
+        "Runātāji"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Runātāju saraksts tiks izziņots drīzumā."
+      ],
+      "TEILNEHMERPASS": [
+        "DALĪBNIEKA CAURLAIDE"
+      ],
+      "Teilnehmerpass": [
+        "Dalībnieka caurlaide"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Atvērt biļeti un akreditāciju"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Ievadiet savu 64 rakstzīmju drošības marķieri no apstiprinājuma e-pasta:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Ievadiet marķieri (piem., c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Rādīt caurlaidi"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Nederīgs vai neatrasts rezervācijas marķieris."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Šai reģistrācijai dalībnieka caurlaide nav pieejama: tā nav apstiprināta vai ir anulēta."
+      ],
+      "Max Mustermann": [
+        "Jānis Bērziņš"
+      ],
+      "Beispiel GmbH": [
+        "SIA Paraugs"
+      ],
+      "Veranstaltung": [
+        "Pasākums"
+      ],
+      "Rechnungs-Nr.": [
+        "Rēķina nr."
+      ],
+      "Keine": [
+        "Nav"
+      ],
+      "Ticket-Nummer": [
+        "Biļetes numurs"
+      ],
+      "Pass drucken": [
+        "Drukāt caurlaidi"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Datu aizsardzība un drošība"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Divkāršā apstiprināšana un dzēšanas termiņi"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Reģistrācija stājas spēkā tikai pēc apstiprināšanas ar e-pasta saiti. Neapstiprinātās reģistrācijas tiek dzēstas pēc 14 dienām, bet audita žurnāla ieraksti pseidonimizēti pēc 90 dienām."
+      ],
+      "Beschriftete Formulare": [
+        "Marķētas veidlapas"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Veidlapu lauki ar redzamām etiķetēm, atzīmētiem obligātajiem laukiem un statusa paziņojumiem, ko nolasa ekrāna lasītāji."
+      ],
+      "Eigene Skripte und Styles": [
+        "Pašu mitināti skripti un stili"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Spraudnis ielādē savus skriptus, stilus un ikonas no jūsu servera, nevis no CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Audita žurnāls un marķieri"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Ar HMAC-SHA256 saistīts audita žurnāls padara vēlākas izmaiņas pamanāmas. Dalībnieku marķieri tiek glabāti vienīgi kā SHA-256 jaucējvērtības."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Rēķinu XML un DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Rēķini kā CII-XML atbilstoši EN 16931 profilam un eksports kā DATEV grāmatojumu pakete."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (darba pierādījums)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Privātumam draudzīga aizsardzība pret robotiem bez lietotāju izsekošanas vai attēlu mīklām saskaņā ar ES datu aizsardzības tiesībām."
+      ],
+      "Zur Anmeldung": [
+        "Uz pieteikšanos"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Nav arhivētu pasākumu."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Pašlaik nav ieplānotu pasākumu."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtrēt pasākumus pēc nosaukuma vai vietas..."
+      ],
+      "Kostenfrei": [
+        "Bezmaksas"
+      ],
+      "In Kalender eintragen": [
+        "Pievienot kalendāram"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Tiešsaistes konferences un darba kārtības ziņu josla"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TIEŠSAISTES DARBA KĀRTĪBAS TELEMETRIJA"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Skatu un filtru vadīklas"
+      ],
+      "Kalenderansichten": [
+        "Kalendāra skati"
+      ],
+      "Monat": [
+        "Mēnesis"
+      ],
+      "Woche": [
+        "Nedēļa"
+      ],
+      "Tag / Agenda": [
+        "Diena / darba kārtība"
+      ],
+      "Liste": [
+        "Saraksts"
+      ],
+      "Karten": [
+        "Kartītes"
+      ],
+      "Räume & Ort": [
+        "Telpas un vieta"
+      ],
+      "Summit Tracks": [
+        "Konferences virzieni"
+      ],
+      "Vorheriger Zeitraum": [
+        "Iepriekšējais periods"
+      ],
+      "Nächster Zeitraum": [
+        "Nākamais periods"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Meklēt pasākumu, tēmu vai runātāju..."
+      ],
+      "Suchbegriff eingeben": [
+        "Ievadiet meklējamo vārdu"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtrēt virzienu vai kategoriju"
+      ],
+      "Alle Fach-Tracks": [
+        "Visi nozares virzieni"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "01. virziens: Pēckvantu kriptogrāfija"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "02. virziens: Zero Trust un DORA noturība"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "03. virziens: Autonoms MI un konfidencialitātes noteikumi"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "04. virziens: Programmatūras piegādes ķēde un CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtrēt konferenču zāli"
+      ],
+      "Alle Säle & Räume": [
+        "Visas zāles un telpas"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenārsēžu zāle Alpha (Galvenie referāti)"
+      ],
+      "Security Lab Beta": [
+        "Drošības laboratorija Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Praktisko semināru studija Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtuālais AS4 straumēšanas centrs"
+      ],
+      "Monatskalenderansicht": [
+        "Mēneša kalendāra skats"
+      ],
+      "Mo": [
+        "Pr"
+      ],
+      "Di": [
+        "Ot"
+      ],
+      "Mi": [
+        "Tr"
+      ],
+      "Do": [
+        "Ce"
+      ],
+      "Fr": [
+        "Pk"
+      ],
+      "Sa": [
+        "Se"
+      ],
+      "So": [
+        "Sv"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Nedēļas grafika un laika režģa skats"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Dienas darba kārtības un laika skalas skats"
+      ],
+      "Chronologische Listenansicht": [
+        "Hronoloģisks saraksta skats"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vizuāls fotokartīšu skats"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Norises vietas un telpu ceļveža skats"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Daudzvirzienu konferences matrica"
+      ],
+      "Dialog schließen": [
+        "Aizvērt dialoglodziņu"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Nederīgs sesijas vai reģistrācijas ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Rezervāciju nevarēja apstrādāt datubāzes kļūdas dēļ."
+      ],
+      "Session %d existiert nicht.": [
+        "Sesija %d neeksistē."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "„%1$s\" ir pilnībā rezervēta (aizņemtas %2$d no %2$d vietām)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Rezervāciju nevarēja saglabāt. Vieta ir atkal atbrīvota."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Atcelšanu nevarēja apstrādāt datubāzes kļūdas dēļ."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Nav augšupielādēts derīgs fails."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Faila augšupielādes kļūda."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profila attēls nedrīkst pārsniegt 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Nederīgs faila formāts. Atļautie formāti ir JPG, PNG un WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Nederīgs faila paplašinājums. Atļautie paplašinājumi ir .jpg, .jpeg, .png un .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Kļūda, saglabājot profila attēlu."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Audita žurnāls ir tukšs, lai gan iepriekš bija fiksēti %d ieraksti."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Ķēdē vēlāk tika iesprausts neparakstīts ieraksts."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ķēdes pārrāvums pie ieraksta #%d: ieraksts dzēsts, iesprausts vai pārkārtots."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Ieraksta #%d paraksts neatbilst tā satura kontrolsummai."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Ieraksts #%d ir atzīmēts kā pseidonimizēts bez derīga pierādījuma: tā saturs var būt ticis mainīts."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Ieraksta #%d saturs ir mainīts pēc izveidošanas."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Žurnāla beigas neatbilst pēdējam fiksētajam ierakstam. Jaunākie ieraksti ir izņemti."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Pasākumi"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Pasākums"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Pasākums"
+      ],
+      "event\u0004Neu erstellen": [
+        "Pievienot jaunu"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Rediģēt pasākumu"
+      ],
+      "Veranstaltung ansehen": [
+        "Skatīt pasākumu"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Meklēt pasākumus"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Atkritnē nav pasākumu."
+      ],
+      "Veranstaltungsdaten": [
+        "Pasākuma dati"
+      ],
+      "Veranstaltungsort:": [
+        "Norises vieta:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Pārvaldīt norises vietas ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Izvēlieties saglabātu norises vietu —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manuāla vieta / telpa / adrese..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Izvēlieties saglabātu vietu no saraksta vai pielāgojiet vietas/telpas aprakstu."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Sākums (datums un laiks):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Beigas (datums un laiks):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Maksas pasākums"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Pašlaik konferenču plāni nav pieejami."
+      ],
+      "Programm": [
+        "Programma"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Meklēt tēmu, runātāju vai telpu..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferences darba kārtība"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Detalizēta programma tiks paziņota drīzumā."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents dalībnieku dati"
+      ],
+      "E-Mail": [
+        "E-pasts"
+      ],
+      "Unternehmen / Organisation": [
+        "Uzņēmums / organizācija"
+      ],
+      "Profilbild": [
+        "Profila attēls"
+      ],
+      "Einwilligung Datenschutz": [
+        "Privātuma piekrišana"
+      ],
+      "ja": [
+        "jā"
+      ],
+      "nein": [
+        "nē"
+      ],
+      "Einwilligung Fotos": [
+        "Foto piekrišana"
+      ],
+      "Bestätigung angefordert": [
+        "Pieprasīts apstiprinājums"
+      ],
+      "Bestätigt am": [
+        "Apstiprināts"
+      ],
+      "Eingecheckt am": [
+        "Ierašanās atzīmēta"
+      ],
+      "Gebuchte Sessions": [
+        "Rezervētās sesijas"
+      ],
+      "Rechnungsnummer": [
+        "Rēķina numurs"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents reģistrācijas"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents rēķini"
+      ],
+      "Empfänger": [
+        "Saņēmējs"
+      ],
+      "Adresse": [
+        "Adrese"
+      ],
+      "Bruttobetrag": [
+        "Bruto summa"
+      ],
+      "Ausgestellt am": [
+        "Izrakstīts"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Reģistrāciju #%d nevarēja dzēst."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Reģistrāciju #%d nevarēja anonimizēt; dati paliek nemainīgi."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Reģistrācija #%1$d tika anonimizēta. Rēķins %2$s ar vārdu, adresi un e-pastu tiek saglabāts nemainīgs; spraudnis rēķinus nedzēš."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Brevo tīmekļāķis bez koplietotā noslēpuma ir atspējots (atbild ar 401). Atgrieztie e-pasti un atrakstīšanās netiks apstrādāti, kamēr noslēpums nebūs konfigurēts."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nav konfigurēta Brevo API atslēga: apstiprinājuma e-pasti netiks sūtīti; jaunas reģistrācijas paliek neapstiprinātas un tiek dzēstas pēc 14 dienām."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha ir iespējota, bet tai nav ietekmes: spraudnī nav iekļauts captcha logrīks, tāpēc veidlapa tiek apstrādāta bez aizsardzības pret robotiem."
+      ],
+      "Einstellungen öffnen": [
+        "Atvērt iestatījumus"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Pārāk daudz pieprasījumu. Lūdzu, mēģiniet vēlreiz pēc minūtes."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Izvēle netika saglabāta: %s Jūsu iepriekšējās rezervācijas paliek spēkā."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Jaunās sesijas tika rezervētas, taču ne katru noņemto sesiju izdevās atbrīvot: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Nederīgs drošības marķieris (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Nederīgs veidlapas marķieris (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Dalībnieks nav pilnvarots vai nav atrasts."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nav iesniegts attēla fails."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profila attēls veiksmīgi atjaunināts."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Trūkst apstiprinājuma marķiera."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Nederīga vai vēl neapstiprināta biļete."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Šim pasākumam sesijas nav konfigurētas."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Sēdvietu plāns: aizņemtās un brīvās vietas katrā sesijā"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — aizņemtas %2$d no %3$d vietām"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Sēdvietu plānam nav norādīts pasākums."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Sēdvietu plāna pasākums neeksistē."
+      ],
+      "frei": [
+        "brīva"
+      ],
+      "belegt": [
+        "aizņemta"
+      ],
+      "von Ihnen gebucht": [
+        "rezervēta jums"
+      ],
+      "Belegung je Session": [
+        "Noslodze pa sesijām"
+      ],
+      "Session": [
+        "Sesija"
+      ],
+      "Belegt": [
+        "Aizņemtas"
+      ],
+      "Frei": [
+        "Brīvas"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Noslodze tiek atjaunināta automātiski."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stāvoklis lapas ielādes brīdī; noslodze netiek atjaunināta tiešraidē."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demonstrācijas dati: rezervācija dalībniekam %1$s noraidīta — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demonstrācijas dati: dalība atcelta"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sesijas un virzieni"
+      ],
+      "post type singular name\u0004Session": [
+        "Sesija"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sesijas"
+      ],
+      "Alle Sessions": [
+        "Visas sesijas"
+      ],
+      "Session bearbeiten": [
+        "Rediģēt sesiju"
+      ],
+      "Session ansehen": [
+        "Skatīt sesiju"
+      ],
+      "Sessions durchsuchen": [
+        "Meklēt sesijas"
+      ],
+      "Keine Sessions gefunden.": [
+        "Sesijas nav atrastas."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Atkritnē nav sesiju."
+      ],
+      "Session-Daten": [
+        "Sesijas dati"
+      ],
+      "Zugehörige Konferenz:": [
+        "Saistītā konference:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Konference nav izvēlēta —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Runātājs un institūcija:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "piem., Līga Bērziņa (SIA Paraugs)"
+      ],
+      "Raum / Saal / Track:": [
+        "Telpa / zāle / virziens:"
+      ],
+      "Workshop-Kapazität:": [
+        "Semināra ietilpība:"
+      ],
+      "Speaker": [
+        "Runātājs"
+      ],
+      "Raum / Track": [
+        "Telpa / virziens"
+      ],
+      "Zeitfenster": [
+        "Laika posms"
+      ],
+      "Belegung": [
+        "Noslodze"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Laipni lūdzam, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Izvēlieties savas sesijas. Vieta tiek piešķirta saglabāšanas brīdī, kamēr sesija nav pilnībā rezervēta."
+      ],
+      "Anmeldung bestätigt": [
+        "Reģistrācija apstiprināta"
+      ],
+      "Für diese Session eingetragen": [
+        "Reģistrēts šai sesijai"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Izvēlēties šo sesiju"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Vieta tiek piešķirta saglabāšanas brīdī, kamēr sesija nav pilnībā rezervēta."
+      ],
+      "Sessions ausgewählt": [
+        "Izvēlētās sesijas"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Saglabāt izvēli"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress tēmas noklusējums (pārmantots automātiski)"
+      ],
+      "Empfohlen": [
+        "Ieteicams"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Tieši pārņem tipogrāfiju, krāsas, pogas un atstarpes no aktīvās WordPress tēmas (GeneratePress, Astra, Twenty Twenty-Four u. c.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violets un rozā (tumši lillā, violets, rozā akcents)"
+      ],
+      "Farbstark": [
+        "Krāsains"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Tumši lillā (#482683), spilgti violets (#7D40E7), rozā akcents (#DF0079), Noto Sans, ja tēma to ielādē, un smalka krāsu pāreja."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (tumši zils un ciāns)"
+      ],
+      "High-Tech Dark": [
+        "Augsto tehnoloģiju tumšais"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Pielāgots tumšs un kobalta augsto tehnoloģiju izskats ar mirdzuma efektiem kiberdrošības konferencēm."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (šīfera un vienkrāsains)"
+      ],
+      "Modern": [
+        "Moderns"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Tīrs, atturīgs SaaS dizains ar neitrāliem pelēkiem toņiem, smalkām apmalēm un plašu brīvo laukumu."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (klasisks un siltie toņi)"
+      ],
+      "Klassik": [
+        "Klasisks"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Silti ziloņkaula un bordo toņi akadēmiskiem simpozijiem un augsta līmeņa kongresiem."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Augsts kontrasts (melns uz balta)"
+      ],
+      "Hochkontrast": [
+        "Augsts kontrasts"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Melns teksts uz balta fona (kontrasts 21:1) ar dzeltenu akcentu un pastiprinātiem fokusa rāmjiem."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Pielāgota tēma (savas krāsas un CSS)"
+      ],
+      "Individuell": [
+        "Individuāls"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Brīva krāsu izvēle un augšupielādētu pielāgotu CSS stila lapu atbalsts."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nav iesniegts derīgs augšupielādes fails."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Drošības kļūda: atļauts augšupielādēt tikai tīrus .css failus."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS fails pārsniedz 2 MB ierobežojumu."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Neizdevās saglabāt tēmas failu serverī."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Pielāgotās tēmas CSS veiksmīgi augšupielādēts un aktivizēts."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Norises vietas"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Norises vieta"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Meklēt norises vietas"
+      ],
+      "Häufige Tagungsorte": [
+        "Populāras norises vietas"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Visas norises vietas"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Rediģēt norises vietu"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Atjaunināt norises vietu"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Pievienot jaunu norises vietu"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Jaunās norises vietas nosaukums"
+      ],
+      "Orte mit Kommas trennen": [
+        "Atdaliet vietas ar komatiem"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Pievienot vai noņemt norises vietas"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Izvēlēties no biežāk izmantotajām vietām"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Norises vietas nav atrastas."
+      ],
+      "Stadt / Ort:": [
+        "Pilsēta / apdzīvota vieta:"
+      ],
+      "z. B. Musterstadt": [
+        "piem., Rīga"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Norises vietas pašvaldība vai pilsēta."
+      ],
+      "Straße & Hausnummer:": [
+        "Iela un mājas numurs:"
+      ],
+      "z. B. Musterstraße 1": [
+        "piem., Parauga iela 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Pasta indekss:"
+      ],
+      "Land:": [
+        "Valsts:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maksimālā telpas ietilpība (cilvēki):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Pieejama cilvēkiem ratiņkrēslā"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Atzīmējiet tikai tad, ja tas ir pārbaudīts. Norāde parādās norises vietu sarakstā un REST maršrutā /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Kartes / norāžu URL:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Norises vietas tīmekļa vietne:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maksimālā telpas ietilpība:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Konferenču zonas sēdvietu ietilpība."
+      ],
+      "Zugänglichkeit:": [
+        "Pieejamība:"
+      ],
+      "Google Maps Link:": [
+        "Kartes saite:"
+      ],
+      "Stadt & Adresse": [
+        "Pilsēta un adrese"
+      ],
+      "Kapazität": [
+        "Ietilpība"
+      ],
+      "Rollstuhlgerecht": [
+        "Pielāgota ratiņkrēsliem"
+      ],
+      "Ja": [
+        "Jā"
+      ],
+      "Nicht angegeben": [
+        "Nav norādīts"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Šobrīd ir ļoti liels vienlaicīgu pieprasījumu skaits. Lūdzu, mēģiniet vēlreiz pēc %d sekundēm. Vieta nav rezervēta."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Bez pastāvīgās objektu kešatmiņas (Redis, Memcached) uzgaidāmā telpa skaita datubāzē: noraidītie pieprasījumi ietaupa rezervācijas vaicājumus, taču joprojām prasa vienu lasīšanas un vienu rakstīšanas darbību opciju tabulā."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events rādītāji"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events rādītājs"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Izvada tiešsaistes rādītājus par aktīvajām konferencēm, apstiprinātajām reģistrācijām un brīvajām vietām."
+      ],
+      "Kennzahl": [
+        "Rādītājs"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Pasākuma ID (neobligāti)"
+      ],
+      "Dokumentation": [
+        "Dokumentācija"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Lūdzu, norādiet derīgu pasākuma ID: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Derīgs apstiprinājuma marķieris nav atrasts. Lūdzu, izmantojiet saiti no sava e-pasta."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Jaunākais aktīvais pasākums (automātiski) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automātiski (pašreizējā konference)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Pasākuma izvēle"
+      ],
+      "Ziel-Konferenz": [
+        "Mērķa konference"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Izvēlieties konferenci, kuras dati tiek rādīti ievada reklāmjoslā."
+      ],
+      "Design & Layout-Presets": [
+        "Dizaina un izkārtojuma sagataves"
+      ],
+      "Theme-Preset": [
+        "Tēmas sagatave"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (noklusējums)"
+      ],
+      "Federal Blue": [
+        "Federāli zilais (Federal Blue)"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Kiberpanka ciāna mirdzums (Cyberpunk Cyan Glow)"
+      ],
+      "Clean White & Modern": [
+        "Tīri balts un moderns (Clean White & Modern)"
+      ],
+      "Glassmorphism Blur": [
+        "Stikla izplūdums (Glassmorphism Blur)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Stūru noapaļojums (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Bez (0px)"
+      ],
+      "Mittel (8px)": [
+        "Vidējs (8px)"
+      ],
+      "Groß (16px)": [
+        "Liels (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Ļoti liels (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Iespējot mirdzuma (Glow) efektu"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Teksti un aicinājuma uz darbību (CTA) pogas"
+      ],
+      "Badge / Dachzeile": [
+        "Nozīmīte / virsrindas teksts"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Pielāgots galvenais virsraksts (neobligāti)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Noklusējums: pasākuma nosaukums"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Pielāgots ievadteksts"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Noklusējums: pasākuma apraksts"
+      ],
+      "Primärer CTA-Button Text": [
+        "Primārās CTA pogas teksts"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Primārās CTA pogas mērķa URL / enkurs"
+      ],
+      "Sekundären Button anzeigen": [
+        "Rādīt sekundāro pogu"
+      ],
+      "Sekundärer Button Text": [
+        "Sekundārās pogas teksts"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Sekundārās pogas mērķa URL"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Elementu redzamība"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Rādīt tiešsaistes atpakaļskaitīšanas taimeri"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Rādīt brīvo vietu / ietilpības birku"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Rādīt statusa birku (atvērts/pilns)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Rādīt norises vietu"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Rādīt datumu un laiku"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Rādīt biļetes cenu / bezmaksas nozīmīti"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Rādīt kalendāra eksporta (.ics) pogu"
+      ],
+      "Kopfbereich": [
+        "Galvenes sadaļa (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Noklusējums: pasākuma apraksts, kā arī datums, vieta, cena, brīvās vietas, atpakaļskaitīšana un reģistrācijas poga."
+      ],
+      "Countdown": [
+        "Atpakaļskaitīšana"
+      ],
+      "Freie Plätze": [
+        "Brīvās vietas"
+      ],
+      "Stil: %s": [
+        "Stils: %s"
+      ],
+      "Button: %s": [
+        "Poga: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Konferences izvēle"
+      ],
+      "Ziel-Veranstaltung": [
+        "Mērķa pasākums"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Izvēlieties pasākumu, kuram reģistrējas apmeklētāji."
+      ],
+      "Formular-Design & Theme": [
+        "Veidlapas dizains un tēma"
+      ],
+      "Formular-Stil": [
+        "Veidlapas stils"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (noklusējums)"
+      ],
+      "Clean White Studio": [
+        "Tīri balta studija (Clean White Studio)"
+      ],
+      "Eckenabrundung": [
+        "Stūru noapaļojums"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Veidlapas lauki un datu ievades opcijas"
+      ],
+      "Individueller Formulartitel": [
+        "Pielāgots veidlapas virsraksts"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Pielāgots apakšvirsraksts / piezīme"
+      ],
+      "Standard: kein Untertitel": [
+        "Noklusējums: bez apakšvirsraksta"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Rādīt organizācijas / uzņēmuma lauku"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Rādīt foto un video piekrišanas izvēles rūtiņu"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Rādīt galveno faktu galveni veidlapā"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Pogas uzraksts un privātuma saites"
+      ],
+      "Absende-Button Beschriftung": [
+        "Iesniegšanas pogas uzraksts"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Pielāgots privātuma politikas URL (neobligāti)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Noklusējums: privātuma lapa sadaļā Iestatījumi > Privātums"
+      ],
+      "Anmeldeformular": [
+        "Reģistrācijas veidlapa"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Reģistrācija ar divkāršu apstiprināšanu: Brevo nosūta apstiprinājuma saiti, un reģistrācija stājas spēkā pēc apstiprināšanas."
+      ],
+      "Standard nach Ticketpreis": [
+        "Noklusējums atkarībā no biļetes cenas"
+      ],
+      "Überschrift & Untertitel": [
+        "Virsraksts un apakšvirsraksts"
+      ],
+      "Überschrift": [
+        "Virsraksts"
+      ],
+      "Untertitel / Beschreibung": [
+        "Apakšvirsraksts / apraksts"
+      ],
+      "Suche, Angaben & Export": [
+        "Meklēšana, metadati un eksports"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Rādīt tiešsaistes sesiju meklēšanas lauku"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Rādīt telpas un norises vietas informāciju"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Rādīt runātāju portretus"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Rādīt pilnu kalendāra eksportu (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sesijas hronoloģiskā secībā ar telpu, runātāju, aprakstu, meklēšanu un .ics eksportu."
+      ],
+      "Suche": [
+        "Meklēšana"
+      ],
+      ".ics-Download": [
+        ".ics lejupielāde"
+      ],
+      "Layout & Spalten": [
+        "Izkārtojums un kolonnas"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Kolonnu skaits (darbvirsmā)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Teksti un detaļu attēlošana"
+      ],
+      "Untertitel": [
+        "Apakšvirsraksts"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Rādīt sesijas referāta tēmu"
+      ],
+      "Raumangabe anzeigen": [
+        "Rādīt telpas norādi"
+      ],
+      "Uhrzeit anzeigen": [
+        "Rādīt sākuma laiku"
+      ],
+      "Konferenz: ": [
+        "Konference: "
+      ],
+      "%d Spalten": [
+        "%d kolonnas"
+      ],
+      "Vortragsthemen": [
+        "Referātu tēmas"
+      ],
+      "Titel": [
+        "Nosaukums"
+      ],
+      "Individueller Titel": [
+        "Pielāgots nosaukums"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalendāra pakalpojumi un opcijas"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Rādīt Apple / Outlook (.ics fails)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Rādīt tiešo Google kalendāra saiti"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Rādīt tiešo Outlook Web saiti"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Rādīt tiešo Microsoft 365 saiti"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Rādīt laika joslas paziņojumu"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Rādīt piezīmi par atgādinājumu .ics failā"
+      ],
+      "Kalender": [
+        "Kalendārs"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Fails .ics ar atgādinājumu vienu dienu pirms sākuma un saitēm uz Google kalendāru, Outlook Web un Microsoft 365."
+      ],
+      ".ics-Datei": [
+        ".ics fails"
+      ],
+      "Session-Auswahl": [
+        "Sesiju izvēlne"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Šim blokam nav iestatījumu. Tas parāda sesijas marķierim no apstiprinājuma saites; bez marķiera tiek rādīts paziņojums."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Vieta tiek piešķirta saglabāšanas brīdī, kamēr sesija nav pilnībā rezervēta."
+      ],
+      "Ticketpass-Optionen": [
+        "Biļetes caurlaides opcijas"
+      ],
+      "Pass-Überschrift": [
+        "Caurlaides virsraksts"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Galvenes rinda (noklusējums: pasākuma nosaukums)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Rādīt drukāšanas pogu (drukāt kartīti)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Rādīt biļetes numuru"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Rādīt rēķina numuru / atsauci"
+      ],
+      "Check-In Status anzeigen": [
+        "Rādīt ierašanās statusu"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Caurlaide apstiprinātām reģistrācijām, kam piekļūst ar marķieri no apstiprinājuma e-pasta: vārds, uzņēmums, statuss, rēķina numurs, biļetes numurs un drukāšanas poga."
+      ],
+      "Ticketnummer": [
+        "Biļetes numurs"
+      ],
+      "Druckfunktion": [
+        "Drukāšanas poga"
+      ],
+      "Titel der Veranstaltung": [
+        "Pasākuma nosaukums"
+      ],
+      "Layout & Farbschema": [
+        "Izkārtojums un krāsu shēma"
+      ],
+      "Raster-Layout": [
+        "Režģa izkārtojums"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4 kolonnu režģis (noklusējums)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2 kolonnu režģis (plats)"
+      ],
+      "Farbthema": [
+        "Krāsu tēma"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (noklusējums)"
+      ],
+      "Angezeigte Karten": [
+        "Rādītās kartītes"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kartītes, kas apraksta spraudņa darbību. Bloks nesniedz juridisku novērtējumu par vietnes atbilstību."
+      ],
+      "Double Opt-in": [
+        "Divkārša apstiprināšana (Double Opt-in)"
+      ],
+      "Formulare": [
+        "Veidlapas"
+      ],
+      "Eigene Assets": [
+        "Pašu mitināti resursi"
+      ],
+      "Abfrage & Filterung": [
+        "Vaicājumi un filtrēšana"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maksimālais konferenču skaits"
+      ],
+      "Status-Filter": [
+        "Statusa filtrs"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Tikai aktīvie pasākumi"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktīvie un arhivētie pasākumi"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Tikai arhivētie pasākumi"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Redzamie metadati un pogas"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Rādīt tiešsaistes meklēšanas joslu"
+      ],
+      "Preisschild anzeigen": [
+        "Rādīt cenas zīmi"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Rādīt norises vietu / lokāciju"
+      ],
+      "Datums-Badge anzeigen": [
+        "Rādīt datuma nozīmīti"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Rādīt tiešo .ics kalendāra saiti"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Rādīt apraksta fragmentu"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA pogas uzraksts"
+      ],
+      "Veranstaltungsübersicht": [
+        "Pasākumu pārskats"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Pasākumu režģis ar datumu, cenu, vietu, īsu aprakstu, reģistrācijas pogu un .ics saiti."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Maks. %d pasākumi"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events sēdvietu plāns"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Sēdvietu plāna iestatījumi"
+      ],
+      "Überschrift (optional)": [
+        "Virsraksts (neobligāti)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Apraksts (neobligāti)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Iespējot tiešraides atjauninājumus"
+      ],
+      "Sitzplan": [
+        "Sēdvietu plāns"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafisks visu pasākuma sesiju noslodzes pārskats ar piekļūstamu datu tabulu."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events daudzskatu kalendārs"
+      ],
+      "Ansichten & Datenquelle": [
+        "Skati un datu avots"
+      ],
+      "Standardansicht": [
+        "Noklusējuma skats"
+      ],
+      "Monatskalender": [
+        "Mēneša kalendārs"
+      ],
+      "Wochenplan": [
+        "Nedēļas grafiks"
+      ],
+      "Tagesagenda": [
+        "Dienas darba kārtība"
+      ],
+      "Listenansicht": [
+        "Saraksta skats"
+      ],
+      "Kartenansicht": [
+        "Kartīšu skats"
+      ],
+      "Raumübersicht": [
+        "Telpu pārskats"
+      ],
+      "Track-Matrix": [
+        "Virzienu matrica"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maksimālais ierakstu skaits"
+      ],
+      "Bedienleiste & Filter": [
+        "Rīkjosla un filtri"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Rādīt skatu pārslēdzēju"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Rādīt virzienu un telpu filtrus"
+      ],
+      "Suchfeld anzeigen": [
+        "Rādīt meklēšanas lauku"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Rādīt ziņu joslu"
+      ],
+      "Kalender-Ansichten": [
+        "Kalendāra skati"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Daudzskatu kalendārs un darba kārtība"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Pārslēdzami mēneša, nedēļas, dienas, saraksta, kartīšu, telpu un virzienu skati."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events konferences darba kārtība"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktīvs daudzvirzienu konferences grafiks ar laika skalu, runātāju informāciju, telpu filtriem un iCal (.ics) lejupielādi."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalendārs, darba kārtība un virzieni)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Paplašināts kalendāra un darba kārtības komplekts ar 7 interaktīviem skatiem: mēneša kalendāru, nedēļas grafiku, dienas darba kārtību, saraksta skatu, fotokartītēm, telpu karti un daudzvirzienu matricu."
+      ],
+      "block keyword\u0004event": [
+        "pasākums"
+      ],
+      "block keyword\u0004calendar": [
+        "kalendārs"
+      ],
+      "block keyword\u0004agenda": [
+        "darba kārtība"
+      ],
+      "block keyword\u0004schedule": [
+        "grafiks"
+      ],
+      "block keyword\u0004summit": [
+        "konference"
+      ],
+      "block keyword\u0004timetable": [
+        "saraksts"
+      ],
+      "block keyword\u0004matrix": [
+        "matrica"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events kalendāra un .ics logrīks"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalendāra logrīks ar .ics lejupielādi un saitēm uz Google kalendāru, Outlook Web un Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event galvenes un atpakaļskaitīšanas reklāmjosla"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Pasākuma ievada reklāmjosla ar atpakaļskaitīšanu, galvenajiem faktiem, statusu un reģistrācijas pogām."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events pārskata un arhīva režģis"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dinamisks gaidāmo konferenču, simpoziju un semināru kartīšu pārskats ar meklēšanas joslu un statusa filtriem."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events reģistrācijas veidlapa"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Reģistrācijas veidlapa ar Brevo divkāršu apstiprināšanu, neobligātu profila fotoattēlu un piekrišanu fotografēšanai."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events sēdvietu plāns"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Visu pasākuma sesiju noslodze SVG formātā, ko nepārtraukti atjaunina ar Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events drošības un uzticamības nozīmītes"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Spraudņa privātuma un drošības funkciju pārskats: divkāršā apstiprināšana, dzēšanas termiņi, audita žurnāls, rēķinu XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events sesiju un semināru izvēlne"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Sesiju izvēlne apstiprinātām reģistrācijām: vietas tiek piešķirtas saglabājot, kamēr ir brīva ietilpība."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events runātāju un ekspertu režģis"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automātiski ģenerēts galveno runātāju, referātu, telpu sadalījuma un biogrāfiju pārskats."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events digitālā biļetes caurlaide"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Dalībnieka caurlaide apstiprinātām reģistrācijām ar biļetes numuru, pasākumu, norises vietu un drukāšanas pogu."
+      ]
+    }
+  }
+}

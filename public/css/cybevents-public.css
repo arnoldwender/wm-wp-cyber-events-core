@@ -1,0 +1,3167 @@
+/**
+ * WM Cyber Events Core — Silicon Valley Enterprise Frontend Design System
+ * Fully compliant with BITV 2.0 / WCAG 2.2 AA / BFSG 2025
+ * Frontend styles of the event blocks and shortcodes
+ *
+ * @package CyberEvents
+ */
+
+:root {
+  /* WM Suite Canonical Brand Identity Tokens */
+  --wm-navy: #002D5B;
+  --wm-brand-blue: #0072BB;
+  --wm-brand-medium: #004C91;
+  --wm-brand-light: #339AD8;
+  --wm-gold: #FFD700;
+  --wm-gold-dark: #FFA500;
+  --wm-magenta: #D1006C;
+	/* 1. Theme-Inherited Custom Properties with Graceful Fallbacks */
+	--cyb-font-sans: var(--wp--preset--font-family--body, var(--font-family-body, inherit));
+	--cyb-primary: var(--wp--preset--color--primary, var(--accent, var(--global-color-1, #0052cc)));
+	--cyb-primary-hover: var(--wp--preset--color--secondary, var(--accent-hover, #003d99));
+	--cyb-primary-active: var(--wp--preset--color--primary, #002b66);
+	--cyb-primary-subtle: var(--wp--preset--color--subtle, #e8f0fe);
+	--cyb-navy-950: var(--wp--preset--color--contrast, #060d1a);
+	--cyb-navy-900: var(--wp--preset--color--contrast-2, #0b1528);
+	--cyb-navy-800: #13233f;
+	--cyb-navy-700: #1e3a63;
+	--cyb-cyan-500: var(--wp--preset--color--accent, #00b4d8);
+	--cyb-cyan-600: #0096c7;
+	--cyb-emerald-600: #059669;
+	--cyb-emerald-50: #ecfdf5;
+	--cyb-amber-600: #d97706;
+	--cyb-amber-50: #fffbeb;
+	--cyb-rose-600: #dc2626;
+	--cyb-rose-50: #fef2f2;
+	--cyb-bg-page: var(--wp--preset--color--base, var(--base, inherit));
+	--cyb-bg-card: var(--wp--preset--color--base-2, var(--card-bg, #ffffff));
+	--cyb-bg-subtle: var(--wp--preset--color--base-3, var(--bg-subtle, #f1f5f9));
+	--cyb-text-main: var(--wp--preset--color--contrast, var(--text-color, inherit));
+	--cyb-text-muted: var(--wp--preset--color--contrast-2, var(--text-muted, #475569));
+	--cyb-text-light: #94a3b8;
+	--cyb-border: var(--wp--preset--color--border, var(--border-color, #e2e8f0));
+	--cyb-border-focus: var(--cyb-primary);
+	--cyb-radius-sm: var(--wp--custom--radius--sm, 8px);
+	--cyb-radius-md: var(--wp--custom--radius--md, 12px);
+	--cyb-radius-lg: var(--wp--custom--radius--lg, 20px);
+	--cyb-radius-full: 9999px;
+	--cyb-shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+	--cyb-shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
+	--cyb-shadow-lg: 0 12px 24px -4px rgba(0, 0, 0, 0.1), 0 4px 8px -2px rgba(0, 0, 0, 0.04);
+	--cyb-shadow-glow: 0 0 20px rgba(0, 180, 216, 0.25);
+	--cyb-accent-cyan: #00b4d8;
+	--cyb-amber-300: #fcd34d;
+	--cyb-amber-500: #f59e0b;
+	--cyb-black: #000000;
+	--cyb-blue-600: #0052cc;
+	--cyb-blue-700: #003d99;
+	--cyb-emerald-200: #a7f3d0;
+	--cyb-emerald-300: #6ee7b7;
+	--cyb-emerald-400: #34d399;
+	--cyb-emerald-500: #10b981;
+	--cyb-federal-900: #0a2540;
+	--cyb-neon-cyan: #00d4ff;
+	--cyb-ocean-600: #0077b6;
+	--cyb-purple-300: #d8b4fe;
+	--cyb-purple-500: #a855f7;
+	--cyb-red-300: #fca5a5;
+	--cyb-red-400: #f87171;
+	--cyb-red-500: #ef4444;
+	--cyb-sky-300: #7dd3fc;
+	--cyb-sky-400: #38bdf8;
+	--cyb-sky-600: #0284c7;
+	--cyb-slate-200: #e2e8f0;
+	--cyb-slate-300: #cbd5e1;
+	--cyb-slate-400: #94a3b8;
+	--cyb-slate-50: #f8fafc;
+	--cyb-slate-500: #64748b;
+	--cyb-slate-950: #020617;
+	--cyb-surface-750: #13233f;
+	--cyb-surface-800: #0f2744;
+	--cyb-surface-820: #0f2038;
+	--cyb-surface-850: #0c1c36;
+	--cyb-surface-900: #0b1528;
+	--cyb-surface-940: #070d18;
+	--cyb-surface-950: #060d1a;
+	--cyb-tint-blue-50: #f8faff;
+	--cyb-white: #ffffff;
+	--cyb-yellow-300: #fde047;
+}
+
+/* ==========================================================================
+   1. Event Header & Key Facts Showcase
+   ========================================================================== */
+.cybevents-event-header {
+	background: linear-gradient(135deg, var(--cyb-navy-950) 0%, var(--cyb-navy-900) 55%, var(--cyb-navy-800) 100%);
+	color: var(--cyb-white);
+	border-radius: var(--cyb-radius-lg);
+	padding: 36px 32px;
+	margin: 20px auto 32px auto;
+	max-width: 960px;
+	box-shadow: var(--cyb-shadow-lg);
+	position: relative;
+	overflow: hidden;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cybevents-event-header::after {
+	content: "";
+	position: absolute;
+	top: -40%;
+	right: -20%;
+	width: 450px;
+	height: 450px;
+	background: radial-gradient(circle, rgba(0, 180, 216, 0.2) 0%, rgba(0, 82, 204, 0.05) 50%, transparent 70%);
+	pointer-events: none;
+}
+
+.cybevents-event-badges {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-bottom: 16px;
+	position: relative;
+	z-index: 2;
+}
+
+.cybevents-badge-pill {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	font-size: 12px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	padding: 4px 12px;
+	border-radius: var(--cyb-radius-full);
+	backdrop-filter: blur(8px);
+}
+
+.cybevents-badge-pill--official {
+	background: rgba(0, 180, 216, 0.2);
+	color: var(--cyb-cyan-500);
+	border: 1px solid rgba(0, 180, 216, 0.4);
+}
+
+.cybevents-badge-pill--security {
+	background: rgba(16, 185, 129, 0.18);
+	color: var(--cyb-emerald-400);
+	border: 1px solid rgba(16, 185, 129, 0.4);
+}
+
+.cybevents-event-title {
+	font-size: 30px;
+	font-weight: 800;
+	letter-spacing: -0.02em;
+	line-height: 1.2;
+	color: var(--cyb-white);
+	margin: 0 0 14px 0;
+	position: relative;
+	z-index: 2;
+}
+
+.cybevents-event-meta-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 16px;
+	margin-top: 24px;
+	padding-top: 20px;
+	border-top: 1px solid rgba(255, 255, 255, 0.12);
+	position: relative;
+	z-index: 2;
+}
+
+.cybevents-meta-item {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.cybevents-meta-icon {
+	width: 40px;
+	height: 40px;
+	border-radius: var(--cyb-radius-sm);
+	background: rgba(255, 255, 255, 0.08);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 18px;
+	flex-shrink: 0;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cybevents-meta-label {
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	color: var(--cyb-text-light);
+	margin: 0;
+}
+
+.cybevents-meta-value {
+	font-size: 14px;
+	font-weight: 700;
+	color: var(--cyb-white);
+	margin: 2px 0 0 0;
+}
+
+/* ==========================================================================
+   2. Enterprise Registration Form & Stepper
+   ========================================================================== */
+.cybevents-form-container {
+	max-width: 720px;
+	margin: 0 auto 40px auto;
+	font-family: var(--cyb-font-sans);
+}
+
+.cybevents-form {
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-lg);
+	padding: 36px 32px;
+	box-shadow: var(--cyb-shadow-md);
+	position: relative;
+}
+
+.cybevents-stepper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 32px;
+	position: relative;
+}
+
+.cybevents-stepper::before {
+	content: "";
+	position: absolute;
+	top: 18px;
+	left: 30px;
+	right: 30px;
+	height: 2px;
+	background: var(--cyb-border);
+	z-index: 1;
+}
+
+.cybevents-step-node {
+	position: relative;
+	z-index: 2;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 6px;
+	background: var(--cyb-bg-card);
+	padding: 0 10px;
+}
+
+.cybevents-step-bubble {
+	width: 36px;
+	height: 36px;
+	border-radius: 50%;
+	background: var(--cyb-bg-subtle);
+	color: var(--cyb-text-muted);
+	border: 2px solid var(--cyb-border);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: 700;
+	font-size: 14px;
+	transition: all 0.2s ease;
+}
+
+.cybevents-step-node.is-active .cybevents-step-bubble {
+	background: var(--cyb-primary);
+	color: var(--cyb-white);
+	border-color: var(--cyb-primary);
+	box-shadow: 0 0 0 4px var(--cyb-primary-subtle);
+}
+
+.cybevents-step-label {
+	font-size: 12px;
+	font-weight: 600;
+	color: var(--cyb-text-muted);
+}
+
+.cybevents-step-node.is-active .cybevents-step-label {
+	color: var(--cyb-primary);
+	font-weight: 700;
+}
+
+/* Form Groups & Inputs */
+.cybevents-form-row {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 18px;
+	margin-bottom: 20px;
+}
+
+@media (max-width: 600px) {
+	.cybevents-form-row {
+		grid-template-columns: 1fr;
+	}
+}
+
+.cybevents-field-group {
+	margin-bottom: 20px;
+}
+
+.cybevents-label {
+	display: block;
+	font-size: 14px;
+	font-weight: 700;
+	color: var(--cyb-text-main);
+	margin-bottom: 6px;
+}
+
+.cybevents-required {
+	color: var(--cyb-rose-600);
+	margin-left: 2px;
+}
+
+.cybevents-input {
+	width: 100%;
+	min-height: 48px; /* BFSG 2025 Minimum Touch Target */
+	padding: 12px 16px;
+	font-size: 15px;
+	border: 1.5px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-sm);
+	background: var(--cyb-white);
+	color: var(--cyb-text-main);
+	box-sizing: border-box;
+	transition: border-color 0.15s ease, box-shadow 0.15s ease;
+	/* Transparent, not none: forced-colors mode still paints the outline. */
+	outline: 2px solid transparent;
+	outline-offset: 2px;
+}
+
+.cybevents-input:focus {
+	border-color: var(--cyb-primary);
+	box-shadow: 0 0 0 3px var(--cyb-primary-subtle);
+}
+
+.cybevents-input:disabled {
+	background: var(--cyb-bg-subtle);
+	cursor: not-allowed;
+}
+
+/* Consent Cards */
+.cybevents-consent-card {
+	background: var(--cyb-bg-subtle);
+	border: 1.5px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-sm);
+	padding: 16px;
+	margin-bottom: 16px;
+	display: flex;
+	gap: 14px;
+	align-items: flex-start;
+	cursor: pointer;
+	transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.cybevents-consent-card:hover {
+	border-color: var(--cyb-cyan-600);
+}
+
+.cybevents-checkbox {
+	width: 22px;
+	height: 22px;
+	margin: 2px 0 0 0;
+	flex-shrink: 0;
+	accent-color: var(--cyb-primary);
+	cursor: pointer;
+}
+
+.cybevents-consent-text {
+	font-size: 13px;
+	line-height: 1.5;
+	color: var(--cyb-text-main);
+}
+
+.cybevents-consent-text strong {
+	display: block;
+	font-size: 14px;
+	margin-bottom: 2px;
+}
+
+/* Buttons */
+.cybevents-btn-submit {
+	width: 100%;
+	min-height: 52px;
+	background: linear-gradient(135deg, var(--cyb-primary) 0%, var(--cyb-primary-hover) 100%);
+	color: var(--cyb-white) !important;
+	border: none;
+	border-radius: var(--cyb-radius-sm);
+	font-size: 16px;
+	font-weight: 700;
+	cursor: pointer;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	box-shadow: 0 4px 12px rgba(0, 82, 204, 0.25);
+	transition: transform 0.15s ease, box-shadow 0.15s ease;
+	text-decoration: none !important;
+	margin-top: 10px;
+}
+
+.cybevents-btn-submit:hover:not(:disabled) {
+	transform: translateY(-2px);
+	box-shadow: 0 6px 16px rgba(0, 82, 204, 0.35);
+}
+
+.cybevents-btn-submit:disabled {
+	opacity: 0.65;
+	cursor: not-allowed;
+	transform: none;
+}
+
+/* ==========================================================================
+   3. Interactive Tokenized Session Selector App
+   ========================================================================== */
+.cybevents-session-app-container {
+	max-width: 920px;
+	margin: 20px auto 100px auto;
+	font-family: var(--cyb-font-sans);
+}
+
+.cybevents-participant-welcome {
+	background: linear-gradient(135deg, var(--cyb-navy-950) 0%, var(--cyb-navy-900) 100%);
+	border-radius: var(--cyb-radius-lg);
+	padding: 28px 32px;
+	color: var(--cyb-white);
+	box-shadow: var(--cyb-shadow-md);
+	margin-bottom: 28px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 16px;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cybevents-participant-info h2 {
+	color: var(--cyb-white) !important;
+	font-size: 24px;
+	font-weight: 800;
+	margin: 0 0 6px 0 !important;
+}
+
+.cybevents-participant-info p {
+	color: var(--cyb-text-light);
+	font-size: 14px;
+	margin: 0;
+}
+
+.cybevents-status-chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 6px 16px;
+	border-radius: var(--cyb-radius-full);
+	font-size: 13px;
+	font-weight: 700;
+	background: rgba(16, 185, 129, 0.2);
+	color: var(--cyb-emerald-400);
+	border: 1px solid rgba(16, 185, 129, 0.4);
+}
+
+/* Session Cards Grid */
+.cybevents-session-card {
+	background: var(--cyb-bg-card);
+	border: 1.5px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+	padding: 24px;
+	margin-bottom: 20px;
+	box-shadow: var(--cyb-shadow-sm);
+	transition: all 0.2s ease;
+	position: relative;
+}
+
+.cybevents-session-card:hover {
+	border-color: var(--cyb-cyan-500);
+	box-shadow: var(--cyb-shadow-md);
+}
+
+.cybevents-session-card.is-booked {
+	border-color: var(--cyb-primary);
+	background: var(--cyb-tint-blue-50);
+	box-shadow: 0 0 0 2px var(--cyb-primary-subtle);
+}
+
+.cybevents-session-card.is-full {
+	background: var(--cyb-slate-50);
+	opacity: 0.65;
+	border-color: var(--cyb-border);
+}
+
+.cybevents-session-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	gap: 16px;
+	margin-bottom: 14px;
+}
+
+.cybevents-session-title {
+	font-size: 18px;
+	font-weight: 800;
+	color: var(--cyb-text-main);
+	margin: 0 0 6px 0;
+	line-height: 1.3;
+}
+
+.cybevents-session-meta-strip {
+	display: flex;
+	gap: 12px;
+	flex-wrap: wrap;
+	font-size: 13px;
+	color: var(--cyb-text-muted);
+}
+
+.cybevents-meta-pill {
+	display: inline-flex;
+	align-items: center;
+	gap: 5px;
+	background: var(--cyb-bg-subtle);
+	padding: 4px 10px;
+	border-radius: var(--cyb-radius-sm);
+	font-weight: 600;
+}
+
+.cybevents-capacity-badge {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 6px 14px;
+	border-radius: var(--cyb-radius-full);
+	font-size: 13px;
+	font-weight: 700;
+	background: var(--cyb-emerald-50);
+	color: var(--cyb-emerald-600);
+	border: 1px solid var(--cyb-emerald-600);
+	white-space: nowrap;
+}
+
+.cybevents-capacity-badge--full {
+	background: var(--cyb-rose-50);
+	color: var(--cyb-rose-600);
+	border-color: var(--cyb-rose-600);
+}
+
+.cybevents-session-desc {
+	font-size: 14px;
+	color: var(--cyb-text-muted);
+	line-height: 1.6;
+	margin: 12px 0 18px 0;
+}
+
+/* Sticky Floating Action Dock */
+.cybevents-floating-dock {
+	position: fixed;
+	bottom: 24px;
+	left: 50%;
+	transform: translateX(-50%);
+	width: calc(100% - 48px);
+	max-width: 800px;
+	background: rgba(6, 13, 26, 0.92);
+	backdrop-filter: blur(12px);
+	border: 1px solid rgba(255, 255, 255, 0.15);
+	border-radius: var(--cyb-radius-full);
+	padding: 12px 24px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+	z-index: 9999;
+	color: var(--cyb-white);
+	animation: slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slide-up {
+	from { transform: translate(-50%, 100%); opacity: 0; }
+	to { transform: translate(-50%, 0); opacity: 1; }
+}
+
+.cybevents-dock-summary {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.cybevents-dock-pill {
+	background: var(--cyb-cyan-500);
+	color: var(--cyb-navy-950);
+	font-weight: 800;
+	padding: 4px 10px;
+	border-radius: var(--cyb-radius-full);
+	font-size: 13px;
+}
+
+.cybevents-dock-btn {
+	background: linear-gradient(135deg, var(--cyb-primary) 0%, var(--cyb-cyan-600) 100%);
+	color: var(--cyb-white);
+	border: none;
+	border-radius: var(--cyb-radius-full);
+	padding: 10px 24px;
+	font-size: 14px;
+	font-weight: 700;
+	cursor: pointer;
+	transition: transform 0.15s ease, box-shadow 0.15s ease;
+	box-shadow: 0 4px 12px rgba(0, 180, 216, 0.3);
+}
+
+.cybevents-dock-btn:hover {
+	transform: scale(1.03);
+	box-shadow: 0 6px 16px rgba(0, 180, 216, 0.45);
+}
+
+/* Toast Notifications */
+.cybevents-toast {
+	position: fixed;
+	top: 24px;
+	right: 24px;
+	max-width: 400px;
+	background: var(--cyb-white);
+	border-radius: var(--cyb-radius-md);
+	padding: 16px 20px;
+	box-shadow: var(--cyb-shadow-lg);
+	border-left: 5px solid var(--cyb-primary);
+	z-index: 10000;
+	animation: toast-slide 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+	display: flex;
+	align-items: flex-start;
+	gap: 12px;
+}
+
+.cybevents-toast--error {
+	border-left-color: var(--cyb-rose-600);
+}
+
+.cybevents-toast--success {
+	border-left-color: var(--cyb-emerald-600);
+}
+
+@keyframes toast-slide {
+	from { transform: translateX(100%); opacity: 0; }
+	to { transform: translateX(0); opacity: 1; }
+}
+
+/* Accessibility Focus States */
+.cybevents-input:focus-visible,
+.cybevents-checkbox:focus-visible,
+.cybevents-btn-submit:focus-visible,
+.cybevents-dock-btn:focus-visible,
+.cybevents-btn-secondary:focus-visible {
+	outline: 3px solid var(--cyb-accent-cyan) !important;
+	outline-offset: 3px !important;
+}
+
+/* ==========================================================================
+   4. Public Conference Agenda Matrix [cybevents_agenda]
+   ========================================================================== */
+.cybevents-agenda-wrapper {
+	max-width: 960px;
+	margin: 32px auto;
+	font-family: var(--cyb-font-sans);
+}
+
+.cybevents-agenda-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	flex-wrap: wrap;
+	gap: 20px;
+	margin-bottom: 28px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid var(--cyb-border);
+}
+
+.cybevents-badge-official {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	font-size: 12px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	padding: 4px 10px;
+	border-radius: var(--cyb-radius-full);
+	background: var(--cyb-primary-subtle);
+	color: var(--cyb-primary);
+	margin-bottom: 8px;
+}
+
+.cybevents-agenda-title {
+	font-size: 26px;
+	font-weight: 800;
+	color: var(--cyb-text-main);
+	margin: 0 0 8px 0;
+	letter-spacing: -0.01em;
+}
+
+.cybevents-agenda-meta {
+	display: flex;
+	gap: 16px;
+	font-size: 14px;
+	font-weight: 600;
+	color: var(--cyb-text-muted);
+	margin: 0;
+}
+
+.cybevents-btn-secondary {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 18px;
+	background: var(--cyb-white);
+	border: 1.5px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-sm);
+	color: var(--cyb-text-main);
+	font-size: 14px;
+	font-weight: 700;
+	text-decoration: none;
+	transition: all 0.15s ease;
+	box-shadow: var(--cyb-shadow-sm);
+}
+
+.cybevents-btn-secondary:hover {
+	border-color: var(--cyb-primary);
+	color: var(--cyb-primary);
+	box-shadow: var(--cyb-shadow-md);
+	transform: translateY(-1px);
+}
+
+/* Timeline Cards */
+.cybevents-agenda-timeline {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.cybevents-agenda-card {
+	display: grid;
+	grid-template-columns: 180px 1fr;
+	gap: 24px;
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+	padding: 24px;
+	box-shadow: var(--cyb-shadow-sm);
+	transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+@media (max-width: 680px) {
+	.cybevents-agenda-card {
+		grid-template-columns: 1fr;
+		gap: 12px;
+	}
+}
+
+.cybevents-agenda-card:hover {
+	border-color: var(--cyb-cyan-500);
+	box-shadow: var(--cyb-shadow-md);
+}
+
+.cybevents-agenda-time-col {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	font-size: 16px;
+	font-weight: 800;
+	color: var(--cyb-navy-900);
+}
+
+.cybevents-room-tag {
+	margin-top: 6px;
+	display: inline-block;
+	font-size: 12px;
+	font-weight: 700;
+	background: var(--cyb-bg-subtle);
+	color: var(--cyb-text-muted);
+	padding: 4px 8px;
+	border-radius: var(--cyb-radius-sm);
+}
+
+.cybevents-agenda-session-title {
+	font-size: 18px;
+	font-weight: 800;
+	color: var(--cyb-text-main);
+	margin: 0 0 8px 0;
+	line-height: 1.3;
+}
+
+.cybevents-agenda-speaker {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	font-size: 14px;
+	color: var(--cyb-primary);
+	margin-bottom: 10px;
+}
+
+.cybevents-agenda-desc {
+	font-size: 14px;
+	color: var(--cyb-text-muted);
+	line-height: 1.6;
+}
+
+.cybevents-agenda-desc p {
+	margin: 0;
+}
+
+/* ==========================================================================
+   1. Event Hero & Countdown Banner Block
+   ========================================================================== */
+.cybevents-hero-block {
+	background: linear-gradient(135deg, var(--cyb-surface-950) 0%, var(--cyb-surface-850) 100%);
+	border-radius: var(--cyb-radius-lg);
+	padding: 48px 36px;
+	color: var(--cyb-white);
+	border: 1px solid rgba(0, 180, 216, 0.3);
+	box-shadow: 0 12px 32px rgba(6, 13, 26, 0.35);
+	margin: 32px 0;
+	position: relative;
+	overflow: hidden;
+}
+
+.cybevents-hero-block::before {
+	content: "";
+	position: absolute;
+	top: -40%;
+	right: -20%;
+	width: 400px;
+	height: 400px;
+	background: radial-gradient(circle, rgba(0, 180, 216, 0.18) 0%, transparent 70%);
+	pointer-events: none;
+}
+
+.cybevents-hero-badges {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-bottom: 18px;
+}
+
+.cybevents-badge-status {
+	display: inline-flex;
+	align-items: center;
+	font-size: 12px;
+	font-weight: 700;
+	padding: 4px 12px;
+	border-radius: var(--cyb-radius-full);
+}
+
+.cybevents-badge-status.is-open {
+	background: rgba(16, 185, 129, 0.2);
+	color: var(--cyb-emerald-400);
+	border: 1px solid rgba(16, 185, 129, 0.4);
+}
+
+.cybevents-badge-status.is-full {
+	background: rgba(239, 68, 68, 0.2);
+	color: var(--cyb-red-400);
+	border: 1px solid rgba(239, 68, 68, 0.4);
+}
+
+.cybevents-hero-title {
+	font-size: clamp(28px, 4vw, 42px);
+	font-weight: 900;
+	color: var(--cyb-white) !important;
+	line-height: 1.2;
+	margin: 0 0 16px 0 !important;
+	letter-spacing: -0.02em;
+}
+
+.cybevents-hero-lead {
+	font-size: 16px;
+	line-height: 1.6;
+	color: var(--cyb-slate-300);
+	max-width: 800px;
+	margin: 0 0 28px 0 !important;
+}
+
+.cybevents-hero-meta-bar {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+	gap: 16px;
+	background: rgba(255, 255, 255, 0.05);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	border-radius: var(--cyb-radius-md);
+	padding: 16px 20px;
+	margin-bottom: 28px;
+}
+
+.cybevents-hero-meta-item {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.cybevents-meta-icon {
+	font-size: 24px;
+}
+
+.cybevents-hero-meta-item strong {
+	display: block;
+	font-size: 14px;
+	color: var(--cyb-slate-50);
+}
+
+.cybevents-hero-meta-item span {
+	font-size: 12px;
+	color: var(--cyb-slate-400);
+}
+
+.cybevents-countdown-box {
+	background: rgba(0, 0, 0, 0.35);
+	border: 1px solid rgba(0, 180, 216, 0.25);
+	border-radius: var(--cyb-radius-md);
+	padding: 18px 24px;
+	margin-bottom: 28px;
+	display: inline-block;
+}
+
+.cybevents-countdown-title {
+	font-size: 13px;
+	font-weight: 700;
+	color: var(--cyb-accent-cyan);
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	margin-bottom: 10px;
+}
+
+.cybevents-countdown-grid {
+	display: flex;
+	gap: 16px;
+}
+
+.cybevents-cd-unit {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: rgba(255, 255, 255, 0.08);
+	border-radius: var(--cyb-radius-sm);
+	padding: 8px 14px;
+	min-width: 60px;
+}
+
+.cybevents-cd-num {
+	font-size: 22px;
+	font-weight: 800;
+	font-variant-numeric: tabular-nums;
+	color: var(--cyb-white);
+}
+
+.cybevents-cd-label {
+	font-size: 11px;
+	text-transform: uppercase;
+	color: var(--cyb-slate-400);
+	font-weight: 600;
+}
+
+.cybevents-hero-actions {
+	display: flex;
+	gap: 14px;
+	flex-wrap: wrap;
+}
+
+.cybevents-btn--lg {
+	padding: 14px 28px !important;
+	font-size: 16px !important;
+	font-weight: 700 !important;
+}
+
+.cybevents-btn--sm {
+	padding: 6px 12px !important;
+	font-size: 13px !important;
+	font-weight: 600 !important;
+}
+
+/* ==========================================================================
+   2. Calendar & .ics Widget Block
+   ========================================================================== */
+.cybevents-cal-widget-wrap {
+	margin: 28px 0;
+}
+
+.cybevents-cal-card {
+	display: flex;
+	gap: 28px;
+	align-items: center;
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-lg);
+	padding: 28px;
+	box-shadow: var(--cyb-shadow-md);
+}
+
+@media (max-width: 720px) {
+	.cybevents-cal-card {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}
+
+.cybevents-cal-date-badge {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background: var(--cyb-primary);
+	color: var(--cyb-white);
+	border-radius: var(--cyb-radius-md);
+	padding: 18px 24px;
+	min-width: 110px;
+	text-align: center;
+	box-shadow: 0 4px 12px rgba(0, 82, 204, 0.25);
+}
+
+.cybevents-cal-month {
+	font-size: 13px;
+	font-weight: 800;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+}
+
+.cybevents-cal-day {
+	font-size: 36px;
+	font-weight: 900;
+	line-height: 1;
+	margin: 4px 0;
+}
+
+.cybevents-cal-year {
+	font-size: 12px;
+	font-weight: 600;
+	opacity: 0.85;
+}
+
+.cybevents-cal-details {
+	flex: 1;
+}
+
+.cybevents-cal-title {
+	font-size: 20px;
+	font-weight: 800;
+	margin: 0 0 8px 0 !important;
+	color: var(--cyb-text-main);
+}
+
+.cybevents-cal-meta {
+	display: flex;
+	gap: 16px;
+	font-size: 14px;
+	color: var(--cyb-text-muted);
+	font-weight: 600;
+	margin-bottom: 16px;
+	flex-wrap: wrap;
+}
+
+.cybevents-cal-actions {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+}
+
+.cybevents-cal-notice {
+	font-size: 12px;
+	color: var(--cyb-text-muted);
+	margin: 0 !important;
+}
+
+/* ==========================================================================
+   3. Speaker & Expert Grid Block
+   ========================================================================== */
+.cybevents-speaker-section {
+	margin: 36px 0;
+}
+
+.cybevents-speaker-header {
+	margin-bottom: 24px;
+}
+
+.cybevents-speaker-title {
+	font-size: 26px;
+	font-weight: 900;
+	color: var(--cyb-text-main);
+	margin: 4px 0 0 0 !important;
+	letter-spacing: -0.01em;
+}
+
+.cybevents-speaker-grid {
+	display: grid;
+	gap: 20px;
+}
+
+.cybevents-speaker-grid--cols-2 { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.cybevents-speaker-grid--cols-3 { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.cybevents-speaker-grid--cols-4 { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+
+.cybevents-speaker-card {
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+	padding: 24px;
+	box-shadow: var(--cyb-shadow-sm);
+	transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+	display: flex;
+	flex-direction: column;
+}
+
+.cybevents-speaker-card:hover {
+	transform: translateY(-2px);
+	box-shadow: var(--cyb-shadow-md);
+	border-color: var(--cyb-primary);
+}
+
+.cybevents-speaker-avatar {
+	width: 56px;
+	height: 56px;
+	border-radius: 50%;
+	background: linear-gradient(135deg, var(--cyb-primary) 0%, var(--cyb-accent-cyan) 100%);
+	color: var(--cyb-white);
+	font-size: 18px;
+	font-weight: 800;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 16px;
+	box-shadow: 0 4px 10px rgba(0, 82, 204, 0.2);
+}
+
+.cybevents-speaker-name {
+	font-size: 18px;
+	font-weight: 800;
+	color: var(--cyb-text-main);
+	margin: 0 0 6px 0 !important;
+}
+
+.cybevents-speaker-topic {
+	font-size: 14px;
+	color: var(--cyb-text-muted);
+	line-height: 1.5;
+	flex: 1;
+	margin: 0 0 16px 0 !important;
+}
+
+.cybevents-speaker-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 12px;
+	font-weight: 700;
+	color: var(--cyb-primary);
+	padding-top: 12px;
+	border-top: 1px solid var(--cyb-border-subtle);
+}
+
+.cybevents-speaker-room {
+	background: var(--cyb-bg-subtle);
+	padding: 2px 8px;
+	border-radius: var(--cyb-radius-sm);
+	color: var(--cyb-text-muted);
+}
+
+/* ==========================================================================
+   4. Digital Ticket Pass Verifier Block & Print Styles
+   ========================================================================== */
+.cybevents-ticket-lookup-wrap {
+	max-width: 560px;
+	margin: 32px auto;
+}
+
+.cybevents-ticket-lookup-card {
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-lg);
+	padding: 32px;
+	text-align: center;
+	box-shadow: var(--cyb-shadow-md);
+}
+
+.cybevents-ticket-search-form {
+	display: flex;
+	gap: 8px;
+	margin-top: 20px;
+}
+
+.cybevents-ticket-input {
+	flex: 1;
+	padding: 12px 16px;
+	border: 1.5px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-sm);
+	font-size: 14px;
+	outline: 2px solid transparent;
+	outline-offset: 2px;
+}
+
+.cybevents-ticket-input:focus {
+	border-color: var(--cyb-primary);
+	box-shadow: 0 0 0 3px var(--cyb-primary-subtle);
+}
+
+.cybevents-ticket-pass-container {
+	margin: 36px 0;
+	display: flex;
+	justify-content: center;
+}
+
+.cybevents-digital-pass {
+	background: var(--cyb-white);
+	border: 2px solid var(--cyb-navy-900);
+	border-radius: var(--cyb-radius-lg);
+	max-width: 600px;
+	width: 100%;
+	overflow: hidden;
+	box-shadow: var(--cyb-shadow-lg);
+	color: var(--cyb-navy-900);
+}
+
+.cybevents-pass-header {
+	background: var(--cyb-navy-900);
+	color: var(--cyb-white);
+	padding: 18px 24px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.cybevents-pass-logo {
+	font-size: 14px;
+	font-weight: 900;
+	letter-spacing: 0.05em;
+}
+
+.cybevents-pass-type {
+	font-size: 11px;
+	font-weight: 800;
+	background: rgba(0, 180, 216, 0.25);
+	color: var(--cyb-accent-cyan);
+	padding: 3px 8px;
+	border-radius: var(--cyb-radius-sm);
+}
+
+.cybevents-pass-body {
+	padding: 28px;
+	display: flex;
+	gap: 24px;
+	align-items: center;
+}
+
+@media (max-width: 580px) {
+	.cybevents-pass-body {
+		flex-direction: column;
+	}
+}
+
+.cybevents-pass-details {
+	flex: 1;
+}
+
+.cybevents-pass-name {
+	font-size: 24px;
+	font-weight: 900;
+	color: var(--cyb-navy-900);
+	margin-bottom: 4px;
+}
+
+.cybevents-pass-company {
+	font-size: 14px;
+	color: var(--cyb-text-muted);
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.cybevents-pass-meta-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 12px;
+	background: var(--cyb-bg-subtle);
+	padding: 12px 16px;
+	border-radius: var(--cyb-radius-sm);
+}
+
+.cybevents-pass-label {
+	display: block;
+	font-size: 11px;
+	font-weight: 700;
+	color: var(--cyb-text-muted);
+	text-transform: uppercase;
+}
+
+.cybevents-pass-val {
+	font-size: 13px;
+	font-weight: 800;
+	color: var(--cyb-navy-900);
+}
+
+.cybevents-avatar-field-group {
+	margin-bottom: 20px;
+}
+.cybevents-avatar-dropzone {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+	padding: 12px 16px;
+	background: var(--cyb-bg-subtle);
+	border: 2px dashed var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+	transition: all 0.2s ease;
+}
+.cybevents-avatar-dropzone:hover {
+	border-color: var(--cyb-primary);
+	background: var(--cyb-primary-subtle);
+}
+.cybevents-avatar-preview-wrap {
+	width: 54px;
+	height: 54px;
+	border-radius: 50%;
+	background: var(--cyb-bg-card);
+	border: 2px solid var(--cyb-border);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+.cybevents-avatar-placeholder {
+	color: var(--cyb-text-muted);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.cybevents-avatar-controls {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	align-items: flex-start;
+}
+.cybevents-file-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 8px 14px;
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--cyb-text);
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-sm);
+	cursor: pointer;
+	min-height: 44px;
+	transition: all 0.2s ease;
+}
+.cybevents-file-btn:hover {
+	border-color: var(--cyb-primary);
+	color: var(--cyb-primary);
+}
+.cybevents-file-hint {
+	font-size: 12px;
+	color: var(--cyb-text-muted);
+}
+
+.cybevents-pass-photo-col {
+	flex-shrink: 0;
+}
+.cybevents-pass-avatar {
+	width: 68px;
+	height: 68px;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 3px solid var(--cyb-primary);
+	box-shadow: var(--cyb-shadow-sm);
+	background: var(--cyb-slate-50);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.cybevents-pass-avatar-img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
+}
+
+.cybevents-pass-qr {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 12px;
+	background: var(--cyb-white);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+}
+
+.cybevents-qr-caption {
+	font-size: 11px;
+	font-weight: 700;
+	color: var(--cyb-text-muted);
+	margin-top: 6px;
+	text-transform: uppercase;
+}
+
+.cybevents-pass-footer {
+	background: var(--cyb-bg-subtle);
+	padding: 14px 24px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 12px;
+	font-weight: 600;
+	color: var(--cyb-text-muted);
+	border-top: 1px solid var(--cyb-border);
+}
+
+.cybevents-btn-print {
+	background: transparent;
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-sm);
+	padding: 4px 10px;
+	font-size: 12px;
+	font-weight: 700;
+	cursor: pointer;
+}
+
+@media print {
+	/* Only a page that shows a ticket pass prints the pass alone. This sheet loads on every page, and until
+	   1.2.0 the rule read `body *`, so any page of the site printed as an empty sheet. :where() keeps the
+	   specificity of `body *`: with a bare :has(#id) the rule would outrank the two below and hide the pass. */
+	body:where(:has(#cybevents-printable-badge)) * { visibility: hidden; }
+	#cybevents-printable-badge, #cybevents-printable-badge * { visibility: visible; }
+	#cybevents-printable-badge {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		border: 1px solid var(--cyb-black);
+		box-shadow: none;
+	}
+	.cybevents-btn-print { display: none; }
+}
+
+/* ==========================================================================
+   5. Security & DSGVO Trust Badge Block
+   ========================================================================== */
+.cybevents-trust-section {
+	margin: 36px 0;
+}
+
+.cybevents-trust-title {
+	font-size: 22px;
+	font-weight: 900;
+	color: var(--cyb-text-main);
+	text-align: center;
+	margin-bottom: 24px;
+}
+
+.cybevents-trust-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	gap: 20px;
+}
+
+.cybevents-trust-card {
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+	padding: 24px;
+	box-shadow: var(--cyb-shadow-sm);
+	text-align: center;
+}
+
+.cybevents-trust-icon {
+	font-size: 32px;
+	margin-bottom: 12px;
+}
+
+.cybevents-trust-card h3 {
+	font-size: 16px;
+	font-weight: 800;
+	margin: 0 0 8px 0 !important;
+	color: var(--cyb-text-main);
+}
+
+.cybevents-trust-card p {
+	font-size: 13px;
+	line-height: 1.5;
+	color: var(--cyb-text-muted);
+	margin: 0 !important;
+}
+
+/* ==========================================================================
+   6. Events Catalog & Overview Grid Block
+   ========================================================================== */
+.cybevents-catalog-grid {
+	display: grid;
+	gap: 24px;
+	margin: 32px 0;
+}
+
+.cybevents-catalog-grid--cols-2 { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+.cybevents-catalog-grid--cols-3 { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.cybevents-catalog-grid--cols-4 { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+
+.cybevents-event-card {
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-lg);
+	padding: 24px;
+	box-shadow: var(--cyb-shadow-sm);
+	display: flex;
+	flex-direction: column;
+	transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.cybevents-event-card:hover {
+	transform: translateY(-3px);
+	box-shadow: var(--cyb-shadow-md);
+	border-color: var(--cyb-primary);
+}
+
+.cybevents-event-card-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 14px;
+}
+
+.cybevents-card-date-tag {
+	font-size: 12px;
+	font-weight: 700;
+	color: var(--cyb-primary);
+	background: var(--cyb-primary-subtle);
+	padding: 4px 10px;
+	border-radius: var(--cyb-radius-full);
+}
+
+.cybevents-card-price-tag {
+	font-size: 12px;
+	font-weight: 800;
+	color: var(--cyb-navy-900);
+}
+
+.cybevents-card-title {
+	font-size: 18px;
+	font-weight: 800;
+	color: var(--cyb-text-main);
+	margin: 0 0 8px 0 !important;
+	line-height: 1.3;
+}
+
+.cybevents-card-location {
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--cyb-text-muted);
+	margin-bottom: 12px;
+}
+
+.cybevents-card-desc {
+	font-size: 13px;
+	line-height: 1.5;
+	color: var(--cyb-text-muted);
+	flex: 1;
+	margin: 0 0 20px 0 !important;
+}
+
+.cybevents-card-actions {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+}
+
+/* ==========================================================================
+   7. Extended Preset Themes & Layout Modifiers (Enterprise Suite)
+   ========================================================================== */
+
+/* Radius Tokens */
+.cyb-radius-none { border-radius: 0 !important; }
+.cyb-radius-sm { border-radius: var(--cyb-radius-sm) !important; }
+.cyb-radius-md { border-radius: var(--cyb-radius-md) !important; }
+.cyb-radius-lg { border-radius: var(--cyb-radius-lg) !important; }
+.cyb-radius-xl { border-radius: 28px !important; }
+
+/* Glow Modifier */
+.cybevents-has-glow {
+	box-shadow: 0 0 35px rgba(0, 180, 216, 0.3) !important;
+	border-color: rgba(0, 180, 216, 0.45) !important;
+}
+
+/* Hero Presets */
+.cybevents-hero--preset-dark-enterprise {
+	background: linear-gradient(135deg, var(--cyb-surface-950) 0%, var(--cyb-surface-900) 50%, var(--cyb-surface-750) 100%) !important;
+	color: var(--cyb-white) !important;
+	border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.cybevents-hero--preset-federal-blue {
+	background: linear-gradient(135deg, var(--cyb-federal-900) 0%, var(--cyb-blue-600) 60%, var(--cyb-blue-700) 100%) !important;
+	color: var(--cyb-white) !important;
+	border: 1px solid rgba(0, 180, 216, 0.3) !important;
+}
+
+.cybevents-hero--preset-cyber-glow {
+	background: radial-gradient(circle at top right, var(--cyb-blue-600) 0%, var(--cyb-surface-950) 70%) !important;
+	color: var(--cyb-white) !important;
+	border: 1px solid var(--cyb-cyan-500) !important;
+	box-shadow: 0 0 40px rgba(0, 180, 216, 0.25) !important;
+}
+
+.cybevents-hero--preset-minimal-light {
+	background: var(--cyb-white) !important;
+	color: var(--cyb-navy-950) !important;
+	border: 1px solid var(--cyb-border) !important;
+	box-shadow: var(--cyb-shadow-md) !important;
+}
+.cybevents-hero--preset-minimal-light .cybevents-hero-title {
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-hero--preset-minimal-light .cybevents-hero-lead {
+	color: var(--cyb-text-muted) !important;
+}
+.cybevents-hero--preset-minimal-light .cybevents-hero-meta-item strong {
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-hero--preset-minimal-light .cybevents-hero-meta-item span {
+	color: var(--cyb-text-muted) !important;
+}
+
+.cybevents-hero--preset-glassmorphism {
+	background: rgba(11, 21, 40, 0.85) !important;
+	backdrop-filter: blur(16px) !important;
+	-webkit-backdrop-filter: blur(16px) !important;
+	color: var(--cyb-white) !important;
+	border: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+/* Secondary Button Outline */
+.cybevents-btn--outline {
+	background: transparent !important;
+	color: var(--cyb-white) !important;
+	border: 1px solid rgba(255, 255, 255, 0.35) !important;
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 20px;
+	border-radius: var(--cyb-radius-md);
+	font-weight: 700;
+	text-decoration: none;
+	transition: all 0.15s ease;
+}
+.cybevents-btn--outline:hover {
+	background: rgba(255, 255, 255, 0.1) !important;
+	border-color: var(--cyb-white) !important;
+	color: var(--cyb-white) !important;
+}
+
+/* Form Styles */
+.cybevents-style-card-glass {
+	background: rgba(11, 21, 40, 0.85);
+	backdrop-filter: blur(12px);
+	border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.cybevents-style-clean-white {
+	background: var(--cyb-white) !important;
+	border: 1px solid var(--cyb-border) !important;
+	box-shadow: var(--cyb-shadow-md);
+}
+.cybevents-style-clean-white .cybevents-label {
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-style-clean-white .cybevents-consent-card {
+	background: var(--cyb-bg-subtle) !important;
+	border-color: var(--cyb-border) !important;
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-style-dark-panel {
+	background: var(--cyb-surface-950) !important;
+	border: 1px solid rgba(0, 180, 216, 0.25) !important;
+}
+.cybevents-style-minimal-border {
+	background: transparent !important;
+	border: 2px solid var(--cyb-border) !important;
+}
+
+/* Speaker Styles */
+.cybevents-speaker--glass-card {
+	background: rgba(11, 21, 40, 0.6);
+	backdrop-filter: blur(8px);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.cybevents-speaker--dark-panel {
+	background: var(--cyb-surface-900) !important;
+	border: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+.cybevents-speaker--minimal-border {
+	background: var(--cyb-white) !important;
+	border: 1px solid var(--cyb-border) !important;
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-speaker--minimal-border .cybevents-speaker-name {
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-speaker--minimal-border .cybevents-speaker-topic {
+	color: var(--cyb-text-muted) !important;
+}
+.cybevents-speaker--gradient-border {
+	background: var(--cyb-surface-900);
+	border: 1px solid transparent;
+	background-clip: padding-box;
+	box-shadow: 0 0 0 1px var(--cyb-cyan-500);
+}
+
+/* Speaker Avatar Variants */
+.cybevents-avatar--initials-gradient {
+	background: linear-gradient(135deg, var(--cyb-cyan-500) 0%, var(--cyb-primary) 100%);
+	color: var(--cyb-white);
+}
+.cybevents-avatar--circle-dark {
+	background: var(--cyb-surface-950);
+	color: var(--cyb-cyan-500);
+	border: 2px solid var(--cyb-cyan-500);
+}
+.cybevents-avatar--shield-accent {
+	background: var(--cyb-primary);
+	color: var(--cyb-white);
+	border-radius: 8px !important;
+}
+
+/* Agenda Layout Variants */
+.cybevents-agenda--layout-grouped-tracks .cybevents-agenda-card {
+	border-left: 4px solid var(--cyb-cyan-500);
+}
+.cybevents-agenda--layout-compact-cards .cybevents-agenda-card {
+	padding: 12px 16px !important;
+	margin-bottom: 8px !important;
+}
+.cybevents-agenda--layout-minimal-list .cybevents-agenda-card {
+	background: transparent !important;
+	border: none !important;
+	border-bottom: 1px solid var(--cyb-border) !important;
+	border-radius: 0 !important;
+}
+
+/* Speaker Mini Avatar in Agenda */
+.cybevents-speaker-mini-avatar {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 22px;
+	height: 22px;
+	border-radius: var(--cyb-radius-full);
+	background: linear-gradient(135deg, var(--cyb-cyan-500), var(--cyb-primary));
+	color: var(--cyb-white);
+	font-size: 10px;
+	font-weight: 800;
+	margin-right: 6px;
+}
+
+/* Trust Badge Layouts & Themes */
+.cybevents-trust-layout--grid-2-cols .cybevents-trust-grid {
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+}
+.cybevents-trust-layout--compact-list .cybevents-trust-grid {
+	grid-template-columns: 1fr !important;
+}
+
+.cybevents-trust-theme--federal-blue .cybevents-trust-card {
+	background: linear-gradient(135deg, var(--cyb-federal-900), var(--cyb-blue-600)) !important;
+	color: var(--cyb-white);
+}
+.cybevents-trust-theme--glass-card .cybevents-trust-card {
+	background: rgba(11, 21, 40, 0.7) !important;
+	backdrop-filter: blur(10px);
+	border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.cybevents-trust-theme--minimal-border .cybevents-trust-card {
+	background: var(--cyb-white) !important;
+	border: 1px solid var(--cyb-border) !important;
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-trust-theme--minimal-border .cybevents-trust-card h3 {
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-trust-theme--minimal-border .cybevents-trust-card p {
+	color: var(--cyb-text-muted) !important;
+}
+
+/* Calendar Card Variants */
+.cybevents-cal--dark-enterprise {
+	background: linear-gradient(135deg, var(--cyb-surface-950) 0%, var(--cyb-surface-900) 100%) !important;
+	border: 1px solid rgba(255, 255, 255, 0.1) !important;
+	color: var(--cyb-white);
+}
+.cybevents-cal--minimal-border {
+	background: var(--cyb-white) !important;
+	border: 1px solid var(--cyb-border) !important;
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-cal--minimal-border .cybevents-cal-title {
+	color: var(--cyb-navy-950) !important;
+}
+.cybevents-cal--solid-blue {
+	background: linear-gradient(135deg, var(--cyb-blue-600), var(--cyb-blue-700)) !important;
+	color: var(--cyb-white);
+}
+
+/* Pass Card Variants */
+.cybevents-pass--federal-pass {
+	border: 2px solid var(--cyb-blue-600) !important;
+	background: linear-gradient(180deg, var(--cyb-surface-900) 0%, var(--cyb-surface-950) 100%) !important;
+}
+.cybevents-pass--matrix-pass {
+	border: 1px solid var(--cyb-cyan-500) !important;
+	box-shadow: 0 0 25px rgba(0, 180, 216, 0.25) !important;
+}
+.cybevents-pass--minimal-ticket {
+	background: var(--cyb-white) !important;
+	color: var(--cyb-navy-950) !important;
+	border: 2px dashed var(--cyb-border) !important;
+}
+.cybevents-pass--minimal-ticket .cybevents-pass-name {
+	color: var(--cyb-navy-950) !important;
+}
+
+/* Catalog Card Styles */
+.cybevents-grid-style--federal-blue .cybevents-event-card {
+	background: linear-gradient(135deg, var(--cyb-federal-900), var(--cyb-surface-900)) !important;
+	color: var(--cyb-white);
+	border-color: rgba(0, 180, 216, 0.3) !important;
+}
+.cybevents-grid-style--federal-blue .cybevents-card-title {
+	color: var(--cyb-white) !important;
+}
+.cybevents-grid-style--glass-card .cybevents-event-card {
+	background: rgba(11, 21, 40, 0.75) !important;
+	backdrop-filter: blur(12px);
+	color: var(--cyb-white);
+	border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.cybevents-grid-style--glass-card .cybevents-card-title {
+	color: var(--cyb-white) !important;
+}
+
+
+
+
+/* ==========================================================================
+   Cyber Events Multi-View Pro (Calendar, Agenda & Multi-Track Suite)
+   ========================================================================== */
+
+.cybevents-multi-view-wrapper {
+	width: 100%;
+	margin: 32px 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+	color: var(--cyb-slate-50);
+	box-sizing: border-box;
+}
+
+/* Icons: the plugin's own SVG (CyberEvents_Icons), in place of emoji since 1.2.0. Sized by their width and
+   height attributes, coloured by the text beside them, centred on its line. */
+.cybevents-multi-view-wrapper .cybevents-icon {
+	display: inline-block;
+	flex-shrink: 0;
+	vertical-align: -0.125em;
+}
+.cybevents-btn-icon,
+.cybevents-search-icon {
+	display: inline-flex;
+}
+.cybevents-ticker-sep .cybevents-icon {
+	vertical-align: middle;
+}
+
+/* 1. Telemetry Ticker Bar */
+.cybevents-telemetry-ticker-bar {
+	display: flex;
+	align-items: center;
+	background: var(--cyb-slate-950);
+	border: 1px solid rgba(0, 212, 255, 0.3);
+	border-radius: 12px;
+	margin-bottom: 24px;
+	overflow: hidden;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+.cybevents-ticker-badge {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	background: linear-gradient(135deg, var(--cyb-neon-cyan), var(--cyb-ocean-600));
+	color: var(--cyb-slate-950);
+	font-size: 0.78rem;
+	font-weight: 800;
+	letter-spacing: 0.06em;
+	padding: 10px 18px;
+	white-space: nowrap;
+	text-transform: uppercase;
+	z-index: 2;
+}
+.cybevents-pulse-dot {
+	width: 8px;
+	height: 8px;
+	background: var(--cyb-red-500);
+	border-radius: 50%;
+	display: inline-block;
+	box-shadow: 0 0 10px var(--cyb-red-500);
+	animation: cybeventsPulse 1.5s infinite;
+}
+@keyframes cybeventsPulse {
+	0% { transform: scale(0.9); opacity: 0.8; }
+	50% { transform: scale(1.3); opacity: 1; }
+	100% { transform: scale(0.9); opacity: 0.8; }
+}
+.cybevents-ticker-track-wrap {
+	flex: 1;
+	overflow: hidden;
+	position: relative;
+	white-space: nowrap;
+	padding: 10px 0;
+}
+.cybevents-ticker-track {
+	display: inline-block;
+	white-space: nowrap;
+	animation: cybeventsMarquee 38s linear infinite;
+}
+.cybevents-ticker-track:hover {
+	animation-play-state: paused;
+}
+@keyframes cybeventsMarquee {
+	0% { transform: translate3d(0, 0, 0); }
+	100% { transform: translate3d(-50%, 0, 0); }
+}
+.cybevents-ticker-item {
+	font-size: 0.9rem;
+	color: var(--cyb-slate-200);
+	padding: 0 16px;
+}
+.cybevents-ticker-sep {
+	color: var(--cyb-neon-cyan);
+	opacity: 0.7;
+}
+
+/* 2. Toolbar & View Switcher */
+.cybevents-view-toolbar {
+	background: rgba(15, 23, 42, 0.85);
+	backdrop-filter: blur(12px);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	border-radius: 14px;
+	padding: 16px 20px;
+	margin-bottom: 24px;
+}
+.cybevents-toolbar-top {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 16px;
+}
+.cybevents-view-buttons {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	flex-wrap: wrap;
+}
+.cybevents-view-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	background: rgba(30, 41, 59, 0.6);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	color: var(--cyb-slate-400);
+	padding: 8px 14px;
+	border-radius: 8px;
+	font-size: 0.88rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.2s ease;
+	min-height: 40px;
+}
+.cybevents-view-btn:hover {
+	background: rgba(0, 212, 255, 0.12);
+	color: var(--cyb-white);
+	border-color: rgba(0, 212, 255, 0.3);
+}
+.cybevents-view-btn.is-active {
+	background: linear-gradient(135deg, var(--cyb-neon-cyan), var(--cyb-sky-600));
+	color: var(--cyb-slate-950);
+	border-color: var(--cyb-neon-cyan);
+	font-weight: 700;
+	box-shadow: 0 4px 14px rgba(0, 212, 255, 0.35);
+}
+.cybevents-nav-controls {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+.cybevents-nav-arrow {
+	background: rgba(30, 41, 59, 0.8);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	color: var(--cyb-neon-cyan);
+	width: 36px;
+	height: 36px;
+	border-radius: 8px;
+	font-size: 1.2rem;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: all 0.2s;
+}
+.cybevents-nav-arrow:hover {
+	background: var(--cyb-neon-cyan);
+	color: var(--cyb-slate-950);
+}
+.cybevents-current-period-label {
+	font-weight: 700;
+	font-size: 1.05rem;
+	color: var(--cyb-white);
+	min-width: 140px;
+	text-align: center;
+}
+.cybevents-toolbar-filters {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 14px;
+	margin-top: 14px;
+	padding-top: 14px;
+	border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+.cybevents-filter-search {
+	position: relative;
+	flex: 1;
+	min-width: 240px;
+	max-width: 380px;
+}
+.cybevents-search-field {
+	width: 100%;
+	padding: 10px 14px 10px 38px;
+	background: rgba(15, 23, 42, 0.9);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	border-radius: 8px;
+	color: var(--cyb-white);
+	font-size: 0.9rem;
+	outline: 2px solid transparent;
+	outline-offset: 2px;
+}
+.cybevents-search-field:focus {
+	border-color: var(--cyb-neon-cyan);
+	box-shadow: 0 0 0 2px rgba(0, 212, 255, 0.2);
+}
+.cybevents-search-icon {
+	position: absolute;
+	left: 12px;
+	top: 50%;
+	transform: translateY(-50%);
+	opacity: 0.6;
+}
+.cybevents-filter-selects {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+}
+.cybevents-select {
+	background: rgba(15, 23, 42, 0.9);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	border-radius: 8px;
+	color: var(--cyb-slate-200);
+	padding: 9px 14px;
+	font-size: 0.88rem;
+	outline: 2px solid transparent;
+	outline-offset: 2px;
+	cursor: pointer;
+}
+.cybevents-select:focus {
+	border-color: var(--cyb-neon-cyan);
+	box-shadow: 0 0 0 2px rgba(0, 212, 255, 0.2);
+}
+
+/* 3. View Panes Container */
+.cybevents-view-pane {
+	display: none;
+	animation: cybFadeIn 0.3s ease forwards;
+}
+.cybevents-view-pane.is-active {
+	display: block;
+}
+@keyframes cybFadeIn {
+	from { opacity: 0; transform: translateY(6px); }
+	to { opacity: 1; transform: translateY(0); }
+}
+
+/* 4. Month Grid */
+.cybevents-month-grid {
+	background: rgba(15, 23, 42, 0.7);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	border-radius: 14px;
+	overflow: hidden;
+}
+/* minmax(0, 1fr) in both rows, not 1fr: a 1fr track is minmax(auto, 1fr) and grows to the longest unbroken
+   chip title, so in a narrow column (the block editor, a sidebar) the day cells no longer lined up with the
+   weekday header and ran past the block (measured in the editor, 1.2.0). min-width: 0 on the cell lets it
+   shrink, so the chip title's ellipsis applies. */
+.cybevents-month-header-row {
+	display: grid;
+	grid-template-columns: repeat(7, minmax(0, 1fr));
+	background: rgba(30, 41, 59, 0.8);
+	border-bottom: 1px solid rgba(0, 212, 255, 0.15);
+	text-align: center;
+	font-weight: 700;
+	color: var(--cyb-neon-cyan);
+	font-size: 0.88rem;
+	padding: 12px 0;
+}
+.cybevents-month-cells {
+	display: grid;
+	grid-template-columns: repeat(7, minmax(0, 1fr));
+	gap: 1px;
+	background: rgba(255, 255, 255, 0.05);
+}
+.cybevents-day-cell {
+	background: var(--cyb-surface-900);
+	min-width: 0;
+	min-height: 120px;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	transition: background 0.2s;
+}
+.cybevents-day-cell:hover {
+	background: var(--cyb-surface-820);
+}
+.cybevents-day-cell.is-other-month {
+	background: var(--cyb-surface-940);
+	opacity: 0.4;
+}
+.cybevents-day-cell.has-summit {
+	background: rgba(0, 212, 255, 0.06);
+	border: 1px solid rgba(0, 212, 255, 0.4);
+}
+.cybevents-day-cell-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.cybevents-day-num {
+	font-size: 0.95rem;
+	font-weight: 700;
+	color: var(--cyb-slate-400);
+}
+.cybevents-day-cell.has-event .cybevents-day-num {
+	color: var(--cyb-neon-cyan);
+}
+.cybevents-badge-highlight {
+	background: var(--cyb-red-500);
+	color: var(--cyb-white);
+	font-size: 0.65rem;
+	font-weight: 800;
+	padding: 2px 6px;
+	border-radius: 4px;
+	letter-spacing: 0.04em;
+}
+.cybevents-day-events-list {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	margin-top: 4px;
+}
+.cybevents-event-chip {
+	padding: 4px 8px;
+	border-radius: 6px;
+	font-size: 0.78rem;
+	cursor: pointer;
+	transition: transform 0.15s, box-shadow 0.15s;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	text-decoration: none;
+}
+.cybevents-event-chip:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+.cybevents-track--summit {
+	background: rgba(239, 68, 68, 0.25);
+	border: 1px solid var(--cyb-red-500);
+	color: var(--cyb-red-300);
+}
+.cybevents-track--pqc {
+	background: rgba(0, 212, 255, 0.2);
+	border: 1px solid var(--cyb-neon-cyan);
+	color: var(--cyb-sky-300);
+}
+.cybevents-track--dora {
+	background: rgba(16, 185, 129, 0.2);
+	border: 1px solid var(--cyb-emerald-500);
+	color: var(--cyb-emerald-300);
+}
+.cybevents-track--kanzlei {
+	background: rgba(168, 85, 247, 0.2);
+	border: 1px solid var(--cyb-purple-500);
+	color: var(--cyb-purple-300);
+}
+.cybevents-track--cra {
+	background: rgba(245, 158, 11, 0.2);
+	border: 1px solid var(--cyb-amber-500);
+	color: var(--cyb-amber-300);
+}
+.cybevents-chip-time {
+	font-weight: 700;
+	font-size: 0.72rem;
+	opacity: 0.9;
+}
+.cybevents-chip-title {
+	font-weight: 600;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/* 5. Week Timetable */
+.cybevents-week-table-wrap {
+	overflow-x: auto;
+	background: rgba(15, 23, 42, 0.7);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	border-radius: 14px;
+}
+.cybevents-week-table {
+	display: flex;
+	min-width: 800px;
+	height: 720px;
+	position: relative;
+}
+.cybevents-week-time-col {
+	width: 70px;
+	border-right: 1px solid rgba(255, 255, 255, 0.1);
+	background: rgba(30, 41, 59, 0.5);
+}
+.cybevents-week-corner {
+	height: 48px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: 700;
+	color: var(--cyb-neon-cyan);
+	font-size: 0.8rem;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.cybevents-hour-row {
+	height: 60px;
+	border-bottom: 1px dashed rgba(255, 255, 255, 0.05);
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	padding-top: 4px;
+	font-size: 0.75rem;
+	color: var(--cyb-slate-500);
+}
+.cybevents-week-days-grid {
+	flex: 1;
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+}
+.cybevents-week-day-col {
+	border-right: 1px solid rgba(255, 255, 255, 0.05);
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+.cybevents-week-day-col.is-summit-highlight {
+	background: rgba(0, 212, 255, 0.04);
+}
+.cybevents-week-day-header {
+	height: 48px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	background: rgba(30, 41, 59, 0.6);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-weight: 700;
+	font-size: 0.85rem;
+}
+.cybevents-week-day-header small {
+	font-size: 0.68rem;
+	color: var(--cyb-neon-cyan);
+}
+.cybevents-week-slot-area {
+	flex: 1;
+	position: relative;
+}
+.cybevents-week-event-card {
+	position: absolute;
+	left: 4px;
+	right: 4px;
+	border-radius: 6px;
+	padding: 8px;
+	font-size: 0.78rem;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+	cursor: pointer;
+	overflow: hidden;
+	transition: transform 0.15s;
+}
+.cybevents-week-event-card:hover {
+	transform: scale(1.02);
+	z-index: 10;
+}
+
+/* 6. Day / Agenda Timeline */
+.cybevents-day-timeline-wrap {
+	background: rgba(15, 23, 42, 0.7);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	border-radius: 14px;
+	padding: 32px;
+}
+.cybevents-day-selector-bar {
+	display: flex;
+	gap: 12px;
+	margin-bottom: 32px;
+	flex-wrap: wrap;
+}
+.cybevents-day-pill {
+	background: rgba(30, 41, 59, 0.8);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	color: var(--cyb-slate-400);
+	padding: 10px 20px;
+	border-radius: 30px;
+	font-size: 0.95rem;
+	font-weight: 700;
+	cursor: pointer;
+	transition: all 0.2s;
+}
+.cybevents-day-pill.is-active {
+	background: var(--cyb-neon-cyan);
+	color: var(--cyb-slate-950);
+	box-shadow: 0 4px 16px rgba(0, 212, 255, 0.4);
+}
+.cybevents-agenda-stream {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	position: relative;
+}
+.cybevents-agenda-item {
+	display: flex;
+	gap: 24px;
+	align-items: flex-start;
+}
+.cybevents-agenda-time {
+	min-width: 90px;
+	text-align: right;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+}
+.cybevents-time-start {
+	font-size: 1.1rem;
+	font-weight: 800;
+	color: var(--cyb-neon-cyan);
+}
+.cybevents-time-end {
+	font-size: 0.8rem;
+	color: var(--cyb-slate-500);
+}
+.cybevents-agenda-node {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 6px;
+}
+.cybevents-node-dot {
+	width: 14px;
+	height: 14px;
+	background: var(--cyb-neon-cyan);
+	border-radius: 50%;
+	border: 3px solid var(--cyb-slate-950);
+	box-shadow: 0 0 10px var(--cyb-neon-cyan);
+}
+.cybevents-node-dot.is-pulsing {
+	background: var(--cyb-red-500);
+	box-shadow: 0 0 12px var(--cyb-red-500);
+	animation: cybeventsPulse 1.5s infinite;
+}
+.cybevents-agenda-card {
+	flex: 1;
+	background: var(--cyb-surface-900);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	border-radius: 12px;
+	padding: 20px 24px;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.cybevents-agenda-item--featured .cybevents-agenda-card {
+	border-color: rgba(0, 212, 255, 0.4);
+	background: linear-gradient(135deg, rgba(11, 21, 40, 0.95), rgba(2, 132, 199, 0.15));
+}
+.cybevents-card-meta {
+	display: flex;
+	gap: 8px;
+	margin-bottom: 10px;
+	flex-wrap: wrap;
+}
+.cybevents-badge-stage {
+	background: rgba(0, 212, 255, 0.15);
+	color: var(--cyb-neon-cyan);
+	font-size: 0.75rem;
+	font-weight: 700;
+	padding: 3px 8px;
+	border-radius: 4px;
+}
+.cybevents-badge-stage--alpha {
+	background: rgba(239, 68, 68, 0.2);
+	color: var(--cyb-red-300);
+}
+.cybevents-badge-stage--beta {
+	background: rgba(0, 212, 255, 0.2);
+	color: var(--cyb-sky-300);
+}
+.cybevents-badge-stage--gamma {
+	background: rgba(168, 85, 247, 0.2);
+	color: var(--cyb-purple-300);
+}
+.cybevents-badge-track {
+	font-size: 0.75rem;
+	font-weight: 700;
+	padding: 3px 8px;
+	border-radius: 4px;
+}
+.cybevents-badge-live {
+	background: var(--cyb-red-500);
+	color: var(--cyb-white);
+	font-size: 0.72rem;
+	font-weight: 800;
+	padding: 3px 8px;
+	border-radius: 4px;
+}
+.cybevents-badge-info {
+	background: rgba(255, 255, 255, 0.1);
+	color: var(--cyb-slate-300);
+	font-size: 0.75rem;
+	padding: 3px 8px;
+	border-radius: 4px;
+}
+.cybevents-agenda-title {
+	font-size: 1.25rem;
+	font-weight: 700;
+	color: var(--cyb-white);
+	margin: 0 0 10px 0;
+}
+.cybevents-agenda-desc {
+	font-size: 0.95rem;
+	color: var(--cyb-slate-400);
+	line-height: 1.6;
+	margin: 0 0 16px 0;
+}
+.cybevents-speaker-chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 10px;
+	background: rgba(15, 23, 42, 0.8);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	padding: 6px 14px 6px 6px;
+	border-radius: 30px;
+}
+.cybevents-speaker-avatar {
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	background: linear-gradient(135deg, var(--cyb-neon-cyan), var(--cyb-ocean-600));
+	color: var(--cyb-slate-950);
+	font-weight: 800;
+	font-size: 0.85rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.cybevents-speaker-info {
+	font-size: 0.85rem;
+	color: var(--cyb-slate-200);
+}
+
+/* 7. List Stream */
+.cybevents-list-stream {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+.cybevents-list-card {
+	display: flex;
+	gap: 24px;
+	background: rgba(15, 23, 42, 0.8);
+	border: 1px solid rgba(0, 212, 255, 0.2);
+	border-radius: 14px;
+	padding: 24px;
+	align-items: center;
+	transition: all 0.2s;
+}
+.cybevents-list-card:hover {
+	border-color: var(--cyb-neon-cyan);
+	box-shadow: 0 6px 24px rgba(0, 212, 255, 0.15);
+	transform: translateY(-2px);
+}
+.cybevents-list-date-block {
+	min-width: 80px;
+	background: var(--cyb-slate-950);
+	border: 1px solid rgba(0, 212, 255, 0.3);
+	border-radius: 10px;
+	padding: 12px 8px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+.cybevents-list-month {
+	font-size: 0.75rem;
+	font-weight: 800;
+	color: var(--cyb-neon-cyan);
+	text-transform: uppercase;
+}
+.cybevents-list-day {
+	font-size: 1.8rem;
+	font-weight: 900;
+	color: var(--cyb-white);
+	line-height: 1.1;
+}
+.cybevents-list-year {
+	font-size: 0.75rem;
+	color: var(--cyb-slate-500);
+}
+.cybevents-list-content {
+	flex: 1;
+}
+.cybevents-list-meta-bar {
+	display: flex;
+	gap: 8px;
+	margin-bottom: 8px;
+	flex-wrap: wrap;
+}
+.cybevents-badge-pill {
+	font-size: 0.78rem;
+	padding: 3px 10px;
+	border-radius: 20px;
+	background: rgba(30, 41, 59, 0.8);
+	color: var(--cyb-slate-300);
+}
+.cybevents-pill--date { color: var(--cyb-sky-400); }
+.cybevents-pill--location { color: var(--cyb-emerald-200); }
+.cybevents-pill--price { color: var(--cyb-yellow-300); font-weight: 700; }
+.cybevents-list-title {
+	font-size: 1.35rem;
+	font-weight: 700;
+	margin: 0 0 8px 0;
+}
+.cybevents-list-title a {
+	color: var(--cyb-white);
+	text-decoration: none;
+	transition: color 0.2s;
+}
+.cybevents-list-title a:hover {
+	color: var(--cyb-neon-cyan);
+}
+.cybevents-list-excerpt {
+	font-size: 0.92rem;
+	color: var(--cyb-slate-400);
+	line-height: 1.5;
+	margin: 0;
+}
+.cybevents-list-actions {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	min-width: 170px;
+}
+.cybevents-btn-primary {
+	background: linear-gradient(135deg, var(--cyb-neon-cyan), var(--cyb-ocean-600));
+	color: var(--cyb-slate-950) !important;
+	font-weight: 700;
+	font-size: 0.92rem;
+	padding: 10px 18px;
+	border-radius: 8px;
+	text-decoration: none;
+	text-align: center;
+	transition: all 0.2s;
+	display: inline-block;
+}
+.cybevents-btn-primary:hover {
+	box-shadow: 0 4px 16px rgba(0, 212, 255, 0.4);
+	transform: translateY(-1px);
+}
+.cybevents-btn-secondary {
+	background: rgba(30, 41, 59, 0.8);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	color: var(--cyb-slate-200) !important;
+	font-size: 0.85rem;
+	font-weight: 600;
+	padding: 8px 14px;
+	border-radius: 8px;
+	text-decoration: none;
+	text-align: center;
+	transition: all 0.2s;
+	display: inline-block;
+}
+.cybevents-btn-secondary:hover {
+	background: rgba(0, 212, 255, 0.15);
+	border-color: var(--cyb-neon-cyan);
+	color: var(--cyb-white) !important;
+}
+
+/* 8. Photo Grid */
+.cybevents-photo-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 24px;
+}
+.cybevents-photo-card {
+	background: var(--cyb-surface-900);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	border-radius: 16px;
+	padding: 24px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+	position: relative;
+	overflow: hidden;
+	transition: all 0.25s;
+}
+.cybevents-photo-card:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 12px 36px rgba(0, 212, 255, 0.25);
+}
+.cybevents-photo-card.is-featured {
+	border-color: var(--cyb-neon-cyan);
+	background: linear-gradient(135deg, var(--cyb-surface-900), var(--cyb-surface-800));
+}
+.cybevents-photo-card-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 16px;
+}
+.cybevents-tag-badge {
+	background: rgba(0, 212, 255, 0.15);
+	color: var(--cyb-neon-cyan);
+	font-size: 0.75rem;
+	font-weight: 800;
+	padding: 4px 10px;
+	border-radius: 6px;
+	letter-spacing: 0.05em;
+}
+.cybevents-tag--summit {
+	background: rgba(239, 68, 68, 0.2);
+	color: var(--cyb-red-500);
+}
+.cybevents-seats-badge {
+	font-size: 0.78rem;
+	color: var(--cyb-emerald-500);
+	font-weight: 600;
+}
+.cybevents-card-date {
+	font-size: 0.8rem;
+	color: var(--cyb-slate-400);
+	font-weight: 700;
+	letter-spacing: 0.05em;
+	display: block;
+	margin-bottom: 8px;
+}
+.cybevents-card-heading {
+	font-size: 1.3rem;
+	font-weight: 700;
+	color: var(--cyb-white);
+	margin: 0 0 10px 0;
+	line-height: 1.35;
+}
+.cybevents-card-text {
+	font-size: 0.92rem;
+	color: var(--cyb-slate-400);
+	line-height: 1.6;
+	margin: 0 0 20px 0;
+}
+.cybevents-card-speaker {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	font-size: 0.85rem;
+	color: var(--cyb-slate-300);
+	margin-bottom: 20px;
+}
+.cybevents-speaker-mini-avatar {
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	background: var(--cyb-neon-cyan);
+	color: var(--cyb-slate-950);
+	font-size: 0.75rem;
+	font-weight: 800;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.cybevents-photo-card-footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 18px;
+	border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+.cybevents-price-tag {
+	font-weight: 800;
+	font-size: 1.1rem;
+	color: var(--cyb-yellow-300);
+}
+.cybevents-card-btn {
+	background: rgba(0, 212, 255, 0.15);
+	border: 1px solid rgba(0, 212, 255, 0.3);
+	color: var(--cyb-neon-cyan);
+	font-size: 0.85rem;
+	font-weight: 700;
+	padding: 8px 16px;
+	border-radius: 8px;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+.cybevents-card-btn:hover {
+	background: var(--cyb-neon-cyan);
+	color: var(--cyb-slate-950);
+}
+.cybevents-card-btn--featured {
+	background: var(--cyb-neon-cyan);
+	color: var(--cyb-slate-950);
+}
+
+/* 9. Spatial Venue Map */
+.cybevents-map-layout {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 28px;
+}
+@media (max-width: 860px) {
+	.cybevents-map-layout { grid-template-columns: 1fr; }
+}
+.cybevents-venue-infobox {
+	background: rgba(15, 23, 42, 0.8);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	border-radius: 16px;
+	padding: 32px;
+}
+.cybevents-badge-tag {
+	background: rgba(0, 212, 255, 0.15);
+	color: var(--cyb-neon-cyan);
+	font-size: 0.75rem;
+	font-weight: 800;
+	padding: 4px 10px;
+	border-radius: 6px;
+	letter-spacing: 0.05em;
+	display: inline-block;
+	margin-bottom: 12px;
+}
+.cybevents-venue-title {
+	font-size: 1.4rem;
+	font-weight: 800;
+	color: var(--cyb-white);
+	margin: 0 0 8px 0;
+}
+.cybevents-venue-address {
+	font-size: 0.95rem;
+	color: var(--cyb-slate-400);
+	margin: 0 0 20px 0;
+}
+.cybevents-venue-pills {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	margin-bottom: 20px;
+}
+.cybevents-pill {
+	background: rgba(30, 41, 59, 0.6);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	color: var(--cyb-slate-200);
+	padding: 8px 14px;
+	border-radius: 8px;
+	font-size: 0.85rem;
+}
+.cybevents-venue-subheading {
+	color: var(--cyb-neon-cyan);
+	font-size: 1rem;
+	margin: 24px 0 12px 0;
+}
+.cybevents-room-buttons {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+.cybevents-room-btn {
+	background: rgba(30, 41, 59, 0.6);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	color: var(--cyb-slate-400);
+	padding: 12px 16px;
+	border-radius: 10px;
+	font-size: 0.9rem;
+	text-align: left;
+	cursor: pointer;
+	transition: all 0.2s;
+}
+.cybevents-room-btn:hover {
+	background: rgba(0, 212, 255, 0.1);
+	color: var(--cyb-white);
+	border-color: rgba(0, 212, 255, 0.3);
+}
+.cybevents-room-btn.is-active {
+	background: linear-gradient(135deg, rgba(0, 212, 255, 0.2), rgba(2, 132, 199, 0.3));
+	border-color: var(--cyb-neon-cyan);
+	color: var(--cyb-white);
+}
+.cybevents-room-preview-card {
+	background: var(--cyb-surface-900);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	border-radius: 16px;
+	padding: 32px;
+	display: flex;
+	flex-direction: column;
+}
+.cybevents-room-badge {
+	font-size: 1.3rem;
+	font-weight: 800;
+	color: var(--cyb-neon-cyan);
+	margin-bottom: 24px;
+	padding-bottom: 12px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.cybevents-room-schedule {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+.cybevents-room-session-row {
+	display: flex;
+	gap: 16px;
+	align-items: flex-start;
+	background: rgba(15, 23, 42, 0.7);
+	padding: 14px 18px;
+	border-radius: 10px;
+	border-left: 3px solid var(--cyb-neon-cyan);
+}
+.cybevents-room-time {
+	font-weight: 800;
+	color: var(--cyb-neon-cyan);
+	font-size: 0.95rem;
+}
+
+/* 10. Summit Multi-Track Matrix */
+.cybevents-tracks-matrix-wrap {
+	background: rgba(15, 23, 42, 0.8);
+	border: 1px solid rgba(0, 212, 255, 0.25);
+	border-radius: 16px;
+	padding: 24px;
+	overflow-x: auto;
+}
+.cybevents-tracks-header-grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 14px;
+	margin-bottom: 18px;
+	min-width: 750px;
+}
+.cybevents-track-head {
+	background: rgba(30, 41, 59, 0.8);
+	border-radius: 10px;
+	padding: 16px;
+	border-top: 4px solid var(--cyb-neon-cyan);
+}
+.cybevents-track-head--01 { border-top-color: var(--cyb-neon-cyan); }
+.cybevents-track-head--02 { border-top-color: var(--cyb-emerald-500); }
+.cybevents-track-head--03 { border-top-color: var(--cyb-purple-500); }
+.cybevents-track-head--04 { border-top-color: var(--cyb-amber-500); }
+.cybevents-th-num {
+	font-size: 0.72rem;
+	font-weight: 800;
+	color: var(--cyb-slate-400);
+	letter-spacing: 0.06em;
+	display: block;
+	margin-bottom: 4px;
+}
+.cybevents-track-head h4 {
+	font-size: 1.05rem;
+	font-weight: 700;
+	color: var(--cyb-white);
+	margin: 0 0 4px 0;
+}
+.cybevents-track-head small {
+	font-size: 0.8rem;
+	color: var(--cyb-slate-500);
+}
+.cybevents-tracks-time-row {
+	display: flex;
+	gap: 14px;
+	margin-bottom: 14px;
+	min-width: 750px;
+}
+.cybevents-tr-time {
+	min-width: 90px;
+	font-weight: 800;
+	color: var(--cyb-neon-cyan);
+	font-size: 0.85rem;
+	padding-top: 12px;
+}
+.cybevents-tr-full-plenum {
+	flex: 1;
+	background: linear-gradient(135deg, rgba(239, 68, 68, 0.2), rgba(15, 23, 42, 0.8));
+	border: 1px solid rgba(239, 68, 68, 0.4);
+	border-radius: 10px;
+	padding: 14px 20px;
+	color: var(--cyb-red-300);
+}
+.cybevents-tracks-slots-grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 14px;
+	min-width: 750px;
+}
+.cybevents-track-slot-card {
+	border-radius: 10px;
+	padding: 16px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.cybevents-slot-time {
+	font-size: 0.75rem;
+	font-weight: 700;
+	margin-bottom: 8px;
+	opacity: 0.85;
+}
+.cybevents-track-slot-card h5 {
+	font-size: 0.98rem;
+	font-weight: 700;
+	color: var(--cyb-white);
+	margin: 0 0 6px 0;
+}
+.cybevents-track-slot-card p {
+	font-size: 0.82rem;
+	opacity: 0.85;
+	line-height: 1.45;
+	margin: 0 0 12px 0;
+}
+.cybevents-slot-speaker {
+	font-size: 0.78rem;
+	font-weight: 700;
+	display: block;
+}
+
+/* 11. Modal Dialog */
+.cybevents-modal-backdrop {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(2, 6, 23, 0.85);
+	backdrop-filter: blur(12px);
+	z-index: 999999;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 24px;
+	animation: cybFadeIn 0.2s ease;
+}
+.cybevents-modal-dialog {
+	background: var(--cyb-surface-900);
+	border: 1px solid rgba(0, 212, 255, 0.4);
+	border-radius: 18px;
+	max-width: 520px;
+	width: 100%;
+	padding: 32px;
+	position: relative;
+	box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+}
+.cybevents-modal-close {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	background: rgba(30, 41, 59, 0.8);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	color: var(--cyb-white);
+	width: 36px;
+	height: 36px;
+	border-radius: 50%;
+	font-size: 1rem;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.cybevents-modal-heading {
+	font-size: 1.5rem;
+	font-weight: 800;
+	color: var(--cyb-white);
+	margin: 12px 0 18px 0;
+}
+.cybevents-modal-meta {
+	background: rgba(15, 23, 42, 0.8);
+	border-radius: 10px;
+	padding: 16px;
+	margin-bottom: 24px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	font-size: 0.95rem;
+	color: var(--cyb-slate-300);
+}
+.cybevents-modal-meta p { margin: 0; }
+
+/* ==========================================================================
+   Seat map: one cell per seat, one row per session, kept current over SSE.
+   Every colour comes from the tokens above, so a theme preset carries through.
+   ========================================================================== */
+
+.cybevents-seatmap {
+	background: var(--cyb-bg-card);
+	border: 1px solid var(--cyb-border);
+	border-radius: var(--cyb-radius-md);
+	padding: var(--cyb-space-5, 20px);
+	margin-block: var(--cyb-space-5, 20px);
+}
+
+.cybevents-seatmap-heading {
+	margin: 0 0 var(--cyb-space-2, 8px);
+	color: var(--cyb-text-main);
+}
+
+.cybevents-seatmap-description {
+	margin: 0 0 var(--cyb-space-4, 16px);
+	color: var(--cyb-text-muted);
+}
+
+.cybevents-seatmap-svg {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.cybevents-seatmap-label {
+	fill: var(--cyb-text-main);
+	font-size: 13px;
+	font-weight: 600;
+}
+
+.cybevents-seatmap-seat.is-free {
+	fill: var(--cyb-emerald-50);
+	stroke: var(--cyb-emerald-600);
+	stroke-width: 1;
+}
+
+.cybevents-seatmap-seat.is-taken {
+	fill: var(--cyb-navy-700);
+	stroke: var(--cyb-navy-900);
+	stroke-width: 1;
+}
+
+.cybevents-seatmap-bar-track {
+	fill: var(--cyb-bg-subtle);
+	stroke: var(--cyb-border);
+}
+
+.cybevents-seatmap-bar-fill {
+	fill: var(--cyb-navy-700);
+}
+
+.cybevents-seatmap-row.is-booked .cybevents-seatmap-seat.is-taken {
+	fill: var(--cyb-primary);
+	stroke: var(--cyb-primary-active);
+}
+
+.cybevents-seatmap-row.is-actionable {
+	cursor: pointer;
+}
+
+/* A row is focusable, so it needs a focus ring that is visible on both surfaces. */
+.cybevents-seatmap-row:focus-visible {
+	outline: 3px solid var(--cyb-border-focus);
+	outline-offset: 2px;
+}
+
+.cybevents-seatmap-legend {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--cyb-space-4, 16px);
+	list-style: none;
+	margin: var(--cyb-space-4, 16px) 0 0;
+	padding: 0;
+	color: var(--cyb-text-muted);
+	font-size: 14px;
+}
+
+.cybevents-seatmap-legend li {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.cybevents-seatmap-key {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	border-radius: 3px;
+	border: 1px solid var(--cyb-border);
+}
+
+.cybevents-seatmap-key.is-free {
+	background: var(--cyb-emerald-50);
+	border-color: var(--cyb-emerald-600);
+}
+
+.cybevents-seatmap-key.is-taken {
+	background: var(--cyb-navy-700);
+	border-color: var(--cyb-navy-900);
+}
+
+.cybevents-seatmap-key.is-booked {
+	background: var(--cyb-primary);
+	border-color: var(--cyb-primary-active);
+}
+
+.cybevents-seatmap-table {
+	width: 100%;
+	margin-top: var(--cyb-space-4, 16px);
+	border-collapse: collapse;
+	font-size: 14px;
+}
+
+.cybevents-seatmap-table caption {
+	text-align: left;
+	color: var(--cyb-text-muted);
+	padding-bottom: var(--cyb-space-2, 8px);
+}
+
+.cybevents-seatmap-table th,
+.cybevents-seatmap-table td {
+	border-bottom: 1px solid var(--cyb-border);
+	padding: 6px 8px;
+	text-align: left;
+	color: var(--cyb-text-main);
+}
+
+.cybevents-seatmap-status {
+	margin: var(--cyb-space-3, 12px) 0 0;
+	color: var(--cyb-text-muted);
+	font-size: 14px;
+}
+
+.cybevents-week-empty {
+	padding: 16px;
+	text-align: center;
+	color: var(--cyb-text-muted);
+	font-size: 0.85rem;
+}
+
+.cybevents-privacy-link {
+	color: var(--cyb-primary);
+	text-decoration: underline;
+	margin-left: 4px;
+}
+
+.cybevents-captcha-container {
+	margin: 16px 0;
+}

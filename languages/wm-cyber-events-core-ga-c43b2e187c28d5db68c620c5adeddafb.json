@@ -1,0 +1,2827 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "ga",
+        "plural-forms": "nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Imeachtaí, seisiúin agus clárúcháin le roghnú dúbailte isteach trí Brevo, seiceáil isteach, XML sonraisc (EN 16931) agus easpórtáil DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Níor aimsíodh an t-imeacht nó níl sé gníomhach a thuilleadh."
+      ],
+      "Verbindlich anmelden": [
+        "Cláraigh le hoibleagáid íocaíochta"
+      ],
+      "Kostenfrei anmelden": [
+        "Cláraigh saor in aisce"
+      ],
+      "Datum": [
+        "Dáta"
+      ],
+      "Veranstaltungsort": [
+        "Ionad"
+      ],
+      "Einlass": [
+        "Cead isteach"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Tar éis deimhnithe trí nasc ríomhphoist"
+      ],
+      "Kontaktdaten": [
+        "Sonraí teagmhála"
+      ],
+      "Einwilligung": [
+        "Toiliú"
+      ],
+      "Bestätigung": [
+        "Deimhniú"
+      ],
+      "Vorname": [
+        "Céadainm"
+      ],
+      "z. B. Erika": [
+        "m.sh. Aoife"
+      ],
+      "Nachname": [
+        "Sloinne"
+      ],
+      "z. B. Mustermann": [
+        "m.sh. Ní Mhurchú"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Seoladh ríomhphoist gnó"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institiúid / údarás / cuideachta"
+      ],
+      "z. B. Beispiel GmbH": [
+        "m.sh. Sampla Teo."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Grianghraf próifíle do phas an rannpháirtí (roghnach)"
+      ],
+      "Profilbild Vorschau": [
+        "Réamhamharc ar ghrianghraf próifíle"
+      ],
+      "Foto auswählen": [
+        "Roghnaigh grianghraf"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG nó WebP · uasmhéid 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Cosaint sonraí & toiliú le roghnú dúbailte isteach *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Toilím le próiseáil mo chuid sonraí le haghaidh rannpháirtíochta sa chomhdháil faoin RGCS. Gheobhaidh mé nasc deimhnithe trí ríomhphost chun fíorú a dhéanamh."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Léigh an polasaí príobháideachais"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Taifeadtaí grianghraif & físe (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Toilím gur féidir taifeadtaí grianghraif agus físe díom a dhéanamh le linn an imeachta chun críocha caidrimh phoiblí an eagraí."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Ionad Rialaithe & Áitíocht"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Inneall Fiontair CyberEvents gníomhach"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Bainistíocht acmhainne, easpórtáil DATEV agus seiceáil isteach"
+      ],
+      "Events": [
+        "Imeachtaí"
+      ],
+      "Bestätigte Gäste": [
+        "Aíonna deimhnithe"
+      ],
+      "Ausstehende DOI": [
+        "DOI ar feitheamh"
+      ],
+      "Mission Control öffnen": [
+        "Oscail an tIonad Rialaithe"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Tá toiliú RGCS ag teastáil"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Tá sonraí pearsanta cosanta faoi Airteagal 4(1) RGCS san easpórtáil seo. Sula ndéanann tú íoslódáil, ní mór duit a dheimhniú go láimhseálfaidh tú na sonraí faoi rún, nach bpróiseálfaidh tú iad ach dá gcuspóir beartaithe agus go scriosfaidh tú iad de réir rialacha cosanta sonraí tar éis an imeachta."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Ar ais chuig bainistíocht áirithintí"
+      ],
+      "DSGVO-Schutz": [
+        "Cosaint RGCS"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Éilíonn easpórtáil sonraí airgeadais agus féichiúnaithe deimhniú go gcoimeádfar na sonraí faoi rún agus nach n-úsáidfear iad ach le haghaidh cuntasaíochta amháin."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Ar ais chuig DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "Easpórtáil DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Ceadanna neamhleora."
+      ],
+      "Cyber Events": [
+        "Imeachtaí Cibear"
+      ],
+      "Dashboard & KPIs": [
+        "Deais & Eochairtháscairí Feidhmíochta"
+      ],
+      "Dashboard": [
+        "Deais"
+      ],
+      "Alle Veranstaltungen": [
+        "Gach imeacht"
+      ],
+      "Veranstaltungen": [
+        "Imeachtaí"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Cruthaigh imeacht nua"
+      ],
+      "Neue Veranstaltung": [
+        "Imeacht nua"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Ionaid & láithreacha comhdhála"
+      ],
+      "Veranstaltungsorte": [
+        "Ionaid"
+      ],
+      "Sessions & Agenda": [
+        "Seisiúin & clár oibre"
+      ],
+      "Neue Session erstellen": [
+        "Cruthaigh seisiún nua"
+      ],
+      "Neue Session": [
+        "Seisiún nua"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Rannpháirtithe & áirithintí"
+      ],
+      "CSV-Import & Onboarding": [
+        "Iompórtáil CSV & ionduchtú"
+      ],
+      "CSV-Import": [
+        "Iompórtáil CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Airgeadas & easpórtáil DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Airgeadas & DATEV"
+      ],
+      "Audit-Log": [
+        "Loga iniúchta"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Socruithe & Stiúideo Téamaí"
+      ],
+      "Einstellungen": [
+        "Socruithe"
+      ],
+      "Handbuch & Dokumentation": [
+        "Lámhleabhar & doiciméadúchán"
+      ],
+      "Handbuch": [
+        "Lámhleabhar"
+      ],
+      "Events & Konferenzen": [
+        "Imeachtaí & comhdhálacha"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Cumas le haghaidh bainistíocht imeachtaí agus comhdhálacha."
+      ],
+      "Teilnehmer verwalten": [
+        "Bainistigh rannpháirtithe"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Ceadaíonn sé seo clárúcháin imeachtaí a fheiceáil agus a easpórtáil gan rochtain iomlán riarthóra WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Socruithe & téama"
+      ],
+      "Handbuch & Doku": [
+        "Lámhleabhar & cáipéisí"
+      ],
+      "Plugin-Navigation": [
+        "Nascleanúint an bhreiseáin"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Sábháladh an t-imeacht go rathúil!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Nuashonraíodh na sonraí go sioncronach sa bhunachar sonraí agus i WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Scriosadh an t-imeacht!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Baineadh an taifead agus bogadh an postáil chuig an mbosca bruscair."
+      ],
+      "Demodaten angelegt.": [
+        "Cruthaíodh sonraí taispeána."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Cruthaíodh imeacht samplach, seisiúin agus rannpháirtithe samplacha; ní chruthaítear sonraisc ach nuair atá sonraí an díoltóra sonraisc cumraithe."
+      ],
+      "CyberEvents Command Console": [
+        "Consól Ordaithe CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Fiontar 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Imeachtaí, seisiúin agus clárúcháin le roghnú dúbailte isteach trí Brevo, seiceáil isteach, XML sonraisc agus easpórtáil DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Cuid de theaghlach breiseán WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Mód Hub"
+      ],
+      "Standalone": [
+        "Neamhspleách"
+      ],
+      "Demo-Daten auffrischen": [
+        "Athnuach sonraí taispeána"
+      ],
+      "Springen zu:": [
+        "Léim go:"
+      ],
+      "Kurzanleitung": [
+        "Treoir thapa"
+      ],
+      "Kennzahlen": [
+        "Méadrachtaí"
+      ],
+      "Rechnungen": [
+        "Sonraisc"
+      ],
+      "Audit-Protokoll": [
+        "Loga iniúchta"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Cad a dhéanann CyberEvents, agus cad atá le feiceáil anseo?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Bainistíonn an breiseán imeachtaí le seisiúin agus clárúcháin. Deimhníonn rannpháirtithe a gclárúchán trí nasc roghnaithe dhúbailte isteach a sheolann Brevo (eochair API ag teastáil), roghnaíonn siad seisiúin ina dhiaidh sin nach féidir a ró-áirithint, agus seiceáiltear isteach ag an mbealach isteach iad lena gcomhartha. Gintear sonraisc mar CII-XML (EN 16931) agus is féidir iad a easpórtáil mar bhaisc áirithinte DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Rochtain thapa:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Rannpháirtithe agus clárúcháin"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Easpórtáil sonraisc mar bhaisc DATEV"
+      ],
+      "Event Auslastung": [
+        "Áitíocht imeachta"
+      ],
+      "Kritisch": [
+        "Criticiúil"
+      ],
+      "Optimal": [
+        "Optamach"
+      ],
+      "Max. Kapazität:": [
+        "Uasacmhainn:"
+      ],
+      "Gebucht:": [
+        "Curtha in áirithe:"
+      ],
+      "Live Check-In Counter": [
+        "Áiritheoir seiceála isteach beo"
+      ],
+      "Anwesend": [
+        "I láthair"
+      ],
+      "Registriert:": [
+        "Cláraithe:"
+      ],
+      "Eingecheckt:": [
+        "Seiceáilte isteach:"
+      ],
+      "Wartend:": [
+        "Ag feitheamh:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Clárúcháin nua (24 u)"
+      ],
+      "Sessions": [
+        "Seisiúin"
+      ],
+      "in 24 h": [
+        "i 24 u"
+      ],
+      "Ausstehende DOI:": [
+        "DOI ar feitheamh:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Teiliméadracht scuaine CRM Brevo"
+      ],
+      "Jobs": [
+        "Jabanna"
+      ],
+      "Verarbeitung": [
+        "Próiseáil"
+      ],
+      "Verarbeitet:": [
+        "Próiseáilte:"
+      ],
+      "Schnellaktionen": [
+        "Gníomhartha tapa"
+      ],
+      "Neue Konferenz anlegen": [
+        "Cruthaigh comhdháil nua"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Liosta rannpháirtithe & seiceáil isteach"
+      ],
+      "CSV-Batch Import": [
+        "Iompórtáil bhaisce CSV"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Forbhreathnú imeachtaí & monatóireacht áitíochta"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Clárúcháin dheimhnithe in aghaidh an imeachta i gcomparáid leis an acmhainn chumraithe."
+      ],
+      "Event suchen...": [
+        "Cuardaigh imeacht..."
+      ],
+      "Neue Konferenz": [
+        "Comhdháil nua"
+      ],
+      "Konferenz / Event": [
+        "Comhdháil / imeacht"
+      ],
+      "Zeitraum": [
+        "Tréimhse"
+      ],
+      "Ort": [
+        "Cathair / Baile"
+      ],
+      "Kapazität & Belegung": [
+        "Acmhainn & áitíocht"
+      ],
+      "Status": [
+        "Stádas"
+      ],
+      "Aktionen": [
+        "Gníomhartha"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Níor aimsíodh aon imeachtaí."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Cuir in eagar in eagarthóir bloc Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Cuir in eagar"
+      ],
+      "Schnellbearbeitung": [
+        "Eagarthóireacht thapa"
+      ],
+      "Vorschau": [
+        "Réamhamharc"
+      ],
+      "Teilnehmer (%d)": [
+        "Rannpháirtithe (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "An bhfuil tú cinnte gur mian leat an t-imeacht seo a scriosadh go buan?"
+      ],
+      "Löschen": [
+        "Scrios"
+      ],
+      "%d Sessions": [
+        "%d seisiún"
+      ],
+      "/ %d Plätze": [
+        "/ %d suíochán"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(gan teorainn acmhainne)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Cuir in eagar in eagarthóir Gutenberg"
+      ],
+      "Editor": [
+        "Eagarthóir"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Oscail eagarthóireacht thapa"
+      ],
+      "Quick": [
+        "Tapa"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Féach ar leathanach tosaigh"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Sonraisc bhailí agus chealaithe chomh maith le clárúcháin neamhdheimhnithe."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Comhlán, sonraisc bhailí"
+      ],
+      "Gültige Rechnungen": [
+        "Sonraisc bhailí"
+      ],
+      "Storniert": [
+        "Cealaithe"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Síntiúis gan deimhniú"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Easpórtáil DATEV & loga iniúchta"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Baisc áirithinte de shonraisc agus de nótaí creidmheasa do thréimhse; comhordaigh cuntais agus eochracha cánach le do chomhairleoir cánach."
+      ],
+      "DATEV Format": [
+        "Formáid DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Catagóir 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Slabhra HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Bréagainmniú tar éis 90 lá"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Oscail Stiúideo Easpórtála DATEV"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Féach ar an loga iniúchta"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Loga iniúchta slabhraithe go leanúnach: comhshíníonn gach iontráil an ceann roimpi ionas go mbraitear eagarthóireacht, scriosadh agus cur isteach ina dhiaidh sin. Fianaise ar chur isteach, ní do-athraitheacht — an té a léann wp-config.php, tá an eochair aige."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Oscail an loga iniúchta iomlán"
+      ],
+      "Zeitstempel": [
+        "Stampa ama"
+      ],
+      "Ereignis-Typ": [
+        "Cineál imeachta"
+      ],
+      "Benutzer / System": [
+        "Úsáideoir / córas"
+      ],
+      "Objekt-ID": [
+        "Aitheantas oibiachta"
+      ],
+      "Audit-Details & Nachweis": [
+        "Sonraí iniúchta & cruthúnas"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Níor taifeadadh aon iontrálacha iniúchta fós."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Cuir imeacht in eagar / cumraíocht thapa"
+      ],
+      "Schließen": [
+        "Dún"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Teideal na comhdhála / an imeachta:"
+      ],
+      "URL-Slug:": [
+        "Slug URL:"
+      ],
+      "Tagungsort / Location:": [
+        "Ionad / láthair:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Tosach (dáta & am):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Críoch (dáta & am):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Uasacmhainn rannpháirtithe:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Praghas ticéid (glan in €):"
+      ],
+      "Status:": [
+        "Stádas:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Gníomhach (foilsithe)"
+      ],
+      "Entwurf (Draft)": [
+        "Dréacht"
+      ],
+      "Archiviert": [
+        "Cartlannaithe"
+      ],
+      "Kostenpflichtig": [
+        "Íoctha"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Oscail in eagarthóir bloc Gutenberg"
+      ],
+      "Abbrechen": [
+        "Cealaigh"
+      ],
+      "Änderungen speichern": [
+        "Sábháil athruithe"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Nuashonraíodh sonraí an rannpháirtí go rathúil!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Sábháladh sonraí clárúcháin agus stádas sa bhunachar sonraí."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Scriosadh an rannpháirtí!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Baineadh an clárúchán agus gach áirithint seisiúin ghaolmhar."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Nuashonraíodh stádas na seiceála isteach!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Athraíodh stádas láithreachta an rannpháirtí."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Deimhníodh an roghnú dúbailte isteach!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Marcáladh an clárúchán de láimh mar dheimhnithe."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Bainistíocht rannpháirtithe & áirithintí"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Gach clárúchán le stádas roghnaithe dhúbailte isteach, áirithintí seisiúin agus sonraisc."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Suaitheantais ainm / liosta rannpháirtithe (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Scagtha de réir comhdhála: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Glan an scagaire"
+      ],
+      "Alle Teilnehmer": [
+        "Gach rannpháirtí"
+      ],
+      "Bestätigt": [
+        "Deimhnithe"
+      ],
+      "Ausstehend DOI": [
+        "DOI ar feitheamh"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Cuardaigh ainm, ríomhphost nó cuideachta..."
+      ],
+      "Teilnehmer": [
+        "Rannpháirtí"
+      ],
+      "Organisation / Firma": [
+        "Eagraíocht / cuideachta"
+      ],
+      "Check-In": [
+        "Seiceáil isteach"
+      ],
+      "Rechnung": [
+        "Sonrasc"
+      ],
+      "Anmeldedatum": [
+        "Dáta clárúcháin"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Níor aimsíodh aon chlárúcháin."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Cuir sonraí an rannpháirtí in eagar"
+      ],
+      "Auschecken": [
+        "Seiceáil amach"
+      ],
+      "Einchecken": [
+        "Seiceáil isteach"
+      ],
+      "DOI bestätigen": [
+        "Deimhnigh DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "An bhfuil tú cinnte gur mian leat an rannpháirtí seo a scriosadh go buan?"
+      ],
+      "Status umschalten": [
+        "Scoránaigh stádas"
+      ],
+      "Eingecheckt": [
+        "Seiceáilte isteach"
+      ],
+      "Nicht vor Ort": [
+        "Níl ar an láthair"
+      ],
+      "Rechnungs-XML": [
+        "XML sonraisc"
+      ],
+      "Kostenfrei / Keine": [
+        "Saor in aisce / Dada"
+      ],
+      "Edit": [
+        "Cuir in eagar"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "An bhfuil tú cinnte gur mian leat an rannpháirtí seo a scriosadh?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Cuir sonraí an rannpháirtí in eagar / bainistíocht rannpháirtithe"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Grianghraf próifíle / grianghraf suaitheantais rannpháirtí (JPG, PNG, WebP · uasmhéid 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Bain grianghraf"
+      ],
+      "Vorname:": [
+        "Céadainm:"
+      ],
+      "Nachname:": [
+        "Sloinne:"
+      ],
+      "E-Mail-Adresse:": [
+        "Seoladh ríomhphoist:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Eagraíocht / cuideachta / údarás:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Comhdháil sannta:"
+      ],
+      "Anmeldestatus:": [
+        "Stádas clárúcháin:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Deimhnithe"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Ar feitheamh (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Cealaithe"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Do-sheachadta (preabtha)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Stádas seiceála isteach (ar an láthair):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Níl / níl ar an láthair"
+      ],
+      "Ja / Eingecheckt": [
+        "Tá / seiceáilte isteach"
+      ],
+      "Rechnungsnummer:": [
+        "Uimhir shonraisc:"
+      ],
+      "Zahlungsstatus:": [
+        "Stádas íocaíochta:"
+      ],
+      "Kostenfrei (Free)": [
+        "Saor in aisce"
+      ],
+      "Ausstehend (Pending)": [
+        "Ar feitheamh"
+      ],
+      "Bezahlt (Paid)": [
+        "Íoctha"
+      ],
+      "Erstattet (Refunded)": [
+        "Aisíoctha"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Toiliú príobháideachais RGCS tugtha"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Toiliú le grianghraif & físeáin tugtha"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Príobháideachas RGCS & toiliú easpórtála"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Cosaint sonraí pearsanta (Airteagail 4 & 5 RGCS)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Gineann an easpórtáil seo comhad CSV ina bhfuil sonraí pearsanta íogaire rannpháirtithe (ainmneacha iomlána, cuideachtaí, seoltaí ríomhphoist gnó, tagairtí sonraisc agus stádas seiceála isteach)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Teorannú cuspóra (Airteagal 5(1)(b) RGCS):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Ní fhéadfar na sonraí a úsáid ach amháin chun an t-imeacht a reáchtáil go hoibriúcháin (m.sh. priontáil suaitheantas ainm agus creidiúnú ag an mbealach isteach)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Rúndacht & cosaint (Airteagal 5(1)(f) RGCS):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Tá cosc ar nochtadh do thríú páirtithe neamhúdaraithe nó ar stóráil ar ghléasanna soghluaiste neamhchriptithe."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Oibleagáid léirscriosta (Airteagal 17 RGCS):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Tar éis dheireadh na comhdhála, ní mór an comhad áitiúil easpórtáilte a scriosadh go pras de réir na rialacha cosanta sonraí."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Deimhním an toiliú RGCS:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Admhaím go bhfuil sonraí pearsanta rúnda san easpórtáil seo. Gabhaim orm féin iad a phróiseáil go cúramach dá gcuspóir beartaithe amháin agus cloí go docht leis na ceanglais reachtúla um chosaint sonraí."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Íoslódáil an easpórtáil CSV go slán anois"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML sonraisc (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Cóipeáil XML chuig an ngearrthaisce"
+      ],
+      "Keine Berechtigung.": [
+        "Níl cead agat."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Earráid slándála: ní cheadaítear ach fíorchomhaid CSV."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Tá an comhad ró-mhór (uasmhéid 5 MB ceadaithe)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Roghnaigh imeacht le do thoil agus cuir sonraí CSV ar fáil."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Iompórtáil bhaisce CSV rannpháirtithe (cosaint ar dhúblaigh TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Iompórtáil uathoibrithe de liostaí rannpháirtithe ó chórais sheachtracha le cosc docht ar chlárúcháin dhúblacha."
+      ],
+      "Import-Zusammenfassung": [
+        "Achoimre ar an iompórtáil"
+      ],
+      "Gesamtzeilen": [
+        "Líon iomlán na rónna"
+      ],
+      "Neu Importiert": [
+        "Iompórtáilte as an nua"
+      ],
+      "Dubletten abgewiesen": [
+        "Dúblaigh diúltaithe"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Iompórtáil liosta rannpháirtithe nua"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Sprioc-imeacht *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Roghnaigh imeacht —"
+      ],
+      "CSV-Datei auswählen": [
+        "Roghnaigh comhad CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Formáid: Céadainm;Sloinne;Ríomhphost;Cuideachta (scartha le leathstad nó camóg, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Nó greamaigh téacs CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Rith an iompórtáil CSV anois"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "Stiúideo Baisce Áirithinte DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Easpórtáil airgeadais chaighdeánaithe (catagóir 21, leagan formáide 700 / 125 réimse) do chomhairleoirí cánach agus do chuntasaíocht DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Roghnaigh tréimhse easpórtála"
+      ],
+      "Laufender Monat": [
+        "An mhí reatha"
+      ],
+      "Vormonat": [
+        "An mhí roimhe seo"
+      ],
+      "Gesamtes Jahr 2026": [
+        "An bhliain iomlán 2026"
+      ],
+      "Datum von *": [
+        "Dáta ó *"
+      ],
+      "Datum bis *": [
+        "Dáta go *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Deimhniú le haghaidh easpórtáil sonraí féichiúnaithe:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Deimhním go bhfuil sonraí pearsanta san easpórtáil ar thaifid airgeadais agus faighteoirí sonraisc agus nach gcuirtear ar aghaidh í ach chuig an gcleachtas cánach údaraithe le haghaidh leabharchoimeád reachtúil agus cuntasaíocht chánach."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Íoslódáil baisc áirithinte DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Rian iniúchta slabhraithe de ghníomhartha a bhaineann le slándáil, roghnuithe dúbailte isteach, cealuithe agus seiceálacha rochtana."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Slabhra iniúchta slán — %1$d iontráil fíoraithe de réir inneachair, %2$d bréagainmnithe (suíomh sa slabhra fíoraithe amháin)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Slabhra iniúchta NACH BHFUIL slán"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "Tagann %d iontráil ón tréimhse roimh an slabhrú agus níl aon síniú infhíoraithe orthu. Áirítear mar neamhfhíoraithe iad, ní mar shlán."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "Níl AUTH_KEY sainmhínithe: tagann eochair an tslabhra ón mbunachar sonraí — an áit chéanna a n-athródh ionsaitheoir a bhfuil rochtain scríofa aige. Sainmhínigh AUTH_KEY in wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Am"
+      ],
+      "Ereignistyp": [
+        "Cineál imeachta"
+      ],
+      "Referenz-ID": [
+        "Aitheantas tagartha"
+      ],
+      "IP-Adresse": [
+        "Seoladh IP"
+      ],
+      "Audit-Details (JSON)": [
+        "Sonraí iniúchta (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Níor aimsíodh aon iontrálacha loga."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Imeacht \"%1$s\" cruthaithe le %2$d seisiún agus %3$d rannpháirtí."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Iompórtáladh na sonraí taispeána go rathúil!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Scriosadh %1$d imeacht, %2$d seisiún, %3$d clárúchán agus %4$d sonrasc."
+      ],
+      "Demodaten bereinigt!": [
+        "Glanadh na sonraí taispeána!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Athchóiríodh réamhshocruithe na monarchan!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Folmhaíodh na táblaí go léir agus athshocraíodh na socruithe."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Baineadh an comhad téama uaslódáilte."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Sábháladh na socruithe go slán."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Cumraíocht Fiontair & Slándáil"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Dearadh, Brevo, sonraisc agus DATEV, cosaint ar róbait agus sonraí taispeána."
+      ],
+      "Design & Theme Studio": [
+        "Stiúideo Dearaidh & Téamaí"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM agus Webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Sonraisc & DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Cosaint ar Róbait (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Sonraí Taispeána & Athshocrú"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Córas Dearaidh an Tosaigh & Oidhreacht Téama"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Roghnaigh an chaoi a ndéantar imeachtaí agus foirmeacha áirithinte a stíliú ar an taobh tosaigh. De réir réamhshocraithe, faigheann an breiseán clónna, dathanna agus cnaipí le hoidhreacht go réidh ón téama gníomhach WordPress."
+      ],
+      "Primärfarbe": [
+        "Príomhdhath"
+      ],
+      "Akzentfarbe": [
+        "Dath aibhsithe"
+      ],
+      "Kartenhintergrund": [
+        "Cúlra cárta"
+      ],
+      "Textfarbe": [
+        "Dath an téacs"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Dathanna & Imlínte Téama Saincheaptha (Saincheapthóir Téama)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Príomhdhath (cnaipí & aibhsithe):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Dath aibhsithe (suaitheantais & loinnir):"
+      ],
+      "Seitenhintergrund:": [
+        "Cúlra an leathanaigh:"
+      ],
+      "Kartenhintergrund:": [
+        "Cúlra an chárta:"
+      ],
+      "Haupttextfarbe:": [
+        "Príomhdhath an téacs:"
+      ],
+      "Eckenabrundung (px):": [
+        "Ga coirnéil (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Uaslódáil téama CSS saincheaptha (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Uaslódáil stíl-bhileog .css saincheaptha (m.sh. gniomhaireacht-tema.css). Lódáiltear go scoite í agus bailíochtaítear go huathoibríoch í."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Téama saincheaptha gníomhach i láthair"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "An bhfuil tú cinnte gur mian leat an comhad téama CSS uaslódáilte a scriosadh?"
+      ],
+      "Theme löschen": [
+        "Scrios an téama"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "CSS saincheaptha breise (eagarthóir inlíne)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Cuir rialacha CSS saincheaptha isteach anseo, m.sh.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 & Fíordheimhniú Webhook"
+      ],
+      "Brevo API Key (v3)": [
+        "Eochair API Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Úsáidtear í le haghaidh seachadadh ríomhphoist roghnaithe dhúbailte isteach aisioncronach agus sioncronú tréithe teagmhála."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Rún comhroinnte Webhook / comhartha sínithe"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Comhartha atá sábháilte ó ionsaithe ama chun ualaí pá Brevo Webhook isteach a bhailíochtú."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Eochair API scanóra foirne (seiceáil isteach ag an mbealach isteach)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Comhartha fíordheimhnithe do ghléasanna scanóra soghluaiste a úsáideann an fhoireann ag an mbealach isteach."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Seomra feithimh: ceadanna isteach in aghaidh an nóiméid"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Iarratais ar chlárúchán agus áirithint seisiúin a ligtear isteach in aghaidh an nóiméid agus in aghaidh an imeachta. Múchann 0 an seomra feithimh (réamhshocrú). Os cionn na teorann sin, freagraíonn an bealach le HTTP 503 agus Retry-After sula ritear aon cheist bhunachair sonraí — ní chuirtear suíochán in áirithe."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Inneall áiritheora ar an suiteáil seo: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "taisce oibiachtaí bhuan"
+      ],
+      "Datenbank (Transients)": [
+        "bunachar sonraí (transients)"
+      ],
+      "DOI Template ID": [
+        "Aitheantas Teimpléid DOI"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Aitheantas liosta teagmhálaithe Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Sonraisc (CII-XML) & DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Réimír uimhir shonraisc"
+      ],
+      "Rechnungssteller": [
+        "Díoltóir sonraisc"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Ní ghintear aon sonraisc ná nótaí creidmheasa gan na sonraí seo: %s."
+      ],
+      "Name / Firma": [
+        "Ainm / cuideachta"
+      ],
+      "Straße und Hausnummer": [
+        "Sráid agus uimhir tí"
+      ],
+      "PLZ": [
+        "Cód poist"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Tír (cód ISO, m.sh. IE)"
+      ],
+      "USt-IdNr.": [
+        "Uimhir CBL"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Uimhir chánach (mura bhfuil uimhir CBL ann)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Ríomhphost billeála"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN le haghaidh aistrithe bainc (roghnach)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Uimhir chomhairleora DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Uimhir chliaint DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Cuntas ioncaim (m.sh. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Cuntas infhaighte (m.sh. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Níl giuirléid captcha san áireamh sa bhreiseán go fóill: sábháiltear an socrú, ach próiseáiltear an fhoirm gan captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Cumasaigh Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Eochair shuímh (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Eochair API / rún"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Bainistíocht Sonraí Taispeána & Athshocrú Monarchan"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Iompórtáil sonraí samplacha, bain arís iad nó athshocraigh an breiseán go réamhshocruithe na monarchan."
+      ],
+      "1. Demodaten importieren": [
+        "1. Iompórtáil sonraí taispeána"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Cruthaíonn sé comhdháil shamplach le seisiúin agus rannpháirtithe samplacha. Ní chruthaítear sonraisc ach nuair atá sonraí an díoltóra cumraithe."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Ar mhaith leat sonraí samplacha a iompórtáil anois?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Iompórtáil sonraí taispeána (comhdhálacha, seisiúin, rannpháirtithe, sonraisc)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Glan sonraí taispeána (scrios sonraí tástála amháin)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Ní scriosann sé ach comhdhálacha taispeána ginte, seisiúin taispeána, rannpháirtithe taispeána agus sonraisc thaispeána. Fanann fíor-imeachtaí agus áirithintí slán gan baint leo."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Ar mhaith leat na sonraí taispeána go léir a bhaint go slán? Coimeádfar na fíorshonraí."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Glan sonraí taispeána (sonraí tástála amháin)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Athshocraigh go réamhshocruithe na monarchan (Athshocrú Monarchan)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Rabhadh (do-aisiompaithe):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Folmhaíonn sé gach tábla imeachta, seisiúin, clárúcháin, sonraisc agus loga iniúchta, scriosann sé gach postáil cybevent agus cybsession agus athshocraíonn sé gach socrú go dtí na réamhshocruithe."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "RABHADH: An bhfuil tú lánchinnte? Scriosann sé seo GACH imeacht, clárúchán agus sonrasc agus athshocraíonn sé na socruithe go léir!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Athshocrú monarchan iomlán (scrios gach rud & athchóirigh réamhshocruithe)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Iompar le linn díshuiteáil an bhreiseáin"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Scrios gach tábla agus socrú le linn díshuiteála"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "De réir réamhshocraithe, caomhnaítear gach taifead imeachta, clárúcháin, sonraisc agus iniúchta nuair a scriostar an breiseán (dualgaís choinneála reachtúla). Ná cumasaigh an rogha seo ach amháin más ceart gach tábla a scriosadh go buan le linn díshuiteála."
+      ],
+      "Alle Einstellungen speichern": [
+        "Sábháil gach socrú"
+      ],
+      "Platzbuchung": [
+        "Áirithint suíochán"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Cuirtear suíochán in áirithe le hordú UPDATE coinníollach amháin (belegt = belegt + 1, fad is atá belegt < kapazitaet amháin). As dhá iarratas chomhuaineacha ar an suíochán deireanach, ní athraíonn ach ceann amháin an ró; faigheann an ceann eile an teachtaireacht 'lán go béal'."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Gintear sonraisc agus nótaí creidmheasa mar CII-XML faoin bpróifíl EN 16931 agus seiceáiltear iad leis an mbailíochtóir Mustang sna tástálacha. Ní ghintear aon PDF, mar sin ní comhad hibrideach ZUGFeRD é an XML. Scrúdaíonn do chomhairleoir cánach an gcomhlíonann na sonraisc ceanglais reachtúla i gcás ar leith."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF & cuntasaíocht"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Easpórtálann sé sonraisc agus nótaí creidmheasa tréimhse mar bhaisc áirithinte DATEV (EXTF 700, catagóir 21) in Windows-1252. Tagann na cuntais infhaighte agus ioncaim ó na socruithe; iompraíonn gach ró eochair chánach 3. Comhordaigh cuntais agus eochracha le do chomhairleoir cánach."
+      ],
+      "Handbuch & API:": [
+        "Lámhleabhar & API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Lámhleabhar iomlán"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Forbartha ag WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Lámhleabhar Riarthóra & Forbróra"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Áirithint suíochán, XML sonraisc, easpórtáil DATEV, roghnú dúbailte isteach Brevo, gearrchóid agus réamhshocruithe téama."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Áirithint suíochán gan ró-áirithint"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Méadaítear an t-áiritheoir áitíochta i ráiteas coinníollach amháin; as dhá iarratas chomhuaineacha ar an suíochán deireanach, ní nuashonraíonn ach ceann amháin an ró:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML sonraisc & DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Sonraisc agus nótaí creidmheasa le sonraí díoltóra ó na socruithe, dáta soláthair agus uimhir sheicheamhach. Gan PDF, gan Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Nótaí creidmheasa:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Uimhir sheicheamhach féin, cineál 381 ag tagairt don bhunsonrasc."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Baisc áirithinte do thréimhse laistigh de bhliain féilire amháin, Windows-1252. Comhordaigh cuntais agus eochracha cánach le do chomhairleoir cánach."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Roghnú Dúbailte Isteach Brevo CRM & Scuaine Chúlra"
+      ],
+      "Double Opt-In (DOI):": [
+        "Roghnú dúbailte isteach (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Seolann Brevo an ríomhphost deimhnithe le nasc pearsanta; deimhníonn an nasc an clárúchán uair amháin. Scriostar clárúcháin neamhdheimhnithe tar éis 14 lá."
+      ],
+      "Warteschlange:": [
+        "Scuaine:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Ritheann glaonna chuig Brevo trí scuaine bhunachair sonraí a phróiseálann WP-Cron gach nóiméad (nó wp cybevents queue-run), le suas le cúig iarracht."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Gearrchóid & Comhtháthú Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Foirm chlárúcháin inrochtana."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Clár oibre comhdhála idirghníomhach & forbhreathnú ar shnáitheanna."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Roghnú seisiúin bunaithe ar chomhartha tar éis dheimhniú DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI do Riarthóirí"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Réamhshocruithe Téama & Comharthaí Dearaidh"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Cuireann an taobh tosaigh é féin in oiriúint d'aon téama WordPress nó úsáideann sé réamhshocruithe dearaidh ionsuite:"
+      ],
+      "Presets:": [
+        "Réamhshocruithe:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Roinnt réamhshocruithe datha, lena n-áirítear ceann i ndúchorcra, corcra agus rós (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Oidhreacht téama (réamhshocrú):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Faigheann sé clónna, gathanna imlíne agus príomhdhathanna le hoidhreacht go réidh ón téama gníomhach (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Airíonna saincheaptha CSS:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Gaistí & Dea-Chleachtais"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Cruthaítear na táblaí le ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Tréimhsí coinneála:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Scriostar clárúcháin neamhdheimhnithe tar éis 14 lá, agus bréagainmnítear iontrálacha loga iniúchta tar éis 90 lá (seachas imeachtaí sonraisc). Ní scriosann an breiseán clárúcháin dheimhnithe ná sonraisc go huathoibríoch; níl aon socrú ann chuige sin."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Ritheann próiseáil na scuaine agus glanadh na dtréimhsí coinneála trí WP-Cron; bíonn cron-jab córais ceart ag teastáil ar shuímh gan trácht rialta."
+      ],
+      "Cyber Events Suite": [
+        "Sraith Imeachtaí Cibear"
+      ],
+      "Veranstaltung auswählen": [
+        "Roghnaigh imeacht"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Roghnaigh an sprioc-imeacht don bhloc seo."
+      ],
+      "Key Facts Header anzeigen": [
+        "Taispeáin ceanntásc na bpríomhfhíricí"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Taispeáin táscaire céimeanna (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Taispeáin cnaipe easpórtála féilire (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Taispeáin amadóir comhairimh síos"
+      ],
+      "Freie Plätze anzeigen": [
+        "Taispeáin suíocháin shaora"
+      ],
+      "Spaltenanzahl": [
+        "Líon na gcolún"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Roghnaigh imeacht bailí i socruithe an bhloic le do thoil."
+      ],
+      "Vorschau im Editor": [
+        "Réamhamharc san eagarthóir"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Roghnú seisiúin do chlárúcháin dheimhnithe"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Ar an taobh tosaigh, rindreáiltear an bloc seo go dinimiciúil do gach rannpháirtí lena chomhartha aonair féin."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Níor aimsíodh aon chomhartha deimhnithe."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Oscail an leathanach seo leis an nasc pearsantaithe ó do ríomhphost deimhnithe le do thoil."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Comhartha rannpháirtí neamhbhailí nó imithe in éag."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Mapa suíochán an imeachta"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Ar an taobh tosaigh, taispeánann an bloc seo áitíocht gach seisiúin mar SVG agus coinníonn sé cothrom le dáta é trí Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Níor aimsíodh an t-imeacht."
+      ],
+      "Jetzt anmelden": [
+        "Cláraigh anois"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Cláraigh saor in aisce anois"
+      ],
+      "Programm ansehen": [
+        "Féach ar an gclár"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Cead isteach saor in aisce"
+      ],
+      "Anmeldung geöffnet": [
+        "Clárúchán oscailte"
+      ],
+      "Ausgebucht": [
+        "Lán go béal"
+      ],
+      "Preis": [
+        "Praghas"
+      ],
+      "%d freier Platz": [
+        "%d suíochán ar fáil",
+        "%d shuíochán ar fáil",
+        "%d shuíochán ar fáil",
+        "%d suíochán ar fáil",
+        "%d suíochán ar fáil"
+      ],
+      "von max. %d": [
+        "as uasmhéid %d"
+      ],
+      "Beginn in:": [
+        "Tosaíonn sé i gceann:"
+      ],
+      "Tage": [
+        "Lá"
+      ],
+      "Std.": [
+        "Uair"
+      ],
+      "Min.": [
+        "Nóim"
+      ],
+      "Sek.": [
+        "Soic"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Easpórtáil chuig féilire (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (comhad .ics)"
+      ],
+      "Google Kalender": [
+        "Féilire Google"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Tá meabhrúchán lá amháin roimh an tosach sa chomhad .ics."
+      ],
+      "Referenten & Fachexperten": [
+        "Cainteoirí & saineolaithe réimse"
+      ],
+      "Referenten": [
+        "Cainteoirí"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Fógrófar liosta na gcainteoirí go luath."
+      ],
+      "TEILNEHMERPASS": [
+        "PAS RANNPHÁIRTÍ"
+      ],
+      "Teilnehmerpass": [
+        "Pas rannpháirtí"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Oscail ticéad & creidiúnú"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Cuir isteach do chomhartha slándála 64 carachtar ón ríomhphost deimhnithe:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Cuir comhartha isteach (m.sh. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Taispeáin an pas"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Comhartha áirithinte neamhbhailí nó anaithnid."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Níl aon phas rannpháirtí ar fáil don chlárúchán seo: níl sé deimhnithe nó cealaíodh é."
+      ],
+      "Max Mustermann": [
+        "Seán Ó Murchú"
+      ],
+      "Beispiel GmbH": [
+        "Sampla Teo."
+      ],
+      "Veranstaltung": [
+        "Imeacht"
+      ],
+      "Rechnungs-Nr.": [
+        "Uimh. sonraisc"
+      ],
+      "Keine": [
+        "Dada"
+      ],
+      "Ticket-Nummer": [
+        "Uimhir thicéid"
+      ],
+      "Pass drucken": [
+        "Priontáil an pas"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Cosaint sonraí agus slándáil"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Roghnú dúbailte isteach agus tréimhsí coinneála"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Ní thagann clárúchán i bhfeidhm ach tar éis deimhnithe tríd an nasc ríomhphoist. Scriostar clárúcháin neamhdheimhnithe tar éis 14 lá, agus bréagainmnítear iontrálacha loga iniúchta tar éis 90 lá."
+      ],
+      "Beschriftete Formulare": [
+        "Foirmeacha lipéadaithe"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Réimsí foirme le lipéid infheicthe, réimsí riachtanacha marcáilte agus teachtaireachtaí stádais a léann léitheoirí scáileáin os ard."
+      ],
+      "Eigene Skripte und Styles": [
+        "Scripteanna agus stíleanna féin-óstáilte"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Lódálann an breiseán a chuid scripteanna, stíleanna agus deilbhíní ó do fhreastalaí féin seachas ó CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Loga iniúchta agus comharthaí"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Déanann loga iniúchta slabhraithe le HMAC-SHA256 aon chur isteach ina dhiaidh sin inbhraite. Ní stóráiltear comharthaí rannpháirtithe ach mar hais SHA-256 amháin."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML sonraisc agus DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Sonraisc mar CII-XML faoin bpróifíl EN 16931 agus easpórtáil mar bhaisc áirithinte DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Cruthúnas Oibre)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Cosaint ar róbait a urramaíonn príobháideachas gan rianú úsáideoirí ná puzail íomhá faoi dhlí cosanta sonraí an AE."
+      ],
+      "Zur Anmeldung": [
+        "Logáil isteach"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Níl aon imeachtaí cartlannaithe ann."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Níl aon imeachtaí sceidealaithe ann faoi láthair."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Scag imeachtaí de réir teidil nó láithreach..."
+      ],
+      "Kostenfrei": [
+        "Saor in aisce"
+      ],
+      "In Kalender eintragen": [
+        "Cuir le féilire"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Ticear beo comhdhála agus cláir oibre"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TEILIMÉADRACHT CHLÁIR OIBRE BHEO"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Rialuithe amhairc agus scagtha"
+      ],
+      "Kalenderansichten": [
+        "Amhairc fhéilire"
+      ],
+      "Monat": [
+        "Mí"
+      ],
+      "Woche": [
+        "Seachtain"
+      ],
+      "Tag / Agenda": [
+        "Lá / clár oibre"
+      ],
+      "Liste": [
+        "Liosta"
+      ],
+      "Karten": [
+        "Cártaí"
+      ],
+      "Räume & Ort": [
+        "Seomraí & ionad"
+      ],
+      "Summit Tracks": [
+        "Snáitheanna an chruinnithe mullaigh"
+      ],
+      "Vorheriger Zeitraum": [
+        "Tréimhse roimhe seo"
+      ],
+      "Nächster Zeitraum": [
+        "An chéad tréimhse eile"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Cuardaigh imeacht, ábhar nó cainteoir..."
+      ],
+      "Suchbegriff eingeben": [
+        "Cuir téarma cuardaigh isteach"
+      ],
+      "Track oder Kategorie filtern": [
+        "Scag snáithe nó catagóir"
+      ],
+      "Alle Fach-Tracks": [
+        "Gach snáithe speisialtóra"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Snáithe 01: Cripteagrafaíocht Iar-Chandamach"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Snáithe 02: Ionchúiseamh Nialasach & Athléimneacht DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Snáithe 03: IS Uathrialach & Rialacha Rúndachta (§ 203 StGB)"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Snáithe 04: Slabhra Soláthair Bogearraí & CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Scag halla comhdhála"
+      ],
+      "Alle Säle & Räume": [
+        "Gach halla & seomra"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Halla Iomlánach Alpha (Príomhóráidí)"
+      ],
+      "Security Lab Beta": [
+        "Saotharlann Slándála Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Stiúideo Ceardlainne Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Mol Srutha Fíorúil AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Amharc féilire míosa"
+      ],
+      "Mo": [
+        "Lua"
+      ],
+      "Di": [
+        "Mái"
+      ],
+      "Mi": [
+        "Céa"
+      ],
+      "Do": [
+        "Déa"
+      ],
+      "Fr": [
+        "Aoi"
+      ],
+      "Sa": [
+        "Sat"
+      ],
+      "So": [
+        "Dom"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Amharc sceidil seachtaine agus amchláir"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Amharc cláir oibre laethúil agus amlíne"
+      ],
+      "Chronologische Listenansicht": [
+        "Amharc liosta croineolaíoch"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Amharc cártaí grianghraif amhairc"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Amharc nascleanúna ionaid agus seomraí"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Maitrís il-snáithe an chruinnithe mullaigh"
+      ],
+      "Dialog schließen": [
+        "Dún an dialóg"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Aitheantas seisiúin nó clárúcháin neamhbhailí."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Níorbh fhéidir an áirithint a phróiseáil mar gheall ar earráid bhunachair sonraí."
+      ],
+      "Session %d existiert nicht.": [
+        "Níl seisiún %d ann."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "Tá \"%1$s\" lán go béal (%2$d as %2$d suíochán tógtha)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Níorbh fhéidir an áirithint a shábháil. Scaoileadh an suíochán saor arís."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Níorbh fhéidir an cealú a phróiseáil mar gheall ar earráid bhunachair sonraí."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Níor uaslódáladh aon chomhad bailí."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Earráid le linn uaslódáil comhaid."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Ní fhéadfaidh íomhá na próifíle a bheith níos mó ná 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Formáid chomhaid neamhbhailí. Is iad JPG, PNG agus WebP na formáidí ceadaithe."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Iarmhír chomhaid neamhbhailí. Is iad .jpg, .jpeg, .png agus .webp na hiarmhíreanna ceadaithe."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Earráid agus íomhá na próifíle á sábháil."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Tá an loga iniúchta folamh cé gur taifeadadh %d iontráil roimhe seo."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Cuireadh iontráil neamhshínithe isteach sa tslabhra ina dhiaidh sin."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Briseadh slabhra ag iontráil #%d: scriosadh, cuireadh isteach nó athordaíodh iontráil."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Ní mheaitseálann síniú iontrála #%d a achoimre inneachair."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Tá iontráil #%d marcáilte mar bhréagainmnithe gan cruthúnas bailí: seans gur athraíodh a hinneachar."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Athraíodh inneachar iontrála #%d tar éis a chruthaithe."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Ní mheaitseálann deireadh an loga leis an iontráil dheireanach a taifeadadh. Baineadh na hiontrálacha is déanaí."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Imeachtaí"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Imeacht"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Imeachtaí Cibear"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Imeacht"
+      ],
+      "event\u0004Neu erstellen": [
+        "Cruthaigh nua"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Cuir imeacht in eagar"
+      ],
+      "Veranstaltung ansehen": [
+        "Féach ar an imeacht"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Cuardaigh imeachtaí"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Níl aon imeachtaí sa bhosca bruscair."
+      ],
+      "Veranstaltungsdaten": [
+        "Sonraí an imeachta"
+      ],
+      "Veranstaltungsort:": [
+        "Ionad:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Bainistigh ionaid ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Roghnaigh ionad sábháilte —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Ionad láimhe / seomra / seoladh..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Roghnaigh ionad sábháilte ón liosta nó saincheap cur síos na láithreach/an tseomra."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Tosach (dáta & am):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Críoch (dáta & am):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Imeacht íoctha"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Níl aon sceidil chomhdhála ar fáil faoi láthair."
+      ],
+      "Programm": [
+        "Clár"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Cuardaigh ábhar, cainteoir nó seomra..."
+      ],
+      "Konferenz-Agenda": [
+        "Clár oibre na comhdhála"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Fógrófar an clár mionsonraithe go luath."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Sonraí rannpháirtithe CyberEvents"
+      ],
+      "E-Mail": [
+        "Ríomhphost"
+      ],
+      "Unternehmen / Organisation": [
+        "Cuideachta / eagraíocht"
+      ],
+      "Profilbild": [
+        "Íomhá phróifíle"
+      ],
+      "Einwilligung Datenschutz": [
+        "Toiliú príobháideachais"
+      ],
+      "ja": [
+        "tá"
+      ],
+      "nein": [
+        "níl"
+      ],
+      "Einwilligung Fotos": [
+        "Toiliú grianghraf"
+      ],
+      "Bestätigung angefordert": [
+        "Deimhniú iarrtha"
+      ],
+      "Bestätigt am": [
+        "Deimhnithe ag"
+      ],
+      "Eingecheckt am": [
+        "Seiceáilte isteach ag"
+      ],
+      "Gebuchte Sessions": [
+        "Seisiúin curtha in áirithe"
+      ],
+      "Rechnungsnummer": [
+        "Uimhir shonraisc"
+      ],
+      "CyberEvents Registrierungen": [
+        "Clárúcháin CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Sonraisc CyberEvents"
+      ],
+      "Empfänger": [
+        "Faighteoir"
+      ],
+      "Adresse": [
+        "Seoladh"
+      ],
+      "Bruttobetrag": [
+        "Méid comhlán"
+      ],
+      "Ausgestellt am": [
+        "Eisithe ar"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Níorbh fhéidir clárúchán #%d a scriosadh."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Níorbh fhéidir clárúchán #%d a anaithnidiú; tá na sonraí gan athrú."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Anaithnidíodh clárúchán #%1$d. Fanann sonrasc %2$s le hainm, seoladh agus ríomhphost stóráilte gan athrú; ní scriosann an breiseán sonraisc."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Tá Webhook Brevo díchumasaithe gan rún comhroinnte (tugann sé 401 ar ais). Ní phróiseálfar preabanna ná díliostálacha go dtí go gcumraítear rún."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Níl aon eochair API Brevo cumraithe: ní sheolfar ríomhphoist dheimhnithe; fanann clárúcháin nua neamhdheimhnithe agus scriostar iad tar éis 14 lá."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Tá Friendly Captcha cumasaithe ach níl aon éifeacht leis: níl aon ghiuirléid captcha sa bhreiseán, mar sin próiseáiltear an fhoirm gan chosaint ar róbait."
+      ],
+      "Einstellungen öffnen": [
+        "Oscail socruithe"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "An iomarca iarratas. Bain triail eile as i gceann nóiméid."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Níor sábháladh an roghnúchán: %s Fanann d'áirithintí roimhe seo i bhfeidhm."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Cuireadh seisiúin nua in áirithe, ach níorbh fhéidir gach seisiún díroghnaithe a scaoileadh saor: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Comhartha slándála neamhbhailí (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Comhartha foirme neamhbhailí (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Rannpháirtí neamhúdaraithe nó nár aimsíodh."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Níor cuireadh aon chomhad íomhá isteach."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Nuashonraíodh íomhá na próifíle go rathúil."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Comhartha deimhnithe ar iarraidh."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Ticéad neamhbhailí nó nár deimhníodh fós."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Níl aon seisiúin cumraithe don imeacht seo."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Mapa suíochán: suíocháin thógtha agus shaora in aghaidh an tseisiúin"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d as %3$d suíochán tógtha"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Níor sonraíodh imeacht don mhapa suíochán."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Níl imeacht an mhapa suíochán ann."
+      ],
+      "frei": [
+        "saor"
+      ],
+      "belegt": [
+        "tógtha"
+      ],
+      "von Ihnen gebucht": [
+        "curtha in áirithe agat"
+      ],
+      "Belegung je Session": [
+        "Áitíocht in aghaidh an tseisiúin"
+      ],
+      "Session": [
+        "Seisiún"
+      ],
+      "Belegt": [
+        "Tógtha"
+      ],
+      "Frei": [
+        "Saor"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Nuashonraítear an áitíocht go leanúnach."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Staid ag am lódála an leathanaigh; ní nuashonraítear an áitíocht beo."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Sonraí taispeána: diúltaíodh d'áirithint do %1$s — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Sonraí taispeána: cealaíodh an rannpháirtíocht"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Seisiúin & snáitheanna"
+      ],
+      "post type singular name\u0004Session": [
+        "Seisiún"
+      ],
+      "admin menu\u0004Sessions": [
+        "Seisiúin"
+      ],
+      "Alle Sessions": [
+        "Gach seisiún"
+      ],
+      "Session bearbeiten": [
+        "Cuir seisiún in eagar"
+      ],
+      "Session ansehen": [
+        "Féach ar an seisiún"
+      ],
+      "Sessions durchsuchen": [
+        "Cuardaigh seisiúin"
+      ],
+      "Keine Sessions gefunden.": [
+        "Níor aimsíodh aon seisiúin."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Níl aon seisiúin sa bhosca bruscair."
+      ],
+      "Session-Daten": [
+        "Sonraí an tseisiúin"
+      ],
+      "Zugehörige Konferenz:": [
+        "Comhdháil ghaolmhar:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Níor roghnaíodh comhdháil —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Cainteoir & institiúid:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "m.sh. Aoife Ní Mhurchú (Sampla Teo.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Seomra / halla / snáithe:"
+      ],
+      "Workshop-Kapazität:": [
+        "Acmhainn ceardlainne:"
+      ],
+      "Speaker": [
+        "Cainteoir"
+      ],
+      "Raum / Track": [
+        "Seomra / snáithe"
+      ],
+      "Zeitfenster": [
+        "Sliotán ama"
+      ],
+      "Belegung": [
+        "Áitíocht"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Fáilte, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Roghnaigh do chuid seisiún. Leithdháiltear suíochán nuair a shábháiltear é fad nach bhfuil an seisiún lán go béal."
+      ],
+      "Anmeldung bestätigt": [
+        "Clárúchán deimhnithe"
+      ],
+      "Für diese Session eingetragen": [
+        "Cláraithe don seisiún seo"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Roghnaigh an mhír chláir seo"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Leithdháiltear an suíochán nuair a shábháiltear é fad nach bhfuil an seisiún lán go béal."
+      ],
+      "Sessions ausgewählt": [
+        "Seisiúin roghnaithe"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Sábháil an roghnúchán"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Réamhshocrú téama WordPress (faighte le hoidhreacht go huathoibríoch)"
+      ],
+      "Empfohlen": [
+        "Molta"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Faigheann sé clóghrafaíocht, dathanna, cnaipí agus spásáil go díreach ón téama gníomhach WordPress (GeneratePress, Astra, Twenty Twenty-Four srl.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Corcairghorm agus rósach (liathchorcra dorcha, corcairghorm, aiceann rósach)"
+      ],
+      "Farbstark": [
+        "Daite"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Liathchorcra dorcha (#482683), corcairghorm geal (#7D40E7), aiceann rósach (#DF0079), Noto Sans má lódálann an téama é, agus grádán caolchúiseach."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (dúghorm agus cian)"
+      ],
+      "High-Tech Dark": [
+        "Dorcha Ardteicneolaíochta"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Cuma shaincheaptha dhorcha & chóbailt le héifeachtaí loinnire, curtha in oiriúint do chibearshlándáil & do chomhdhálacha."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Íostach Nua-Aimseartha (Slinn & Monacrómach)"
+      ],
+      "Modern": [
+        "Nua-aimseartha"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Dearadh SaaS glan simplí le liath neodrach, imlínte géara agus spás bán fial."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Eagarthóireacht The (Clasaiceach & Toin The)"
+      ],
+      "Klassik": [
+        "Clasaiceach"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Toin the eabhair agus bhuirgléire do shiompóisiam acadúla agus do chomhdhálacha sinsearacha."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Ardchodarsnacht (Dubh ar Bhán)"
+      ],
+      "Hochkontrast": [
+        "Ardchodarsnacht"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Téacs dubh ar bhán (codarsnacht 21:1) le haibhsiú buí agus imlínte fócais treisithe."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Téama Saincheaptha (Dathanna Féin & CSS)"
+      ],
+      "Individuell": [
+        "Saincheaptha"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Sainmhíniú dathanna saor agus tacaíocht do stíl-bhileoga CSS saincheaptha uaslódáilte."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Níor cuireadh aon chomhad uaslódála bailí ar fáil."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Earráid slándála: ní fhéadfar ach comhaid .css shimplí a uaslódáil."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Sáraíonn an comhad CSS an teorainn 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Níorbh fhéidir comhad an téama a shábháil ar an bhfreastalaí."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Uaslódáladh agus gníomhachtaíodh CSS an téama shaincheaptha go rathúil."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Ionaid"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Ionad"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Cuardaigh ionaid"
+      ],
+      "Häufige Tagungsorte": [
+        "Ionaid choitianta"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Gach ionad"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Cuir ionad in eagar"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Nuashonraigh an t-ionad"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Cuir ionad nua leis"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Ainm an ionaid nua"
+      ],
+      "Orte mit Kommas trennen": [
+        "Scar ionaid le camóga"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Cuir ionaid leis nó bain iad"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Roghnaigh ó na hionaid is mó úsáide"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Níor aimsíodh aon ionaid."
+      ],
+      "Stadt / Ort:": [
+        "Cathair / baile:"
+      ],
+      "z. B. Musterstadt": [
+        "m.sh. Baile Samplach"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Bardas nó cathair an ionaid."
+      ],
+      "Straße & Hausnummer:": [
+        "Sráid & uimhir tí:"
+      ],
+      "z. B. Musterstraße 1": [
+        "m.sh. 1 Sráid Shamplach"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Cód poist (Eircode / PLZ):"
+      ],
+      "Land:": [
+        "Tír:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Uasacmhainn seomra (daoine):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Inrochtana do chathaoireacha rothaí"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Ná cuir tic ach nuair atá sé fíoraithe. Taispeántar é i liosta na n-ionad agus i mbealach REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL Léarscáileanna Google / treoracha:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Suíomh gréasáin an ionaid:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Uasacmhainn seomra:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Acmhainn suíochán limistéar na comhdhála."
+      ],
+      "Zugänglichkeit:": [
+        "Inrochtaineacht:"
+      ],
+      "Google Maps Link:": [
+        "Nasc Léarscáileanna Google:"
+      ],
+      "Stadt & Adresse": [
+        "Cathair & seoladh"
+      ],
+      "Kapazität": [
+        "Acmhainn"
+      ],
+      "Rollstuhlgerecht": [
+        "Inrochtana do chathaoireacha rothaí"
+      ],
+      "Ja": [
+        "Tá"
+      ],
+      "Nicht angegeben": [
+        "Gan sonrú"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Líon an-ard iarratas faoi láthair. Bain triail eile as i gceann %d soicind le do thoil. Níor cuireadh aon suíochán in áirithe."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Gan taisce oibiachtaí bhuan (Redis, Memcached), déanann an seomra feithimh comhaireamh sa bhunachar sonraí: seachnaíonn iarratais dhiúltaithe ceisteanna áirithinte, ach cosnaíonn siad léamh amháin agus scríobh amháin ar thábla na roghanna fós."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Méadrachtaí Imeachtaí Cibear"
+      ],
+      "Cyber Events Kennzahl": [
+        "Méadracht Imeachtaí Cibear"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Aschuireann sé méadrachtaí beo maidir le comhdhálacha gníomhacha, clárúcháin dheimhnithe agus suíocháin shaora."
+      ],
+      "Kennzahl": [
+        "Táscaire"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Aitheantas imeachta (roghnach)"
+      ],
+      "Dokumentation": [
+        "Doiciméadú"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Sonraigh aitheantas imeachta bailí le do thoil: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Níor aimsíodh aon chomhartha deimhnithe bailí. Bain úsáid as an nasc ó do ríomhphost le do thoil."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— An t-imeacht gníomhach is déanaí (uathoibríoch) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Uathoibríoch (an chomhdháil reatha)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Roghnú imeachta"
+      ],
+      "Ziel-Konferenz": [
+        "Sprioc-chomhdháil"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Roghnaigh an chomhdháil a dtaispeántar a sonraí sa phríomhbhratach."
+      ],
+      "Design & Layout-Presets": [
+        "Réamhshocruithe dearaidh & leagan amach"
+      ],
+      "Theme-Preset": [
+        "Réamhshocrú téama"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Dorcha Fiontair & Loinnir (réamhshocrú)"
+      ],
+      "Federal Blue": [
+        "Gorm Feidearálach"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Loinnir Chian Chibearphunc"
+      ],
+      "Clean White & Modern": [
+        "Bán Glan & Nua-Aimseartha"
+      ],
+      "Glassmorphism Blur": [
+        "Doiléiriú Gloineachais"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Cruinniú coirnéal (ga imlíne)"
+      ],
+      "Ohne (0px)": [
+        "Dada (0px)"
+      ],
+      "Mittel (8px)": [
+        "Meánach (8px)"
+      ],
+      "Groß (16px)": [
+        "Mór (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "An-mhór (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Cumasaigh éifeacht loinnire"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Téacsanna & cnaipí glao ar ghníomh"
+      ],
+      "Badge / Dachzeile": [
+        "Suaitheantas / os-líne"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Príomhcheanntásc saincheaptha (roghnach)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Réamhshocrú: teideal an imeachta"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Téacs tosaigh saincheaptha"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Réamhshocrú: cur síos ar an imeacht"
+      ],
+      "Primärer CTA-Button Text": [
+        "Lipéad an phríomhchnaipe CTA"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Sprioc-URL / ancaire an phríomhchnaipe CTA"
+      ],
+      "Sekundären Button anzeigen": [
+        "Taispeáin cnaipe tánaisteach"
+      ],
+      "Sekundärer Button Text": [
+        "Lipéad an chnaipe thánaistigh"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Sprioc-URL an chnaipe thánaistigh"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Infheictheacht eilimintí"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Taispeáin amadóir comhairimh síos beo"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Taispeáin piolla suíochán saor / acmhainne"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Taispeáin piolla stádais (oscailte/lán)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Taispeáin an t-ionad"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Taispeáin dáta & am"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Taispeáin suaitheantas praghas ticéid / saor in aisce"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Taispeáin cnaipe easpórtála féilire (.ics)"
+      ],
+      "Kopfbereich": [
+        "Ceanntásc laochbhrataí"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Réamhshocrú: cur síos ar an imeacht chomh maith le dáta, ionad, praghas, suíocháin shaora, comhaireamh síos agus cnaipe clárúcháin."
+      ],
+      "Countdown": [
+        "Comhaireamh síos"
+      ],
+      "Freie Plätze": [
+        "Suíocháin shaora"
+      ],
+      "Stil: %s": [
+        "Stíl: %s"
+      ],
+      "Button: %s": [
+        "Cnaipe: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Roghnú comhdhála"
+      ],
+      "Ziel-Veranstaltung": [
+        "Sprioc-imeacht"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Roghnaigh an t-imeacht a gcláraíonn cuairteoirí dó."
+      ],
+      "Formular-Design & Theme": [
+        "Dearadh foirme & téama"
+      ],
+      "Formular-Stil": [
+        "Stíl na foirme"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Gloineachas Cibear (réamhshocrú)"
+      ],
+      "Clean White Studio": [
+        "Stiúideo Bán Glan"
+      ],
+      "Eckenabrundung": [
+        "Cruinniú coirnéal"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Réimsí foirme & roghanna gabhála"
+      ],
+      "Individueller Formulartitel": [
+        "Teideal foirme saincheaptha"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Fotheideal / nóta saincheaptha"
+      ],
+      "Standard: kein Untertitel": [
+        "Réamhshocrú: gan fotheideal"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Taispeáin réimse eagraíochta / cuideachta"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Taispeáin ticbhosca toilithe grianghraf & físeán"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Taispeáin ceanntásc na bpríomhfhíricí san fhoirm"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Lipéad cnaipe & naisc phríobháideachais"
+      ],
+      "Absende-Button Beschriftung": [
+        "Lipéad an chnaipe seolta"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "URL polasaí príobháideachais saincheaptha (roghnach)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Réamhshocrú: leathanach príobháideachais faoi Socruithe > Príobháideachas"
+      ],
+      "Anmeldeformular": [
+        "Foirm chlárúcháin"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Clárúchán le roghnú dúbailte isteach: seolann Brevo an nasc deimhnithe, agus ní thagann an clárúchán i bhfeidhm ach tar éis a dheimhnithe."
+      ],
+      "Standard nach Ticketpreis": [
+        "Réamhshocrú bunaithe ar phraghas an ticéid"
+      ],
+      "Überschrift & Untertitel": [
+        "Ceanntásc & fotheideal"
+      ],
+      "Überschrift": [
+        "Ceannteideal"
+      ],
+      "Untertitel / Beschreibung": [
+        "Fotheideal / cur síos"
+      ],
+      "Suche, Angaben & Export": [
+        "Cuardach, meiteashonraí & easpórtáil"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Taispeáin réimse cuardaigh bheo do sheisiúin"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Taispeáin sonraí seomra agus ionaid"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Taispeáin abhatáir na gcainteoirí"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Taispeáin easpórtáil fhéilire iomlán (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Seisiúin in ord croineolaíoch le seomra, cainteoir, cur síos, cuardach agus easpórtáil .ics."
+      ],
+      "Suche": [
+        "Cuardach"
+      ],
+      ".ics-Download": [
+        "Íoslódáil .ics"
+      ],
+      "Layout & Spalten": [
+        "Leagan amach & colúin"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Líon na gcolún (deasc)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Taispeáint téacs & sonraí"
+      ],
+      "Untertitel": [
+        "Fotheideal"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Taispeáin ábhar cainte an tseisiúin"
+      ],
+      "Raumangabe anzeigen": [
+        "Taispeáin lipéad an tseomra"
+      ],
+      "Uhrzeit anzeigen": [
+        "Taispeáin am tosaithe"
+      ],
+      "Konferenz: ": [
+        "Comhdháil: "
+      ],
+      "%d Spalten": [
+        "%d colún"
+      ],
+      "Vortragsthemen": [
+        "Ábhair chainte"
+      ],
+      "Titel": [
+        "Teideal"
+      ],
+      "Individueller Titel": [
+        "Teideal saincheaptha"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Seirbhísí & roghanna féilire"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Taispeáin Apple / Outlook (comhad .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Taispeáin nasc díreach Féilire Google"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Taispeáin nasc díreach Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Taispeáin nasc díreach Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Taispeáin fógra crios ama"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Taispeáin nóta faoin meabhrúchán sa chomhad .ics"
+      ],
+      "Kalender": [
+        "Féilire"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Comhad .ics le meabhrúchán lá amháin roimh an tosach chomh maith le naisc chuig Féilire Google, Outlook Web agus Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Comhad .ics"
+      ],
+      "Session-Auswahl": [
+        "Roghnóir seisiún"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Níl aon socruithe ag an mbloc seo. Taispeánann sé na seisiúin don chomhartha sa nasc deimhnithe; gan chomhartha, taispeántar fógra."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Leithdháiltear suíochán nuair a shábháiltear é fad nach bhfuil an seisiún lán go béal."
+      ],
+      "Ticketpass-Optionen": [
+        "Roghanna pas ticéid"
+      ],
+      "Pass-Überschrift": [
+        "Teideal an phas"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Líne cheanntáisc (réamhshocrú: teideal an imeachta)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Taispeáin cnaipe priontála (priontáil suaitheantas)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Taispeáin uimhir thicéid"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Taispeáin uimhir shonraisc / tagairt"
+      ],
+      "Check-In Status anzeigen": [
+        "Taispeáin stádas seiceála isteach"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pas do chlárúcháin dheimhnithe a rochtainítear tríd an gcomhartha ón ríomhphost deimhnithe: ainm, cuideachta, stádas, uimhir shonraisc, uimhir thicéid agus feidhm phriontála."
+      ],
+      "Ticketnummer": [
+        "Uimhir thicéid"
+      ],
+      "Druckfunktion": [
+        "Feidhm phriontála"
+      ],
+      "Titel der Veranstaltung": [
+        "Teideal an imeachta"
+      ],
+      "Layout & Farbschema": [
+        "Leagan amach & scéim dathanna"
+      ],
+      "Raster-Layout": [
+        "Leagan amach greille"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Greille 4 cholún (réamhshocrú)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Greille 2 cholún (leathan)"
+      ],
+      "Farbthema": [
+        "Téama datha"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Loinnir Chibear Dhorcha (réamhshocrú)"
+      ],
+      "Angezeigte Karten": [
+        "Cártaí ar taispeáint"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Cártaí a dhéanann cur síos ar a ndéanann an breiseán. Ní dhéanann an bloc aon mheasúnú ar chomhlíonadh dlíthiúil an tsuímh ghréasáin."
+      ],
+      "Double Opt-in": [
+        "Roghnú dúbailte isteach"
+      ],
+      "Formulare": [
+        "Foirmeacha"
+      ],
+      "Eigene Assets": [
+        "Sócmhainní féin-óstáilte"
+      ],
+      "Abfrage & Filterung": [
+        "Iarratas & scagadh"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Uaslíon comhdhálacha"
+      ],
+      "Status-Filter": [
+        "Scagaire stádais"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Imeachtaí gníomhacha amháin"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Imeachtaí gníomhacha agus cartlannaithe"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Imeachtaí cartlannaithe amháin"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Meiteashonraí & cnaipí infheicthe"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Taispeáin barra cuardaigh bheo"
+      ],
+      "Preisschild anzeigen": [
+        "Taispeáin lipéad praghais"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Taispeáin ionad / láthair"
+      ],
+      "Datums-Badge anzeigen": [
+        "Taispeáin suaitheantas dáta"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Taispeáin nasc díreach féilire .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Taispeáin sliocht an chur síos"
+      ],
+      "CTA-Button Beschriftung": [
+        "Lipéad an chnaipe CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Forbhreathnú ar imeachtaí"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Greille imeachtaí le dáta, praghas, láthair, achoimre, cnaipe clárúcháin agus nasc .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Uasmhéid %d imeacht"
+      ],
+      "Cyber Events Sitzplan": [
+        "Mapa Suíochán Imeachtaí Cibear"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Socruithe an mhapa suíochán"
+      ],
+      "Überschrift (optional)": [
+        "Ceanntásc (roghnach)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Téacs cur síos (roghnach)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Cumasaigh nuashonruithe beo"
+      ],
+      "Sitzplan": [
+        "Mapa suíochán"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Forbhreathnú grafach áitíochta ar gach seisiún d'imeacht le tábla sonraí inrochtana."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Féilire Il-Amhairc Imeachtaí Cibear"
+      ],
+      "Ansichten & Datenquelle": [
+        "Amhairc & foinse sonraí"
+      ],
+      "Standardansicht": [
+        "Amharc réamhshocraithe"
+      ],
+      "Monatskalender": [
+        "Féilire míosa"
+      ],
+      "Wochenplan": [
+        "Sceideal seachtaine"
+      ],
+      "Tagesagenda": [
+        "Clár oibre laethúil"
+      ],
+      "Listenansicht": [
+        "Amharc liosta"
+      ],
+      "Kartenansicht": [
+        "Amharc cártaí"
+      ],
+      "Raumübersicht": [
+        "Forbhreathnú seomraí"
+      ],
+      "Track-Matrix": [
+        "Maitrís snáitheanna"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Uaslíon iontrálacha"
+      ],
+      "Bedienleiste & Filter": [
+        "Barra uirlisí & scagairí"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Taispeáin malartóir amhairc"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Taispeáin scagairí snáithe agus seomra"
+      ],
+      "Suchfeld anzeigen": [
+        "Taispeáin réimse cuardaigh"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Taispeáin barra fógraí"
+      ],
+      "Kalender-Ansichten": [
+        "Amhairc fhéilire"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Féilire & clár oibre il-amhairc"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Amhairc mhíosa, seachtaine, lae, liosta, cártaí, seomraí agus snáitheanna in-athraithe."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Clár Oibre Comhdhála Imeachtaí Cibear"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Sceideal comhdhála idirghníomhach il-snáithe le hamlíne, sonraí cainteoirí, scagairí seomra agus íoslódáil iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Imeachtaí Cibear Il-Amharc Pro (Féilire, Clár Oibre & Snáitheanna)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Sraith fhéilire & chláir oibre leathnaithe le 7 n-amharc idirghníomhacha tosaigh: féilire míosa, sceideal seachtaine, clár oibre laethúil, amharc liosta, cártaí grianghraif, léarscáil seomraí agus maitrís il-snáithe an chruinnithe mullaigh."
+      ],
+      "block keyword\u0004event": [
+        "imeacht"
+      ],
+      "block keyword\u0004calendar": [
+        "féilire"
+      ],
+      "block keyword\u0004agenda": [
+        "clár oibre"
+      ],
+      "block keyword\u0004schedule": [
+        "sceideal"
+      ],
+      "block keyword\u0004summit": [
+        "cruinniú mullaigh"
+      ],
+      "block keyword\u0004timetable": [
+        "amchlár"
+      ],
+      "block keyword\u0004matrix": [
+        "maitrís"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Féilire Imeachtaí Cibear & Giuirléid .ics"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Giuirléid fhéilire le híoslódáil .ics agus naisc chuig Féilire Google, Outlook Web agus Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Laochbhratach & Comhaireamh Síos Imeachta Chibear"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Ceanntásc imeachta le comhaireamh síos, príomhfhíricí, stádas agus cnaipí clárúcháin."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Greille Fhorbhreathnaithe & Chartlainne Imeachtaí Cibear"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Forbhreathnú dinimiciúil cártaí ar chomhdhálacha, siompóisiam agus ceardlanna atá le teacht le barra cuardaigh agus scagairí stádais."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Foirm Chlárúcháin Imeachtaí Cibear"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Foirm chlárúcháin le roghnú dúbailte isteach trí Brevo, grianghraf próifíle roghnach agus toiliú le grianghraif."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Mapa Suíochán Imeachtaí Cibear"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Áitíocht gach seisiúin d'imeacht mar SVG, coinnithe cothrom le dáta trí Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Suaitheantais Slándála & Iontaobhais Imeachtaí Cibear"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Forbhreathnú ar fheidhmeanna príobháideachais agus slándála an bhreiseáin: roghnú dúbailte isteach, tréimhsí coinneála, loga iniúchta, XML sonraisc."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Roghnóir Seisiún & Ceardlann Imeachtaí Cibear"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Roghnóir seisiún do chlárúcháin dheimhnithe: leithdháiltear suíocháin nuair a shábháiltear iad fad nach bhfuil an seisiún lán go béal."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Greille Chainteoirí & Saineolaithe Imeachtaí Cibear"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Forbhreathnú ginte go huathoibríoch ar phríomhchainteoirí, cainteoirí seisiún, leithdháileadh seomraí agus sonraí beathaisnéise."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Pas Ticéid Digiteach Imeachtaí Cibear"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Pas rannpháirtí do chlárúcháin dheimhnithe le huimhir thicéid, imeacht, ionad agus feidhm phriontála."
+      ]
+    }
+  }
+}

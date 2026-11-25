@@ -1,0 +1,63 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/security-trust-badge",
+	"version": "1.1.0",
+	"title": "Cyber Events Security & Trust Badges",
+	"category": "cyber-events",
+	"icon": "shield-alt",
+	"description": "Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"heading": {
+			"type": "string",
+			"default": ""
+		},
+		"subheading": {
+			"type": "string",
+			"default": ""
+		},
+		"layout": {
+			"type": "string",
+			"default": "grid-4-cols"
+		},
+		"theme": {
+			"type": "string",
+			"default": "dark-glow"
+		},
+		"showDsgvo": {
+			"type": "boolean",
+			"default": true
+		},
+		"showBitv": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCdnPolicy": {
+			"type": "boolean",
+			"default": true
+		},
+		"showGrundschutz": {
+			"type": "boolean",
+			"default": true
+		},
+		"showZugferd": {
+			"type": "boolean",
+			"default": true
+		},
+		"showFriendlyCaptcha": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

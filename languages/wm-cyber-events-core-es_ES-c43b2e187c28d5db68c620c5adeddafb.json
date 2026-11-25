@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "es_ES",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Eventos, sesiones e inscripciones con doble opt-in a través de Brevo, check-in, XML de factura (EN 16931) y exportación DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Evento no encontrado o ya no activo."
+      ],
+      "Verbindlich anmelden": [
+        "Inscribirse con obligación de pago"
+      ],
+      "Kostenfrei anmelden": [
+        "Inscribirse gratuitamente"
+      ],
+      "Datum": [
+        "Fecha"
+      ],
+      "Veranstaltungsort": [
+        "Lugar del evento"
+      ],
+      "Einlass": [
+        "Acceso"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Tras la confirmación mediante enlace por correo electrónico"
+      ],
+      "Kontaktdaten": [
+        "Datos de contacto"
+      ],
+      "Einwilligung": [
+        "Consentimiento"
+      ],
+      "Bestätigung": [
+        "Confirmación"
+      ],
+      "Vorname": [
+        "Nombre"
+      ],
+      "z. B. Erika": [
+        "p. ej., Elena"
+      ],
+      "Nachname": [
+        "Apellidos"
+      ],
+      "z. B. Mustermann": [
+        "p. ej., García"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Dirección de correo electrónico profesional"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institución / organismo / empresa"
+      ],
+      "z. B. Beispiel GmbH": [
+        "p. ej., Ejemplo S. L."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Foto de perfil para el pase de participante (opcional)"
+      ],
+      "Profilbild Vorschau": [
+        "Vista previa de la foto de perfil"
+      ],
+      "Foto auswählen": [
+        "Seleccionar foto"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG o WebP · máx. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Protección de datos y consentimiento de doble opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Consiento el tratamiento de mis datos para participar en la conferencia conforme al RGPD. Recibiré un enlace de confirmación por correo electrónico para su verificación."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Leer la política de privacidad"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Grabaciones de foto y vídeo (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Consiento que durante el evento se realicen fotografías y grabaciones de vídeo de mi persona para las relaciones públicas del organizador."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Centro de control y ocupación"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Motor CyberEvents Enterprise activo"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Gestión de aforo, exportación DATEV y check-in"
+      ],
+      "Events": [
+        "Eventos"
+      ],
+      "Bestätigte Gäste": [
+        "Invitados confirmados"
+      ],
+      "Ausstehende DOI": [
+        "DOI pendientes"
+      ],
+      "Mission Control öffnen": [
+        "Abrir centro de control"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Se requiere consentimiento RGPD"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Esta exportación contiene datos personales protegidos conforme al art. 4, apdo. 1 del RGPD. Antes de descargar el archivo, debe confirmar que tratará los datos de forma confidencial, únicamente para la finalidad prevista, y que los eliminará conforme a la normativa de protección de datos una vez finalizado el evento."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Volver a la gestión de reservas"
+      ],
+      "DSGVO-Schutz": [
+        "Protección RGPD"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "La exportación de datos financieros y de deudores requiere confirmar que los datos se tratarán de forma confidencial y se utilizarán exclusivamente para la contabilidad."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Volver a DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "Exportación DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Permisos insuficientes."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Panel de control y KPI"
+      ],
+      "Dashboard": [
+        "Panel de control"
+      ],
+      "Alle Veranstaltungen": [
+        "Todos los eventos"
+      ],
+      "Veranstaltungen": [
+        "Eventos"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Crear nuevo evento"
+      ],
+      "Neue Veranstaltung": [
+        "Nuevo evento"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Sedes y centros de conferencias"
+      ],
+      "Veranstaltungsorte": [
+        "Sedes"
+      ],
+      "Sessions & Agenda": [
+        "Sesiones y agenda"
+      ],
+      "Neue Session erstellen": [
+        "Crear nueva sesión"
+      ],
+      "Neue Session": [
+        "Nueva sesión"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Participantes y reservas"
+      ],
+      "CSV-Import & Onboarding": [
+        "Importación CSV e incorporación"
+      ],
+      "CSV-Import": [
+        "Importación CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finanzas y exportación DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Finanzas y DATEV"
+      ],
+      "Audit-Log": [
+        "Registro de auditoría"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Ajustes y Theme Studio"
+      ],
+      "Einstellungen": [
+        "Ajustes"
+      ],
+      "Handbuch & Dokumentation": [
+        "Manual y documentación"
+      ],
+      "Handbuch": [
+        "Manual"
+      ],
+      "Events & Konferenzen": [
+        "Eventos y conferencias"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Capacidades para la gestión de eventos y conferencias."
+      ],
+      "Teilnehmer verwalten": [
+        "Gestionar participantes"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Permite consultar y exportar inscripciones a eventos sin acceso completo de administrador de WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Ajustes y tema"
+      ],
+      "Handbuch & Doku": [
+        "Manual y documentación"
+      ],
+      "Plugin-Navigation": [
+        "Navegación del plugin"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "¡Evento guardado correctamente!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Los datos se han actualizado de forma síncrona en la base de datos y en WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "¡Evento eliminado!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "El registro se ha eliminado y la entrada se ha movido a la papelera."
+      ],
+      "Demodaten angelegt.": [
+        "Datos de demostración creados."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Se han creado un evento de ejemplo, sesiones y participantes de muestra; las facturas solo se generan si están configurados los datos del emisor."
+      ],
+      "CyberEvents Command Console": [
+        "Consola de mando CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Eventos, sesiones e inscripciones con doble opt-in a través de Brevo, check-in, XML de factura y exportación DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte de la familia de plugins de WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Modo Hub"
+      ],
+      "Standalone": [
+        "Autónomo"
+      ],
+      "Demo-Daten auffrischen": [
+        "Actualizar datos de demostración"
+      ],
+      "Springen zu:": [
+        "Ir a:"
+      ],
+      "Kurzanleitung": [
+        "Guía rápida"
+      ],
+      "Kennzahlen": [
+        "Métricas"
+      ],
+      "Rechnungen": [
+        "Facturas"
+      ],
+      "Audit-Protokoll": [
+        "Registro de auditoría"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "¿Qué hace CyberEvents y qué encontrará en esta pantalla?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "El plugin gestiona eventos con sesiones e inscripciones. Los participantes confirman su inscripción mediante un enlace de doble opt-in enviado por Brevo (requiere clave API), seleccionan a continuación sesiones cuyas plazas no admiten sobrerreserva y realizan el check-in en la entrada mediante su token. Las facturas se generan como XML CII (EN 16931) y pueden exportarse como lote contable DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Acceso rápido:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Participantes e inscripciones"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Exportar facturas como lote DATEV"
+      ],
+      "Event Auslastung": [
+        "Ocupación de eventos"
+      ],
+      "Kritisch": [
+        "Crítico"
+      ],
+      "Optimal": [
+        "Óptimo"
+      ],
+      "Max. Kapazität:": [
+        "Capacidad máx.:"
+      ],
+      "Gebucht:": [
+        "Reservado:"
+      ],
+      "Live Check-In Counter": [
+        "Contador de check-in en directo"
+      ],
+      "Anwesend": [
+        "Presentes"
+      ],
+      "Registriert:": [
+        "Inscritos:"
+      ],
+      "Eingecheckt:": [
+        "Registrados en sala:"
+      ],
+      "Wartend:": [
+        "En espera:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nuevas inscripciones (24 h)"
+      ],
+      "Sessions": [
+        "Sesiones"
+      ],
+      "in 24 h": [
+        "en 24 h"
+      ],
+      "Ausstehende DOI:": [
+        "DOI pendientes:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Telemetría de la cola CRM de Brevo"
+      ],
+      "Jobs": [
+        "Tareas"
+      ],
+      "Verarbeitung": [
+        "En proceso"
+      ],
+      "Verarbeitet:": [
+        "Procesadas:"
+      ],
+      "Schnellaktionen": [
+        "Acciones rápidas"
+      ],
+      "Neue Konferenz anlegen": [
+        "Crear nueva conferencia"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Lista de participantes y check-in"
+      ],
+      "CSV-Batch Import": [
+        "Importación CSV por lotes"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Resumen de eventos y supervisión de ocupación"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Inscripciones confirmadas por evento en relación con el aforo configurado."
+      ],
+      "Event suchen...": [
+        "Buscar evento..."
+      ],
+      "Neue Konferenz": [
+        "Nueva conferencia"
+      ],
+      "Konferenz / Event": [
+        "Conferencia / evento"
+      ],
+      "Zeitraum": [
+        "Periodo"
+      ],
+      "Ort": [
+        "Lugar"
+      ],
+      "Kapazität & Belegung": [
+        "Capacidad y ocupación"
+      ],
+      "Status": [
+        "Estado"
+      ],
+      "Aktionen": [
+        "Acciones"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "No se encontraron eventos."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Editar en el editor de bloques Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Editar"
+      ],
+      "Schnellbearbeitung": [
+        "Edición rápida"
+      ],
+      "Vorschau": [
+        "Vista previa"
+      ],
+      "Teilnehmer (%d)": [
+        "Participantes (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "¿Realmente desea eliminar este evento de forma irreversible?"
+      ],
+      "Löschen": [
+        "Eliminar"
+      ],
+      "%d Sessions": [
+        "%d sesiones"
+      ],
+      "/ %d Plätze": [
+        "/ %d plazas"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(sin límite de aforo)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Editar en el editor Gutenberg"
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Abrir edición rápida"
+      ],
+      "Quick": [
+        "Rápida"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Ver página pública"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Facturas válidas y anuladas, así como inscripciones sin confirmar."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Bruto, facturas válidas"
+      ],
+      "Gültige Rechnungen": [
+        "Facturas válidas"
+      ],
+      "Storniert": [
+        "Anuladas"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Inscripciones sin confirmar"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Exportación DATEV y registro de auditoría"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Lote contable de facturas y abonos de un periodo; coordine las cuentas y las claves fiscales con su asesoría fiscal."
+      ],
+      "DATEV Format": [
+        "Formato DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Categoría 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Cadena HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Seudonimización tras 90 días"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Abrir DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Ver registro de auditoría"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Registro de auditoría encadenado de forma continua: cada entrada cofirma la anterior para detectar modificaciones, eliminaciones o inserciones posteriores. Evidencia de manipulación, no inmutabilidad: quien lee wp-config.php posee la clave."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Abrir registro de auditoría completo"
+      ],
+      "Zeitstempel": [
+        "Marca de tiempo"
+      ],
+      "Ereignis-Typ": [
+        "Tipo de evento"
+      ],
+      "Benutzer / System": [
+        "Usuario / sistema"
+      ],
+      "Objekt-ID": [
+        "ID de objeto"
+      ],
+      "Audit-Details & Nachweis": [
+        "Detalles de auditoría y prueba"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Aún no se han registrado entradas de auditoría."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Editar evento / configuración rápida"
+      ],
+      "Schließen": [
+        "Cerrar"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Título de la conferencia / evento:"
+      ],
+      "URL-Slug:": [
+        "Slug de URL:"
+      ],
+      "Tagungsort / Location:": [
+        "Sede / ubicación:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Inicio (fecha y hora):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Fin (fecha y hora):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Capacidad máx. de participantes:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Precio de la entrada (neto en €):"
+      ],
+      "Status:": [
+        "Estado:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Activo (publicado)"
+      ],
+      "Entwurf (Draft)": [
+        "Borrador"
+      ],
+      "Archiviert": [
+        "Archivado"
+      ],
+      "Kostenpflichtig": [
+        "De pago"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Abrir en el editor de bloques Gutenberg"
+      ],
+      "Abbrechen": [
+        "Cancelar"
+      ],
+      "Änderungen speichern": [
+        "Guardar cambios"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "¡Datos del participante actualizados correctamente!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Los datos de inscripción y el estado se han guardado en la base de datos."
+      ],
+      "Teilnehmer gelöscht!": [
+        "¡Participante eliminado!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Se han eliminado la inscripción y todas las reservas de sesiones asociadas."
+      ],
+      "Check-In Status aktualisiert!": [
+        "¡Estado de check-in actualizado!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Se ha conmutado el estado de asistencia del participante."
+      ],
+      "Double Opt-In bestätigt!": [
+        "¡Doble opt-in confirmado!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "La inscripción se ha marcado manualmente como confirmada."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Gestión de participantes y reservas"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Todas las inscripciones con estado de doble opt-in, reservas de sesiones y facturas."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Acreditaciones / lista de participantes (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrado por conferencia: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Quitar filtro"
+      ],
+      "Alle Teilnehmer": [
+        "Todos los participantes"
+      ],
+      "Bestätigt": [
+        "Confirmado"
+      ],
+      "Ausstehend DOI": [
+        "DOI pendiente"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Buscar nombre, correo electrónico o empresa..."
+      ],
+      "Teilnehmer": [
+        "Participante"
+      ],
+      "Organisation / Firma": [
+        "Organización / empresa"
+      ],
+      "Check-In": [
+        "Check-in"
+      ],
+      "Rechnung": [
+        "Factura"
+      ],
+      "Anmeldedatum": [
+        "Fecha de inscripción"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "No hay inscripciones registradas."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Editar datos del participante"
+      ],
+      "Auschecken": [
+        "Anular check-in"
+      ],
+      "Einchecken": [
+        "Realizar check-in"
+      ],
+      "DOI bestätigen": [
+        "Confirmar DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "¿Realmente desea eliminar este participante de forma irreversible?"
+      ],
+      "Status umschalten": [
+        "Cambiar estado"
+      ],
+      "Eingecheckt": [
+        "Registrado en sala"
+      ],
+      "Nicht vor Ort": [
+        "No presente"
+      ],
+      "Rechnungs-XML": [
+        "XML de factura"
+      ],
+      "Kostenfrei / Keine": [
+        "Gratuito / ninguna"
+      ],
+      "Edit": [
+        "Editar"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "¿Realmente desea eliminar este participante?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Editar datos del participante / gestión de participantes"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Foto de perfil / foto de acreditación (JPG, PNG, WebP · máx. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Quitar foto"
+      ],
+      "Vorname:": [
+        "Nombre:"
+      ],
+      "Nachname:": [
+        "Apellidos:"
+      ],
+      "E-Mail-Adresse:": [
+        "Dirección de correo electrónico:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organización / empresa / organismo:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Conferencia asignada:"
+      ],
+      "Anmeldestatus:": [
+        "Estado de la inscripción:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Confirmado"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Pendiente (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Cancelado"
+      ],
+      "Unzustellbar (Bounced)": [
+        "No entregable (rebotado)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Estado de check-in (en sala):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "No / no presente"
+      ],
+      "Ja / Eingecheckt": [
+        "Sí / registrado en sala"
+      ],
+      "Rechnungsnummer:": [
+        "Número de factura:"
+      ],
+      "Zahlungsstatus:": [
+        "Estado del pago:"
+      ],
+      "Kostenfrei (Free)": [
+        "Gratuito"
+      ],
+      "Ausstehend (Pending)": [
+        "Pendiente"
+      ],
+      "Bezahlt (Paid)": [
+        "Pagado"
+      ],
+      "Erstattet (Refunded)": [
+        "Reembolsado"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Consentimiento de privacidad RGPD otorgado"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Consentimiento de foto y vídeo otorgado"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Privacidad RGPD y consentimiento de exportación"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Protección de datos personales (arts. 4 y 5 del RGPD)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Esta exportación genera un archivo CSV con datos personales sensibles de los participantes (nombres completos, empresas, correos electrónicos profesionales, referencias de facturas y estado de check-in)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Limitación de la finalidad (art. 5, apdo. 1, letra b del RGPD):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Los datos solo pueden utilizarse para la ejecución operativa del evento (p. ej., impresión de acreditaciones y control de acceso en la entrada)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Confidencialidad y protección (art. 5, apdo. 1, letra f del RGPD):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Queda prohibida la cesión a terceros no autorizados o el almacenamiento en dispositivos móviles sin cifrar."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Obligación de supresión (art. 17 del RGPD):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Una vez finalizada la conferencia, el archivo local exportado debe eliminarse de inmediato conforme a la normativa de protección de datos."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Confirmo el consentimiento RGPD:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Reconozco que esta exportación contiene datos personales confidenciales. Me comprometo a tratarlos con diligencia exclusivamente para la finalidad prevista y cumpliendo estrictamente los requisitos legales de protección de datos."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Descargar ahora la exportación CSV de forma segura"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML de factura (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Copiar XML al portapapeles"
+      ],
+      "Keine Berechtigung.": [
+        "Permiso denegado."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Error de seguridad: solo se permiten archivos CSV auténticos."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "El archivo es demasiado grande (máximo permitido: 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Seleccione un evento y proporcione datos CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Importación CSV por lotes de participantes (protección contra duplicados TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Importación automatizada de listas de participantes desde sistemas externos con prevención estricta de inscripciones duplicadas."
+      ],
+      "Import-Zusammenfassung": [
+        "Resumen de la importación"
+      ],
+      "Gesamtzeilen": [
+        "Filas totales"
+      ],
+      "Neu Importiert": [
+        "Nuevos importados"
+      ],
+      "Dubletten abgewiesen": [
+        "Duplicados rechazados"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importar nueva lista de participantes"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Evento de destino *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Seleccionar evento —"
+      ],
+      "CSV-Datei auswählen": [
+        "Seleccionar archivo CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Formato: Nombre;Apellidos;Email;Empresa (separado por punto y coma o coma, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "O pegar texto CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Ejecutar importación CSV ahora"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Estudio de lotes contables"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Exportación financiera estandarizada (categoría 21, versión de formato 700 / 125 campos) para asesores fiscales y contabilidad DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Definir periodo de exportación"
+      ],
+      "Laufender Monat": [
+        "Mes actual"
+      ],
+      "Vormonat": [
+        "Mes anterior"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Año completo 2026"
+      ],
+      "Datum von *": [
+        "Fecha desde *"
+      ],
+      "Datum bis *": [
+        "Fecha hasta *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Confirmación para la exportación de datos de deudores:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Confirmo que la exportación de registros financieros y de destinatarios de facturas incluye datos personales y se remite exclusivamente a la asesoría fiscal autorizada para la contabilidad legal y el registro tributario."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Descargar lote contable DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Pista de auditoría encadenada de todas las operaciones relevantes para la seguridad, confirmaciones de doble opt-in, cancelaciones y controles de acceso."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Cadena de auditoría íntegra — %1$d entradas verificadas en su contenido, %2$d seudonimizadas (posición en la cadena verificada)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Cadena de auditoría NO íntegra"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d entrada(s) proceden del periodo anterior al encadenamiento y no llevan firma verificable. Cuentan como no verificadas, no como íntegras."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY no está definida: la clave de la cadena procede de la base de datos, el mismo lugar que modificaría un atacante con acceso de escritura. Defina AUTH_KEY en wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Marca de tiempo"
+      ],
+      "Ereignistyp": [
+        "Tipo de evento"
+      ],
+      "Referenz-ID": [
+        "ID de referencia"
+      ],
+      "IP-Adresse": [
+        "Dirección IP"
+      ],
+      "Audit-Details (JSON)": [
+        "Detalles de auditoría (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "No se encontraron entradas de registro."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Evento \"%1$s\" creado con %2$d sesiones y %3$d participantes."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "¡Datos de demostración importados correctamente!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Se eliminaron %1$d eventos, %2$d sesiones, %3$d inscripciones y %4$d facturas."
+      ],
+      "Demodaten bereinigt!": [
+        "¡Datos de demostración depurados!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "¡Ajustes de fábrica restablecidos!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Se han vaciado todas las tablas y restablecido los ajustes."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Se ha eliminado el archivo de tema subido."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Ajustes guardados de forma segura."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Configuración empresarial y seguridad"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Diseño, Brevo, facturas y DATEV, protección contra bots y datos de demostración."
+      ],
+      "Design & Theme Studio": [
+        "Diseño y Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM y webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Facturas y DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Protección contra bots (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Datos de demostración y restablecimiento"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Sistema de diseño del frontend y herencia del tema"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Elija cómo se presentan los eventos y los formularios de inscripción en el frontend. Por defecto, el plugin hereda fuentes, colores y botones del tema activo de WordPress."
+      ],
+      "Primärfarbe": [
+        "Color primario"
+      ],
+      "Akzentfarbe": [
+        "Color de acento"
+      ],
+      "Kartenhintergrund": [
+        "Fondo de tarjetas"
+      ],
+      "Textfarbe": [
+        "Color del texto"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Colores y bordes personalizados del tema (personalizador)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Color primario (botones y acentos):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Color de acento (insignias y brillo):"
+      ],
+      "Seitenhintergrund:": [
+        "Fondo de página:"
+      ],
+      "Kartenhintergrund:": [
+        "Fondo de tarjetas:"
+      ],
+      "Haupttextfarbe:": [
+        "Color del texto principal:"
+      ],
+      "Eckenabrundung (px):": [
+        "Radio de esquinas (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Subir tema CSS personalizado (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Suba una hoja de estilos .css personalizada (p. ej., agencia-tema.css). Se carga de forma aislada y se valida automáticamente."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Tema personalizado activo presente"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "¿Realmente desea eliminar el archivo de tema CSS subido?"
+      ],
+      "Theme löschen": [
+        "Eliminar tema"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "CSS personalizado adicional (editor en línea)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Introduzca aquí sus reglas CSS personalizadas, p. ej.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "API v3 de Brevo y autenticación de webhooks"
+      ],
+      "Brevo API Key (v3)": [
+        "Clave API de Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Se utiliza para el envío asíncrono de correos de doble opt-in y la sincronización de atributos de contacto."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Secreto compartido / token de firma del webhook"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Token resistente a ataques de temporización para validar las cargas útiles entrantes del webhook de Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Clave API del escáner de personal (control de acceso)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Token de autenticación para los dispositivos móviles de escaneo utilizados por el personal de entrada."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Sala de espera: admisiones por minuto"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Solicitudes de inscripción y reserva de sesiones admitidas por minuto y por evento. 0 desactiva la sala de espera (predeterminado). Por encima de ese límite, la ruta responde HTTP 503 con Retry-After antes de ejecutar cualquier consulta a la base de datos; no se reserva ninguna plaza."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Motor de conteo en esta instalación: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "caché de objetos persistente"
+      ],
+      "Datenbank (Transients)": [
+        "base de datos (transients)"
+      ],
+      "DOI Template ID": [
+        "ID de plantilla DOI"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID de lista de contactos de Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Facturas (XML CII) y DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Prefijo del número de factura"
+      ],
+      "Rechnungssteller": [
+        "Emisor de la factura"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Sin estos datos no se generan facturas ni abonos: %s."
+      ],
+      "Name / Firma": [
+        "Nombre / empresa"
+      ],
+      "Straße und Hausnummer": [
+        "Calle y número"
+      ],
+      "PLZ": [
+        "Código postal"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "País (código ISO, p. ej., DE)"
+      ],
+      "USt-IdNr.": [
+        "NIF-IVA"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Número de identificación fiscal (si no dispone de NIF-IVA)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Correo electrónico de facturación"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN para transferencias bancarias (opcional)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Número de asesor DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Número de cliente DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Cuenta de ingresos (p. ej., 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Cuenta de deudores (p. ej., 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "El plugin aún no incluye un widget de captcha: el ajuste se guarda, pero el formulario se procesa sin captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Activar Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Clave del sitio (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Clave API / secreto"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Gestión de datos de demostración y restablecimiento de fábrica"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importe datos de ejemplo, vuélvalos a eliminar o restablezca el plugin a los valores de fábrica."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importar datos de demostración"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Crea una conferencia de muestra con sesiones y participantes de ejemplo. Las facturas solo se crean si están configurados los datos del emisor."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "¿Desea importar ahora los datos de ejemplo?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importar datos de demostración (conferencias, sesiones, participantes, facturas)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Limpiar datos de demostración (eliminar solo datos de prueba)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Elimina únicamente las conferencias, sesiones, participantes y facturas de demostración generados. Los eventos y reservas reales permanecen intactos."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "¿Desea eliminar todos los datos de demostración? Los datos reales se conservarán."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Limpiar datos de demostración (solo datos de prueba)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Restablecer valores de fábrica (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Atención (irreversible):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Vacía todas las tablas de eventos, sesiones, inscripciones, facturas y registro de auditoría, elimina todas las entradas cybevent y cybsession y restablece todos los ajustes a los valores predeterminados."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "ADVERTENCIA: ¿Está completamente seguro? ¡Esto eliminará TODOS los eventos, inscripciones y facturas y restablecerá todos los ajustes!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Restablecimiento completo de fábrica (eliminar todo y restaurar valores predeterminados)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Comportamiento al desinstalar el plugin"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Eliminar todas las tablas y ajustes al desinstalar"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Por defecto, todos los registros de eventos, inscripciones, facturas y auditoría se conservan al eliminar el plugin (obligaciones legales de conservación). Active esta opción únicamente si desea eliminar definitivamente todas las tablas al desinstalarlo."
+      ],
+      "Alle Einstellungen speichern": [
+        "Guardar todos los ajustes"
+      ],
+      "Platzbuchung": [
+        "Reserva de plazas"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Una plaza se reserva mediante una única sentencia UPDATE condicional (belegt = belegt + 1, solo mientras belegt < kapazitaet). De dos solicitudes simultáneas por la última plaza, solo una modifica la fila; la otra recibe el mensaje «completo»."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Las facturas y los abonos se generan como XML CII según el perfil EN 16931 y se verifican en las pruebas con el validador Mustang. No se genera ningún PDF, por lo que el XML no es un archivo híbrido ZUGFeRD. La asesoría fiscal revisa si las facturas cumplen los requisitos legales en cada caso concreto."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF y contabilidad"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exporta las facturas y los abonos de un periodo como lote contable en formato DATEV (EXTF 700, categoría 21) en Windows-1252. Las cuentas de deudores y de ingresos proceden de los ajustes; cada fila lleva la clave fiscal 3. Coordine las cuentas y claves con su asesoría fiscal."
+      ],
+      "Handbuch & API:": [
+        "Manual y API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Manual completo"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Desarrollado por WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Manual para administradores y desarrolladores"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Reserva de plazas, XML de factura, exportación DATEV, doble opt-in con Brevo, shortcodes y preajustes de tema."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Reserva de plazas sin sobrerreserva"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "El contador de ocupación se incrementa en una única instrucción condicional; de dos solicitudes simultáneas por la última plaza, solo una actualiza la fila:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML de factura y DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "XML CII (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Facturas y abonos con los datos del emisor procedentes de los ajustes, fecha de prestación y numeración correlativa. Sin PDF ni Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Abonos:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Numeración correlativa propia, tipo 381 con referencia a la factura original."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Lote contable de un periodo dentro de un mismo año natural, en Windows-1252. Coordine las cuentas y las claves fiscales con su asesoría fiscal."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Doble opt-in en Brevo CRM y cola en segundo plano"
+      ],
+      "Double Opt-In (DOI):": [
+        "Doble opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo envía el correo de confirmación con un enlace personal; dicho enlace confirma la inscripción una sola vez. Las inscripciones no confirmadas se eliminan transcurridos 14 días."
+      ],
+      "Warteschlange:": [
+        "Cola:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Las llamadas a Brevo se procesan mediante una cola en base de datos ejecutada cada minuto por WP-Cron (o wp cybevents queue-run), con hasta cinco intentos."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcodes e integración con Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Formulario de inscripción accesible."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Agenda interactiva de la conferencia y vista por tracks."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Selección de sesiones basada en token tras la confirmación DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI para administradores"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Preajustes de tema y tokens de diseño"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "El frontend se adapta con flexibilidad a cualquier tema de WordPress o utiliza preajustes de diseño integrados:"
+      ],
+      "Presets:": [
+        "Preajustes:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Varios preajustes de color, incluido uno en púrpura oscuro, violeta y rosa (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Herencia del tema (predeterminado):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Hereda fuentes, radios de borde y colores primarios directamente del tema activo (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Propiedades personalizadas CSS:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Consideraciones y buenas prácticas"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Las tablas se crean con ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Plazos de conservación:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Las inscripciones no confirmadas se eliminan tras 14 días y las entradas del registro de auditoría se seudonimizan tras 90 días (salvo los eventos de facturación). El plugin no elimina automáticamente las inscripciones confirmadas ni las facturas; no existe ningún ajuste para ello."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "El procesamiento de la cola y la limpieza por plazos funcionan mediante WP-Cron; los sitios sin visitas regulares requieren una tarea cron del sistema."
+      ],
+      "Cyber Events Suite": [
+        "Suite Cyber Events"
+      ],
+      "Veranstaltung auswählen": [
+        "Seleccionar evento"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Seleccione el evento de destino para este bloque."
+      ],
+      "Key Facts Header anzeigen": [
+        "Mostrar cabecera de datos clave"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Mostrar indicador de pasos (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Mostrar botón de exportación al calendario (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Mostrar cuenta atrás"
+      ],
+      "Freie Plätze anzeigen": [
+        "Mostrar plazas libres"
+      ],
+      "Spaltenanzahl": [
+        "Número de columnas"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Seleccione un evento válido en los ajustes del bloque."
+      ],
+      "Vorschau im Editor": [
+        "Vista previa en el editor"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Selección de sesiones para inscripciones confirmadas"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "En el frontend, este bloque se genera dinámicamente para cada participante mediante su token individual."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "No se ha encontrado ningún token de confirmación."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Abra esta página mediante el enlace personalizado incluido en su correo electrónico de confirmación."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Token de participante no válido o caducado."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Plano de plazas del evento"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "En el frontend, este bloque muestra la ocupación de cada sesión como SVG y la mantiene actualizada mediante Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Evento no encontrado."
+      ],
+      "Jetzt anmelden": [
+        "Inscribirse ahora"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Inscribirse ahora gratuitamente"
+      ],
+      "Programm ansehen": [
+        "Ver programa"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Participación gratuita"
+      ],
+      "Anmeldung geöffnet": [
+        "Inscripción abierta"
+      ],
+      "Ausgebucht": [
+        "Completo"
+      ],
+      "Preis": [
+        "Precio"
+      ],
+      "%d freier Platz": [
+        "%d plaza libre",
+        "%d plazas libres"
+      ],
+      "von max. %d": [
+        "de máx. %d"
+      ],
+      "Beginn in:": [
+        "Comienza en:"
+      ],
+      "Tage": [
+        "Días"
+      ],
+      "Std.": [
+        "H"
+      ],
+      "Min.": [
+        "Min"
+      ],
+      "Sek.": [
+        "Seg"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Exportar al calendario (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (archivo .ics)"
+      ],
+      "Google Kalender": [
+        "Google Calendar"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "El archivo .ics incluye un recordatorio un día antes del inicio."
+      ],
+      "Referenten & Fachexperten": [
+        "Ponentes y expertos"
+      ],
+      "Referenten": [
+        "Ponentes"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "La lista de ponentes se anunciará próximamente."
+      ],
+      "TEILNEHMERPASS": [
+        "PASE DE PARTICIPANTE"
+      ],
+      "Teilnehmerpass": [
+        "Pase de participante"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Abrir entrada y acreditación"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Introduzca su token de seguridad de 64 caracteres del correo de confirmación:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Introducir token (p. ej., c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Mostrar pase"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Token de reserva no válido o desconocido."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "No hay pase de participante disponible para esta inscripción: no está confirmada o ha sido cancelada."
+      ],
+      "Max Mustermann": [
+        "Elena García"
+      ],
+      "Beispiel GmbH": [
+        "Ejemplo S. L."
+      ],
+      "Veranstaltung": [
+        "Evento"
+      ],
+      "Rechnungs-Nr.": [
+        "N.º de factura"
+      ],
+      "Keine": [
+        "Ninguna"
+      ],
+      "Ticket-Nummer": [
+        "Número de entrada"
+      ],
+      "Pass drucken": [
+        "Imprimir pase"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Protección de datos y seguridad"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Doble opt-in y plazos de conservación"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Una inscripción solo surte efecto tras confirmarse mediante el enlace enviado por correo electrónico. Las inscripciones no confirmadas se eliminan tras 14 días y las entradas del registro de auditoría se seudonimizan tras 90 días."
+      ],
+      "Beschriftete Formulare": [
+        "Formularios etiquetados"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Campos de formulario con etiquetas visibles, campos obligatorios marcados y avisos de estado leídos por lectores de pantalla."
+      ],
+      "Eigene Skripte und Styles": [
+        "Scripts y estilos propios"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "El plugin sirve sus scripts, estilos e iconos desde su propio servidor y no desde una CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Registro de auditoría y tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Un registro de auditoría encadenado mediante HMAC-SHA256 permite detectar manipulaciones posteriores. Los tokens de los participantes se almacenan únicamente como hashes SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML de factura y DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Facturas como XML CII según el perfil EN 16931 y exportación como lote contable DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (prueba de trabajo)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Protección contra bots respetuosa con la privacidad, sin rastreo de usuarios ni rompecabezas de imágenes, conforme a la normativa europea de protección de datos."
+      ],
+      "Zur Anmeldung": [
+        "Ir a la inscripción"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "No hay eventos archivados."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Actualmente no hay eventos programados."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtrar eventos por título o lugar..."
+      ],
+      "Kostenfrei": [
+        "Gratuito"
+      ],
+      "In Kalender eintragen": [
+        "Añadir al calendario"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Ticker en directo de conferencias y agenda"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TELEMETRÍA DE AGENDA EN DIRECTO"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Controles de vista y filtrado"
+      ],
+      "Kalenderansichten": [
+        "Vistas del calendario"
+      ],
+      "Monat": [
+        "Mes"
+      ],
+      "Woche": [
+        "Semana"
+      ],
+      "Tag / Agenda": [
+        "Día / agenda"
+      ],
+      "Liste": [
+        "Lista"
+      ],
+      "Karten": [
+        "Tarjetas"
+      ],
+      "Räume & Ort": [
+        "Salas y sede"
+      ],
+      "Summit Tracks": [
+        "Tracks de la cumbre"
+      ],
+      "Vorheriger Zeitraum": [
+        "Periodo anterior"
+      ],
+      "Nächster Zeitraum": [
+        "Periodo siguiente"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Buscar evento, tema o ponente..."
+      ],
+      "Suchbegriff eingeben": [
+        "Introducir término de búsqueda"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtrar por track o categoría"
+      ],
+      "Alle Fach-Tracks": [
+        "Todos los tracks especializados"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Track 01: Criptografía poscuántica"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Track 02: Zero Trust y resiliencia DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Track 03: IA autónoma y deber de secreto"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Track 04: Cadena de suministro de software y CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtrar sala de conferencias"
+      ],
+      "Alle Säle & Räume": [
+        "Todas las salas y espacios"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Sala plenaria Alpha (ponencias principales)"
+      ],
+      "Security Lab Beta": [
+        "Laboratorio de seguridad Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Estudio de talleres Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Centro de transmisión virtual AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Vista de calendario mensual"
+      ],
+      "Mo": [
+        "Lun"
+      ],
+      "Di": [
+        "Mar"
+      ],
+      "Mi": [
+        "Mié"
+      ],
+      "Do": [
+        "Jue"
+      ],
+      "Fr": [
+        "Vie"
+      ],
+      "Sa": [
+        "Sáb"
+      ],
+      "So": [
+        "Dom"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Vista de horario semanal y cuadrícula horaria"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Vista de agenda diaria y línea temporal"
+      ],
+      "Chronologische Listenansicht": [
+        "Vista de lista cronológica"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vista visual de tarjetas fotográficas"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Vista de navegador de sedes y salas"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Matriz multitrack de la cumbre"
+      ],
+      "Dialog schließen": [
+        "Cerrar diálogo"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "ID de sesión o de inscripción no válido."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "La reserva no pudo procesarse debido a un error de base de datos."
+      ],
+      "Session %d existiert nicht.": [
+        "La sesión %d no existe."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" está completa (%2$d de %2$d plazas ocupadas)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "No se pudo guardar la reserva. La plaza se ha vuelto a liberar."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "La cancelación no pudo procesarse debido a un error de base de datos."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "No se ha subido ningún archivo válido."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Error al subir el archivo."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "La imagen de perfil no puede superar los 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Formato de archivo no válido. Los formatos permitidos son JPG, PNG y WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Extensión de archivo no válida. Las extensiones permitidas son .jpg, .jpeg, .png y .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Error al guardar la imagen de perfil."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "El registro de auditoría está vacío aunque anteriormente constaban %d entradas."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Se ha insertado una entrada sin firma en la cadena."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Rotura de cadena en la entrada #%d: se eliminó, insertó o reordenó una entrada."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "La firma de la entrada #%d no coincide con el resumen de su contenido."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "La entrada #%d está marcada como seudonimizada sin prueba válida: su contenido puede haber sido alterado."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "El contenido de la entrada #%d fue modificado tras su creación."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "El final del registro no coincide con la última entrada anotada. Se eliminaron las entradas más recientes."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Eventos"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Evento"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Evento"
+      ],
+      "event\u0004Neu erstellen": [
+        "Añadir nuevo"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Editar evento"
+      ],
+      "Veranstaltung ansehen": [
+        "Ver evento"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Buscar eventos"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "No se encontraron eventos en la papelera."
+      ],
+      "Veranstaltungsdaten": [
+        "Datos del evento"
+      ],
+      "Veranstaltungsort:": [
+        "Lugar del evento:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Gestionar sedes ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Seleccionar sede guardada —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Sede / sala / dirección manual..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Elija una sede guardada de la lista o personalice la descripción del lugar o la sala."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Inicio (fecha y hora):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Fin (fecha y hora):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Evento de pago"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Actualmente no hay programas de conferencias disponibles."
+      ],
+      "Programm": [
+        "Programa"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Buscar tema, ponente o sala..."
+      ],
+      "Konferenz-Agenda": [
+        "Agenda de la conferencia"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "El programa detallado se anunciará próximamente."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Datos de participantes de CyberEvents"
+      ],
+      "E-Mail": [
+        "Correo electrónico"
+      ],
+      "Unternehmen / Organisation": [
+        "Empresa / organización"
+      ],
+      "Profilbild": [
+        "Imagen de perfil"
+      ],
+      "Einwilligung Datenschutz": [
+        "Consentimiento de privacidad"
+      ],
+      "ja": [
+        "sí"
+      ],
+      "nein": [
+        "no"
+      ],
+      "Einwilligung Fotos": [
+        "Consentimiento de fotografías"
+      ],
+      "Bestätigung angefordert": [
+        "Confirmación solicitada"
+      ],
+      "Bestätigt am": [
+        "Confirmado el"
+      ],
+      "Eingecheckt am": [
+        "Check-in realizado el"
+      ],
+      "Gebuchte Sessions": [
+        "Sesiones reservadas"
+      ],
+      "Rechnungsnummer": [
+        "Número de factura"
+      ],
+      "CyberEvents Registrierungen": [
+        "Inscripciones de CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Facturas de CyberEvents"
+      ],
+      "Empfänger": [
+        "Destinatario"
+      ],
+      "Adresse": [
+        "Dirección"
+      ],
+      "Bruttobetrag": [
+        "Importe bruto"
+      ],
+      "Ausgestellt am": [
+        "Emitida el"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "No se pudo eliminar la inscripción #%d."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "No se pudo anonimizar la inscripción #%d; los datos permanecen sin cambios."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "La inscripción #%1$d ha sido anonimizada. La factura %2$s con nombre, dirección y correo electrónico se conserva sin cambios; el plugin no elimina facturas."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "El webhook de Brevo está desactivado sin secreto compartido (devuelve 401). Los rebotes y las bajas no se procesarán hasta que se configure un secreto."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "No se ha configurado ninguna clave API de Brevo: no se enviarán correos de confirmación; las nuevas inscripciones permanecerán sin confirmar y se eliminarán tras 14 días."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha está activado pero no surte efecto: el plugin no incluye ningún widget de captcha, por lo que el formulario se procesa sin protección contra bots."
+      ],
+      "Einstellungen öffnen": [
+        "Abrir ajustes"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Demasiadas solicitudes. Inténtelo de nuevo en un minuto."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "La selección no se ha guardado: %s Sus reservas anteriores se mantienen sin cambios."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Se han reservado las nuevas sesiones, pero no se pudieron liberar todas las sesiones desmarcadas: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Token de seguridad (nonce) no válido."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Token de formulario (nonce) no válido."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Participante no autorizado o no encontrado."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "No se ha enviado ningún archivo de imagen."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Imagen de perfil actualizada correctamente."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Falta el token de confirmación."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Entrada no válida o aún no confirmada."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "No hay sesiones configuradas para este evento."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Plano de plazas: plazas ocupadas y libres por sesión"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d de %3$d plazas ocupadas"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "No se ha especificado ningún evento para el plano de plazas."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "El evento del plano de plazas no existe."
+      ],
+      "frei": [
+        "libre"
+      ],
+      "belegt": [
+        "ocupada"
+      ],
+      "von Ihnen gebucht": [
+        "reservada por usted"
+      ],
+      "Belegung je Session": [
+        "Ocupación por sesión"
+      ],
+      "Session": [
+        "Sesión"
+      ],
+      "Belegt": [
+        "Ocupadas"
+      ],
+      "Frei": [
+        "Libres"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "La ocupación se actualiza automáticamente."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Estado al cargar la página; la ocupación no se actualiza en tiempo real."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Datos de demostración: reserva para %1$s rechazada — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Datos de demostración: participación cancelada"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sesiones y tracks"
+      ],
+      "post type singular name\u0004Session": [
+        "Sesión"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sesiones"
+      ],
+      "Alle Sessions": [
+        "Todas las sesiones"
+      ],
+      "Session bearbeiten": [
+        "Editar sesión"
+      ],
+      "Session ansehen": [
+        "Ver sesión"
+      ],
+      "Sessions durchsuchen": [
+        "Buscar sesiones"
+      ],
+      "Keine Sessions gefunden.": [
+        "No se encontraron sesiones."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "No se encontraron sesiones en la papelera."
+      ],
+      "Session-Daten": [
+        "Datos de la sesión"
+      ],
+      "Zugehörige Konferenz:": [
+        "Conferencia principal:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Ninguna conferencia seleccionada —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Ponente e institución:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "p. ej., Elena García (Ejemplo S. L.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Sala / auditorio / track:"
+      ],
+      "Workshop-Kapazität:": [
+        "Capacidad del taller:"
+      ],
+      "Speaker": [
+        "Ponente"
+      ],
+      "Raum / Track": [
+        "Sala / track"
+      ],
+      "Zeitfenster": [
+        "Franja horaria"
+      ],
+      "Belegung": [
+        "Ocupación"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "¡Bienvenido/a, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Elija sus sesiones. Al guardar se asigna una plaza siempre que la sesión no esté completa."
+      ],
+      "Anmeldung bestätigt": [
+        "Inscripción confirmada"
+      ],
+      "Für diese Session eingetragen": [
+        "Inscrito en esta sesión"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Seleccionar esta sesión"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "La plaza se asigna al guardar siempre que la sesión no esté completa."
+      ],
+      "Sessions ausgewählt": [
+        "Sesiones seleccionadas"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Guardar selección"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Predeterminado del tema de WordPress (heredado automáticamente)"
+      ],
+      "Empfohlen": [
+        "Recomendado"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Hereda tipografía, colores, botones y espaciados directamente del tema activo de WordPress (GeneratePress, Astra, Twenty Twenty-Four, etc.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violeta y rosé (lila oscuro, violeta, acento rosé)"
+      ],
+      "Farbstark": [
+        "Intenso"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Lila oscuro (#482683), violeta brillante (#7D40E7), acento rosé (#DF0079), Noto Sans si el tema la carga y un degradado sutil."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (azul marino y cian)"
+      ],
+      "High-Tech Dark": [
+        "Oscuro de alta tecnología"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Estética oscura y cobalto a medida con efectos luminosos, diseñada para conferencias de ciberseguridad."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (pizarra y monocromo)"
+      ],
+      "Modern": [
+        "Moderno"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Diseño SaaS limpio y sobrio con grises neutros, bordes definidos y amplio espacio en blanco."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (clásico y tonos cálidos)"
+      ],
+      "Klassik": [
+        "Clásico"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Tonos cálidos marfil y burdeos para simposios académicos y congresos directivos."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Alto contraste (negro sobre blanco)"
+      ],
+      "Hochkontrast": [
+        "Alto contraste"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Texto negro sobre fondo blanco (contraste 21:1) con acento amarillo y contornos de enfoque reforzados."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Tema personalizado (colores y CSS propios)"
+      ],
+      "Individuell": [
+        "Personalizado"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Selectores de color personalizados y compatibilidad con hojas de estilo CSS propias."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "No se ha proporcionado ningún archivo de subida válido."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Error de seguridad: solo se pueden subir archivos .css puros."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "El archivo CSS supera el límite de 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "No se pudo guardar el archivo de tema en el servidor."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "CSS del tema personalizado subido y activado correctamente."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Sedes"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Lugar del evento"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Buscar sedes"
+      ],
+      "Häufige Tagungsorte": [
+        "Sedes frecuentes"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Todas las sedes"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Editar sede"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Actualizar sede"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Añadir nueva sede"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Nombre de la nueva sede"
+      ],
+      "Orte mit Kommas trennen": [
+        "Separar las sedes con comas"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Añadir o quitar sedes"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Elegir entre las sedes más utilizadas"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "No se encontraron sedes."
+      ],
+      "Stadt / Ort:": [
+        "Ciudad / localidad:"
+      ],
+      "z. B. Musterstadt": [
+        "p. ej., Madrid"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Municipio o ciudad de la sede."
+      ],
+      "Straße & Hausnummer:": [
+        "Calle y número:"
+      ],
+      "z. B. Musterstraße 1": [
+        "p. ej., Calle Mayor 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Código postal (CP):"
+      ],
+      "Land:": [
+        "País:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Capacidad máxima de sala (personas):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Accesible en silla de ruedas"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Marcar solo si se ha verificado. Aparece en la lista de sedes y en la ruta REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL de mapa / cómo llegar:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Sitio web de la sede:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Capacidad máxima de sala:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Aforo de personas del área de conferencias."
+      ],
+      "Zugänglichkeit:": [
+        "Accesibilidad:"
+      ],
+      "Google Maps Link:": [
+        "Enlace al mapa:"
+      ],
+      "Stadt & Adresse": [
+        "Ciudad y dirección"
+      ],
+      "Kapazität": [
+        "Capacidad"
+      ],
+      "Rollstuhlgerecht": [
+        "Accesible en silla de ruedas"
+      ],
+      "Ja": [
+        "Sí"
+      ],
+      "Nicht angegeben": [
+        "No especificado"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Volumen muy elevado de solicitudes simultáneas. Inténtelo de nuevo en %d segundos. No se ha reservado ninguna plaza."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Sin una caché de objetos persistente (Redis, Memcached), la sala de espera contabiliza en la base de datos: las solicitudes rechazadas evitan las consultas de reserva, pero aun así cuestan una lectura y una escritura en la tabla de opciones."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Métricas de Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Métrica de Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Muestra métricas en directo de conferencias activas, inscripciones confirmadas y plazas libres."
+      ],
+      "Kennzahl": [
+        "Métrica"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "ID del evento (opcional)"
+      ],
+      "Dokumentation": [
+        "Documentación"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Especifique un ID de evento válido: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "No se encontró ningún token de confirmación válido. Utilice el enlace incluido en su correo electrónico."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Evento activo más reciente (automático) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automático (conferencia actual)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Selección de evento"
+      ],
+      "Ziel-Konferenz": [
+        "Conferencia de destino"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Seleccione la conferencia cuyos datos se mostrarán en la cabecera principal."
+      ],
+      "Design & Layout-Presets": [
+        "Preajustes de diseño y disposición"
+      ],
+      "Theme-Preset": [
+        "Preajuste de tema"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (predeterminado)"
+      ],
+      "Federal Blue": [
+        "Azul institucional"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Brillo cian cyberpunk"
+      ],
+      "Clean White & Modern": [
+        "Blanco limpio y moderno"
+      ],
+      "Glassmorphism Blur": [
+        "Desenfoque glassmorphism"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Redondeo de esquinas (border radius)"
+      ],
+      "Ohne (0px)": [
+        "Ninguno (0px)"
+      ],
+      "Mittel (8px)": [
+        "Medio (8px)"
+      ],
+      "Groß (16px)": [
+        "Grande (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Muy grande (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Activar efecto de brillo"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Textos y botones de llamada a la acción"
+      ],
+      "Badge / Dachzeile": [
+        "Insignia / antetítulo"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Título principal personalizado (opcional)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Predeterminado: título del evento"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Texto de introducción personalizado"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Predeterminado: descripción del evento"
+      ],
+      "Primärer CTA-Button Text": [
+        "Texto del botón CTA principal"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "URL / ancla de destino del CTA principal"
+      ],
+      "Sekundären Button anzeigen": [
+        "Mostrar botón secundario"
+      ],
+      "Sekundärer Button Text": [
+        "Texto del botón secundario"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "URL de destino del botón secundario"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Visibilidad de elementos"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Mostrar cuenta atrás en directo"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Mostrar pastilla de plazas libres / aforo"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Mostrar pastilla de estado (abierto/completo)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Mostrar sede del evento"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Mostrar fecha y hora"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Mostrar precio de entrada / insignia gratuita"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Mostrar botón de exportación al calendario (.ics)"
+      ],
+      "Kopfbereich": [
+        "Cabecera principal"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Predeterminado: descripción del evento junto con fecha, lugar, precio, plazas libres, cuenta atrás y botón de inscripción."
+      ],
+      "Countdown": [
+        "Cuenta atrás"
+      ],
+      "Freie Plätze": [
+        "Plazas libres"
+      ],
+      "Stil: %s": [
+        "Estilo: %s"
+      ],
+      "Button: %s": [
+        "Botón: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Selección de conferencia"
+      ],
+      "Ziel-Veranstaltung": [
+        "Evento de destino"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Seleccione el evento en el que se inscribirán los visitantes."
+      ],
+      "Formular-Design & Theme": [
+        "Diseño y tema del formulario"
+      ],
+      "Formular-Stil": [
+        "Estilo del formulario"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (predeterminado)"
+      ],
+      "Clean White Studio": [
+        "Estudio blanco limpio"
+      ],
+      "Eckenabrundung": [
+        "Redondeo de esquinas"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Campos del formulario y opciones de captura"
+      ],
+      "Individueller Formulartitel": [
+        "Título personalizado del formulario"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Subtítulo / aviso personalizado"
+      ],
+      "Standard: kein Untertitel": [
+        "Predeterminado: sin subtítulo"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Mostrar campo de organización / empresa"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Mostrar casilla de consentimiento de foto y vídeo"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Mostrar cabecera de datos clave en el formulario"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Texto del botón y enlaces de privacidad"
+      ],
+      "Absende-Button Beschriftung": [
+        "Texto del botón de envío"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "URL personalizada de la política de privacidad (opcional)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Predeterminado: página de privacidad en Ajustes > Privacidad"
+      ],
+      "Anmeldeformular": [
+        "Formulario de inscripción"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Inscripción con doble opt-in: Brevo envía el enlace de confirmación y la inscripción solo es válida tras confirmarlo."
+      ],
+      "Standard nach Ticketpreis": [
+        "Predeterminado según el precio de la entrada"
+      ],
+      "Überschrift & Untertitel": [
+        "Título y subtítulo"
+      ],
+      "Überschrift": [
+        "Título"
+      ],
+      "Untertitel / Beschreibung": [
+        "Subtítulo / descripción"
+      ],
+      "Suche, Angaben & Export": [
+        "Búsqueda, metadatos y exportación"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Mostrar campo de búsqueda en directo de sesiones"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Mostrar datos de sala y ubicación"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Mostrar avatares de ponentes"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Mostrar exportación completa del calendario (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sesiones en orden cronológico con sala, ponente, descripción, búsqueda y exportación .ics."
+      ],
+      "Suche": [
+        "Búsqueda"
+      ],
+      ".ics-Download": [
+        "Descarga .ics"
+      ],
+      "Layout & Spalten": [
+        "Diseño y columnas"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Columnas (escritorio)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Visualización de textos y detalles"
+      ],
+      "Untertitel": [
+        "Subtítulo"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Mostrar tema de la ponencia de la sesión"
+      ],
+      "Raumangabe anzeigen": [
+        "Mostrar indicación de sala"
+      ],
+      "Uhrzeit anzeigen": [
+        "Mostrar hora de inicio"
+      ],
+      "Konferenz: ": [
+        "Conferencia: "
+      ],
+      "%d Spalten": [
+        "%d columnas"
+      ],
+      "Vortragsthemen": [
+        "Temas de ponencia"
+      ],
+      "Titel": [
+        "Título"
+      ],
+      "Individueller Titel": [
+        "Título personalizado"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Servicios y opciones de calendario"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Mostrar Apple / Outlook (archivo .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Mostrar enlace directo a Google Calendar"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Mostrar enlace directo a Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Mostrar enlace directo a Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Mostrar aviso de zona horaria"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Mostrar nota sobre el recordatorio en el archivo .ics"
+      ],
+      "Kalender": [
+        "Calendario"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Archivo .ics con recordatorio un día antes del inicio y enlaces a Google Calendar, Outlook Web y Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Archivo .ics"
+      ],
+      "Session-Auswahl": [
+        "Selector de sesiones"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Este bloque no tiene ajustes. Muestra las sesiones asociadas al token del enlace de confirmación; sin token se muestra un aviso."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Se asigna una plaza al guardar siempre que la sesión no esté completa."
+      ],
+      "Ticketpass-Optionen": [
+        "Opciones del pase de entrada"
+      ],
+      "Pass-Überschrift": [
+        "Título del pase"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Línea de cabecera (predeterminado: título del evento)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Mostrar botón de impresión (imprimir acreditación)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Mostrar número de entrada"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Mostrar número / referencia de factura"
+      ],
+      "Check-In Status anzeigen": [
+        "Mostrar estado de check-in"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pase para inscripciones confirmadas accesible mediante el token del correo de confirmación: nombre, empresa, estado, número de factura, número de entrada y botón de impresión."
+      ],
+      "Ticketnummer": [
+        "Número de entrada"
+      ],
+      "Druckfunktion": [
+        "Botón de impresión"
+      ],
+      "Titel der Veranstaltung": [
+        "Título del evento"
+      ],
+      "Layout & Farbschema": [
+        "Disposición y esquema de color"
+      ],
+      "Raster-Layout": [
+        "Disposición en cuadrícula"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Cuadrícula de 4 columnas (predeterminado)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Cuadrícula de 2 columnas (ancha)"
+      ],
+      "Farbthema": [
+        "Tema de color"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (predeterminado)"
+      ],
+      "Angezeigte Karten": [
+        "Tarjetas mostradas"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Tarjetas que describen qué hace el plugin. El bloque no evalúa si el sitio web cumple requisitos legales."
+      ],
+      "Double Opt-in": [
+        "Doble opt-in"
+      ],
+      "Formulare": [
+        "Formularios"
+      ],
+      "Eigene Assets": [
+        "Recursos alojados localmente"
+      ],
+      "Abfrage & Filterung": [
+        "Consulta y filtrado"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Número máximo de conferencias"
+      ],
+      "Status-Filter": [
+        "Filtro de estado"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Solo eventos activos"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Eventos activos y archivados"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Solo eventos archivados"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Metadatos y botones visibles"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Mostrar barra de búsqueda en directo"
+      ],
+      "Preisschild anzeigen": [
+        "Mostrar etiqueta de precio"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Mostrar sede / ubicación"
+      ],
+      "Datums-Badge anzeigen": [
+        "Mostrar insignia de fecha"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Mostrar enlace directo al calendario .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Mostrar extracto de descripción"
+      ],
+      "CTA-Button Beschriftung": [
+        "Texto del botón CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Resumen de eventos"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Cuadrícula de eventos con fecha, precio, ubicación, resumen, botón de inscripción y enlace .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Máx. %d eventos"
+      ],
+      "Cyber Events Sitzplan": [
+        "Plano de plazas de Cyber Events"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Ajustes del plano de plazas"
+      ],
+      "Überschrift (optional)": [
+        "Título (opcional)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Descripción (opcional)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Activar actualización en tiempo real"
+      ],
+      "Sitzplan": [
+        "Plano de plazas"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Resumen gráfico de ocupación de todas las sesiones de un evento con tabla de datos accesible."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Calendario multivista de Cyber Events"
+      ],
+      "Ansichten & Datenquelle": [
+        "Vistas y origen de datos"
+      ],
+      "Standardansicht": [
+        "Vista predeterminada"
+      ],
+      "Monatskalender": [
+        "Calendario mensual"
+      ],
+      "Wochenplan": [
+        "Horario semanal"
+      ],
+      "Tagesagenda": [
+        "Agenda diaria"
+      ],
+      "Listenansicht": [
+        "Vista de lista"
+      ],
+      "Kartenansicht": [
+        "Vista de tarjetas"
+      ],
+      "Raumübersicht": [
+        "Resumen de salas"
+      ],
+      "Track-Matrix": [
+        "Matriz de tracks"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Número máximo de entradas"
+      ],
+      "Bedienleiste & Filter": [
+        "Barra de herramientas y filtros"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Mostrar selector de vista"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Mostrar filtros de track y sala"
+      ],
+      "Suchfeld anzeigen": [
+        "Mostrar campo de búsqueda"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Mostrar barra de avisos"
+      ],
+      "Kalender-Ansichten": [
+        "Vistas de calendario"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Calendario y agenda multivista"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Vistas conmutables por mes, semana, día, lista, tarjetas, salas y tracks."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Agenda de conferencias de Cyber Events"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Programa interactivo multitrack de conferencias con línea temporal, detalles de ponentes, filtros de sala y descarga iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (calendario, agenda y tracks)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Suite avanzada de calendario y agenda con 7 vistas interactivas en el frontend: calendario mensual, horario semanal, agenda diaria, vista de lista, tarjetas fotográficas, mapa de salas y matriz multitrack."
+      ],
+      "block keyword\u0004event": [
+        "evento"
+      ],
+      "block keyword\u0004calendar": [
+        "calendario"
+      ],
+      "block keyword\u0004agenda": [
+        "agenda"
+      ],
+      "block keyword\u0004schedule": [
+        "programa"
+      ],
+      "block keyword\u0004summit": [
+        "cumbre"
+      ],
+      "block keyword\u0004timetable": [
+        "horario"
+      ],
+      "block keyword\u0004matrix": [
+        "matriz"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Widget de calendario y .ics de Cyber Events"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Widget de calendario con descarga .ics y enlaces a Google Calendar, Outlook Web y Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Banner principal y cuenta atrás de Cyber Event"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Cabecera de evento con cuenta atrás, datos clave, estado y botones de inscripción."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cuadrícula de resumen y archivo de Cyber Events"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Resumen dinámico en tarjetas de próximas conferencias, simposios y talleres con barra de búsqueda y filtros de estado."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Formulario de inscripción de Cyber Events"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Formulario de inscripción con doble opt-in mediante Brevo, foto de perfil opcional y consentimiento para fotografías."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Plano de plazas de Cyber Events"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Ocupación de todas las sesiones de un evento en SVG, actualizada continuamente mediante Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Insignias de seguridad y confianza de Cyber Events"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Resumen de las funciones de privacidad y seguridad del plugin: doble opt-in, plazos de conservación, registro de auditoría y XML de factura."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Selector de sesiones y talleres de Cyber Events"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Selección de sesiones para inscripciones confirmadas: las plazas se asignan al guardar mientras quede aforo disponible."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cuadrícula de ponentes y expertos de Cyber Events"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Resumen generado automáticamente de ponentes principales, charlas, salas y perfiles biográficos."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Pase digital de entrada de Cyber Events"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Pase de participante para inscripciones confirmadas con número de entrada, evento, sede y botón de impresión."
+      ]
+    }
+  }
+}

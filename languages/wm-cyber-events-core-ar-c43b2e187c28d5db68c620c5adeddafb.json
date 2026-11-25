@@ -1,0 +1,2828 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "ar",
+        "plural-forms": "nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "إدارة الفعاليات والجلسات والتسجيلات مع التأكيد المزدوج عبر Brevo وتسجيل الحضور وفواتير XML (EN 16931) وتصدير DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "لم يتم العثور على الحدث أو لم يعد نشطًا."
+      ],
+      "Verbindlich anmelden": [
+        "التسجيل مع الالتزام بالدفع"
+      ],
+      "Kostenfrei anmelden": [
+        "التسجيل مجاناً"
+      ],
+      "Datum": [
+        "مسند"
+      ],
+      "Veranstaltungsort": [
+        "مكان"
+      ],
+      "Einlass": [
+        "مدخل"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "بعد التأكيد عبر رابط البريد الإلكتروني"
+      ],
+      "Kontaktdaten": [
+        "تفاصيل الاتصال"
+      ],
+      "Einwilligung": [
+        "الموافقة"
+      ],
+      "Bestätigung": [
+        "تأكيد"
+      ],
+      "Vorname": [
+        "الاسم الأول"
+      ],
+      "z. B. Erika": [
+        "مثال: سارة"
+      ],
+      "Nachname": [
+        "اسم العائلة"
+      ],
+      "z. B. Mustermann": [
+        "مثال: العلي"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "عنوان البريد الإلكتروني للعمل"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "المؤسسة / الهيئة / الشركة"
+      ],
+      "z. B. Beispiel GmbH": [
+        "مثال: شركة المثال المحدودة"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "صورة الملف الشخصي لبطاقة المشارك (اختياري)"
+      ],
+      "Profilbild Vorschau": [
+        "معاينة الصورة الشخصية"
+      ],
+      "Foto auswählen": [
+        "حدد الصورة"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG، PNG أو WebP · الحد الأقصى. 5 ميجا بايت"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "حماية البيانات وموافقة الاشتراك المزدوج *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "أوافق على معالجة بياناتي للمشاركة في المؤتمر وفقًا للائحة العامة لحماية البيانات. لأغراض التحقق، سأتلقى رابط تأكيد عبر البريد الإلكتروني."
+      ],
+      "Datenschutzerklärung lesen": [
+        "قراءة سياسة الخصوصية"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "تسجيلات الصور والفيديو (§§ 22، 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "أوافق على التقاط صور فوتوغرافية وتسجيلات مرئية لي خلال الفعالية لأغراض العلاقات العامة الخاصة بالجهة المنظمة."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — مركز التحكم ونسبة الإشغال"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "محرك CyberEvents للمؤسسات نشط"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "إدارة السعة وتصدير DATEV وتسجيل الحضور"
+      ],
+      "Events": [
+        "الفعاليات"
+      ],
+      "Bestätigte Gäste": [
+        "الضيوف المؤكدون"
+      ],
+      "Ausstehende DOI": [
+        "بانتظار التأكيد المزدوج (DOI)"
+      ],
+      "Mission Control öffnen": [
+        "فتح مركز التحكم"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "موافقة الناتج المحلي الإجمالي مطلوبة"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "تحتوي عملية التصدير هذه على بيانات شخصية حساسة وفقًا للمادة 4 رقم 1 من اللائحة العامة لحماية البيانات. قبل التنزيل، يجب عليك التأكد من أنك ستتعامل مع البيانات بسرية، ومعالجتها للغرض المقصود وحذفها بعد الحدث وفقًا للوائح حماية البيانات."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "العودة إلى إدارة الحجز"
+      ],
+      "DSGVO-Schutz": [
+        "حماية الناتج المحلي الإجمالي"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "يتطلب تصدير البيانات المالية وبيانات المدينين تأكيد الحفاظ على سرية البيانات واستخدامها حصرياً لأغراض المحاسبة."
+      ],
+      "Zurück zum DATEV Studio": [
+        "العودة إلى استوديو DATEV"
+      ],
+      "DATEV-Export": [
+        "تصدير DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "صلاحيات غير كافية."
+      ],
+      "Cyber Events": [
+        "الأحداث السيبرانية"
+      ],
+      "Dashboard & KPIs": [
+        "لوحة المعلومات ومؤشرات الأداء الرئيسية"
+      ],
+      "Dashboard": [
+        "لوحة القيادة"
+      ],
+      "Alle Veranstaltungen": [
+        "جميع الأحداث"
+      ],
+      "Veranstaltungen": [
+        "الأحداث"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "إنشاء حدث جديد"
+      ],
+      "Neue Veranstaltung": [
+        "حدث جديد"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "الأماكن وأماكن الاجتماعات"
+      ],
+      "Veranstaltungsorte": [
+        "الأماكن"
+      ],
+      "Sessions & Agenda": [
+        "الجلسات وجدول الأعمال"
+      ],
+      "Neue Session erstellen": [
+        "إنشاء جلسة جديدة"
+      ],
+      "Neue Session": [
+        "جلسة جديدة"
+      ],
+      "Teilnehmer & Buchungen": [
+        "المشاركون والحجوزات"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV- الاستيراد والإعداد"
+      ],
+      "CSV-Import": [
+        "استيراد CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "التمويل وتصدير DATV"
+      ],
+      "Finanzen & DATEV": [
+        "التمويل والتاريخ"
+      ],
+      "Audit-Log": [
+        "سجل التدقيق"
+      ],
+      "Einstellungen & Theme Studio": [
+        "الإعدادات واستوديو السمات"
+      ],
+      "Einstellungen": [
+        "الإعدادات"
+      ],
+      "Handbuch & Dokumentation": [
+        "الدليل والتوثيق"
+      ],
+      "Handbuch": [
+        "الدليل"
+      ],
+      "Events & Konferenzen": [
+        "الفعاليات والمؤتمرات"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "صلاحيات إدارة الفعاليات والمؤتمرات."
+      ],
+      "Teilnehmer verwalten": [
+        "إدارة المشاركين"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "يسمح بعرض وتصدير تسجيلات الأحداث دون الوصول الكامل إلى WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "الإعدادات والقالب"
+      ],
+      "Handbuch & Doku": [
+        "الدليل والوثائق"
+      ],
+      "Plugin-Navigation": [
+        "تنقل الإضافة"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "تم حفظ الحدث بنجاح!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "تم تحديث البيانات بشكل متزامن في قاعدة البيانات وفي نظام WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "تم حذف الحدث!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "تمت إزالة السجل وتم نقل المشاركة إلى سلة المهملات."
+      ],
+      "Demodaten angelegt.": [
+        "تم إنشاء البيانات التجريبية."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "تم إنشاء فعالية نموذجية وجلسات ومشاركين نموذجيين؛ ولا تُنشأ الفواتير إلا عند ضبط بيانات مُصدِر الفاتورة."
+      ],
+      "CyberEvents Command Console": [
+        "وحدة تحكم أوامر CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "المؤسسة 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "إدارة الفعاليات والجلسات والتسجيلات مع التأكيد المزدوج عبر Brevo وتسجيل الحضور وفواتير XML وتصدير DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "جزء من عائلة إضافات WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "وضع المركز"
+      ],
+      "Standalone": [
+        "مستقل"
+      ],
+      "Demo-Daten auffrischen": [
+        "تحديث البيانات التجريبية"
+      ],
+      "Springen zu:": [
+        "انتقال إلى:"
+      ],
+      "Kurzanleitung": [
+        "دليل سريع"
+      ],
+      "Kennzahlen": [
+        "المؤشرات"
+      ],
+      "Rechnungen": [
+        "الفواتير"
+      ],
+      "Audit-Protokoll": [
+        "سجل التدقيق"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "ماذا تفعل إضافة CyberEvents، وماذا تجد في هذه الشاشة؟"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "تدير الإضافة الفعاليات مع الجلسات والتسجيلات. يؤكد المشاركون تسجيلهم عبر رابط تأكيد مزدوج يرسله Brevo (يتطلب مفتاح API)، ثم يختارون الجلسات دون تجاوز السعة المحددة، ويُسجَّل حضورهم عند المدخل عبر الرمز الخاص بهم. تُنشأ الفواتير بصيغة CII-XML (EN 16931) ويمكن تصديرها كحزمة قيود محاسبية لنظام DATEV."
+      ],
+      "Schnellzugriff:": [
+        "وصول سريع:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "المشاركون والتسجيلات"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "تصدير الفواتير كحزمة DATEV"
+      ],
+      "Event Auslastung": [
+        "استغلال الحدث"
+      ],
+      "Kritisch": [
+        "حرج"
+      ],
+      "Optimal": [
+        "أفضل"
+      ],
+      "Max. Kapazität:": [
+        "الأعلى. سعة:"
+      ],
+      "Gebucht:": [
+        "محجوز:"
+      ],
+      "Live Check-In Counter": [
+        "عداد تسجيل الوصول المباشر"
+      ],
+      "Anwesend": [
+        "حاضر"
+      ],
+      "Registriert:": [
+        "مسجل:"
+      ],
+      "Eingecheckt:": [
+        "تم تسجيل الدخول:"
+      ],
+      "Wartend:": [
+        "منتظر:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "تسجيلات جديدة (24 ساعة)"
+      ],
+      "Sessions": [
+        "الجلسات"
+      ],
+      "in 24 h": [
+        "خلال 24 ساعة"
+      ],
+      "Ausstehende DOI:": [
+        "تأكيد مزدوج قيد الانتظار:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "القياس عن بعد لقائمة انتظار Brevo CRM"
+      ],
+      "Jobs": [
+        "المهام"
+      ],
+      "Verarbeitung": [
+        "يعالج"
+      ],
+      "Verarbeitet:": [
+        "معالجتها:"
+      ],
+      "Schnellaktionen": [
+        "إجراءات سريعة"
+      ],
+      "Neue Konferenz anlegen": [
+        "إنشاء مؤتمر جديد"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "قائمة المشاركين وتسجيل الحضور"
+      ],
+      "CSV-Batch Import": [
+        "استيراد دفعة CSV"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "نظرة عامة على الحدث ومراقبة الاستخدام"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "التسجيلات المؤكدة لكل فعالية مقارنةً بالسعة المحددة."
+      ],
+      "Event suchen...": [
+        "البحث عن فعالية..."
+      ],
+      "Neue Konferenz": [
+        "مؤتمر جديد"
+      ],
+      "Konferenz / Event": [
+        "المؤتمر/الحدث"
+      ],
+      "Zeitraum": [
+        "فترة"
+      ],
+      "Ort": [
+        "المدينة"
+      ],
+      "Kapazität & Belegung": [
+        "السعة والإشغال"
+      ],
+      "Status": [
+        "الحالة"
+      ],
+      "Aktionen": [
+        "الإجراءات"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "لم يتم العثور على أي أحداث."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "قم بالتحرير في محرر الكتلة Gutenberg"
+      ],
+      "Bearbeiten": [
+        "تحرير"
+      ],
+      "Schnellbearbeitung": [
+        "تحرير سريع"
+      ],
+      "Vorschau": [
+        "معاينة"
+      ],
+      "Teilnehmer (%d)": [
+        "المشاركون (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "هل تريد حقًا حذف هذا الحدث نهائيًا؟"
+      ],
+      "Löschen": [
+        "يمسح"
+      ],
+      "%d Sessions": [
+        "%d جلسات"
+      ],
+      "/ %d Plätze": [
+        "/ %d مقاعد"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(دون حد أقصى للسعة)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "تحرير في محرر جوتنبرج"
+      ],
+      "Editor": [
+        "محرر"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "فتح التحرير السريع"
+      ],
+      "Quick": [
+        "سريع"
+      ],
+      "Frontend-Seite anzeigen": [
+        "إظهار صفحة الواجهة الأمامية"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "الفواتير السارية والملغاة وكذلك التسجيلات غير المؤكدة."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "الإجمالي، الفواتير السارية"
+      ],
+      "Gültige Rechnungen": [
+        "الفواتير السارية"
+      ],
+      "Storniert": [
+        "ملغاة"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "تسجيلات غير مؤكدة"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "تصدير DATEV وسجل التدقيق"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "حزمة القيود المحاسبية للفواتير وإشعارات الدائن لفترة محددة؛ يُرجى تنسيق الحسابات ومفاتيح الضرائب مع مستشارك الضريبي."
+      ],
+      "DATEV Format": [
+        "تنسيق ديتيف"
+      ],
+      "Kategorie 21 (v13)": [
+        "الفئة ٢١ (الآية ١٣)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "سلسلة HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "إخفاء الهوية المستعار بعد 90 يوماً"
+      ],
+      "DATEV Export Studio öffnen": [
+        "فتح استوديو تصدير DATEV"
+      ],
+      "Audit-Protokoll einsehen": [
+        "عرض سجل التدقيق"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "سجل التدقيق المتسلسل بشكل مستمر: يقوم كل إدخال بالتوقيع على سابقه، بحيث يتم ملاحظة التغييرات والحذف والتسلل اللاحقة. إثبات التلاعب، عدم قابلية التغيير - من يقرأ ملف wp-config.php يحمل المفتاح."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "فتح سجل التدقيق الكامل"
+      ],
+      "Zeitstempel": [
+        "الطابع الزمني"
+      ],
+      "Ereignis-Typ": [
+        "نوع الحدث"
+      ],
+      "Benutzer / System": [
+        "المستخدم/النظام"
+      ],
+      "Objekt-ID": [
+        "معرف الكائن"
+      ],
+      "Audit-Details & Nachweis": [
+        "تفاصيل التدقيق والأدلة"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "لم يتم تسجيل إدخالات التدقيق حتى الآن."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "تحرير الحدث/التكوين السريع"
+      ],
+      "Schließen": [
+        "يغلق"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "عنوان المؤتمر/الحدث:"
+      ],
+      "URL-Slug:": [
+        "رابط URL:"
+      ],
+      "Tagungsort / Location:": [
+        "مكان/مكان انعقاد المؤتمر:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "تاريخ ووقت البدء:"
+      ],
+      "Ende (Datum & Zeit):": [
+        "النهاية (التاريخ والوقت):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "الأعلى. قدرة المشاركين:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "سعر التذكرة (صافي باليورو):"
+      ],
+      "Status:": [
+        "حالة:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "نشط (منشور)"
+      ],
+      "Entwurf (Draft)": [
+        "مسودة"
+      ],
+      "Archiviert": [
+        "مؤرشف"
+      ],
+      "Kostenpflichtig": [
+        "مدفوعة"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "افتح في محرر الكتلة Gutenberg"
+      ],
+      "Abbrechen": [
+        "إلغاء"
+      ],
+      "Änderungen speichern": [
+        "حفظ التغييرات"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "تم تحديث بيانات المشاركين بنجاح!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "تم حفظ تفاصيل التسجيل وحالته في قاعدة البيانات."
+      ],
+      "Teilnehmer gelöscht!": [
+        "تم حذف المشاركين!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "تمت إزالة التسجيل وجميع حجوزات الجلسات المرتبطة به."
+      ],
+      "Check-In Status aktualisiert!": [
+        "تم تحديث حالة تسجيل الوصول!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "تم تبديل حالة حضور المشارك."
+      ],
+      "Double Opt-In bestätigt!": [
+        "تم تأكيد الاشتراك المزدوج!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "تم وضع علامة على التسجيل يدويًا على أنه مؤكد."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "إدارة المشاركين والحجز"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "جميع التسجيلات مع حالة التأكيد المزدوج وحجوزات الجلسات والفواتير."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "علامات الأسماء / قائمة المشاركين (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "تمت تصفيته حسب المؤتمر: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "إلغاء الفلتر"
+      ],
+      "Alle Teilnehmer": [
+        "جميع المشاركين"
+      ],
+      "Bestätigt": [
+        "مؤكد"
+      ],
+      "Ausstehend DOI": [
+        "بانتظار DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "ابحث عن الاسم أو البريد الإلكتروني أو الشركة..."
+      ],
+      "Teilnehmer": [
+        "مشارك"
+      ],
+      "Organisation / Firma": [
+        "المنظمة / الشركة"
+      ],
+      "Check-In": [
+        "تحقق في"
+      ],
+      "Rechnung": [
+        "الفاتورة"
+      ],
+      "Anmeldedatum": [
+        "تاريخ التسجيل"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "لا توجد تسجيلات متاحة."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "تحرير بيانات المشاركين"
+      ],
+      "Auschecken": [
+        "الدفع"
+      ],
+      "Einchecken": [
+        "تحقق في"
+      ],
+      "DOI bestätigen": [
+        "تأكيد DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "هل تريد حقًا حذف هذا المشارك نهائيًا؟"
+      ],
+      "Status umschalten": [
+        "تبديل الحالة"
+      ],
+      "Eingecheckt": [
+        "تم تسجيل الوصول"
+      ],
+      "Nicht vor Ort": [
+        "ليس في الموقع"
+      ],
+      "Rechnungs-XML": [
+        "ملف XML للفاتورة"
+      ],
+      "Kostenfrei / Keine": [
+        "مجاني / لا يوجد"
+      ],
+      "Edit": [
+        "يحرر"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "هل تريد حقًا حذف هذا المشارك؟"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "تحرير بيانات المشاركين / إدارة المشاركين"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "صورة الملف الشخصي / صورة جواز سفر المشارك (JPG، PNG، WebP · بحد أقصى 5 ميجابايت):"
+      ],
+      "Foto entfernen": [
+        "إزالة الصورة"
+      ],
+      "Vorname:": [
+        "الاسم الأول:"
+      ],
+      "Nachname:": [
+        "اسم العائلة:"
+      ],
+      "E-Mail-Adresse:": [
+        "عنوان البريد الإلكتروني:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "المنظمة / الشركة / الهيئة :"
+      ],
+      "Zugewiesene Konferenz:": [
+        "المؤتمر المخصص:"
+      ],
+      "Anmeldestatus:": [
+        "حالة المراجعة:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "مؤكد"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "قيد الانتظار (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "ملغى"
+      ],
+      "Unzustellbar (Bounced)": [
+        "تعذر التسليم (مرتد)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "حالة تسجيل الوصول (في الموقع):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "لا / ليس في الموقع"
+      ],
+      "Ja / Eingecheckt": [
+        "نعم / تم تسجيل الحضور"
+      ],
+      "Rechnungsnummer:": [
+        "رقم الفاتورة:"
+      ],
+      "Zahlungsstatus:": [
+        "حالة الدفع:"
+      ],
+      "Kostenfrei (Free)": [
+        "حر"
+      ],
+      "Ausstehend (Pending)": [
+        "قيد الانتظار"
+      ],
+      "Bezahlt (Paid)": [
+        "مدفوع"
+      ],
+      "Erstattet (Refunded)": [
+        "ردها"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "تمت الموافقة على حماية البيانات بموجب القانون العام لحماية البيانات (GDPR)."
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "تمت الموافقة على تسجيلات الصور والفيديو"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "حماية البيانات بموجب اللائحة العامة لحماية البيانات (GDPR) وموافقة التصدير"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "حماية البيانات الشخصية (المادة 4 و5 من اللائحة العامة لحماية البيانات)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "يؤدي هذا التصدير إلى إنشاء ملف CSV يحتوي على بيانات شخصية حساسة للمشاركين (الأسماء الكاملة والشركات وعناوين البريد الإلكتروني الخاصة بالعمل ومراجع الفواتير وحالة تسجيل الوصول)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "تحديد الغرض (المادة 5 الفقرة 1، الحرف ب اللائحة العامة لحماية البيانات):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "لا يجوز استخدام البيانات إلا للتنفيذ التشغيلي للحدث (مثل طباعة بطاقة الاسم والاعتماد عند المدخل)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "السرية والحماية (المادة 5 الفقرة 1، الحرف و اللائحة العامة لحماية البيانات):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "يُحظر نقلها إلى أطراف ثالثة غير مصرح بها أو تخزينها على أجهزة محمولة غير مشفرة."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "الالتزام بالحذف (المادة 17 من اللائحة العامة لحماية البيانات):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "بعد انتهاء المؤتمر، يجب حذف الملف المحلي الذي تم تصديره على الفور ووفقًا للوائح حماية البيانات."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "أؤكد موافقة اللائحة العامة لحماية البيانات:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "أقر بأن عملية التصدير هذه تحتوي على بيانات شخصية حساسة. ألتزم بالمعالجة المناسبة والدقيقة والامتثال الصارم للمتطلبات القانونية لحماية البيانات."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "قم بتنزيل تصدير CSV بأمان الآن"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "ملف XML للفاتورة (CII، EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "انسخ XML إلى الحافظة"
+      ],
+      "Keine Berechtigung.": [
+        "ليست لديك صلاحية."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "خطأ أمني: يُسمح فقط بملفات CSV الحقيقية."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "الملف كبير جدًا (الحد الأقصى المسموح به هو 5 ميجابايت)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "الرجاء تحديد حدث وتقديم بيانات CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "استيراد مجموعة CSV للمشارك (منع التكرار TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "الاستيراد التلقائي لقوائم المشاركين من الأنظمة الخارجية مع تجنب التسجيلات المكررة بشكل صارم."
+      ],
+      "Import-Zusammenfassung": [
+        "ملخص الاستيراد"
+      ],
+      "Gesamtzeilen": [
+        "مجموع الصفوف"
+      ],
+      "Neu Importiert": [
+        "مستوردة حديثا"
+      ],
+      "Dubletten abgewiesen": [
+        "تم رفض التكرارات"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "استيراد قائمة المشاركين الجدد"
+      ],
+      "Ziel-Veranstaltung *": [
+        "الحدث المستهدف *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— اختر الحدث —"
+      ],
+      "CSV-Datei auswählen": [
+        "حدد ملف CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "التنسيق: الاسم الأول؛ اسم العائلة؛ بريد إلكتروني؛ الشركة (فاصلة منقوطة أو مفصولة بفاصلة، UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "أو أدخل نص CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "قم بتشغيل استيراد CSV الآن"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "استوديو مكدس الحجز DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "التصدير المالي الموحد (الفئة 21، إصدار التنسيق 700/125 الحقول) لمستشاري الضرائب ومحاسبة DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "تحديد فترة التصدير"
+      ],
+      "Laufender Monat": [
+        "الشهر الحالي"
+      ],
+      "Vormonat": [
+        "الشهر السابق"
+      ],
+      "Gesamtes Jahr 2026": [
+        "عام كامل 2026"
+      ],
+      "Datum von *": [
+        "التاريخ من *"
+      ],
+      "Datum bis *": [
+        "التاريخ إلى *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "تأكيد تصدير بيانات المدينين:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "أؤكد أن تصدير البيانات المالية وبيانات مستلم الفاتورة يحتوي على بيانات شخصية ولن يتم إرساله إلا إلى مكتب الضرائب المعتمد لإجراء المحاسبة والتسجيل الضريبي المطلوبين قانونًا."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "قم بتنزيل دفعة حجز DATEV EXTF (.csv)."
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "مسار تدقيق متسلسل لجميع العمليات المتعلقة بالأمان، والاشتراكات المزدوجة، والإلغاءات، ودفاعات IDOR."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "عدد صحيح لسلسلة التدقيق — %1$d إدخالات تم التحقق منها بحثًا عن المحتوى، %2$d أسماء مستعارة (يمكن التحقق من موضع السلسلة فقط)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "سلسلة التدقيق ليست النزاهة"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d تاريخ الإدخال/الإدخالات هو ما قبل التسلسل ولا تحتوي على توقيع يمكن التحقق منه. يعتبرون غير مختبرين، وليسوا يتمتعون بالنزاهة."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "لم يتم تعريف AUTH_KEY: يأتي مفتاح السلسلة من قاعدة البيانات - أي من المكان الذي سيكتب فيه المهاجم على أي حال. قم بتعيين AUTH_KEY في wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "التوقيت"
+      ],
+      "Ereignistyp": [
+        "نوع الحدث"
+      ],
+      "Referenz-ID": [
+        "معرف المرجع"
+      ],
+      "IP-Adresse": [
+        "عنوان IP"
+      ],
+      "Audit-Details (JSON)": [
+        "تفاصيل التدقيق (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "لا توجد إدخالات سجل متاحة."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "تم إنشاء الفعالية \"%1$s\" مع %2$d جلسات و%3$d مشاركين."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "تم استيراد البيانات التجريبية بنجاح!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "تم حذف %1$d فعاليات و%2$d جلسات و%3$d تسجيلات و%4$d فواتير."
+      ],
+      "Demodaten bereinigt!": [
+        "تنظيف البيانات التجريبية!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "تمت استعادة إعدادات المصنع!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "تم إفراغ كافة الجداول وإعادة ضبط الإعدادات."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "تمت إزالة ملف السمة الذي تم تحميله."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "الإعدادات المخزنة بشكل آمن."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "تكوين المؤسسة والأمن"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "التصميم، وBrevo، والفواتير وDATEV، والحماية من الروبوتات والبيانات التجريبية."
+      ],
+      "Design & Theme Studio": [
+        "استوديو التصميم والموضوع"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM وWebhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "الفواتير وDATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "بوت شوتز (كلمة التحقق الودية)"
+      ],
+      "Demodaten & Reset": [
+        "إزالة وإعادة تعيين"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "نظام تصميم الواجهة الأمامية ووراثة السمات"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "اختر كيفية تصميم الأحداث ونماذج الحجز على الواجهة الأمامية. افتراضيًا، يرث المكون الإضافي جميع الخطوط والألوان والأزرار من قالب WordPress النشط بسلاسة."
+      ],
+      "Primärfarbe": [
+        "اللون الأساسي"
+      ],
+      "Akzentfarbe": [
+        "لون مميز"
+      ],
+      "Kartenhintergrund": [
+        "خلفية الخريطة"
+      ],
+      "Textfarbe": [
+        "لون النص"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "ألوان وحدود السمات الخاصة (أداة تخصيص السمات المخصصة)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "اللون الأساسي (الأزرار واللهجات):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Akzentfarbe (شارات وتوهج):"
+      ],
+      "Seitenhintergrund:": [
+        "خلفية الصفحة:"
+      ],
+      "Kartenhintergrund:": [
+        "خلفية الخريطة:"
+      ],
+      "Haupttextfarbe:": [
+        "لون النص الرئيسي:"
+      ],
+      "Eckenabrundung (px):": [
+        "تقريب الزاوية (بكسل):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "مخصص CSS-موضوع hochladen (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "قم بتحميل ملف .css مخصص (على سبيل المثال، Agency-theme.css). يتم تحميل هذا بشكل منفصل والتحقق من صحته تلقائيًا."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "يتوفر سمة مخصصة نشطة"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "هل أنت متأكد أنك تريد حذف ملف سمة CSS الذي تم تحميله؟"
+      ],
+      "Theme löschen": [
+        "حذف الموضوع"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "CSS مخصص إضافي (محرر مضمن)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* أدخل قواعد CSS الخاصة بك هنا، على سبيل المثال: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 ومصادقة Webhook"
+      ],
+      "Brevo API Key (v3)": [
+        "مفتاح Brevo API (الإصدار 3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "يُستخدم لإرسال البريد الإلكتروني غير المتزامن ومزامنة السمات."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Webhook السر المشترك / رمز التوقيع"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "توقيت الهجوم على الرمز الآمن للتحقق من صحة حمولات Brevo webhook الواردة."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "مفتاح واجهة برمجة تطبيقات الماسح الضوئي للموظفين (التحكم في الدخول)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "رمز المصادقة لأجهزة الماسح الضوئي المحمولة لموظفي القبول."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "غرفة الانتظار: طلبات القبول في الدقيقة"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "عدد طلبات التسجيل وحجز الجلسات المسموح بمرورها في الدقيقة ولكل فعالية. القيمة 0 تُعطّل غرفة الانتظار (الافتراضي). وعند تجاوز الحد، يرد المسار برمز HTTP 503 مع ترويسة Retry-After قبل تشغيل أي استعلام في قاعدة البيانات — ولا يُحجز مقعد بذلك."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "واجهة العداد الخلفية في هذا التثبيت: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "ذاكرة تخزين مؤقت دائمة للكائنات"
+      ],
+      "Datenbank (Transients)": [
+        "قاعدة البيانات (Transients)"
+      ],
+      "DOI Template ID": [
+        "معرفان للنموذج"
+      ],
+      "Brevo Kontaktliste ID": [
+        "معرف قائمة جهات الاتصال في Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "الفواتير (CII-XML) وDATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "بادئة رقم الفاتورة"
+      ],
+      "Rechnungssteller": [
+        "مُصدِر الفاتورة"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "لا يتم إنشاء أي فواتير أو إشعارات دائن بدون هذه البيانات: %s."
+      ],
+      "Name / Firma": [
+        "الاسم / الشركة"
+      ],
+      "Straße und Hausnummer": [
+        "الشارع ورقم المبنى"
+      ],
+      "PLZ": [
+        "الرمز البريدي"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "الدولة (رمز ISO، مثل DE)"
+      ],
+      "USt-IdNr.": [
+        "الرقم الضريبي"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "الرقم الضريبي (في حال عدم وجود رقم ضريبة القيمة المضافة)"
+      ],
+      "E-Mail für Rechnungen": [
+        "البريد الإلكتروني للفواتير"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "رقم IBAN للتحويلات المصرفية (اختياري)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "رقم مستشار DATV"
+      ],
+      "DATEV Mandantennummer": [
+        "رقم عميل DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "إرلوسكونتو (z.B. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "حساب المستحقات (مثلا 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "لا تتضمن الإضافة أداة تحقق (Captcha) بعد: يتم حفظ الإعداد، لكن يُعالَج النموذج بدون تحقق."
+      ],
+      "Friendly Captcha aktivieren": [
+        "تفعيل كلمة التحقق ودية"
+      ],
+      "Sitekey": [
+        "مفتاح الموقع"
+      ],
+      "API Key / Secret": [
+        "مفتاح واجهة برمجة التطبيقات/السرية"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "إدارة البيانات التجريبية وإعدادات المصنع (إعادة الضبط)"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "استيراد بيانات نموذجية أو إزالتها مجدداً أو إعادة ضبط الإضافة إلى إعدادات المصنع."
+      ],
+      "1. Demodaten importieren": [
+        "1. استيراد البيانات التجريبية"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "يُنشئ مؤتمراً نموذجياً مع جلسات ومشاركين نموذجيين. لا تُنشأ الفواتير إلا عند ضبط بيانات مُصدِر الفاتورة."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "هل ترغب في استيراد بيانات العينة الآن؟"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "استيراد البيانات التجريبية (المؤتمرات، الدورات، المشاركين، الفواتير)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. تنظيف البيانات التجريبية (حذف بيانات الاختبار فقط)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "يتم حذف فقط المؤتمرات التجريبية والجلسات التجريبية والمشاركين التجريبيين والفواتير التجريبية التي تم إنشاؤها. تظل الأحداث والحجوزات الحقيقية غير متأثرة تمامًا."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "هل تريد إزالة كافة البيانات التجريبية بأمان؟ يتم الاحتفاظ بالبيانات الحقيقية."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "بيانات تجريبية نظيفة (بيانات اختبارية فقط)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. إعادة ضبط المصنع (إعادة ضبط المصنع)"
+      ],
+      "Achtung (Irreversibel):": [
+        "الاهتمام (لا رجعة فيه):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "يفرغ جميع جداول الأحداث والجلسات والتسجيل والفواتير وسجلات التدقيق، ويحذف جميع مساهمات cybevent وcybsession ويعيد تعيين جميع الإعدادات إلى حالة التسليم."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "تحذير: هل أنت متأكد تمامًا؟ سيؤدي هذا إلى حذف جميع الأحداث والتسجيلات والفواتير وإعادة ضبط الإعدادات!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "إعادة ضبط المصنع بالكامل (مسح كل شيء والعودة إلى إعدادات المصنع)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. السلوك عند إلغاء تثبيت الإضافة"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "حذف جميع الجداول والإعدادات عند إلغاء التثبيت"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "افتراضياً، يُحتفظ بجميع سجلات الفعاليات والتسجيلات والفواتير والتدقيق عند حذف الإضافة (التزامات الحفظ القانونية). لا تُفعّل هذا الخيار إلا إذا أردت حذف جميع الجداول نهائياً عند إزالة الإضافة."
+      ],
+      "Alle Einstellungen speichern": [
+        "احفظ جميع الإعدادات"
+      ],
+      "Platzbuchung": [
+        "حجز المقاعد"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "يُحجز المقعد عبر تعليمة UPDATE شرطية واحدة (belegt = belegt + 1، فقط ما دام belegt < kapazitaet). ومن بين طلبين متزامنين على المقعد الأخير، يُعدّل طلب واحد فقط الصف؛ بينما يتلقى الآخر رسالة «مكتمل العدد»."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "تُنشأ الفواتير وإشعارات الدائن بصيغة CII-XML وفق ملف تعريف EN 16931 وتُفحص في الاختبارات بواسطة أداة التحقق Mustang. لا يتم إنشاء ملف PDF، لذا فإن ملف XML ليس ملفاً هجيناً بصيغة ZUGFeRD. ويختص المستشار الضريبي بالتحقق من استيفاء الفواتير للمتطلبات القانونية في كل حالة على حدة."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF والمحاسبة"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "يُصدّر الفواتير وإشعارات الدائن لفترة زمنية محددة كحزمة قيود محاسبية بصيغة DATEV (EXTF 700، الفئة 21) بترميز Windows-1252. تُجلب حسابات الذمم المدينة والإيرادات من الإعدادات؛ ويحمل كل صف مفتاح الضريبة 3. يُرجى تنسيق الحسابات والمفاتيح مع مستشارك الضريبي."
+      ],
+      "Handbuch & API:": [
+        "الدليل وواجهة برمجة التطبيقات:"
+      ],
+      "Vollständiges Handbuch": [
+        "الدليل الكامل"
+      ],
+      "Entwickelt von WM Suite.": [
+        "تطوير WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber ​​Events Core - دليل المسؤول والمطور"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "حجز المقاعد، وفواتير XML، وتصدير DATEV، والتأكيد المزدوج عبر Brevo، والأكواد المختصرة والإعدادات المسبقة للقوالب."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. حجز المقاعد دون تجاوز السعة"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "يزداد عداد الإشغال في تعليمة شرطية واحدة؛ ومن بين طلبين متزامنين على المقعد الأخير، يُحدّث طلب واحد فقط الصف:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. فواتير XML وDATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "فواتير وإشعارات دائن تتضمن بيانات البائع من الإعدادات وتاريخ التوريد ورقماً تسلسلياً. بدون PDF وبدون معرف التوجيه (Leitweg-ID)."
+      ],
+      "Gutschriften:": [
+        "إشعارات الدائن:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "رقم تسلسلي مستقل، النوع 381 مع الإشارة إلى الفاتورة الأصلية."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "حزمة قيود محاسبية لفترة ضمن سنة تقويمية واحدة، بترميز Windows-1252. يُرجى تنسيق الحسابات ومفاتيح الضرائب مع مستشارك الضريبي."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. الاشتراك المزدوج في Brevo CRM وقائمة انتظار الخلفية"
+      ],
+      "Double Opt-In (DOI):": [
+        "الاشتراك المزدوج (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "يرسل Brevo رسالة التأكيد الإلكترونية برابط شخصي؛ ويؤكد الرابط التسجيل لمرة واحدة. تُحذف التسجيلات غير المؤكدة بعد 14 يوماً."
+      ],
+      "Warteschlange:": [
+        "طابور المعالجة:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "تمر استدعاءات Brevo عبر طابور في قاعدة البيانات يعالجه WP-Cron كل دقيقة (أو عبر الأمر wp cybevents queue-run)، بما يصل إلى خمس محاولات."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. الرموز القصيرة وتكامل جوتنبرج"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "استمارة التسجيل التي يمكن الوصول إليها."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "جدول أعمال المؤتمر التفاعلي ونظرة عامة على المسار."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "اختيار الجلسة بناءً على الرمز المميز بعد تأكيد DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. أوامر WP-CLI للمسؤولين"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. الإعدادات المسبقة للقوالب ورموز التصميم"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "تتكيف الواجهة الأمامية بمرونة مع أي سمة WordPress أو تستخدم إعدادات التصميم المسبقة الجاهزة:"
+      ],
+      "Presets:": [
+        "الإعدادات المسبقة:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "عدة إعدادات لونية مسبقة، من بينها تدرج بالأرجواني الداكن والبنفسجي والوردي (#482683، #7D40E7، #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "وراثة الموضوع (الافتراضي):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "يرث الخطوط وأنصاف أقطار الحدود والألوان الأساسية بسلاسة من السمة النشطة (GeneratePress وAstra وTwenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "خصائص CSS المخصصة:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. مسكتك وأفضل الممارسات"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "تُنشأ الجداول باستخدام المحرك ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "فترات الاحتفاظ والحذف:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "تُحذف التسجيلات غير المؤكدة بعد 14 يوماً، وتُخفى هوية قيود سجل التدقيق بعد 90 يوماً (باستثناء أحداث الفواتير). لا تحذف الإضافة التسجيلات المؤكدة أو الفواتير تلقائياً؛ ولا يوجد إعداد لذلك."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "تعمل معالجة الطابور ومواعيد الحذف عبر WP-Cron؛ وفي المواقع التي لا تشهد زيارات منتظمة يلزم إعداد مهمة Cron حقيقية على الخادم."
+      ],
+      "Cyber Events Suite": [
+        "جناح الأحداث السيبرانية"
+      ],
+      "Veranstaltung auswählen": [
+        "حدد الحدث"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "حدد الحدث المستهدف لهذه الكتلة."
+      ],
+      "Key Facts Header anzeigen": [
+        "الحقائق الرئيسية رأس anzeigen"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "إظهار عرض الخطوة (السائر)."
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "إظهار زر تصدير التقويم (.ics)."
+      ],
+      "Countdown-Timer anzeigen": [
+        "عرض مؤقت العد التنازلي"
+      ],
+      "Freie Plätze anzeigen": [
+        "عرض الأماكن المجانية"
+      ],
+      "Spaltenanzahl": [
+        "عدد الأعمدة"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "الرجاء تحديد حدث صالح في إعدادات الحظر."
+      ],
+      "Vorschau im Editor": [
+        "معاينة في المحرر"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "اختيار الجلسات للتسجيلات المؤكدة"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "يتم عرض هذه الكتلة ديناميكيًا في الواجهة الأمامية لكل مشارك باستخدام الرمز المميز الخاص به."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "لم يتم العثور على رمز التأكيد."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "يرجى الوصول إلى هذه المنطقة باستخدام الرابط المخصص الموجود في رسالة التأكيد الإلكترونية."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "رمز المشارك غير صالح أو منتهي الصلاحية."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "مخطط مقاعد الفعالية"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "في الواجهة الأمامية، يعرض هذا المكوّن نسبة إشغال كل جلسة كرسم SVG ويُحدّثها باستمرار عبر Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "لم يتم العثور على الحدث."
+      ],
+      "Jetzt anmelden": [
+        "سجّل الآن"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "سجل الآن مجانا"
+      ],
+      "Programm ansehen": [
+        "عرض البرنامج"
+      ],
+      "Kostenfreie Teilnahme": [
+        "المشاركة مجانية"
+      ],
+      "Anmeldung geöffnet": [
+        "تم فتح التسجيل"
+      ],
+      "Ausgebucht": [
+        "محجوزة بالكامل"
+      ],
+      "Preis": [
+        "السعر"
+      ],
+      "%d freier Platz": [
+        "%d مقعد شاغر",
+        "%d مقعد شاغر",
+        "%d مقعدان شاغران",
+        "%d مقاعد شاغرة",
+        "%d مقعدًا شاغرًا",
+        "%d مقعد شاغر"
+      ],
+      "von max. %d": [
+        "من الحد الأقصى. %d"
+      ],
+      "Beginn in:": [
+        "يبدأ خلال:"
+      ],
+      "Tage": [
+        "يأخذ"
+      ],
+      "Std.": [
+        "الأمراض المنقولة جنسيا."
+      ],
+      "Min.": [
+        "دقيقة."
+      ],
+      "Sek.": [
+        "سيك."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "تصدير إلى التقويم (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (ملف .ics)"
+      ],
+      "Google Kalender": [
+        "تقويم جوجل"
+      ],
+      "Outlook Web": [
+        "أوتلوك ويب"
+      ],
+      "Microsoft 365": [
+        "مايكروسوفت 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "يتضمن ملف .ics تذكيراً قبل يوم واحد من بدء الفعالية."
+      ],
+      "Referenten & Fachexperten": [
+        "المتحدثون وخبراء الموضوع"
+      ],
+      "Referenten": [
+        "المتحدثون"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "وسيتم الإعلان عن قائمة المتحدثين قريبا."
+      ],
+      "TEILNEHMERPASS": [
+        "بطاقة المشارك"
+      ],
+      "Teilnehmerpass": [
+        "بطاقة المشارك"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "عرض التذكرة والاعتماد"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "أدخل رمز الأمان المكون من 64 رقمًا من رسالة التأكيد الإلكترونية:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "أدخل الرمز المميز (على سبيل المثال، c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "إظهار جواز السفر"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "رمز الحجز غير صالح أو لم يتم العثور عليه."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "لا تتوفر بطاقة مشارك لهذا التسجيل: فهو غير مؤكد أو تم إلغاؤه."
+      ],
+      "Max Mustermann": [
+        "أحمد المنصور"
+      ],
+      "Beispiel GmbH": [
+        "شركة المثال المحدودة"
+      ],
+      "Veranstaltung": [
+        "حدث"
+      ],
+      "Rechnungs-Nr.": [
+        "رقم الفاتورة"
+      ],
+      "Keine": [
+        "لا يوجد"
+      ],
+      "Ticket-Nummer": [
+        "رقم التذكرة"
+      ],
+      "Pass drucken": [
+        "طباعة جواز السفر"
+      ],
+      "Datenschutz und Sicherheit": [
+        "حماية البيانات والأمان"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "التأكيد المزدوج وفترات الاحتفاظ"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "لا يسري التسجيل إلا بعد التأكيد عبر رابط البريد الإلكتروني. تُحذف التسجيلات غير المؤكدة بعد 14 يوماً، وتُخفى هوية قيود سجل التدقيق بعد 90 يوماً."
+      ],
+      "Beschriftete Formulare": [
+        "نماذج ذات تسميات واضحة"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "حقول نماذج بتسميات مرئية، وحقول إلزامية محددة بوضوح، ورسائل حالة يقرأها قارئ الشاشة."
+      ],
+      "Eigene Skripte und Styles": [
+        "نصوص برمجية وأنماط مستضافة ذاتياً"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "تُحمّل الإضافة النصوص البرمجية والأنماط والأيقونات من خادمك الخاص بدلاً من شبكة CDN خارجية."
+      ],
+      "Audit-Log und Tokens": [
+        "سجل التدقيق والرموز الأمنية"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "يجعل سجل التدقيق المتسلسل بخوارزمية HMAC-SHA256 أي تعديل لاحق قابلاً للاكتشاف. ولا تُخزَّن رموز المشاركين إلا كتجزئة SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "فواتير XML وDATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "إصدار الفواتير بصيغة CII-XML وفق معيار EN 16931 وتصديرها كحزمة قيود محاسبية لنظام DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "كلمة التحقق الودية (إثبات العمل)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "حماية الروبوتات الصديقة للخصوصية دون تتبع المستخدم أو ألغاز الصور وفقًا لقانون حماية البيانات في الاتحاد الأوروبي."
+      ],
+      "Zur Anmeldung": [
+        "للتسجيل"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "لا توجد فعاليات مؤرشفة."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "لا يوجد حاليا أي أحداث المخطط لها."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "تصفية الحدث حسب العنوان أو الموقع..."
+      ],
+      "Kostenfrei": [
+        "مجانا"
+      ],
+      "In Kalender eintragen": [
+        "أضف إلى التقويم"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "شريط التحديث المباشر للمؤتمر وجدول الأعمال"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "القياس المباشر لجدول الأعمال"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "عناصر التحكم في العرض والتصفية"
+      ],
+      "Kalenderansichten": [
+        "طرق عرض التقويم"
+      ],
+      "Monat": [
+        "شهر"
+      ],
+      "Woche": [
+        "أسبوع"
+      ],
+      "Tag / Agenda": [
+        "يوم / جدول الأعمال"
+      ],
+      "Liste": [
+        "قائمة"
+      ],
+      "Karten": [
+        "بطاقات"
+      ],
+      "Räume & Ort": [
+        "القاعات والموقع"
+      ],
+      "Summit Tracks": [
+        "مسارات القمة"
+      ],
+      "Vorheriger Zeitraum": [
+        "الفترة السابقة"
+      ],
+      "Nächster Zeitraum": [
+        "الفترة التالية"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "البحث عن فعالية أو موضوع أو متحدث..."
+      ],
+      "Suchbegriff eingeben": [
+        "أدخل عبارة البحث"
+      ],
+      "Track oder Kategorie filtern": [
+        "تصفية المسار أو الفئة"
+      ],
+      "Alle Fach-Tracks": [
+        "جميع المسارات التخصصية"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "المسار 01: التشفير ما بعد الكمّي"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "المسار 02: انعدام الثقة ومرونة DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "المسار 03: الذكاء الاصطناعي المستقل وقواعد السرية (§ 203 StGB)"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "المسار 04: سلسلة توريد البرمجيات وقانون المرونة السيبرانية (CRA)"
+      ],
+      "Konferenzsaal filtern": [
+        "تصفية قاعة المؤتمر"
+      ],
+      "Alle Säle & Räume": [
+        "جميع القاعات والغرف"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "القاعة العامة ألفا (الكلمات الرئيسية)"
+      ],
+      "Security Lab Beta": [
+        "مختبر الأمان بيتا"
+      ],
+      "Workshop Studio Gamma": [
+        "استوديو ورش العمل غاما"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "مركز البث الافتراضي AS4"
+      ],
+      "Monatskalenderansicht": [
+        "عرض التقويم الشهري"
+      ],
+      "Mo": [
+        "الاثنين"
+      ],
+      "Di": [
+        "الثلاثاء"
+      ],
+      "Mi": [
+        "الأربعاء"
+      ],
+      "Do": [
+        "الخميس"
+      ],
+      "Fr": [
+        "الجمعة"
+      ],
+      "Sa": [
+        "السبت"
+      ],
+      "So": [
+        "الأحد"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "عرض الجدول الأسبوعي والشبكة الزمنية"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "عرض جدول الأعمال اليومي والخط الزمني"
+      ],
+      "Chronologische Listenansicht": [
+        "عرض القائمة الزمنية"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "عرض البطاقات المصورة"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "عرض مستكشف الموقع والقاعات"
+      ],
+      "Summit Multi-Track Matrix": [
+        "مصفوفة المسارات المتعددة للقمة"
+      ],
+      "Dialog schließen": [
+        "إغلاق النافذة الحوارية"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "معرف الجلسة أو التسجيل غير صالح."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "لا يمكن معالجة الحجز بسبب خطأ في قاعدة البيانات."
+      ],
+      "Session %d existiert nicht.": [
+        "الجلسة %d غير موجودة."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" محجوز بالكامل (%2$d من %2$d من الأماكن المشغولة)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "لا يمكن حفظ الحجز. تم تحرير المكان مرة أخرى."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "تعذرت معالجة الإلغاء بسبب خطأ في قاعدة البيانات."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "لم يتم تحميل ملف صالح."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "خطأ في تحميل الملف."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "يمكن أن يصل حجم صورة الملف الشخصي إلى 5 ميغابايت كحد أقصى."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "تنسيق الملف غير صالح. يُسمح باستخدام JPG وPNG وWebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "امتداد الملف غير صالح. الامتدادات المسموح بها هي .jpg و.jpeg و.png و.webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "حدث خطأ أثناء حفظ الصورة الشخصية."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "سجل التدقيق فارغ، على الرغم من أن %d من الإدخالات تم تسجيلها آخر مرة."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "تمت إضافة إدخال غير موقع لاحقًا إلى السلسلة."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "انقطاع في السلسلة عند القيد #%d: حُذف قيد أو أُدرج أو أُعيد ترتيبه."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "توقيع الإدخال #%d لا يطابق المجموع الاختباري الخاص به."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "القيد #%d مُعلَّم بأنه مخفي الهوية دون إثبات صالح: قد يكون محتواه قد تعرّض للتعديل."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "تم تغيير محتوى الإدخال #%d لاحقًا."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "نهاية السجل لا تطابق آخر قيد مسجل. تمت إزالة أحدث القيود."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "الأحداث"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "حدث"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "الأحداث السيبرانية"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "حدث"
+      ],
+      "event\u0004Neu erstellen": [
+        "إنشاء جديد"
+      ],
+      "Veranstaltung bearbeiten": [
+        "تحرير الحدث"
+      ],
+      "Veranstaltung ansehen": [
+        "عرض الحدث"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "تصفح الأحداث"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "لا توجد أحداث في سلة المهملات."
+      ],
+      "Veranstaltungsdaten": [
+        "بيانات الفعالية"
+      ],
+      "Veranstaltungsort:": [
+        "مكان الانعقاد:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "إدارة الأماكن ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— اختر موقع المؤتمر المخزن —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "دليل الموقع/الغرفة/العنوان..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "حدد موقعًا مخزّنًا من القائمة أو قم بتخصيص اسم الموقع/معلومات الغرفة."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "تاريخ ووقت البدء:"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "النهاية (التاريخ والوقت):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "فعالية مدفوعة"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "لا يوجد حاليا أي جداول المؤتمرات المتاحة."
+      ],
+      "Programm": [
+        "البرنامج"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "ابحث عن موضوع أو متحدث أو غرفة..."
+      ],
+      "Konferenz-Agenda": [
+        "جدول أعمال المؤتمر"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "وسيتم الإعلان عن البرنامج التفصيلي قريبا."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "بيانات المشاركين في CyberEvents"
+      ],
+      "E-Mail": [
+        "بريد إلكتروني"
+      ],
+      "Unternehmen / Organisation": [
+        "الشركة/المنظمة"
+      ],
+      "Profilbild": [
+        "صورة الملف الشخصي"
+      ],
+      "Einwilligung Datenschutz": [
+        "موافقة الخصوصية"
+      ],
+      "ja": [
+        "نعم"
+      ],
+      "nein": [
+        "لا"
+      ],
+      "Einwilligung Fotos": [
+        "موافقة التصوير"
+      ],
+      "Bestätigung angefordert": [
+        "تم طلب التأكيد"
+      ],
+      "Bestätigt am": [
+        "تاريخ التأكيد"
+      ],
+      "Eingecheckt am": [
+        "تاريخ تسجيل الحضور"
+      ],
+      "Gebuchte Sessions": [
+        "الجلسات المحجوزة"
+      ],
+      "Rechnungsnummer": [
+        "رقم الفاتورة"
+      ],
+      "CyberEvents Registrierungen": [
+        "تسجيلات الأحداث السيبرانية"
+      ],
+      "CyberEvents Rechnungen": [
+        "فواتير CyberEvents"
+      ],
+      "Empfänger": [
+        "المستلم"
+      ],
+      "Adresse": [
+        "العنوان"
+      ],
+      "Bruttobetrag": [
+        "المبلغ الإجمالي"
+      ],
+      "Ausgestellt am": [
+        "تاريخ الإصدار"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "تعذّر حذف التسجيل #%d."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "تعذّر إخفاء هوية التسجيل #%d؛ بقيت البيانات دون تغيير."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "تم إخفاء هوية التسجيل #%1$d. وتبقى الفاتورة %2$s المتضمنة الاسم والعنوان والبريد الإلكتروني محفوظة دون تغيير؛ إذ لا تحذف الإضافة الفواتير."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "تم تعطيل Webhook الخاص بـ Brevo لعدم وجود سر مشترك (يرد برمز 401). لن تتم معالجة الرسائل المرتدة وإلغاءات الاشتراك حتى يتم ضبط السر المشترك."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "لم يتم ضبط مفتاح Brevo API: لن تُرسل رسائل التأكيد الإلكترونية، وستبقى التسجيلات الجديدة غير مؤكدة وتُحذف بعد 14 يوماً."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "تم تفعيل Friendly Captcha لكن دون أثر فعلي: لا تتضمن الإضافة أداة تحقق، لذا يُعالَج النموذج دون حماية من الروبوتات."
+      ],
+      "Einstellungen öffnen": [
+        "فتح الإعدادات"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "طلبات كثيرة جداً. يرجى المحاولة مرة أخرى بعد دقيقة."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "لم يتم حفظ الاختيار: %s وتبقى حجوزاتك السابقة قائمة."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "تم حجز الجلسات الجديدة، لكن تعذّر تحرير كل جلسة أُلغي اختيارها: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "رمز أمان غير صالح (Nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "رمز نموذج غير صالح (Nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "المشترك غير مصرح به أو لم يتم العثور عليه."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "لم يتم تقديم ملف الصورة."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "تم تحديث الصورة الشخصية بنجاح."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "رمز التأكيد مفقود."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "تذكرة غير صالحة أو لم يتم تأكيدها بعد."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "لا توجد جلسات مسجلة لهذه الفعالية."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "مخطط المقاعد: المقاعد المشغولة والشاغرة لكل جلسة"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d من أصل %3$d مقاعد مشغولة"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "لم يتم تحديد الفعالية لمخطط المقاعد."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "الفعالية الخاصة بمخطط المقاعد غير موجودة."
+      ],
+      "frei": [
+        "شاغر"
+      ],
+      "belegt": [
+        "مشغول"
+      ],
+      "von Ihnen gebucht": [
+        "محجوز من قبلك"
+      ],
+      "Belegung je Session": [
+        "نسبة الإشغال لكل جلسة"
+      ],
+      "Session": [
+        "الجلسة"
+      ],
+      "Belegt": [
+        "مشغول"
+      ],
+      "Frei": [
+        "شاغر"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "يتم تحديث الإشغال باستمرار."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "الحالة عند تحميل الصفحة؛ لا يتم تحديث الإشغال لحظياً."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "البيانات التجريبية: تم رفض الحجز لـ %1$s — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "مواعيد العرض التوضيحي: تم إلغاء المشاركة"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "الجلسات والمسارات"
+      ],
+      "post type singular name\u0004Session": [
+        "الجلسة"
+      ],
+      "admin menu\u0004Sessions": [
+        "الجلسات"
+      ],
+      "Alle Sessions": [
+        "جميع الجلسات"
+      ],
+      "Session bearbeiten": [
+        "تحرير الجلسة"
+      ],
+      "Session ansehen": [
+        "عرض الجلسة"
+      ],
+      "Sessions durchsuchen": [
+        "تصفح الجلسات"
+      ],
+      "Keine Sessions gefunden.": [
+        "لم يتم العثور على جلسات."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "لا توجد جلسات في سلة المهملات."
+      ],
+      "Session-Daten": [
+        "بيانات الجلسة"
+      ],
+      "Zugehörige Konferenz:": [
+        "المؤتمرات ذات الصلة:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "- لم يتم تحديد أي مؤتمر -"
+      ],
+      "Referent / Speaker & Institution:": [
+        "المرجع/ المتحدث والمؤسسة:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "مثال: سارة العلي (شركة المثال المحدودة)"
+      ],
+      "Raum / Saal / Track:": [
+        "الغرفة / القاعة / المسار:"
+      ],
+      "Workshop-Kapazität:": [
+        "سعة الورشة:"
+      ],
+      "Speaker": [
+        "المتحدث"
+      ],
+      "Raum / Track": [
+        "الفضاء / المسار"
+      ],
+      "Zeitfenster": [
+        "نافذة الوقت"
+      ],
+      "Belegung": [
+        "الإشغال"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "مرحبًا، %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "اختر جلساتك. يُخصَّص المقعد عند الحفظ ما دامت الجلسة غير مكتملة العدد."
+      ],
+      "Anmeldung bestätigt": [
+        "تم تأكيد التسجيل"
+      ],
+      "Für diese Session eingetragen": [
+        "مسجّل في هذه الجلسة"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "حدد عنصر البرنامج هذا"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "يُخصَّص المقعد عند الحفظ ما دامت الجلسة غير مكتملة العدد."
+      ],
+      "Sessions ausgewählt": [
+        "الجلسات مختارة"
+      ],
+      "Auswahl verbindlich speichern": [
+        "حفظ التحديد بشكل ملزم"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "معيار موضوع WordPress (موروث تلقائيًا)"
+      ],
+      "Empfohlen": [
+        "مُستَحسَن"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "يعتمد الطباعة والألوان والأزرار والمسافات 1:1 من سمة WordPress النشطة (GeneratePress وAstra وTwenty Twenty-Four وما إلى ذلك)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "بنفسجي ووردي (ليلكي داكن، بنفسجي، لمسة وردية)"
+      ],
+      "Farbstark": [
+        "زاهٍ"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "ليلكي داكن (#482683)، بنفسجي ساطع (#7D40E7)، لمسة وردية (#DF0079)، وخط Noto Sans إن حمّله القالب، وتدرّج لوني خفيف."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (كحلي وسماوي)"
+      ],
+      "High-Tech Dark": [
+        "التكنولوجيا الفائقة الظلام"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "مظهر مخصص باللونين الداكن والكوبالت عالي التقنية مع تأثيرات متوهجة، مصمم خصيصًا للأمن السيبراني والمؤتمرات."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "الحد الأدنى الحديث (أردوازي وأحادي اللون)"
+      ],
+      "Modern": [
+        "حديث"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "تصميم SaaS نظيف وبسيط مع تدرج رمادي منخفض وحدود دقيقة وأقصى مساحة بيضاء."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "افتتاحية دافئة (نغمة كلاسيكية ودافئة)"
+      ],
+      "Klassik": [
+        "كلاسيكي"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "درجات اللون العاجي والبورجوندي الدافئة للندوات الأكاديمية والمؤتمرات المهنية الراقية."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "تباين عالٍ (أسود على أبيض)"
+      ],
+      "Hochkontrast": [
+        "تباين عالٍ"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "نص أسود على خلفية بيضاء (تباين 21:1) مع تمييز أصفر وإطارات تركيز معززة."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "سمة مخصصة (ألوان مخصصة وCSS)"
+      ],
+      "Individuell": [
+        "بشكل فردي"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "تعريف مجاني للألوان ودعم لأوراق أنماط CSS المخصصة التي تم تحميلها."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "لم يتم تمرير ملف تحميل صالح."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "خطأ أمني: يمكن تحميل ملفات .css فقط."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "يتجاوز ملف CSS الحد المسموح به وهو 2 ميجابايت."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "تعذر حفظ ملف السمة على الخادم."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "تم تحميل وتفعيل السمة المخصصة CSS بنجاح."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "الأماكن"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "مكان"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "تصفح الأماكن"
+      ],
+      "Häufige Tagungsorte": [
+        "أماكن الاجتماعات المتكررة"
+      ],
+      "Alle Veranstaltungsorte": [
+        "جميع الأماكن"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "تحرير المكان"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "تحديث المكان"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "إضافة مكان جديد"
+      ],
+      "Name des neuen Tagungsorts": [
+        "اسم مكان الاجتماع الجديد"
+      ],
+      "Orte mit Kommas trennen": [
+        "أماكن منفصلة بفواصل"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "إضافة أو إزالة الأماكن"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "اختر من المواقع المستخدمة بشكل متكرر"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "لم يتم العثور على أماكن."
+      ],
+      "Stadt / Ort:": [
+        "المدينة / الموقع:"
+      ],
+      "z. B. Musterstadt": [
+        "مثال: المدينة النموذجية"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "عاصمة أو بلدية مكان انعقاد المؤتمر."
+      ],
+      "Straße & Hausnummer:": [
+        "الشارع رقم المنزل:"
+      ],
+      "z. B. Musterstraße 1": [
+        "مثال: شارع المثال 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "الرمز البريدي (الرمز البريدي):"
+      ],
+      "Land:": [
+        "أرض:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "الحد الأقصى لسعة الغرفة (الأشخاص):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "مهيأ لمستخدمي الكراسي المتحركة"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "لا تُحدّد هذا الخيار إلا بعد التحقق. يظهر البيان في قائمة أماكن الانعقاد وفي مسار REST المسمى /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "خرائط جوجل / عنوان URL للاتجاهات:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "الموقع الإلكتروني لمكان انعقاد المؤتمر:"
+      ],
+      "Maximale Raumkapazität:": [
+        "الحد الأقصى لسعة الغرفة:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "القدرة الاستيعابية للأشخاص في منطقة الاجتماعات والمؤتمرات."
+      ],
+      "Zugänglichkeit:": [
+        "إمكانية الوصول:"
+      ],
+      "Google Maps Link:": [
+        "رابط خرائط جوجل:"
+      ],
+      "Stadt & Adresse": [
+        "المدينة والعنوان"
+      ],
+      "Kapazität": [
+        "سعة"
+      ],
+      "Rollstuhlgerecht": [
+        "مهيأ للكراسي المتحركة"
+      ],
+      "Ja": [
+        "نعم"
+      ],
+      "Nicht angegeben": [
+        "غير محدد"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "عدد كبير جداً من الطلبات المتزامنة حالياً. يُرجى المحاولة مجدداً بعد %d ثانية. لم يُحجز أي مقعد بذلك."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "في غياب ذاكرة تخزين مؤقت دائمة للكائنات (Redis أو Memcached)، تحسب غرفة الانتظار الطلبات في قاعدة البيانات: توفر الطلبات المرفوضة استعلامات الحجز، لكنها تستهلك عملية قراءة واحدة وعملية كتابة واحدة في جدول الخيارات."
+      ],
+      "Cyber Events Kennzahlen": [
+        "مؤشرات Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "مؤشر Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "يعرض مؤشرات مباشرة للمؤتمرات النشطة والتأكيدات والمقاعد الشاغرة."
+      ],
+      "Kennzahl": [
+        "مؤشر"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "معرّف الفعالية (اختياري)"
+      ],
+      "Dokumentation": [
+        "التوثيق"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "الرجاء تقديم معرف حدث صالح: [cybevents_registration events_id = \"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "لم يتم العثور على رمز تأكيد صالح. الرجاء استخدام الرابط في البريد الإلكتروني الخاص بك."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— أحدث فعالية نشطة (تلقائي) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "تلقائي (المؤتمر الحالي)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "اختيار الفعالية"
+      ],
+      "Ziel-Konferenz": [
+        "المؤتمر المستهدف"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "اختر المؤتمر الذي تُعرض بياناته في الترويسة البارزة."
+      ],
+      "Design & Layout-Presets": [
+        "الإعدادات المسبقة للتصميم والتخطيط"
+      ],
+      "Theme-Preset": [
+        "الإعداد المسبق للقالب"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "داكن للمؤسسات مع توهج (افتراضي)"
+      ],
+      "Federal Blue": [
+        "أزرق فيدرالي"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "توهج سماوي سايبربانك"
+      ],
+      "Clean White & Modern": [
+        "أبيض نقي وعصري"
+      ],
+      "Glassmorphism Blur": [
+        "تمويه زجاجي (Glassmorphism)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "استدارة الزوايا (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "بدون (0px)"
+      ],
+      "Mittel (8px)": [
+        "متوسط (8px)"
+      ],
+      "Groß (16px)": [
+        "كبير (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "كبير جداً (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "تفعيل تأثير الإضاءة والتوهج"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "النصوص وأزرار الدعوة إلى اتخاذ إجراء (CTA)"
+      ],
+      "Badge / Dachzeile": [
+        "الشارة / السطر العلوي"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "عنوان رئيسي مخصص (اختياري)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "الافتراضي: عنوان الفعالية"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "نص تمهيدي مخصص"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "الافتراضي: وصف الفعالية"
+      ],
+      "Primärer CTA-Button Text": [
+        "نص زر الإجراء الأساسي (CTA)"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "الرابط / المرساة المستهدفة لزر الإجراء الأساسي"
+      ],
+      "Sekundären Button anzeigen": [
+        "إظهار الزر الثانوي"
+      ],
+      "Sekundärer Button Text": [
+        "نص الزر الثانوي"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "الرابط المستهدف للزر الثانوي"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "إظهار العناصر"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "إظهار مؤقت العد التنازلي المباشر"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "إظهار شارة المقاعد الشاغرة / السعة"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "إظهار شارة الحالة (مفتوح/مكتمل)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "إظهار مكان الانعقاد"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "إظهار التاريخ والوقت"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "إظهار شارة سعر التذكرة / مجاناً"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "إظهار زر التصدير إلى التقويم (.ics)"
+      ],
+      "Kopfbereich": [
+        "الترويسة البارزة"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "الافتراضي: وصف الفعالية مع التاريخ والمكان والسعر والمقاعد الشاغرة والعد التنازلي وزر التسجيل."
+      ],
+      "Countdown": [
+        "العد التنازلي"
+      ],
+      "Freie Plätze": [
+        "المقاعد الشاغرة"
+      ],
+      "Stil: %s": [
+        "النمط: %s"
+      ],
+      "Button: %s": [
+        "الزر: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "اختيار المؤتمر"
+      ],
+      "Ziel-Veranstaltung": [
+        "الفعالية المستهدفة"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "اختر الفعالية التي يسجل فيها الزوار."
+      ],
+      "Formular-Design & Theme": [
+        "تصميم النموذج والقالب"
+      ],
+      "Formular-Stil": [
+        "نمط النموذج"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "زجاجي سيبراني (افتراضي)"
+      ],
+      "Clean White Studio": [
+        "استوديو أبيض نقي"
+      ],
+      "Eckenabrundung": [
+        "استدارة الزوايا"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "حقول النموذج وخيارات الإدخال"
+      ],
+      "Individueller Formulartitel": [
+        "عنوان مخصص للنموذج"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "عنوان فرعي / ملاحظة مخصصة"
+      ],
+      "Standard: kein Untertitel": [
+        "الافتراضي: بدون عنوان فرعي"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "إظهار حقل المؤسسة / الشركة"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "إظهار مربع الموافقة على التصوير الفوتوغرافي والمرئي"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "إظهار ترويسة المعلومات الأساسية داخل النموذج"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "تسمية الزر وروابط الخصوصية"
+      ],
+      "Absende-Button Beschriftung": [
+        "تسمية زر الإرسال"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "رابط مخصص لسياسة الخصوصية (اختياري)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "الافتراضي: صفحة الخصوصية ضمن الإعدادات > الخصوصية"
+      ],
+      "Anmeldeformular": [
+        "نموذج التسجيل"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "التسجيل بالتأكيد المزدوج: يرسل Brevo رابط التأكيد، ولا يسري التسجيل إلا بعد تأكيده."
+      ],
+      "Standard nach Ticketpreis": [
+        "الافتراضي حسب سعر التذكرة"
+      ],
+      "Überschrift & Untertitel": [
+        "العنوان والعنوان الفرعي"
+      ],
+      "Überschrift": [
+        "العنوان"
+      ],
+      "Untertitel / Beschreibung": [
+        "العنوان الفرعي / الوصف"
+      ],
+      "Suche, Angaben & Export": [
+        "البحث والبيانات الوصفية والتصدير"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "إظهار حقل البحث المباشر للجلسات"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "إظهار بيانات القاعة والمكان"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "إظهار الصور الرمزية للمتحدثين"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "إظهار تصدير التقويم الكامل (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "عرض الجلسات بترتيب زمني مع القاعة والمتحدث والوصف والبحث وتصدير .ics."
+      ],
+      "Suche": [
+        "البحث"
+      ],
+      ".ics-Download": [
+        "تنزيل .ics"
+      ],
+      "Layout & Spalten": [
+        "التخطيط والأعمدة"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "عدد الأعمدة (سطح المكتب)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "عرض النصوص والتفاصيل"
+      ],
+      "Untertitel": [
+        "العنوان الفرعي"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "إظهار موضوع محاضرة الجلسة"
+      ],
+      "Raumangabe anzeigen": [
+        "إظهار بيان القاعة"
+      ],
+      "Uhrzeit anzeigen": [
+        "إظهار وقت البدء"
+      ],
+      "Konferenz: ": [
+        "المؤتمر: "
+      ],
+      "%d Spalten": [
+        "%d أعمدة"
+      ],
+      "Vortragsthemen": [
+        "موضوعات المحاضرات"
+      ],
+      "Titel": [
+        "العنوان"
+      ],
+      "Individueller Titel": [
+        "عنوان مخصص"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "خدمات وخيارات التقويم"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "إظهار Apple / Outlook (ملف .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "إظهار الرابط المباشر لتقويم Google"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "إظهار الرابط المباشر لـ Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "إظهار الرابط المباشر لـ Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "إظهار تنبيه المنطقة الزمنية"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "إظهار ملاحظة التذكير في ملف .ics"
+      ],
+      "Kalender": [
+        "التقويم"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "ملف .ics يتضمن تذكيراً قبل يوم من البدء مع روابط إلى تقويم Google وOutlook Web وMicrosoft 365."
+      ],
+      ".ics-Datei": [
+        "ملف .ics"
+      ],
+      "Session-Auswahl": [
+        "محدد الجلسات"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "ليس لهذا المكوّن إعدادات. فهو يعرض الجلسات المرتبطة بالرمز الوارد في رابط التأكيد؛ وبدون رمز يظهر تنبيه."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "يُخصَّص مقعد عند الحفظ ما دامت الجلسة غير مكتملة العدد."
+      ],
+      "Ticketpass-Optionen": [
+        "خيارات بطاقة التذكرة"
+      ],
+      "Pass-Überschrift": [
+        "عنوان البطاقة"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "سطر الترويسة (الافتراضي: عنوان الفعالية)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "إظهار زر الطباعة (طباعة البطاقة)"
+      ],
+      "Ticketnummer anzeigen": [
+        "إظهار رقم التذكرة"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "إظهار رقم الفاتورة / المرجع"
+      ],
+      "Check-In Status anzeigen": [
+        "إظهار حالة تسجيل الحضور"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "بطاقة للتسجيلات المؤكدة تُفتح عبر الرمز المرسل في بريد التأكيد: الاسم، والشركة، والحالة، ورقم الفاتورة، ورقم التذكرة ووظيفة الطباعة."
+      ],
+      "Ticketnummer": [
+        "رقم التذكرة"
+      ],
+      "Druckfunktion": [
+        "وظيفة الطباعة"
+      ],
+      "Titel der Veranstaltung": [
+        "عنوان الفعالية"
+      ],
+      "Layout & Farbschema": [
+        "التخطيط ونظام الألوان"
+      ],
+      "Raster-Layout": [
+        "تخطيط شبكي"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "شبكة من 4 أعمدة (افتراضي)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "شبكة من عمودين (عريضة)"
+      ],
+      "Farbthema": [
+        "سمة الألوان"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "توهج سيبراني داكن (افتراضي)"
+      ],
+      "Angezeigte Karten": [
+        "البطاقات المعروضة"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "بطاقات توضح ما تفعله الإضافة. ولا يُقيّم المكوّن مدى استيفاء الموقع للمتطلبات القانونية."
+      ],
+      "Double Opt-in": [
+        "التأكيد المزدوج"
+      ],
+      "Formulare": [
+        "النماذج"
+      ],
+      "Eigene Assets": [
+        "موارد مستضافة ذاتياً"
+      ],
+      "Abfrage & Filterung": [
+        "الاستعلام والتصفية"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "الحد الأقصى لعدد المؤتمرات"
+      ],
+      "Status-Filter": [
+        "تصفية حسب الحالة"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "الفعاليات النشطة فقط"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "الفعاليات النشطة والمؤرشفة"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "الفعاليات المؤرشفة فقط"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "البيانات الوصفية والأزرار المرئية"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "إظهار شريط البحث المباشر"
+      ],
+      "Preisschild anzeigen": [
+        "إظهار بطاقة السعر"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "إظهار الموقع / مكان الانعقاد"
+      ],
+      "Datums-Badge anzeigen": [
+        "إظهار شارة التاريخ"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "إظهار رابط تقويم .ics المباشر"
+      ],
+      "Beschreibungstext anzeigen": [
+        "إظهار مقتطف الوصف"
+      ],
+      "CTA-Button Beschriftung": [
+        "تسمية زر الإجراء (CTA)"
+      ],
+      "Veranstaltungsübersicht": [
+        "نظرة عامة على الفعاليات"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "شبكة للفعاليات تتضمن التاريخ والسعر والمكان ووصفاً موجزاً وزر التسجيل ورابط .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "بحد أقصى %d فعاليات"
+      ],
+      "Cyber Events Sitzplan": [
+        "مخطط مقاعد Cyber Events"
+      ],
+      "Sitzplan-Einstellungen": [
+        "إعدادات مخطط المقاعد"
+      ],
+      "Überschrift (optional)": [
+        "العنوان (اختياري)"
+      ],
+      "Beschreibungstext (optional)": [
+        "نص الوصف (اختياري)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "تفعيل التحديث المباشر"
+      ],
+      "Sitzplan": [
+        "مخطط المقاعد"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "نظرة عامة رسومية على إشغال جميع جلسات الفعالية مع جدول بيانات مهيأ لإمكانية الوصول."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "تقويم Cyber Events متعدد العروض"
+      ],
+      "Ansichten & Datenquelle": [
+        "طرق العرض ومصدر البيانات"
+      ],
+      "Standardansicht": [
+        "العرض الافتراضي"
+      ],
+      "Monatskalender": [
+        "التقويم الشهري"
+      ],
+      "Wochenplan": [
+        "الجدول الأسبوعي"
+      ],
+      "Tagesagenda": [
+        "جدول الأعمال اليومي"
+      ],
+      "Listenansicht": [
+        "عرض القائمة"
+      ],
+      "Kartenansicht": [
+        "عرض البطاقات"
+      ],
+      "Raumübersicht": [
+        "نظرة عامة على القاعات"
+      ],
+      "Track-Matrix": [
+        "مصفوفة المسارات"
+      ],
+      "Maximale Anzahl Einträge": [
+        "الحد الأقصى لعدد القيود"
+      ],
+      "Bedienleiste & Filter": [
+        "شريط الأدوات وعوامل التصفية"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "إظهار مبدّل طريقة العرض"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "إظهار عوامل تصفية المسارات والقاعات"
+      ],
+      "Suchfeld anzeigen": [
+        "إظهار حقل البحث"
+      ],
+      "Meldungsleiste anzeigen": [
+        "إظهار شريط التنبيهات المتحرك"
+      ],
+      "Kalender-Ansichten": [
+        "طرق عرض التقويم"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "تقويم وجدول أعمال متعدد العروض"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "عروض قابلة للتبديل للشهر والأسبوع واليوم والقائمة والبطاقات والقاعات والمسارات."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "جدول أعمال مؤتمرات Cyber Events"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "جدول مؤتمرات تفاعلي متعدد المسارات مع خط زمني وتفاصيل المتحدثين وتصفية القاعات وتنزيل iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (التقويم وجدول الأعمال والمسارات)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "مجموعة متقدمة للتقويم وجدول الأعمال تضم 7 طرق عرض تفاعلية في الواجهة الأمامية: التقويم الشهري، والجدول الأسبوعي، وجدول الأعمال اليومي، وعرض القائمة، والبطاقات المصورة، وخريطة القاعات، ومصفوفة القمة متعددة المسارات."
+      ],
+      "block keyword\u0004event": [
+        "فعالية"
+      ],
+      "block keyword\u0004calendar": [
+        "تقويم"
+      ],
+      "block keyword\u0004agenda": [
+        "جدول أعمال"
+      ],
+      "block keyword\u0004schedule": [
+        "جدول"
+      ],
+      "block keyword\u0004summit": [
+        "قمة"
+      ],
+      "block keyword\u0004timetable": [
+        "مواعيد"
+      ],
+      "block keyword\u0004matrix": [
+        "مصفوفة"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "أداة تقويم Cyber Events وملف .ics"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "أداة تقويم مع تنزيل .ics وروابط إلى تقويم Google وOutlook Web وMicrosoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "ترويسة الفعالية وشريط العد التنازلي Cyber Event"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "ترويسة بارزة للفعالية مع عد تنازلي وبيانات أساسية وحالة الحجز وأزرار التسجيل."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "شبكة عرض وأرشيف الفعاليات Cyber Events"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "عرض بطاقات ديناميكي لجميع المؤتمرات والندوات وورش العمل القادمة مع شريط بحث وتصفية حسب الحالة."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "نموذج تسجيل Cyber Events"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "نموذج تسجيل مع التأكيد المزدوج عبر Brevo وصورة ملف شخصي اختيارية وموافقة على التصوير."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "مخطط مقاعد Cyber Events"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "عرض نسبة إشغال جميع جلسات الفعالية بصيغة SVG مع تحديث مستمر عبر Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "شارات الأمان والثقة Cyber Events"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "نظرة عامة على ميزات حماية البيانات والأمان في الإضافة: التأكيد المزدوج، وفترات الاحتفاظ، وسجل التدقيق، وفواتير XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "محدد الجلسات وورش العمل Cyber Events"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "اختيار الجلسات للتسجيلات المؤكدة: تُخصَّص المقاعد عند الحفظ ما دامت الجلسة غير مكتملة العدد."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "شبكة المتحدثين والخبراء Cyber Events"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "عرض مُنشأ تلقائياً لجميع المتحدثين الرئيسيين والمحاضرين وتوزيع القاعات والنبذ التعريفية."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "بطاقة التذكرة الرقمية Cyber Events"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "بطاقة مشارك للتسجيلات المؤكدة تتضمن رقم التذكرة والفعالية والمكان ووظيفة الطباعة."
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/calendar-views",
+	"version": "1.1.0",
+	"title": "Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)",
+	"category": "cyber-events",
+	"icon": "calendar-alt",
+	"description": "Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.",
+	"keywords": [ "event", "calendar", "agenda", "schedule", "summit", "timetable", "matrix" ],
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"defaultView": {
+			"type": "string",
+			"default": "month"
+		},
+		"showToolbar": {
+			"type": "boolean",
+			"default": true
+		},
+		"showFilter": {
+			"type": "boolean",
+			"default": true
+		},
+		"showSearch": {
+			"type": "boolean",
+			"default": true
+		},
+		"showTicker": {
+			"type": "boolean",
+			"default": true
+		},
+		"theme": {
+			"type": "string",
+			"default": "enterprise-dark"
+		},
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"limit": {
+			"type": "integer",
+			"default": 12
+		},
+		"month": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

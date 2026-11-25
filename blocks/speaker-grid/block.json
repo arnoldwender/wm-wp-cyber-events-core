@@ -1,0 +1,63 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/speaker-grid",
+	"version": "1.1.0",
+	"title": "Cyber Events Referenten & Speaker Grid",
+	"category": "cyber-events",
+	"icon": "groups",
+	"description": "Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"columns": {
+			"type": "integer",
+			"default": 3
+		},
+		"heading": {
+			"type": "string",
+			"default": ""
+		},
+		"subheading": {
+			"type": "string",
+			"default": ""
+		},
+		"badgeText": {
+			"type": "string",
+			"default": ""
+		},
+		"cardStyle": {
+			"type": "string",
+			"default": "glass-card"
+		},
+		"avatarStyle": {
+			"type": "string",
+			"default": "initials-gradient"
+		},
+		"showTopics": {
+			"type": "boolean",
+			"default": true
+		},
+		"showRoom": {
+			"type": "boolean",
+			"default": true
+		},
+		"showTime": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

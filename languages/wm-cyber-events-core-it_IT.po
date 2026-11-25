@@ -1,0 +1,4504 @@
+# Translation of wm-cyber-events-core in it_IT
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-cyber-events-core 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-cyber-events-"
+"core\n"
+"POT-Creation-Date: 2026-11-25T12:15:06+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:02+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-cyber-"
+"events-core/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-cyber-events-"
+"core/issues>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-cyber-events-core\n"
+
+#. Plugin Name of the plugin
+#: wm-cyber-events-core.php
+msgid "WM Cyber Events Core"
+msgstr "WM Cyber Events Core"
+
+#. Plugin URI of the plugin
+#: wm-cyber-events-core.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+
+#. Description of the plugin
+#: wm-cyber-events-core.php
+msgid ""
+"Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, "
+"Check-in, Rechnungs-XML (EN 16931) und DATEV-Export."
+msgstr ""
+"Eventi, sessioni e iscrizioni con double opt-in tramite Brevo, check-in, XML "
+"fattura (EN 16931) ed esportazione DATEV."
+
+#. Author of the plugin
+#: wm-cyber-events-core.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-cyber-events-core.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/class-accessibility.php:104
+msgid "Veranstaltung nicht gefunden oder nicht mehr aktiv."
+msgstr "Evento non trovato o non più attivo."
+
+#: includes/class-accessibility.php:122
+msgid "Verbindlich anmelden"
+msgstr "Iscriviti con obbligo di pagamento"
+
+#: includes/class-accessibility.php:122
+msgid "Kostenfrei anmelden"
+msgstr "Iscriviti gratuitamente"
+
+#: includes/class-accessibility.php:144
+msgid "Datum"
+msgstr "Data"
+
+#: includes/class-accessibility.php:152 includes/class-blocks-manager.php:430
+#: includes/class-calendar-views.php:835 includes/class-events-manager.php:183
+msgid "Veranstaltungsort"
+msgstr "Sede dell’evento"
+
+#: includes/class-accessibility.php:160
+msgid "Einlass"
+msgstr "Ingresso"
+
+#: includes/class-accessibility.php:161
+msgid "Nach Bestätigung per E-Mail-Link"
+msgstr "Dopo la conferma tramite link via email"
+
+#: includes/class-accessibility.php:179
+msgid "Kontaktdaten"
+msgstr "Dati di contatto"
+
+#: includes/class-accessibility.php:183
+msgid "Einwilligung"
+msgstr "Consenso"
+
+#: includes/class-accessibility.php:187
+msgid "Bestätigung"
+msgstr "Conferma"
+
+#: includes/class-accessibility.php:195 includes/class-gdpr-manager.php:382
+msgid "Vorname"
+msgstr "Nome"
+
+#: includes/class-accessibility.php:197
+msgid "z. B. Erika"
+msgstr "ad es. Giulia"
+
+#: includes/class-accessibility.php:202 includes/class-gdpr-manager.php:383
+msgid "Nachname"
+msgstr "Cognome"
+
+#: includes/class-accessibility.php:204
+msgid "z. B. Mustermann"
+msgstr "ad es. Rossi"
+
+#: includes/class-accessibility.php:210
+msgid "Geschäftliche E-Mail-Adresse"
+msgstr "Indirizzo email aziendale"
+
+#: includes/class-accessibility.php:218
+msgid "Institution / Behörde / Unternehmen"
+msgstr "Istituzione / ente / azienda"
+
+#: includes/class-accessibility.php:220
+msgid "z. B. Beispiel GmbH"
+msgstr "ad es. Esempio S.r.l."
+
+#: includes/class-accessibility.php:227
+msgid "Profilfoto für Teilnehmerpass (Optional)"
+msgstr "Foto profilo per il pass partecipante (facoltativa)"
+
+#: includes/class-accessibility.php:234
+msgid "Profilbild Vorschau"
+msgstr "Anteprima foto profilo"
+
+#: includes/class-accessibility.php:239
+msgid "Foto auswählen"
+msgstr "Scegli foto"
+
+#: includes/class-accessibility.php:241
+msgid "JPG, PNG oder WebP · max. 5 MB"
+msgstr "JPG, PNG o WebP · max. 5 MB"
+
+#: includes/class-accessibility.php:251
+msgid "Datenschutz & Double Opt-In Einwilligung *"
+msgstr "Protezione dei dati e consenso double opt-in *"
+
+#: includes/class-accessibility.php:252
+msgid ""
+"Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß "
+"DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail."
+msgstr ""
+"Acconsento al trattamento dei miei dati per la partecipazione alla "
+"conferenza ai sensi del GDPR. Riceverò un link di conferma via email per la "
+"verifica."
+
+#: includes/class-accessibility.php:254
+msgid "Datenschutzerklärung lesen"
+msgstr "Leggi l’informativa sulla privacy"
+
+#: includes/class-accessibility.php:263
+msgid "Foto- & Videoaufnahmen (§§ 22, 23 KUG)"
+msgstr "Riprese foto e video (§§ 22, 23 KUG)"
+
+#: includes/class-accessibility.php:264
+msgid ""
+"Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen "
+"von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden "
+"dürfen."
+msgstr ""
+"Acconsento alla realizzazione di fotografie e riprese video della mia "
+"persona durante l’evento per le attività di pubbliche relazioni "
+"dell’organizzatore."
+
+#: includes/class-admin.php:29
+msgid "WM Cyber Events — Mission Control & Auslastung"
+msgstr "WM Cyber Events — Centro di controllo e capienza"
+
+#: includes/class-admin.php:57
+msgid "CyberEvents Enterprise Engine aktiv"
+msgstr "Motore CyberEvents Enterprise attivo"
+
+#: includes/class-admin.php:59
+msgid "Kapazitätsmanagement, DATEV-Export und Check-in"
+msgstr "Gestione capienza, esportazione DATEV e check-in"
+
+#: includes/class-admin.php:66
+msgid "Events"
+msgstr "Eventi"
+
+#: includes/class-admin.php:70
+msgid "Bestätigte Gäste"
+msgstr "Ospiti confermati"
+
+#: includes/class-admin.php:74
+msgid "Ausstehende DOI"
+msgstr "DOI in attesa"
+
+#: includes/class-admin.php:80
+msgid "Mission Control öffnen"
+msgstr "Apri centro di controllo"
+
+#: includes/class-admin.php:119 includes/class-admin.php:144
+msgid "DSGVO-Einverständnis erforderlich"
+msgstr "Consenso GDPR richiesto"
+
+#: includes/class-admin.php:120
+msgid ""
+"Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 "
+"Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten "
+"vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung "
+"datenschutzkonform löschen."
+msgstr ""
+"Questa esportazione contiene dati personali protetti ai sensi dell’art. 4, "
+"n. 1, del GDPR. Prima del download devi confermare che tratterai i dati con "
+"riservatezza, esclusivamente per la finalità prevista, e che li cancellerai "
+"nel rispetto della normativa sulla protezione dei dati al termine "
+"dell’evento."
+
+#: includes/class-admin.php:121
+msgid "Zurück zum Buchungsmanagement"
+msgstr "Torna alla gestione prenotazioni"
+
+#: includes/class-admin.php:122 includes/class-admin.php:147
+msgid "DSGVO-Schutz"
+msgstr "Protezione GDPR"
+
+#: includes/class-admin.php:145
+msgid ""
+"Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass "
+"die Daten vertraulich und nur für die Buchhaltung verwendet werden."
+msgstr ""
+"L’esportazione dei dati finanziari e dei debitori richiede la conferma che i "
+"dati saranno trattati in modo riservato e utilizzati esclusivamente per la "
+"contabilità."
+
+#: includes/class-admin.php:146 includes/class-admin.php:163
+msgid "Zurück zum DATEV Studio"
+msgstr "Torna a DATEV Studio"
+
+#: includes/class-admin.php:164 includes/class-admin.php:1023
+msgid "DATEV-Export"
+msgstr "Esportazione DATEV"
+
+#: includes/class-admin.php:291 includes/class-admin.php:397
+#: includes/class-admin.php:426 includes/class-admin.php:466
+#: includes/class-admin.php:774 includes/class-admin.php:1308
+#: includes/class-admin.php:1758 includes/class-admin.php:1888
+#: includes/class-admin.php:1957 includes/class-admin.php:2073
+#: includes/class-admin.php:2539
+msgid "Unzureichende Berechtigungen."
+msgstr "Permessi insufficienti."
+
+#: includes/class-admin.php:574 includes/class-admin.php:575
+msgid "Cyber Events"
+msgstr "Cyber Events"
+
+#: includes/class-admin.php:586 includes/class-admin.php:748
+msgid "Dashboard & KPIs"
+msgstr "Bacheca e KPI"
+
+#: includes/class-admin.php:587 wm-cyber-events-core.php:353
+msgid "Dashboard"
+msgstr "Bacheca"
+
+#: includes/class-admin.php:596 includes/class-admin.php:1014
+#: includes/class-calendar-views.php:459 includes/class-calendar-views.php:460
+#: includes/class-events-manager.php:30
+msgid "Alle Veranstaltungen"
+msgstr "Tutti gli eventi"
+
+#: includes/class-admin.php:597 includes/class-admin.php:895
+#: blocks/editor.js:927
+msgid "Veranstaltungen"
+msgstr "Eventi"
+
+#: includes/class-admin.php:605 includes/class-events-manager.php:26
+msgid "Neue Veranstaltung erstellen"
+msgstr "Crea nuovo evento"
+
+#: includes/class-admin.php:606 includes/class-events-manager.php:27
+msgid "Neue Veranstaltung"
+msgstr "Nuovo evento"
+
+#: includes/class-admin.php:614
+msgid "Veranstaltungsorte & Tagungsstätten"
+msgstr "Sedi e centri congressi"
+
+#: includes/class-admin.php:615 includes/class-calendar-views.php:842
+#: includes/class-venues-manager.php:38
+msgid "Veranstaltungsorte"
+msgstr "Sedi"
+
+#: includes/class-admin.php:623 includes/class-admin.php:624
+msgid "Sessions & Agenda"
+msgstr "Sessioni e agenda"
+
+#: includes/class-admin.php:632 includes/class-sessions-manager.php:25
+msgid "Neue Session erstellen"
+msgstr "Crea nuova sessione"
+
+#: includes/class-admin.php:633
+msgid "Neue Session"
+msgstr "Nuova sessione"
+
+#: includes/class-admin.php:640 includes/class-admin.php:647
+#: includes/class-admin.php:749
+msgid "Teilnehmer & Buchungen"
+msgstr "Partecipanti e prenotazioni"
+
+#: includes/class-admin.php:657 includes/class-admin.php:750
+msgid "CSV-Import & Onboarding"
+msgstr "Importazione CSV e onboarding"
+
+#: includes/class-admin.php:658
+msgid "CSV-Import"
+msgstr "Importazione CSV"
+
+#: includes/class-admin.php:667
+msgid "Finanzen & DATEV-Export"
+msgstr "Finanze ed esportazione DATEV"
+
+#: includes/class-admin.php:668 includes/class-admin.php:751
+msgid "Finanzen & DATEV"
+msgstr "Finanze e DATEV"
+
+#: includes/class-admin.php:677 includes/class-admin.php:678
+#: includes/class-admin.php:752 includes/class-admin.php:1173
+#: blocks/editor.js:831
+msgid "Audit-Log"
+msgstr "Registro di audit"
+
+#: includes/class-admin.php:687
+msgid "Einstellungen & Theme Studio"
+msgstr "Impostazioni e Theme Studio"
+
+#: includes/class-admin.php:688 includes/class-admin.php:921
+msgid "Einstellungen"
+msgstr "Impostazioni"
+
+#: includes/class-admin.php:697
+msgid "Handbuch & Dokumentation"
+msgstr "Manuale e documentazione"
+
+#: includes/class-admin.php:698 includes/class-admin.php:925
+#: includes/class-admin.php:2549 wm-cyber-events-core.php:354
+msgid "Handbuch"
+msgstr "Manuale"
+
+#: includes/class-admin.php:713
+msgid "Events & Konferenzen"
+msgstr "Eventi e conferenze"
+
+#: includes/class-admin.php:714
+msgid "Fähigkeiten für Event- und Konferenzmanagement."
+msgstr "Permessi per la gestione di eventi e conferenze."
+
+#: includes/class-admin.php:728
+msgid "Teilnehmer verwalten"
+msgstr "Gestisci partecipanti"
+
+#: includes/class-admin.php:729
+msgid ""
+"Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne "
+"WordPress-Vollzugriff."
+msgstr ""
+"Consente di consultare ed esportare le iscrizioni agli eventi senza accesso "
+"completo come amministratore di WordPress."
+
+#: includes/class-admin.php:753
+msgid "Einstellungen & Theme"
+msgstr "Impostazioni e tema"
+
+#: includes/class-admin.php:754
+msgid "Handbuch & Doku"
+msgstr "Manuale e doc"
+
+#: includes/class-admin.php:757
+msgid "Plugin-Navigation"
+msgstr "Navigazione del plugin"
+
+#: includes/class-admin.php:778
+msgid "Veranstaltung erfolgreich gespeichert!"
+msgstr "Evento salvato correttamente!"
+
+#: includes/class-admin.php:778
+msgid ""
+"Die Daten wurden synchron in der Datenbank und im WordPress-System "
+"aktualisiert."
+msgstr ""
+"I dati sono stati aggiornati in modo sincrono nel database e in WordPress."
+
+#: includes/class-admin.php:781
+msgid "Veranstaltung gelöscht!"
+msgstr "Evento eliminato!"
+
+#: includes/class-admin.php:781
+msgid ""
+"Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben."
+msgstr "Il record è stato rimosso e l’articolo è stato spostato nel cestino."
+
+#: includes/class-admin.php:786
+msgid "Demodaten angelegt."
+msgstr "Dati demo creati."
+
+#: includes/class-admin.php:786
+msgid ""
+"Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; "
+"Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind."
+msgstr ""
+"Sono stati creati un evento di esempio, sessioni e partecipanti "
+"dimostrativi; le fatture vengono generate solo se i dati dell’emittente sono "
+"configurati."
+
+#: includes/class-admin.php:866
+msgid "CyberEvents Command Console"
+msgstr "Console di comando CyberEvents"
+
+#: includes/class-admin.php:867
+msgid "Enterprise 2026"
+msgstr "Enterprise 2026"
+
+#: includes/class-admin.php:869
+msgid ""
+"Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, "
+"Check-in, Rechnungs-XML und DATEV-Export."
+msgstr ""
+"Eventi, sessioni e iscrizioni con double opt-in tramite Brevo, check-in, XML "
+"fattura ed esportazione DATEV."
+
+#: includes/class-admin.php:872 includes/class-admin.php:1379
+#: includes/class-admin.php:1813 includes/class-admin.php:1902
+#: includes/class-admin.php:1976 includes/class-admin.php:2188
+#: includes/class-admin.php:2556
+msgid "Part of the WM Suite plugin family"
+msgstr "Parte della famiglia di plugin WM Suite"
+
+#: includes/class-admin.php:874 includes/class-admin.php:1381
+#: includes/class-admin.php:1815 includes/class-admin.php:1904
+#: includes/class-admin.php:1978 includes/class-admin.php:2190
+#: includes/class-admin.php:2558
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/class-admin.php:875 includes/class-admin.php:1382
+#: includes/class-admin.php:1816 includes/class-admin.php:1905
+#: includes/class-admin.php:1979 includes/class-admin.php:2191
+#: includes/class-admin.php:2559
+msgid "Hub"
+msgstr "Modalità Hub"
+
+#: includes/class-admin.php:875 includes/class-admin.php:1382
+#: includes/class-admin.php:1816 includes/class-admin.php:1905
+#: includes/class-admin.php:1979 includes/class-admin.php:2191
+#: includes/class-admin.php:2559
+msgid "Standalone"
+msgstr "Autonomo"
+
+#: includes/class-admin.php:881
+msgid "Demo-Daten auffrischen"
+msgstr "Aggiorna dati demo"
+
+#: includes/class-admin.php:892
+msgid "Springen zu:"
+msgstr "Vai a:"
+
+#: includes/class-admin.php:893
+msgid "Kurzanleitung"
+msgstr "Guida rapida"
+
+#: includes/class-admin.php:894
+msgid "Kennzahlen"
+msgstr "Metriche"
+
+#: includes/class-admin.php:896 includes/class-admin.php:1124
+msgid "Rechnungen"
+msgstr "Fatture"
+
+#: includes/class-admin.php:897 includes/class-admin.php:1026
+#: includes/class-admin.php:1195 includes/class-admin.php:1971
+msgid "Audit-Protokoll"
+msgstr "Registro di audit"
+
+#: includes/class-admin.php:904
+msgid "Was macht CyberEvents, und was finden Sie hier?"
+msgstr "Cosa fa CyberEvents e cosa trovi in questa schermata?"
+
+#: includes/class-admin.php:907
+msgid ""
+"Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. "
+"Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den "
+"Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze "
+"nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. "
+"Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-"
+"Buchungsstapel exportieren."
+msgstr ""
+"Il plugin gestisce eventi con sessioni e iscrizioni. I partecipanti "
+"confermano la propria iscrizione tramite un link double opt-in inviato da "
+"Brevo (richiede chiave API), scelgono poi le sessioni senza rischio di "
+"overbooking ed effettuano il check-in all’ingresso tramite il loro token. Le "
+"fatture vengono generate in formato XML CII (EN 16931) e possono essere "
+"esportate come lotto contabile DATEV."
+
+#: includes/class-admin.php:910
+msgid "Schnellzugriff:"
+msgstr "Accesso rapido:"
+
+#: includes/class-admin.php:913
+msgid "Teilnehmer und Anmeldungen"
+msgstr "Partecipanti e iscrizioni"
+
+#: includes/class-admin.php:917
+msgid "Rechnungen als DATEV-Stapel exportieren"
+msgstr "Esporta fatture come lotto DATEV"
+
+#: includes/class-admin.php:935
+msgid "Event Auslastung"
+msgstr "Occupazione eventi"
+
+#: includes/class-admin.php:937
+msgid "Kritisch"
+msgstr "Critico"
+
+#: includes/class-admin.php:937
+msgid "Optimal"
+msgstr "Ottimale"
+
+#: includes/class-admin.php:952
+msgid "Max. Kapazität:"
+msgstr "Capienza max.:"
+
+#: includes/class-admin.php:953
+msgid "Gebucht:"
+msgstr "Prenotati:"
+
+#: includes/class-admin.php:960
+msgid "Live Check-In Counter"
+msgstr "Contatore check-in in tempo reale"
+
+#: includes/class-admin.php:961
+msgid "Anwesend"
+msgstr "Presenti"
+
+#: includes/class-admin.php:967
+msgid "Registriert:"
+msgstr "Registrati:"
+
+#: includes/class-admin.php:968 includes/class-admin.php:984
+msgid "Eingecheckt:"
+msgstr "Accreditati:"
+
+#: includes/class-admin.php:969 includes/class-admin.php:999
+msgid "Wartend:"
+msgstr "In attesa:"
+
+#: includes/class-admin.php:976
+msgid "Neue Anmeldungen (24 h)"
+msgstr "Nuove iscrizioni (24 h)"
+
+#: includes/class-admin.php:977 includes/class-admin.php:1052
+#: includes/class-admin.php:1420
+msgid "Sessions"
+msgstr "Sessioni"
+
+#: includes/class-admin.php:980
+msgid "in 24 h"
+msgstr "in 24 h"
+
+#: includes/class-admin.php:983
+msgid "Ausstehende DOI:"
+msgstr "DOI in attesa:"
+
+#: includes/class-admin.php:991
+msgid "Brevo CRM Queue Telemetrie"
+msgstr "Telemetria coda CRM Brevo"
+
+#: includes/class-admin.php:992
+msgid "Jobs"
+msgstr "Job"
+
+#: includes/class-admin.php:995
+msgid "Verarbeitung"
+msgstr "Elaborazione"
+
+#: includes/class-admin.php:998
+msgid "Verarbeitet:"
+msgstr "Elaborati:"
+
+#: includes/class-admin.php:1007
+msgid "Schnellaktionen"
+msgstr "Azioni rapide"
+
+#: includes/class-admin.php:1011
+msgid "Neue Konferenz anlegen"
+msgstr "Crea nuova conferenza"
+
+#: includes/class-admin.php:1017
+msgid "Teilnehmerliste & Check-in"
+msgstr "Elenco partecipanti e check-in"
+
+#: includes/class-admin.php:1020
+msgid "CSV-Batch Import"
+msgstr "Importazione CSV massiva"
+
+#: includes/class-admin.php:1035
+msgid "Veranstaltungsübersicht & Auslastungs-Monitoring"
+msgstr "Panoramica eventi e monitoraggio occupazione"
+
+#: includes/class-admin.php:1036
+msgid ""
+"Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen "
+"Kapazität."
+msgstr "Iscrizioni confermate per evento rispetto alla capienza configurata."
+
+#: includes/class-admin.php:1039
+msgid "Event suchen..."
+msgstr "Cerca evento..."
+
+#: includes/class-admin.php:1041
+msgid "Neue Konferenz"
+msgstr "Nuova conferenza"
+
+#: includes/class-admin.php:1049
+msgid "Konferenz / Event"
+msgstr "Conferenza / evento"
+
+#: includes/class-admin.php:1050 includes/class-events-manager.php:182
+msgid "Zeitraum"
+msgstr "Periodo"
+
+#: includes/class-admin.php:1051 includes/class-admin.php:2377
+msgid "Ort"
+msgstr "Luogo"
+
+#: includes/class-admin.php:1053 includes/class-events-manager.php:184
+msgid "Kapazität & Belegung"
+msgstr "Capienza e occupazione"
+
+#: includes/class-admin.php:1054 includes/class-admin.php:1418
+#: includes/class-blocks-manager.php:780 includes/class-gdpr-manager.php:381
+msgid "Status"
+msgstr "Stato"
+
+#: includes/class-admin.php:1055 includes/class-admin.php:1423
+msgid "Aktionen"
+msgstr "Azioni"
+
+#: includes/class-admin.php:1060 includes/class-calendar-views.php:387
+#: includes/class-calendar-views.php:684 includes/class-calendar-views.php:735
+#: includes/class-events-manager.php:32
+msgid "Keine Veranstaltungen gefunden."
+msgstr "Nessun evento trovato."
+
+#: includes/class-admin.php:1071
+msgid "Im Gutenberg Block-Editor bearbeiten"
+msgstr "Modifica nell’editor a blocchi Gutenberg"
+
+#: includes/class-admin.php:1075 includes/class-admin.php:1464
+#: includes/class-admin.php:1525
+msgid "Bearbeiten"
+msgstr "Modifica"
+
+#: includes/class-admin.php:1076
+msgid "Schnellbearbeitung"
+msgstr "Modifica rapida"
+
+#: includes/class-admin.php:1077
+msgid "Vorschau"
+msgstr "Anteprima"
+
+#. translators: %d: Total attendee count
+#. translators: %d: Confirmed attendee count
+#: includes/class-admin.php:1078 includes/class-events-manager.php:253
+#, php-format
+msgid "Teilnehmer (%d)"
+msgstr "Partecipanti (%d)"
+
+#. translators: %d: Total attendee count
+#: includes/class-admin.php:1079
+msgid "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?"
+msgstr "Vuoi davvero eliminare definitivamente questo evento?"
+
+#. translators: %d: Total attendee count
+#: includes/class-admin.php:1079 includes/class-admin.php:1469
+#: includes/class-admin.php:1529
+msgid "Löschen"
+msgstr "Elimina"
+
+#. translators: %d: number of sessions
+#: includes/class-admin.php:1086
+#, php-format
+msgid "%d Sessions"
+msgstr "%d sessioni"
+
+#. translators: %d: capacity
+#: includes/class-admin.php:1092
+#, php-format
+msgid "/ %d Plätze"
+msgstr "/ %d posti"
+
+#. translators: %d: capacity
+#: includes/class-admin.php:1092
+msgid "(ohne Kapazitätsgrenze)"
+msgstr "(senza limite di capienza)"
+
+#: includes/class-admin.php:1107
+msgid "Im Gutenberg Editor bearbeiten"
+msgstr "Modifica nell’editor Gutenberg"
+
+#: includes/class-admin.php:1107
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/class-admin.php:1108
+msgid "Schnellbearbeitung öffnen"
+msgstr "Apri modifica rapida"
+
+#: includes/class-admin.php:1108
+msgid "Quick"
+msgstr "Rapida"
+
+#: includes/class-admin.php:1109
+msgid "Frontend-Seite anzeigen"
+msgstr "Visualizza pagina pubblica"
+
+#: includes/class-admin.php:1125
+msgid "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen."
+msgstr "Fatture valide e annullate nonché iscrizioni non confermate."
+
+#: includes/class-admin.php:1140
+msgid "Brutto, gültige Rechnungen"
+msgstr "Lordo, fatture valide"
+
+#: includes/class-admin.php:1146
+msgid "Gültige Rechnungen"
+msgstr "Fatture valide"
+
+#: includes/class-admin.php:1150 includes/class-admin.php:1403
+msgid "Storniert"
+msgstr "Annullate"
+
+#: includes/class-admin.php:1154
+msgid "Unbestätigte Anmeldungen"
+msgstr "Iscrizioni non confermate"
+
+#: includes/class-admin.php:1162
+msgid "DATEV-Export & Audit-Log"
+msgstr "Esportazione DATEV e registro di audit"
+
+#: includes/class-admin.php:1163
+msgid ""
+"Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und "
+"Steuerschlüssel mit der Steuerberatung abstimmen."
+msgstr ""
+"Lotto contabile di fatture e note di credito di un periodo; coordina conti e "
+"codici fiscali con il tuo consulente fiscale."
+
+#: includes/class-admin.php:1168
+msgid "DATEV Format"
+msgstr "Formato DATEV"
+
+#: includes/class-admin.php:1169
+msgid "Kategorie 21 (v13)"
+msgstr "Categoria 21 (v13)"
+
+#: includes/class-admin.php:1170
+msgid "Windows-1252"
+msgstr "Windows-1252"
+
+#: includes/class-admin.php:1174
+msgid "HMAC-SHA256-Kette"
+msgstr "Catena HMAC-SHA256"
+
+#: includes/class-admin.php:1175
+msgid "Pseudonymisierung nach 90 Tagen"
+msgstr "Pseudonimizzazione dopo 90 giorni"
+
+#: includes/class-admin.php:1181
+msgid "DATEV Export Studio öffnen"
+msgstr "Apri DATEV Export Studio"
+
+#: includes/class-admin.php:1184
+msgid "Audit-Protokoll einsehen"
+msgstr "Consulta registro di audit"
+
+#: includes/class-admin.php:1196
+msgid ""
+"Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger "
+"mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen "
+"auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-"
+"config.php liest, hält den Schlüssel."
+msgstr ""
+"Registro di audit concatenato in modo continuo: ogni voce controfirma la "
+"precedente affinché modifiche, cancellazioni o inserimenti successivi siano "
+"rilevabili. Prova di manomissione, non immutabilità: chi legge wp-config.php "
+"detiene la chiave."
+
+#: includes/class-admin.php:1199
+msgid "Vollständiges Audit-Log öffnen"
+msgstr "Apri registro di audit completo"
+
+#: includes/class-admin.php:1206
+msgid "Zeitstempel"
+msgstr "Marca temporale"
+
+#: includes/class-admin.php:1207
+msgid "Ereignis-Typ"
+msgstr "Tipo di evento"
+
+#: includes/class-admin.php:1208
+msgid "Benutzer / System"
+msgstr "Utente / sistema"
+
+#: includes/class-admin.php:1209
+msgid "Objekt-ID"
+msgstr "ID oggetto"
+
+#: includes/class-admin.php:1210
+msgid "Audit-Details & Nachweis"
+msgstr "Dettagli di audit e prova"
+
+#: includes/class-admin.php:1215
+msgid "Bislang keine Audit-Einträge protokolliert."
+msgstr "Nessuna voce di audit registrata finora."
+
+#: includes/class-admin.php:1236
+msgid "Veranstaltung bearbeiten / Schnellkonfiguration"
+msgstr "Modifica evento / configurazione rapida"
+
+#: includes/class-admin.php:1237 includes/class-admin.php:1544
+#: includes/class-admin.php:1652 includes/class-admin.php:1695
+msgid "Schließen"
+msgstr "Chiudi"
+
+#: includes/class-admin.php:1246
+msgid "Titel der Konferenz / Veranstaltung:"
+msgstr "Titolo della conferenza / dell’evento:"
+
+#: includes/class-admin.php:1250
+msgid "URL-Slug:"
+msgstr "Slug URL:"
+
+#: includes/class-admin.php:1254
+msgid "Tagungsort / Location:"
+msgstr "Sede / posizione:"
+
+#: includes/class-admin.php:1258
+msgid "Beginn (Datum & Zeit):"
+msgstr "Inizio (data e ora):"
+
+#: includes/class-admin.php:1262
+msgid "Ende (Datum & Zeit):"
+msgstr "Fine (data e ora):"
+
+#: includes/class-admin.php:1266 includes/class-events-manager.php:129
+msgid "Max. Teilnehmerkapazität:"
+msgstr "Capienza max. partecipanti:"
+
+#: includes/class-admin.php:1270 includes/class-events-manager.php:134
+msgid "Ticketpreis (Netto in €):"
+msgstr "Prezzo biglietto (netto in €):"
+
+#: includes/class-admin.php:1274
+msgid "Status:"
+msgstr "Stato:"
+
+#: includes/class-admin.php:1276
+msgid "Aktiv (Veröffentlicht)"
+msgstr "Attivo (pubblicato)"
+
+#: includes/class-admin.php:1277
+msgid "Entwurf (Draft)"
+msgstr "Bozza"
+
+#: includes/class-admin.php:1278
+msgid "Archiviert"
+msgstr "Archiviato"
+
+#: includes/class-admin.php:1284
+msgid "Kostenpflichtig"
+msgstr "A pagamento"
+
+#: includes/class-admin.php:1290
+msgid "Im Gutenberg Block-Editor öffnen"
+msgstr "Apri nell’editor a blocchi Gutenberg"
+
+#: includes/class-admin.php:1292 includes/class-admin.php:1635
+#: includes/class-admin.php:1680
+msgid "Abbrechen"
+msgstr "Annulla"
+
+#: includes/class-admin.php:1293 includes/class-admin.php:1636
+msgid "Änderungen speichern"
+msgstr "Salva modifiche"
+
+#: includes/class-admin.php:1312
+msgid "Teilnehmerdaten erfolgreich aktualisiert!"
+msgstr "Dati del partecipante aggiornati correttamente!"
+
+#: includes/class-admin.php:1312
+msgid ""
+"Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert."
+msgstr "I dati di iscrizione e lo stato sono stati salvati nel database."
+
+#: includes/class-admin.php:1315
+msgid "Teilnehmer gelöscht!"
+msgstr "Partecipante eliminato!"
+
+#: includes/class-admin.php:1315
+msgid ""
+"Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt."
+msgstr ""
+"L’iscrizione e tutte le prenotazioni di sessioni associate sono state "
+"rimosse."
+
+#: includes/class-admin.php:1318
+msgid "Check-In Status aktualisiert!"
+msgstr "Stato del check-in aggiornato!"
+
+#: includes/class-admin.php:1318
+msgid "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet."
+msgstr "Lo stato di presenza del partecipante è stato commutato."
+
+#: includes/class-admin.php:1321
+msgid "Double Opt-In bestätigt!"
+msgstr "Double opt-in confermato!"
+
+#: includes/class-admin.php:1321
+msgid "Die Registrierung wurde manuell als bestätigt markiert."
+msgstr "L’iscrizione è stata contrassegnata manualmente come confermata."
+
+#: includes/class-admin.php:1369
+msgid "Teilnehmer & Buchungsmanagement"
+msgstr "Gestione partecipanti e prenotazioni"
+
+#: includes/class-admin.php:1371
+msgid ""
+"Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen."
+msgstr ""
+"Tutte le iscrizioni con stato double opt-in, prenotazioni sessioni e fatture."
+
+#: includes/class-admin.php:1375
+msgid "Namensschilder / Teilnehmerliste (CSV)"
+msgstr "Badge nominativi / elenco partecipanti (CSV)"
+
+#. translators: 1: Event title, 2: Event ID
+#: includes/class-admin.php:1392
+#, php-format
+msgid "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)"
+msgstr "Filtrato per conferenza: \"%1$s\" (#%2$d)"
+
+#. translators: 1: Event title, 2: Event ID
+#: includes/class-admin.php:1393
+msgid "Filter aufheben"
+msgstr "Rimuovi filtro"
+
+#: includes/class-admin.php:1400
+msgid "Alle Teilnehmer"
+msgstr "Tutti i partecipanti"
+
+#: includes/class-admin.php:1401 includes/class-blocks-manager.php:781
+msgid "Bestätigt"
+msgstr "Confermato"
+
+#: includes/class-admin.php:1402
+msgid "Ausstehend DOI"
+msgstr "DOI in attesa"
+
+#: includes/class-admin.php:1407
+msgid "Name, E-Mail oder Firma suchen..."
+msgstr "Cerca nome, email o azienda..."
+
+#: includes/class-admin.php:1416
+msgid "Teilnehmer"
+msgstr "Partecipante"
+
+#: includes/class-admin.php:1417
+msgid "Organisation / Firma"
+msgstr "Organizzazione / azienda"
+
+#: includes/class-admin.php:1419
+msgid "Check-In"
+msgstr "Check-in"
+
+#: includes/class-admin.php:1421
+msgid "Rechnung"
+msgstr "Fattura"
+
+#: includes/class-admin.php:1422 includes/class-gdpr-manager.php:394
+msgid "Anmeldedatum"
+msgstr "Data di iscrizione"
+
+#: includes/class-admin.php:1428
+msgid "Keine Registrierungen vorhanden."
+msgstr "Nessuna iscrizione presente."
+
+#: includes/class-admin.php:1459
+msgid "Teilnehmerdaten bearbeiten"
+msgstr "Modifica dati partecipante"
+
+#: includes/class-admin.php:1465 includes/class-admin.php:1528
+msgid "Auschecken"
+msgstr "Annulla check-in"
+
+#: includes/class-admin.php:1465 includes/class-admin.php:1528
+msgid "Einchecken"
+msgstr "Effettua check-in"
+
+#: includes/class-admin.php:1467
+msgid "DOI bestätigen"
+msgstr "Conferma DOI"
+
+#: includes/class-admin.php:1469
+msgid "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?"
+msgstr "Vuoi davvero eliminare definitivamente questo partecipante?"
+
+#: includes/class-admin.php:1488
+msgid "Status umschalten"
+msgstr "Cambia stato"
+
+#: includes/class-admin.php:1491 includes/class-blocks-manager.php:781
+msgid "Eingecheckt"
+msgstr "Accreditato"
+
+#: includes/class-admin.php:1495
+msgid "Nicht vor Ort"
+msgstr "Non in sede"
+
+#: includes/class-admin.php:1514 includes/class-admin.php:2517
+#: blocks/editor.js:832
+msgid "Rechnungs-XML"
+msgstr "XML fattura"
+
+#: includes/class-admin.php:1519
+msgid "Kostenfrei / Keine"
+msgstr "Gratuito / nessuna"
+
+#: includes/class-admin.php:1526
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/class-admin.php:1529
+msgid "Möchten Sie diesen Teilnehmer wirklich löschen?"
+msgstr "Vuoi davvero eliminare questo partecipante?"
+
+#: includes/class-admin.php:1543
+msgid "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung"
+msgstr "Modifica dati partecipante / gestione partecipanti"
+
+#: includes/class-admin.php:1558
+msgid "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):"
+msgstr "Foto profilo / fototessera badge (JPG, PNG, WebP · max. 5 MB):"
+
+#: includes/class-admin.php:1563
+msgid "Foto entfernen"
+msgstr "Rimuovi foto"
+
+#: includes/class-admin.php:1568
+msgid "Vorname:"
+msgstr "Nome:"
+
+#: includes/class-admin.php:1572
+msgid "Nachname:"
+msgstr "Cognome:"
+
+#: includes/class-admin.php:1576
+msgid "E-Mail-Adresse:"
+msgstr "Indirizzo email:"
+
+#: includes/class-admin.php:1580
+msgid "Organisation / Firma / Behörde:"
+msgstr "Organizzazione / azienda / ente:"
+
+#: includes/class-admin.php:1584
+msgid "Zugewiesene Konferenz:"
+msgstr "Conferenza assegnata:"
+
+#: includes/class-admin.php:1594
+msgid "Anmeldestatus:"
+msgstr "Stato dell’iscrizione:"
+
+#: includes/class-admin.php:1596
+msgid "Bestätigt (Confirmed)"
+msgstr "Confermato"
+
+#: includes/class-admin.php:1597
+msgid "Ausstehend (Pending DOI)"
+msgstr "In attesa (DOI)"
+
+#: includes/class-admin.php:1598
+msgid "Storniert (Cancelled)"
+msgstr "Annullato"
+
+#: includes/class-admin.php:1599
+msgid "Unzustellbar (Bounced)"
+msgstr "Non recapitabile (respinto)"
+
+#: includes/class-admin.php:1603
+msgid "Check-In Status (Vor Ort):"
+msgstr "Stato check-in (in sede):"
+
+#: includes/class-admin.php:1605
+msgid "Nein / Nicht vor Ort"
+msgstr "No / non in sede"
+
+#: includes/class-admin.php:1606
+msgid "Ja / Eingecheckt"
+msgstr "Sì / accreditato"
+
+#: includes/class-admin.php:1610
+msgid "Rechnungsnummer:"
+msgstr "Numero fattura:"
+
+#: includes/class-admin.php:1614
+msgid "Zahlungsstatus:"
+msgstr "Stato del pagamento:"
+
+#: includes/class-admin.php:1616
+msgid "Kostenfrei (Free)"
+msgstr "Gratuito"
+
+#: includes/class-admin.php:1617
+msgid "Ausstehend (Pending)"
+msgstr "In attesa"
+
+#: includes/class-admin.php:1618
+msgid "Bezahlt (Paid)"
+msgstr "Pagato"
+
+#: includes/class-admin.php:1619
+msgid "Erstattet (Refunded)"
+msgstr "Rimborsato"
+
+#: includes/class-admin.php:1625
+msgid "DSGVO-Datenschutz zugestimmt"
+msgstr "Consenso privacy GDPR concesso"
+
+#: includes/class-admin.php:1629
+msgid "Foto- & Videoaufnahmen zugestimmt"
+msgstr "Consenso foto e video concesso"
+
+#: includes/class-admin.php:1651
+msgid "DSGVO-Datenschutz & Export-Einverständnis"
+msgstr "Privacy GDPR e consenso all’esportazione"
+
+#: includes/class-admin.php:1659
+msgid "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)"
+msgstr "Protezione dei dati personali (artt. 4 e 5 GDPR)"
+
+#: includes/class-admin.php:1661
+msgid ""
+"Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen "
+"Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, "
+"Rechnungsreferenzen und Check-In-Status)."
+msgstr ""
+"Questa esportazione genera un file CSV contenente dati personali sensibili "
+"dei partecipanti (nomi completi, aziende, indirizzi email aziendali, "
+"riferimenti fatture e stato del check-in)."
+
+#: includes/class-admin.php:1663
+msgid "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):"
+msgstr "Limitazione della finalità (art. 5, par. 1, lett. b, GDPR):"
+
+#: includes/class-admin.php:1663
+msgid ""
+"Die Daten dürfen ausschließlich zur operativen Durchführung der "
+"Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt "
+"werden."
+msgstr ""
+"I dati possono essere utilizzati esclusivamente per lo svolgimento operativo "
+"dell’evento (ad es. stampa dei badge e accreditamento all’ingresso)."
+
+#: includes/class-admin.php:1664
+msgid "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):"
+msgstr "Riservatezza e protezione (art. 5, par. 1, lett. f, GDPR):"
+
+#: includes/class-admin.php:1664
+msgid ""
+"Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten "
+"Mobilgeräten ist untersagt."
+msgstr ""
+"È vietata la comunicazione a terzi non autorizzati o l’archiviazione su "
+"dispositivi mobili non crittografati."
+
+#: includes/class-admin.php:1665
+msgid "Löschpflicht (Art. 17 DSGVO):"
+msgstr "Obbligo di cancellazione (art. 17 GDPR):"
+
+#: includes/class-admin.php:1665
+msgid ""
+"Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich "
+"und datenschutzkonform zu löschen."
+msgstr ""
+"Al termine della conferenza il file locale esportato deve essere cancellato "
+"tempestivamente nel rispetto delle norme sulla protezione dei dati."
+
+#: includes/class-admin.php:1672
+msgid "Ich bestätige das DSGVO-Einverständnis:"
+msgstr "Confermo il consenso GDPR:"
+
+#: includes/class-admin.php:1673
+msgid ""
+"Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene "
+"Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen "
+"Verarbeitung und zur strikten Einhaltung der gesetzlichen "
+"Datenschutzanforderungen."
+msgstr ""
+"Prendo atto che questa esportazione contiene dati personali riservati. Mi "
+"impegno a trattarli con cura esclusivamente per la finalità prevista e nel "
+"rigoroso rispetto degli obblighi di legge in materia di protezione dei dati."
+
+#: includes/class-admin.php:1683
+msgid "CSV-Export jetzt sicher herunterladen"
+msgstr "Scarica ora l’esportazione CSV in modo sicuro"
+
+#: includes/class-admin.php:1694
+msgid "Rechnungs-XML (CII, EN 16931)"
+msgstr "XML fattura (CII, EN 16931)"
+
+#: includes/class-admin.php:1700
+msgid "XML in Zwischenablage kopieren"
+msgstr "Copia XML negli appunti"
+
+#: includes/class-admin.php:1714
+msgid "Keine Berechtigung."
+msgstr "Autorizzazione negata."
+
+#: includes/class-admin.php:1779
+msgid "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig."
+msgstr "Errore di sicurezza: sono ammessi esclusivamente veri file CSV."
+
+#: includes/class-admin.php:1781
+msgid "Die Datei ist zu groß (maximal 5 MB erlaubt)."
+msgstr "Il file è troppo grande (massimo 5 MB consentiti)."
+
+#: includes/class-admin.php:1793
+msgid "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit."
+msgstr "Seleziona un evento e fornisci dati CSV."
+
+#: includes/class-admin.php:1808
+msgid "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)"
+msgstr "Importazione CSV massiva partecipanti (protezione duplicati TF-01)"
+
+#: includes/class-admin.php:1810
+msgid ""
+"Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter "
+"Vermeidung doppelter Registrierungen."
+msgstr ""
+"Importazione automatica di elenchi partecipanti da sistemi esterni con "
+"rigorosa prevenzione delle registrazioni duplicate."
+
+#: includes/class-admin.php:1828
+msgid "Import-Zusammenfassung"
+msgstr "Riepilogo importazione"
+
+#: includes/class-admin.php:1831
+msgid "Gesamtzeilen"
+msgstr "Righe totali"
+
+#: includes/class-admin.php:1835
+msgid "Neu Importiert"
+msgstr "Nuovi importati"
+
+#: includes/class-admin.php:1839
+msgid "Dubletten abgewiesen"
+msgstr "Duplicati rifiutati"
+
+#: includes/class-admin.php:1847
+msgid "Neue Teilnehmerliste importieren"
+msgstr "Importa nuovo elenco partecipanti"
+
+#: includes/class-admin.php:1852
+msgid "Ziel-Veranstaltung *"
+msgstr "Evento di destinazione *"
+
+#: includes/class-admin.php:1855
+msgid "— Veranstaltung auswählen —"
+msgstr "— Seleziona evento —"
+
+#: includes/class-admin.php:1863
+msgid "CSV-Datei auswählen"
+msgstr "Scegli file CSV"
+
+#: includes/class-admin.php:1866
+msgid ""
+"Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)"
+msgstr ""
+"Formato: Nome;Cognome;Email;Azienda (separato da punto e virgola o virgola, "
+"UTF-8)"
+
+#: includes/class-admin.php:1870
+msgid "Oder CSV-Text einfügen"
+msgstr "Oppure incolla testo CSV"
+
+#: includes/class-admin.php:1876
+msgid "CSV-Import jetzt ausführen"
+msgstr "Esegui ora l’importazione CSV"
+
+#: includes/class-admin.php:1897
+msgid "DATEV EXTF Buchungsstapel Studio"
+msgstr "DATEV EXTF Studio lotti contabili"
+
+#: includes/class-admin.php:1899
+msgid ""
+"Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) "
+"für Steuerberater und DATEV Rechnungswesen."
+msgstr ""
+"Esportazione finanziaria standardizzata (categoria 21, versione formato "
+"700 / 125 campi) per consulenti fiscali e contabilità DATEV."
+
+#: includes/class-admin.php:1914
+msgid "Exportzeitraum festlegen"
+msgstr "Seleziona periodo di esportazione"
+
+#: includes/class-admin.php:1917
+msgid "Laufender Monat"
+msgstr "Mese corrente"
+
+#: includes/class-admin.php:1918
+msgid "Vormonat"
+msgstr "Mese precedente"
+
+#: includes/class-admin.php:1919
+msgid "Gesamtes Jahr 2026"
+msgstr "Intero anno 2026"
+
+#: includes/class-admin.php:1926
+msgid "Datum von *"
+msgstr "Data da *"
+
+#: includes/class-admin.php:1930
+msgid "Datum bis *"
+msgstr "Data a *"
+
+#: includes/class-admin.php:1939
+msgid "Bestätigung für den Export von Debitorendaten:"
+msgstr "Conferma per l’esportazione dei dati dei debitori:"
+
+#: includes/class-admin.php:1940
+msgid ""
+"Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten "
+"personenbezogene Daten enthält und ausschließlich zur gesetzlich "
+"vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte "
+"Steuerkanzlei weitergeleitet wird."
+msgstr ""
+"Confermo che l’esportazione delle registrazioni finanziarie e dei "
+"destinatari delle fatture contiene dati personali e viene trasmessa "
+"esclusivamente allo studio fiscale autorizzato per la contabilità di legge e "
+"gli adempimenti fiscali."
+
+#: includes/class-admin.php:1945
+msgid "DATEV EXTF Buchungsstapel (.csv) herunterladen"
+msgstr "Scarica lotto contabile DATEV EXTF (.csv)"
+
+#: includes/class-admin.php:1973
+msgid ""
+"Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, "
+"Stornierungen und IDOR-Abwehrmaßnahmen."
+msgstr ""
+"Traccia di audit concatenata di tutte le operazioni rilevanti per la "
+"sicurezza, conferme double opt-in, annullamenti e controlli di accesso."
+
+#. translators: 1: entries verified by content, 2: pseudonymised entries
+#: includes/class-admin.php:1998
+#, php-format
+msgid ""
+"Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert "
+"(nur Kettenposition prüfbar)."
+msgstr ""
+"Catena di audit integra — %1$d voci verificate nel contenuto, %2$d "
+"pseudonimizzate (posizione nella catena verificata)."
+
+#: includes/class-admin.php:2002
+msgid "Audit-Kette NICHT integer"
+msgstr "Catena di audit NON integra"
+
+#. translators: %d: number of audit entries recorded before the chain existed
+#: includes/class-admin.php:2014
+#, php-format
+msgid ""
+"%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine "
+"prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer."
+msgstr ""
+"%d voce/i risalgono a prima del concatenamento e sono prive di firma "
+"verificabile. Sono considerate non verificate, non integre."
+
+#: includes/class-admin.php:2020
+msgid ""
+"AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — "
+"also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY "
+"in der wp-config.php."
+msgstr ""
+"AUTH_KEY non è definita: la chiave della catena proviene dal database, "
+"ovvero dallo stesso luogo in cui scriverebbe un aggressore. Definisci "
+"AUTH_KEY in wp-config.php."
+
+#: includes/class-admin.php:2028
+msgid "Zeitpunkt"
+msgstr "Data e ora"
+
+#: includes/class-admin.php:2029
+msgid "Ereignistyp"
+msgstr "Tipo di evento"
+
+#: includes/class-admin.php:2030
+msgid "Referenz-ID"
+msgstr "ID di riferimento"
+
+#: includes/class-admin.php:2031
+msgid "IP-Adresse"
+msgstr "Indirizzo IP"
+
+#: includes/class-admin.php:2032
+msgid "Audit-Details (JSON)"
+msgstr "Dettagli di audit (JSON)"
+
+#: includes/class-admin.php:2037
+msgid "Keine Log-Einträge vorhanden."
+msgstr "Nessuna voce di registro trovata."
+
+#. translators: 1: event title, 2: number of sessions, 3: number of registrations
+#: includes/class-admin.php:2080
+#, php-format
+msgid "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt."
+msgstr "Evento \"%1$s\" creato con %2$d sessioni e %3$d partecipanti."
+
+#: includes/class-admin.php:2081
+msgid "Demodaten erfolgreich importiert!"
+msgstr "Dati demo importati correttamente!"
+
+#. translators: 1: events deleted, 2: sessions deleted, 3: registrations deleted, 4: invoices deleted
+#: includes/class-admin.php:2088
+#, php-format
+msgid ""
+"%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden "
+"gelöscht."
+msgstr ""
+"Sono stati eliminati %1$d eventi, %2$d sessioni, %3$d iscrizioni e %4$d "
+"fatture."
+
+#: includes/class-admin.php:2089
+msgid "Demodaten bereinigt!"
+msgstr "Dati demo ripuliti!"
+
+#: includes/class-admin.php:2095
+msgid "Werkseinstellungen wiederhergestellt!"
+msgstr "Impostazioni di fabbrica ripristinate!"
+
+#: includes/class-admin.php:2095
+msgid "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt."
+msgstr "Tutte le tabelle sono state svuotate e le impostazioni ripristinate."
+
+#: includes/class-admin.php:2122
+msgid "Hochgeladene Theme-Datei wurde entfernt."
+msgstr "Il file del tema caricato è stato rimosso."
+
+#: includes/class-admin.php:2168
+msgid "Einstellungen sicher gespeichert."
+msgstr "Impostazioni salvate in modo sicuro."
+
+#: includes/class-admin.php:2183
+msgid "Enterprise Konfiguration & Sicherheit"
+msgstr "Configurazione Enterprise e sicurezza"
+
+#: includes/class-admin.php:2185
+msgid "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten."
+msgstr "Design, Brevo, fatture e DATEV, protezione anti-bot e dati demo."
+
+#: includes/class-admin.php:2204
+msgid "Design & Theme Studio"
+msgstr "Design e Theme Studio"
+
+#: includes/class-admin.php:2205
+msgid "Brevo CRM & Webhooks"
+msgstr "CRM Brevo e webhook"
+
+#: includes/class-admin.php:2206
+msgid "Rechnungen & DATEV"
+msgstr "Fatture e DATEV"
+
+#: includes/class-admin.php:2207 includes/class-admin.php:2417
+msgid "Bot-Schutz (Friendly Captcha)"
+msgstr "Protezione anti-bot (Friendly Captcha)"
+
+#: includes/class-admin.php:2208
+msgid "Demodaten & Reset"
+msgstr "Dati demo e ripristino"
+
+#: includes/class-admin.php:2213
+msgid "Frontend Design-System & Theme-Vererbung"
+msgstr "Sistema di design frontend ed ereditarietà del tema"
+
+#: includes/class-admin.php:2214
+msgid ""
+"Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet "
+"werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und "
+"Buttons vom aktiven WordPress-Theme."
+msgstr ""
+"Scegli lo stile di eventi e moduli di iscrizione nel frontend. Per "
+"impostazione predefinita, il plugin eredita caratteri, colori e pulsanti dal "
+"tema WordPress attivo."
+
+#: includes/class-admin.php:2231
+msgid "Primärfarbe"
+msgstr "Colore primario"
+
+#: includes/class-admin.php:2234
+msgid "Akzentfarbe"
+msgstr "Colore di accento"
+
+#: includes/class-admin.php:2237
+msgid "Kartenhintergrund"
+msgstr "Sfondo schede"
+
+#: includes/class-admin.php:2240
+msgid "Textfarbe"
+msgstr "Colore del testo"
+
+#: includes/class-admin.php:2251
+msgid "Eigene Theme-Farben & Ränder (Custom Theme Customizer)"
+msgstr "Colori e bordi personalizzati del tema (personalizzatore)"
+
+#: includes/class-admin.php:2254
+msgid "Primärfarbe (Buttons & Akzente):"
+msgstr "Colore primario (pulsanti e accenti):"
+
+#: includes/class-admin.php:2258
+msgid "Akzentfarbe (Badges & Glow):"
+msgstr "Colore di accento (badge e bagliore):"
+
+#: includes/class-admin.php:2262
+msgid "Seitenhintergrund:"
+msgstr "Sfondo pagina:"
+
+#: includes/class-admin.php:2266
+msgid "Kartenhintergrund:"
+msgstr "Sfondo schede:"
+
+#: includes/class-admin.php:2270
+msgid "Haupttextfarbe:"
+msgstr "Colore testo principale:"
+
+#: includes/class-admin.php:2274
+msgid "Eckenabrundung (px):"
+msgstr "Raggio degli angoli (px):"
+
+#: includes/class-admin.php:2279
+msgid "Custom CSS-Theme hochladen (.css)"
+msgstr "Carica tema CSS personalizzato (.css)"
+
+#: includes/class-admin.php:2283
+msgid ""
+"Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). "
+"Diese wird isoliert geladen und automatisch validiert."
+msgstr ""
+"Carica un foglio di stile .css personalizzato (ad es. agenzia-tema.css). "
+"Viene caricato in isolamento e convalidato automaticamente."
+
+#: includes/class-admin.php:2287
+msgid "Aktives Custom-Theme vorhanden"
+msgstr "Tema personalizzato attivo presente"
+
+#: includes/class-admin.php:2288
+msgid "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?"
+msgstr "Vuoi davvero eliminare il file del tema CSS caricato?"
+
+#: includes/class-admin.php:2288
+msgid "Theme löschen"
+msgstr "Elimina tema"
+
+#: includes/class-admin.php:2293
+msgid "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)"
+msgstr "CSS personalizzato aggiuntivo (editor inline)"
+
+#: includes/class-admin.php:2294
+msgid ""
+"/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card "
+"{ box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+msgstr ""
+"/* Inserisci qui le regole CSS personalizzate, ad es.: */&#10;.cybevents-"
+"event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+
+#: includes/class-admin.php:2300
+msgid "Brevo API v3 & Webhook-Authentifizierung"
+msgstr "API Brevo v3 e autenticazione webhook"
+
+#: includes/class-admin.php:2303
+msgid "Brevo API Key (v3)"
+msgstr "Chiave API Brevo (v3)"
+
+#: includes/class-admin.php:2306
+msgid ""
+"Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync "
+"genutzt."
+msgstr ""
+"Utilizzata per l’invio asincrono delle email double opt-in e la "
+"sincronizzazione degli attributi dei contatti."
+
+#: includes/class-admin.php:2310
+msgid "Webhook Shared Secret / Signatur-Token"
+msgstr "Segreto condiviso / token di firma webhook"
+
+#: includes/class-admin.php:2313
+msgid ""
+"Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-"
+"Payloads."
+msgstr ""
+"Token resistente ai timing attack utilizzato per convalidare i payload in "
+"entrata dei webhook Brevo."
+
+#: includes/class-admin.php:2317
+msgid "Staff Scanner API Key (Einlass-Kontrolle)"
+msgstr "Chiave API scanner staff (controllo ingressi)"
+
+#: includes/class-admin.php:2320
+msgid ""
+"Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals."
+msgstr ""
+"Token di autenticazione per i dispositivi mobili di scansione utilizzati dal "
+"personale all’ingresso."
+
+#: includes/class-admin.php:2324
+msgid "Warteraum: Zulassungen pro Minute"
+msgstr "Sala d’attesa: ammissioni al minuto"
+
+#: includes/class-admin.php:2329
+msgid ""
+"Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung "
+"durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber "
+"antwortet die Route mit HTTP 503 und Retry-After, bevor eine "
+"Datenbankabfrage läuft — ein Platz ist damit nicht reserviert."
+msgstr ""
+"Richieste di iscrizione e prenotazione sessioni ammesse al minuto e per "
+"evento. 0 disattiva la sala d’attesa (predefinito). Oltre tale soglia, la "
+"rotta risponde con HTTP 503 e Retry-After prima di eseguire query sul "
+"database: nessun posto viene riservato."
+
+#. translators: %s: name of the counter backend in use
+#: includes/class-admin.php:2335
+#, php-format
+msgid "Zähler-Backend dieser Installation: %s."
+msgstr "Backend del contatore su questa installazione: %s."
+
+#: includes/class-admin.php:2336
+msgid "persistenter Objekt-Cache"
+msgstr "cache oggetti persistente"
+
+#: includes/class-admin.php:2336
+msgid "Datenbank (Transients)"
+msgstr "database (transient)"
+
+#: includes/class-admin.php:2346
+msgid "DOI Template ID"
+msgstr "ID modello DOI"
+
+#: includes/class-admin.php:2350
+msgid "Brevo Kontaktliste ID"
+msgstr "ID lista contatti Brevo"
+
+#: includes/class-admin.php:2358
+msgid "Rechnungen (CII-XML) & DATEV"
+msgstr "Fatture (XML CII) e DATEV"
+
+#: includes/class-admin.php:2361
+msgid "Rechnungsnummer-Präfix"
+msgstr "Prefisso numero fattura"
+
+#: includes/class-admin.php:2366
+msgid "Rechnungssteller"
+msgstr "Emittente della fattura"
+
+#. translators: %s: comma-separated list of missing fields
+#: includes/class-admin.php:2369
+#, php-format
+msgid ""
+"Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s."
+msgstr "Senza questi dati non vengono generate fatture né note di credito: %s."
+
+#: includes/class-admin.php:2374
+msgid "Name / Firma"
+msgstr "Nome / ragione sociale"
+
+#: includes/class-admin.php:2375
+msgid "Straße und Hausnummer"
+msgstr "Via e numero civico"
+
+#: includes/class-admin.php:2376
+msgid "PLZ"
+msgstr "CAP"
+
+#: includes/class-admin.php:2378
+msgid "Land (ISO-Code, z. B. DE)"
+msgstr "Paese (codice ISO, ad es. DE)"
+
+#: includes/class-admin.php:2379
+msgid "USt-IdNr."
+msgstr "Partita IVA"
+
+#: includes/class-admin.php:2380
+msgid "Steuernummer (falls keine USt-IdNr.)"
+msgstr "Codice fiscale (in assenza di Partita IVA)"
+
+#: includes/class-admin.php:2381
+msgid "E-Mail für Rechnungen"
+msgstr "Email per la fatturazione"
+
+#: includes/class-admin.php:2382
+msgid "IBAN für Überweisungen (optional)"
+msgstr "IBAN per bonifici bancari (facoltativo)"
+
+#: includes/class-admin.php:2394
+msgid "DATEV"
+msgstr "DATEV"
+
+#: includes/class-admin.php:2397
+msgid "DATEV Beraternummer"
+msgstr "Numero consulente DATEV"
+
+#: includes/class-admin.php:2401
+msgid "DATEV Mandantennummer"
+msgstr "Numero cliente DATEV"
+
+#: includes/class-admin.php:2405
+msgid "Erlöskonto (z.B. 8400 / 4400)"
+msgstr "Conto ricavi (ad es. 8400 / 4400)"
+
+#: includes/class-admin.php:2409
+msgid "Forderungskonto (z.B. 1400 / 1200)"
+msgstr "Conto crediti (ad es. 1400 / 1200)"
+
+#: includes/class-admin.php:2418
+msgid ""
+"Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird "
+"gespeichert, das Formular wird aber ohne Captcha verarbeitet."
+msgstr ""
+"Il plugin non include ancora un widget captcha: l’impostazione viene "
+"salvata, ma il modulo viene elaborato senza captcha."
+
+#: includes/class-admin.php:2421
+msgid "Friendly Captcha aktivieren"
+msgstr "Attiva Friendly Captcha"
+
+#: includes/class-admin.php:2425
+msgid "Sitekey"
+msgstr "Chiave sito (Sitekey)"
+
+#: includes/class-admin.php:2429
+msgid "API Key / Secret"
+msgstr "Chiave API / segreto"
+
+#: includes/class-admin.php:2437
+msgid "Demodaten-Management & Werkseinstellungen (Reset)"
+msgstr "Gestione dati demo e ripristino di fabbrica"
+
+#: includes/class-admin.php:2438
+msgid ""
+"Beispieldaten einspielen, wieder entfernen oder das Plugin auf "
+"Werkseinstellungen zurücksetzen."
+msgstr ""
+"Importa dati di esempio, rimuovili nuovamente o ripristina il plugin alle "
+"impostazioni di fabbrica."
+
+#: includes/class-admin.php:2442
+msgid "1. Demodaten importieren"
+msgstr "1. Importa dati demo"
+
+#: includes/class-admin.php:2445
+msgid ""
+"Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. "
+"Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind."
+msgstr ""
+"Crea una conferenza di esempio con sessioni e partecipanti dimostrativi. Le "
+"fatture vengono generate solo se i dati dell’emittente sono configurati."
+
+#: includes/class-admin.php:2447
+msgid "Möchten Sie Beispieldaten jetzt importieren?"
+msgstr "Vuoi importare ora i dati di esempio?"
+
+#: includes/class-admin.php:2448
+msgid "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)"
+msgstr "Importa dati demo (conferenze, sessioni, partecipanti, fatture)"
+
+#: includes/class-admin.php:2455
+msgid "2. Demodaten bereinigen (Nur Testdaten löschen)"
+msgstr "2. Ripulisci dati demo (elimina solo i dati di test)"
+
+#: includes/class-admin.php:2458
+msgid ""
+"Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-"
+"Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben "
+"vollständig unberührt."
+msgstr ""
+"Elimina esclusivamente conferenze, sessioni, partecipanti e fatture demo "
+"generati. Gli eventi e le prenotazioni reali restano invariati."
+
+#: includes/class-admin.php:2460
+msgid ""
+"Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten."
+msgstr "Vuoi rimuovere tutti i dati demo? I dati reali verranno mantenuti."
+
+#: includes/class-admin.php:2461
+msgid "Demodaten bereinigen (Nur Testdaten)"
+msgstr "Ripulisci dati demo (solo dati di test)"
+
+#: includes/class-admin.php:2467
+msgid "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)"
+msgstr "3. Ripristina impostazioni di fabbrica (Factory Reset)"
+
+#: includes/class-admin.php:2470
+msgid "Achtung (Irreversibel):"
+msgstr "Attenzione (irreversibile):"
+
+#: includes/class-admin.php:2470
+msgid ""
+"Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-"
+"Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche "
+"Einstellungen auf den Auslieferungszustand zurück."
+msgstr ""
+"Svuota tutte le tabelle di eventi, sessioni, iscrizioni, fatture e registro "
+"di audit, elimina tutti i contenuti cybevent e cybsession e ripristina tutte "
+"le impostazioni ai valori predefiniti."
+
+#: includes/class-admin.php:2473
+msgid ""
+"WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, "
+"Rechnungen und setzt die Einstellungen zurück!"
+msgstr ""
+"ATTENZIONE: sei assolutamente sicuro? Questa operazione eliminerà TUTTI gli "
+"eventi, le iscrizioni e le fatture e ripristinerà tutte le impostazioni!"
+
+#: includes/class-admin.php:2474
+msgid ""
+"Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)"
+msgstr ""
+"Ripristino completo di fabbrica (elimina tutto e ripristina predefiniti)"
+
+#: includes/class-admin.php:2480
+msgid "4. Verhalten bei Plugin-Deinstallation"
+msgstr "4. Comportamento alla disinstallazione del plugin"
+
+#: includes/class-admin.php:2486
+msgid "Alle Tabellen und Einstellungen bei Deinstallation löschen"
+msgstr "Elimina tutte le tabelle e le impostazioni alla disinstallazione"
+
+#: includes/class-admin.php:2487
+msgid ""
+"Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und "
+"Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). "
+"Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche "
+"Tabellen endgültig gelöscht werden sollen."
+msgstr ""
+"Per impostazione predefinita, tutti i dati di eventi, iscrizioni, fatture e "
+"audit vengono conservati quando si elimina il plugin (obblighi legali di "
+"conservazione). Attiva questa opzione solo se desideri eliminare "
+"definitivamente tutte le tabelle alla disinstallazione."
+
+#: includes/class-admin.php:2494
+msgid "Alle Einstellungen speichern"
+msgstr "Salva tutte le impostazioni"
+
+#: includes/class-admin.php:2511
+msgid "Platzbuchung"
+msgstr "Prenotazione posti"
+
+#: includes/class-admin.php:2512
+msgid ""
+"Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt "
+"+ 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf "
+"den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung "
+"„ausgebucht“."
+msgstr ""
+"Un posto viene prenotato tramite un’unica istruzione UPDATE condizionale "
+"(belegt = belegt + 1, solo finché belegt < kapazitaet). Di due richieste "
+"simultanee per l’ultimo posto, solo una modifica la riga; l’altra riceve il "
+"messaggio «esaurito»."
+
+#: includes/class-admin.php:2518
+msgid ""
+"Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 "
+"erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF "
+"erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im "
+"Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung."
+msgstr ""
+"Le fatture e le note di credito vengono generate come XML CII secondo il "
+"profilo EN 16931 e verificate nei test con il validatore Mustang. Non viene "
+"generato alcun PDF, pertanto l’XML non è un file ibrido ZUGFeRD. La "
+"conformità delle fatture ai requisiti di legge nel singolo caso è verificata "
+"dal consulente fiscale."
+
+#: includes/class-admin.php:2523
+msgid "DATEV EXTF & Buchhaltung"
+msgstr "DATEV EXTF e contabilità"
+
+#: includes/class-admin.php:2524
+msgid ""
+"Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im "
+"DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und "
+"Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den "
+"Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen."
+msgstr ""
+"Esporta le fatture e le note di credito di un periodo come lotto contabile "
+"in formato DATEV (EXTF 700, categoria 21) in Windows-1252. I conti crediti e "
+"ricavi provengono dalle impostazioni; ogni riga riporta il codice fiscale 3. "
+"Coordina conti e codici con il tuo consulente fiscale."
+
+#: includes/class-admin.php:2528
+msgid "Handbuch & API:"
+msgstr "Manuale e API:"
+
+#: includes/class-admin.php:2529
+msgid "Vollständiges Handbuch"
+msgstr "Manuale completo"
+
+#: includes/class-admin.php:2530
+msgid "Entwickelt von WM Suite."
+msgstr "Sviluppato da WM Suite."
+
+#: includes/class-admin.php:2548
+msgid "WM Cyber Events Core — Administrator- & Entwickler-Handbuch"
+msgstr "WM Cyber Events Core — Manuale per amministratori e sviluppatori"
+
+#: includes/class-admin.php:2552
+msgid ""
+"Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes "
+"und Theme-Presets."
+msgstr ""
+"Prenotazione posti, XML fattura, esportazione DATEV, double opt-in Brevo, "
+"shortcode e preset del tema."
+
+#: includes/class-admin.php:2572
+msgid "1. Platzbuchung ohne Überbuchung"
+msgstr "1. Prenotazione posti senza overbooking"
+
+#: includes/class-admin.php:2575
+msgid ""
+"Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von "
+"zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:"
+msgstr ""
+"Il contatore dei posti occupati viene incrementato in un’unica istruzione "
+"condizionale; tra due richieste simultanee per l’ultimo posto, solo una "
+"aggiorna la riga:"
+
+#: includes/class-admin.php:2590
+msgid "2. Rechnungs-XML & DATEV"
+msgstr "2. XML fattura e DATEV"
+
+#: includes/class-admin.php:2593
+msgid "CII-XML (EN 16931):"
+msgstr "XML CII (EN 16931):"
+
+#: includes/class-admin.php:2593
+msgid ""
+"Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, "
+"Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID."
+msgstr ""
+"Fatture e note di credito con dati dell’emittente dalle impostazioni, data "
+"di prestazione e numerazione progressiva. Nessun PDF, nessun Leitweg-ID."
+
+#: includes/class-admin.php:2594
+msgid "Gutschriften:"
+msgstr "Note di credito:"
+
+#: includes/class-admin.php:2594
+msgid "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung."
+msgstr ""
+"Numerazione progressiva propria, tipo 381 con riferimento alla fattura "
+"originale."
+
+#: includes/class-admin.php:2595
+msgid "DATEV EXTF 700:"
+msgstr "DATEV EXTF 700:"
+
+#: includes/class-admin.php:2595
+msgid ""
+"Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. "
+"Konten und Steuerschlüssel mit der Steuerberatung abstimmen."
+msgstr ""
+"Lotto contabile per un periodo all’interno di un singolo anno solare, in "
+"Windows-1252. Coordina conti e codici fiscali con il tuo consulente fiscale."
+
+#: includes/class-admin.php:2605
+msgid "3. Brevo CRM Double Opt-In & Background Queue"
+msgstr "3. Double opt-in CRM Brevo e coda in background"
+
+#: includes/class-admin.php:2608
+msgid "Double Opt-In (DOI):"
+msgstr "Double opt-in (DOI):"
+
+#: includes/class-admin.php:2608
+msgid ""
+"Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der "
+"Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach "
+"14 Tagen gelöscht."
+msgstr ""
+"Brevo invia l’email di conferma con un link personale; il link conferma "
+"l’iscrizione una sola volta. Le iscrizioni non confermate vengono cancellate "
+"dopo 14 giorni."
+
+#: includes/class-admin.php:2609
+msgid "Warteschlange:"
+msgstr "Coda:"
+
+#: includes/class-admin.php:2609
+msgid ""
+"Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede "
+"Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen."
+msgstr ""
+"Le chiamate a Brevo passano attraverso una coda su database elaborata ogni "
+"minuto da WP-Cron (oppure wp cybevents queue-run), fino a cinque tentativi."
+
+#: includes/class-admin.php:2617
+msgid "4. Shortcodes & Gutenberg Integration"
+msgstr "4. Shortcode e integrazione Gutenberg"
+
+#: includes/class-admin.php:2620
+msgid "Barrierefreies Registrierungsformular."
+msgstr "Modulo di iscrizione accessibile."
+
+#: includes/class-admin.php:2621
+msgid "Interaktive Konferenz-Agenda & Track-Übersicht."
+msgstr "Agenda interattiva della conferenza e panoramica dei track."
+
+#: includes/class-admin.php:2622
+msgid "Token-basierte Session-Auswahl nach DOI-Bestätigung."
+msgstr "Selezione sessioni basata su token dopo la conferma DOI."
+
+#: includes/class-admin.php:2631
+msgid "5. WP-CLI für Administratoren"
+msgstr "5. WP-CLI per amministratori"
+
+#: includes/class-admin.php:2644
+msgid "6. Theme-Presets & Design Tokens"
+msgstr "6. Preset del tema e design token"
+
+#: includes/class-admin.php:2647
+msgid ""
+"Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt "
+"vorgefertigte Design-Presets:"
+msgstr ""
+"Il frontend si adatta con flessibilità a qualsiasi tema WordPress oppure "
+"utilizza preset di design integrati:"
+
+#: includes/class-admin.php:2650
+msgid "Presets:"
+msgstr "Preset:"
+
+#: includes/class-admin.php:2650
+msgid ""
+"Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose "
+"(#482683, #7D40E7, #DF0079)."
+msgstr ""
+"Diversi preset cromatici, tra cui uno in viola scuro, violetto e rosa "
+"(#482683, #7D40E7, #DF0079)."
+
+#: includes/class-admin.php:2651
+msgid "Theme-Vererbung (Standard):"
+msgstr "Ereditarietà del tema (predefinita):"
+
+#: includes/class-admin.php:2651
+msgid ""
+"Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme "
+"(GeneratePress, Astra, Twenty Twenty-Four)."
+msgstr ""
+"Eredita caratteri, raggi dei bordi e colori primari direttamente dal tema "
+"attivo (GeneratePress, Astra, Twenty Twenty-Four)."
+
+#: includes/class-admin.php:2652
+msgid "CSS Custom Properties:"
+msgstr "Proprietà personalizzate CSS:"
+
+#: includes/class-admin.php:2660
+msgid "7. Gotchas & Best Practices"
+msgstr "7. Avvertenze e buone pratiche"
+
+#: includes/class-admin.php:2663
+msgid "InnoDB:"
+msgstr "InnoDB:"
+
+#: includes/class-admin.php:2663
+msgid "Die Tabellen werden mit ENGINE=InnoDB angelegt."
+msgstr "Le tabelle vengono create con ENGINE=InnoDB."
+
+#: includes/class-admin.php:2664
+msgid "Löschfristen:"
+msgstr "Termini di conservazione:"
+
+#: includes/class-admin.php:2664
+msgid ""
+"Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-"
+"Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte "
+"Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt "
+"es keine Einstellung."
+msgstr ""
+"Le iscrizioni non confermate vengono cancellate dopo 14 giorni, mentre le "
+"voci del registro di audit vengono pseudonimizzate dopo 90 giorni (eccetto "
+"gli eventi di fatturazione). Il plugin non elimina automaticamente le "
+"iscrizioni confermate né le fatture; non è prevista alcuna impostazione in "
+"tal senso."
+
+#: includes/class-admin.php:2665
+msgid "WP-Cron:"
+msgstr "WP-Cron:"
+
+#: includes/class-admin.php:2665
+msgid ""
+"Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne "
+"regelmäßige Besucher braucht es einen echten Cronjob."
+msgstr ""
+"L’elaborazione della coda e la pulizia periodica avvengono tramite WP-Cron; "
+"i siti senza traffico regolare richiedono un cron job di sistema."
+
+#: includes/class-blocks-manager.php:43
+msgid "Cyber Events Suite"
+msgstr "Suite Cyber Events"
+
+#: includes/class-blocks-manager.php:203 blocks/editor.js:967
+#: blocks/editor.js:1034
+msgid "Veranstaltung auswählen"
+msgstr "Seleziona evento"
+
+#: includes/class-blocks-manager.php:204
+msgid "Wählen Sie das Ziel-Event für diesen Block."
+msgstr "Seleziona l’evento di destinazione per questo blocco."
+
+#: includes/class-blocks-manager.php:205
+msgid "Key Facts Header anzeigen"
+msgstr "Mostra intestazione informazioni chiave"
+
+#: includes/class-blocks-manager.php:206 blocks/editor.js:300
+msgid "Schrittanzeige (Stepper) anzeigen"
+msgstr "Mostra indicatore dei passaggi (stepper)"
+
+#: includes/class-blocks-manager.php:207
+msgid "Kalender-Export (.ics) Button anzeigen"
+msgstr "Mostra pulsante di esportazione calendario (.ics)"
+
+#: includes/class-blocks-manager.php:208
+msgid "Countdown-Timer anzeigen"
+msgstr "Mostra conto alla rovescia"
+
+#: includes/class-blocks-manager.php:209
+msgid "Freie Plätze anzeigen"
+msgstr "Mostra posti liberi"
+
+#: includes/class-blocks-manager.php:210
+msgid "Spaltenanzahl"
+msgstr "Numero di colonne"
+
+#: includes/class-blocks-manager.php:239
+msgid "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen."
+msgstr "Seleziona un evento valido nelle impostazioni del blocco."
+
+#: includes/class-blocks-manager.php:267 includes/class-blocks-manager.php:306
+msgid "Vorschau im Editor"
+msgstr "Anteprima nell’editor"
+
+#: includes/class-blocks-manager.php:268 blocks/editor.js:651
+msgid "Session-Auswahl für bestätigte Anmeldungen"
+msgstr "Selezione sessioni per iscrizioni confermate"
+
+#: includes/class-blocks-manager.php:269
+msgid ""
+"Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem "
+"individuellen Token gerendert."
+msgstr ""
+"Nel frontend questo blocco viene renderizzato dinamicamente per ciascun "
+"partecipante tramite il suo token individuale."
+
+#: includes/class-blocks-manager.php:277
+msgid "Kein Bestätigungs-Token gefunden."
+msgstr "Nessun token di conferma trovato."
+
+#: includes/class-blocks-manager.php:278
+msgid ""
+"Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer "
+"Bestätigungs-E-Mail auf."
+msgstr ""
+"Apri questa pagina tramite il link personalizzato ricevuto nell’email di "
+"conferma."
+
+#: includes/class-blocks-manager.php:287 wm-cyber-events-core.php:610
+msgid "Ungültiger oder abgelaufener Teilnehmer-Token."
+msgstr "Token partecipante non valido o scaduto."
+
+#: includes/class-blocks-manager.php:307
+msgid "Sitzplan der Veranstaltung"
+msgstr "Mappa dei posti dell’evento"
+
+#: includes/class-blocks-manager.php:308
+msgid ""
+"Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält "
+"sie über Server-Sent Events aktuell."
+msgstr ""
+"Nel frontend questo blocco mostra l’occupazione di ciascuna sessione in SVG "
+"e la mantiene aggiornata tramite Server-Sent Events."
+
+#: includes/class-blocks-manager.php:351 includes/class-rest-api.php:1157
+msgid "Veranstaltung nicht gefunden."
+msgstr "Evento non trovato."
+
+#: includes/class-blocks-manager.php:367 includes/class-calendar-views.php:723
+#: includes/class-calendar-views.php:785 includes/class-calendar-views.php:820
+#: includes/class-calendar-views.php:977 blocks/editor.js:213
+msgid "Jetzt anmelden"
+msgstr "Iscriviti ora"
+
+#: includes/class-blocks-manager.php:367
+msgid "Jetzt kostenfrei anmelden"
+msgstr "Iscriviti ora gratuitamente"
+
+#: includes/class-blocks-manager.php:370
+msgid "Programm ansehen"
+msgstr "Vedi programma"
+
+#: includes/class-blocks-manager.php:389
+msgid "Kostenfreie Teilnahme"
+msgstr "Partecipazione gratuita"
+
+#: includes/class-blocks-manager.php:401
+msgid "Anmeldung geöffnet"
+msgstr "Iscrizioni aperte"
+
+#: includes/class-blocks-manager.php:403 includes/class-calendar-views.php:372
+#: includes/class-calendar-views.php:760
+#: includes/class-sessions-manager.php:345
+msgid "Ausgebucht"
+msgstr "Esaurito"
+
+#: includes/class-blocks-manager.php:439 includes/class-calendar-views.php:973
+msgid "Preis"
+msgstr "Prezzo"
+
+#. translators: %d: Number of available seats
+#. translators: %d: Number of free seats
+#: includes/class-blocks-manager.php:448 includes/class-calendar-views.php:375
+#: includes/class-calendar-views.php:762
+#: includes/class-sessions-manager.php:348
+#, php-format
+msgid "%d freier Platz"
+msgid_plural "%d freie Plätze"
+msgstr[0] "%d posto libero"
+msgstr[1] "%d posti liberi"
+
+#. translators: %d: Maximum event capacity
+#: includes/class-blocks-manager.php:450 includes/class-calendar-views.php:806
+#, php-format
+msgid "von max. %d"
+msgstr "su max. %d"
+
+#: includes/class-blocks-manager.php:459
+msgid "Beginn in:"
+msgstr "Inizia tra:"
+
+#: includes/class-blocks-manager.php:461
+msgid "Tage"
+msgstr "Giorni"
+
+#: includes/class-blocks-manager.php:462
+msgid "Std."
+msgstr "Ore"
+
+#: includes/class-blocks-manager.php:463
+msgid "Min."
+msgstr "Min"
+
+#: includes/class-blocks-manager.php:464
+msgid "Sek."
+msgstr "Sec"
+
+#: includes/class-blocks-manager.php:480 includes/class-events-manager.php:497
+msgid "In Kalender exportieren (.ics)"
+msgstr "Esporta nel calendario (.ics)"
+
+#: includes/class-blocks-manager.php:566
+msgid "Apple / Outlook (.ics-Datei)"
+msgstr "Apple / Outlook (file .ics)"
+
+#: includes/class-blocks-manager.php:571 blocks/editor.js:615
+msgid "Google Kalender"
+msgstr "Google Calendar"
+
+#: includes/class-blocks-manager.php:576 blocks/editor.js:616
+msgid "Outlook Web"
+msgstr "Outlook Web"
+
+#: includes/class-blocks-manager.php:581 blocks/editor.js:617
+msgid "Microsoft 365"
+msgstr "Microsoft 365"
+
+#: includes/class-blocks-manager.php:587
+msgid "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn."
+msgstr "Il file .ics include un promemoria il giorno prima dell’inizio."
+
+#: includes/class-blocks-manager.php:623 blocks/editor.js:511
+msgid "Referenten & Fachexperten"
+msgstr "Relatori ed esperti"
+
+#: includes/class-blocks-manager.php:625 includes/class-calendar-views.php:972
+#: blocks/editor.js:510
+msgid "Referenten"
+msgstr "Relatori"
+
+#: includes/class-blocks-manager.php:678
+msgid "Die Referentenliste wird in Kürze bekanntgegeben."
+msgstr "L’elenco dei relatori sarà annunciato a breve."
+
+#: includes/class-blocks-manager.php:696 blocks/editor.js:718
+msgid "TEILNEHMERPASS"
+msgstr "PASS PARTECIPANTE"
+
+#: includes/class-blocks-manager.php:709 blocks/editor.js:717
+msgid "Teilnehmerpass"
+msgstr "Pass partecipante"
+
+#: includes/class-blocks-manager.php:710
+msgid "Ticket & Akkreditierung aufrufen"
+msgstr "Apri biglietto e accreditamento"
+
+#: includes/class-blocks-manager.php:711
+msgid ""
+"Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail "
+"ein:"
+msgstr ""
+"Inserisci il token di sicurezza a 64 caratteri ricevuto nell’email di "
+"conferma:"
+
+#: includes/class-blocks-manager.php:713
+msgid "Token eingeben (z. B. c8b60990...)"
+msgstr "Inserisci token (ad es. c8b60990...)"
+
+#: includes/class-blocks-manager.php:714
+msgid "Pass anzeigen"
+msgstr "Mostra pass"
+
+#: includes/class-blocks-manager.php:724
+msgid "Ungültiger oder nicht gefundener Buchungstoken."
+msgstr "Token di prenotazione non valido o sconosciuto."
+
+#: includes/class-blocks-manager.php:730
+msgid ""
+"Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht "
+"bestätigt oder wurde storniert."
+msgstr ""
+"Nessun pass partecipante disponibile per questa iscrizione: non è confermata "
+"oppure è stata annullata."
+
+#: includes/class-blocks-manager.php:737
+msgid "Max Mustermann"
+msgstr "Giulia Rossi"
+
+#: includes/class-blocks-manager.php:738
+msgid "Beispiel GmbH"
+msgstr "Esempio S.r.l."
+
+#: includes/class-blocks-manager.php:744 includes/class-calendar-views.php:754
+#: includes/class-calendar-views.php:803 includes/class-gdpr-manager.php:380
+msgid "Veranstaltung"
+msgstr "Evento"
+
+#: includes/class-blocks-manager.php:786
+msgid "Rechnungs-Nr."
+msgstr "N. fattura"
+
+#: includes/class-blocks-manager.php:787
+msgid "Keine"
+msgstr "Nessuna"
+
+#: includes/class-blocks-manager.php:797
+msgid "Ticket-Nummer"
+msgstr "Numero biglietto"
+
+#: includes/class-blocks-manager.php:807
+msgid "Pass drucken"
+msgstr "Stampa pass"
+
+#: includes/class-blocks-manager.php:827 blocks/editor.js:818
+#: blocks/editor.js:819
+msgid "Datenschutz und Sicherheit"
+msgstr "Protezione dei dati e sicurezza"
+
+#: includes/class-blocks-manager.php:852 blocks/editor.js:786
+msgid "Double Opt-in und Löschfristen"
+msgstr "Double opt-in e termini di conservazione"
+
+#: includes/class-blocks-manager.php:853
+msgid ""
+"Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte "
+"Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 "
+"Tagen pseudonymisiert."
+msgstr ""
+"Un’iscrizione ha effetto solo dopo la conferma tramite il link inviato via "
+"email. Le iscrizioni non confermate vengono cancellate dopo 14 giorni, "
+"mentre le voci del registro di audit vengono pseudonimizzate dopo 90 giorni."
+
+#: includes/class-blocks-manager.php:860 blocks/editor.js:791
+msgid "Beschriftete Formulare"
+msgstr "Moduli con etichette"
+
+#: includes/class-blocks-manager.php:861
+msgid ""
+"Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und "
+"Rückmeldungen, die Screenreader vorlesen."
+msgstr ""
+"Campi modulo con etichette visibili, campi obbligatori contrassegnati e "
+"messaggi di stato letti dagli screen reader."
+
+#: includes/class-blocks-manager.php:868 blocks/editor.js:796
+msgid "Eigene Skripte und Styles"
+msgstr "Script e fogli di stile locali"
+
+#: includes/class-blocks-manager.php:869
+msgid ""
+"Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht "
+"von einem CDN."
+msgstr ""
+"Il plugin carica i propri script, fogli di stile e icone dal tuo server e "
+"non da una CDN."
+
+#: includes/class-blocks-manager.php:876 blocks/editor.js:801
+msgid "Audit-Log und Tokens"
+msgstr "Registro di audit e token"
+
+#: includes/class-blocks-manager.php:877
+msgid ""
+"Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen "
+"erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert."
+msgstr ""
+"Un registro di audit concatenato con HMAC-SHA256 rende rilevabili eventuali "
+"manomissioni successive. I token dei partecipanti vengono salvati "
+"esclusivamente come hash SHA-256."
+
+#: includes/class-blocks-manager.php:884 blocks/editor.js:806
+msgid "Rechnungs-XML und DATEV"
+msgstr "XML fattura e DATEV"
+
+#: includes/class-blocks-manager.php:885
+msgid ""
+"Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-"
+"Buchungsstapel."
+msgstr ""
+"Fatture in formato XML CII secondo il profilo EN 16931 ed esportazione come "
+"lotto contabile DATEV."
+
+#: includes/class-blocks-manager.php:892
+msgid "Friendly Captcha (Proof-of-Work)"
+msgstr "Friendly Captcha (proof-of-work)"
+
+#: includes/class-blocks-manager.php:893
+msgid ""
+"Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel "
+"nach EU-Datenschutzrecht."
+msgstr ""
+"Protezione anti-bot rispettosa della privacy, senza tracciamento degli "
+"utenti né puzzle visivi, conforme alla normativa europea sulla protezione "
+"dei dati."
+
+#: includes/class-blocks-manager.php:920 blocks/editor.js:939
+msgid "Zur Anmeldung"
+msgstr "Vai all’iscrizione"
+
+#: includes/class-blocks-manager.php:952
+msgid "Es gibt keine archivierten Veranstaltungen."
+msgstr "Non ci sono eventi archiviati."
+
+#: includes/class-blocks-manager.php:952 includes/class-calendar-views.php:611
+msgid "Aktuell sind keine geplanten Veranstaltungen vorhanden."
+msgstr "Al momento non ci sono eventi in programma."
+
+#: includes/class-blocks-manager.php:964
+msgid "Veranstaltung nach Titel oder Ort filtern..."
+msgstr "Filtra eventi per titolo o luogo..."
+
+#: includes/class-blocks-manager.php:975 includes/class-calendar-views.php:1051
+msgid "Kostenfrei"
+msgstr "Gratuito"
+
+#: includes/class-blocks-manager.php:999
+msgid "In Kalender eintragen"
+msgstr "Aggiungi al calendario"
+
+#: includes/class-blocks-manager.php:1000
+msgid ".ics"
+msgstr ".ics"
+
+#: includes/class-calendar-views.php:320
+msgid "Allgemein"
+msgstr ""
+
+#: includes/class-calendar-views.php:343
+msgid "Live Konferenz- und Agenda-Ticker"
+msgstr "Ticker live di conferenze e agenda"
+
+#: includes/class-calendar-views.php:346
+msgid "AGENDA"
+msgstr ""
+
+#: includes/class-calendar-views.php:408
+msgid "Ansichten und Filtersteuerung"
+msgstr "Controlli di visualizzazione e filtro"
+
+#: includes/class-calendar-views.php:410
+msgid "Kalenderansichten"
+msgstr "Viste del calendario"
+
+#: includes/class-calendar-views.php:413
+msgid "Monat"
+msgstr "Mese"
+
+#: includes/class-calendar-views.php:417
+msgid "Woche"
+msgstr "Settimana"
+
+#: includes/class-calendar-views.php:421
+msgid "Tag / Agenda"
+msgstr "Giorno / agenda"
+
+#: includes/class-calendar-views.php:425
+msgid "Liste"
+msgstr "Elenco"
+
+#: includes/class-calendar-views.php:429
+msgid "Karten"
+msgstr "Schede"
+
+#: includes/class-calendar-views.php:433 includes/class-calendar-views.php:845
+#: includes/class-calendar-views.php:866
+msgid "Räume & Ort"
+msgstr "Sale e sede"
+
+#: includes/class-calendar-views.php:437
+msgid "Summit Tracks"
+msgstr "Track del summit"
+
+#: includes/class-calendar-views.php:442
+msgid "Vorheriger Zeitraum"
+msgstr "Periodo precedente"
+
+#: includes/class-calendar-views.php:444
+msgid "Nächster Zeitraum"
+msgstr "Periodo successivo"
+
+#: includes/class-calendar-views.php:452
+msgid "Veranstaltung, Thema oder Dozent suchen..."
+msgstr "Cerca evento, argomento o relatore..."
+
+#: includes/class-calendar-views.php:452
+msgid "Suchbegriff eingeben"
+msgstr "Inserisci termine di ricerca"
+
+#: includes/class-calendar-views.php:466 includes/class-calendar-views.php:467
+msgid "Alle Säle & Räume"
+msgstr "Tutte le sale e gli spazi"
+
+#: includes/class-calendar-views.php:483
+msgid "Monatskalenderansicht"
+msgstr "Vista calendario mensile"
+
+#: includes/class-calendar-views.php:486
+msgid "Mo"
+msgstr "Lun"
+
+#: includes/class-calendar-views.php:487
+msgid "Di"
+msgstr "Mar"
+
+#: includes/class-calendar-views.php:488
+msgid "Mi"
+msgstr "Mer"
+
+#: includes/class-calendar-views.php:489
+msgid "Do"
+msgstr "Gio"
+
+#: includes/class-calendar-views.php:490
+msgid "Fr"
+msgstr "Ven"
+
+#: includes/class-calendar-views.php:491
+msgid "Sa"
+msgstr "Sab"
+
+#: includes/class-calendar-views.php:492
+msgid "So"
+msgstr "Dom"
+
+#: includes/class-calendar-views.php:536
+msgid "Wochenplan- und Zeitrasteransicht"
+msgstr "Vista pianificazione settimanale e griglia oraria"
+
+#: includes/class-calendar-views.php:540
+msgid "Uhrzeit"
+msgstr ""
+
+#: includes/class-calendar-views.php:580
+msgid "Keine Termine"
+msgstr ""
+
+#: includes/class-calendar-views.php:608
+msgid "Tagesagenda und Zeitstrahlansicht"
+msgstr "Vista agenda giornaliera e cronologia"
+
+#: includes/class-calendar-views.php:681
+msgid "Chronologische Listenansicht"
+msgstr "Vista elenco cronologico"
+
+#: includes/class-calendar-views.php:720
+msgid ".ICS Kalender"
+msgstr ""
+
+#: includes/class-calendar-views.php:733
+msgid "Visuelle Fotokarten-Ansicht"
+msgstr "Vista visiva a schede fotografiche"
+
+#: includes/class-calendar-views.php:832
+msgid "Standort- und Raumnavigator-Ansicht"
+msgstr "Vista navigatore sedi e sale"
+
+#: includes/class-calendar-views.php:847 includes/class-calendar-views.php:868
+#: includes/class-calendar-views.php:908 includes/class-seat-map.php:240
+msgid "Für diese Veranstaltung sind keine Sessions hinterlegt."
+msgstr "Non ci sono sessioni configurate per questo evento."
+
+#: includes/class-calendar-views.php:905
+msgid "Summit Multi-Track Matrix"
+msgstr "Matrice multi-track del summit"
+
+#: includes/class-calendar-views.php:966
+msgid "Dialog schließen"
+msgstr "Chiudi finestra di dialogo"
+
+#: includes/class-calendar-views.php:971 includes/class-events-manager.php:97
+msgid "Veranstaltungsort:"
+msgstr "Sede dell’evento:"
+
+#: includes/class-database.php:43
+msgid "Ungültige Session- oder Registrierungs-ID."
+msgstr "ID sessione o iscrizione non valido."
+
+#: includes/class-database.php:76
+msgid ""
+"Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden."
+msgstr ""
+"Impossibile elaborare la prenotazione a causa di un errore del database."
+
+#. translators: %d: Session ID
+#: includes/class-database.php:95
+#, php-format
+msgid "Session %d existiert nicht."
+msgstr "La sessione %d non esiste."
+
+#. translators: 1: Session title, 2: Capacity
+#: includes/class-database.php:105
+#, php-format
+msgid "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt)."
+msgstr "\"%1$s\" è al completo (%2$d su %2$d posti occupati)."
+
+#: includes/class-database.php:134
+msgid ""
+"Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder "
+"freigegeben."
+msgstr ""
+"Impossibile salvare la prenotazione. Il posto è stato nuovamente liberato."
+
+#: includes/class-database.php:187
+msgid ""
+"Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden."
+msgstr ""
+"Impossibile elaborare l’annullamento a causa di un errore del database."
+
+#: includes/class-database.php:345
+msgid "Keine gültige Datei hochgeladen."
+msgstr "Nessun file valido caricato."
+
+#: includes/class-database.php:349
+msgid "Fehler beim Datei-Upload."
+msgstr "Errore durante il caricamento del file."
+
+#: includes/class-database.php:354
+msgid "Das Profilbild darf maximal 5 MB groß sein."
+msgstr "L’immagine del profilo non può superare i 5 MB."
+
+#: includes/class-database.php:369
+msgid "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP."
+msgstr "Formato file non valido. I formati consentiti sono JPG, PNG e WebP."
+
+#: includes/class-database.php:375
+msgid "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp."
+msgstr ""
+"Estensione file non valida. Le estensioni consentite sono .jpg, .jpeg, .png "
+"e .webp."
+
+#: includes/class-database.php:426
+msgid "Fehler beim Speichern des Profilbildes."
+msgstr "Errore durante il salvataggio dell’immagine del profilo."
+
+#. translators: %d: previously recorded entry count
+#: includes/class-database.php:877
+#, php-format
+msgid ""
+"Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+msgstr ""
+"Il registro di audit è vuoto sebbene in precedenza fossero registrate %d "
+"voci."
+
+#: includes/class-database.php:894
+msgid "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt."
+msgstr "Nella catena è stata inserita una voce priva di firma."
+
+#. translators: %d: audit entry id
+#: includes/class-database.php:908
+#, php-format
+msgid ""
+"Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder "
+"umsortiert."
+msgstr ""
+"Interruzione della catena alla voce #%d: una voce è stata eliminata, "
+"inserita o riordinata."
+
+#. translators: %d: audit entry id
+#: includes/class-database.php:919
+#, php-format
+msgid "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme."
+msgstr ""
+"La firma della voce #%d non corrisponde all’impronta del suo contenuto."
+
+#. translators: %d: audit entry id
+#: includes/class-database.php:932
+#, php-format
+msgid ""
+"Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: "
+"sein Inhalt kann verändert worden sein."
+msgstr ""
+"La voce #%d è contrassegnata come pseudonimizzata senza prova valida: il suo "
+"contenuto potrebbe essere stato alterato."
+
+#. translators: %d: audit entry id
+#: includes/class-database.php:953
+#, php-format
+msgid "Der Inhalt des Eintrags #%d wurde nachträglich verändert."
+msgstr "Il contenuto della voce #%d è stato modificato dopo la creazione."
+
+#: includes/class-database.php:968
+msgid ""
+"Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die "
+"neuesten Einträge wurden entfernt."
+msgstr ""
+"La fine del registro non coincide con l’ultima voce annotata. Le voci più "
+"recenti sono state rimosse."
+
+#: includes/class-events-manager.php:21
+msgctxt "post type general name"
+msgid "Veranstaltungen"
+msgstr "Eventi"
+
+#: includes/class-events-manager.php:22
+msgctxt "post type singular name"
+msgid "Veranstaltung"
+msgstr "Evento"
+
+#: includes/class-events-manager.php:23
+msgctxt "admin menu"
+msgid "Cyber Events"
+msgstr "Cyber Events"
+
+#: includes/class-events-manager.php:24
+msgctxt "add new on admin bar"
+msgid "Veranstaltung"
+msgstr "Evento"
+
+#: includes/class-events-manager.php:25
+msgctxt "event"
+msgid "Neu erstellen"
+msgstr "Aggiungi nuovo"
+
+#: includes/class-events-manager.php:28
+msgid "Veranstaltung bearbeiten"
+msgstr "Modifica evento"
+
+#: includes/class-events-manager.php:29
+msgid "Veranstaltung ansehen"
+msgstr "Visualizza evento"
+
+#: includes/class-events-manager.php:31
+msgid "Veranstaltungen durchsuchen"
+msgstr "Cerca eventi"
+
+#: includes/class-events-manager.php:33
+msgid "Keine Veranstaltungen im Papierkorb."
+msgstr "Nessun evento trovato nel cestino."
+
+#: includes/class-events-manager.php:61
+msgid "Veranstaltungsdaten"
+msgstr "Dettagli evento"
+
+#: includes/class-events-manager.php:98
+msgid "Veranstaltungsorte verwalten ↗"
+msgstr "Gestisci sedi ↗"
+
+#: includes/class-events-manager.php:103
+msgid "— Hinterlegten Tagungsort wählen —"
+msgstr "— Seleziona sede salvata —"
+
+#: includes/class-events-manager.php:112
+msgid "Manueller Ort / Raum / Adresse..."
+msgstr "Sede / sala / indirizzo manuale..."
+
+#: includes/class-events-manager.php:115
+msgid ""
+"Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die "
+"Ortsbezeichnung/Raumangabe individuell an."
+msgstr ""
+"Scegli una sede salvata dall’elenco oppure personalizza l’indicazione del "
+"luogo o della sala."
+
+#: includes/class-events-manager.php:119
+#: includes/class-sessions-manager.php:117
+msgid "Beginn (Datum & Uhrzeit):"
+msgstr "Inizio (data e ora):"
+
+#: includes/class-events-manager.php:124
+#: includes/class-sessions-manager.php:122
+msgid "Ende (Datum & Uhrzeit):"
+msgstr "Fine (data e ora):"
+
+#: includes/class-events-manager.php:142
+msgid "Kostenpflichtige Veranstaltung"
+msgstr "Evento a pagamento"
+
+#: includes/class-events-manager.php:449
+msgid "Aktuell sind keine Konferenzpläne verfügbar."
+msgstr "Al momento non sono disponibili programmi di conferenze."
+
+#: includes/class-events-manager.php:482 blocks/editor.js:415
+msgid "Programm"
+msgstr "Programma"
+
+#: includes/class-events-manager.php:506
+msgid "Thema, Referent oder Raum suchen..."
+msgstr "Cerca argomento, relatore o sala..."
+
+#: includes/class-events-manager.php:513
+msgid "Konferenz-Agenda"
+msgstr "Agenda della conferenza"
+
+#: includes/class-events-manager.php:515
+msgid "Detailliertes Programm wird in Kürze bekanntgegeben."
+msgstr "Il programma dettagliato sarà annunciato a breve."
+
+#: includes/class-gdpr-manager.php:35 includes/class-gdpr-manager.php:49
+msgid "CyberEvents Teilnehmerdaten"
+msgstr "Dati partecipanti CyberEvents"
+
+#: includes/class-gdpr-manager.php:384
+msgid "E-Mail"
+msgstr "Email"
+
+#: includes/class-gdpr-manager.php:385
+msgid "Unternehmen / Organisation"
+msgstr "Azienda / organizzazione"
+
+#: includes/class-gdpr-manager.php:386
+msgid "Profilbild"
+msgstr "Immagine del profilo"
+
+#: includes/class-gdpr-manager.php:387
+msgid "Einwilligung Datenschutz"
+msgstr "Consenso privacy"
+
+#: includes/class-gdpr-manager.php:387 includes/class-gdpr-manager.php:388
+msgid "ja"
+msgstr "sì"
+
+#: includes/class-gdpr-manager.php:387 includes/class-gdpr-manager.php:388
+msgid "nein"
+msgstr "no"
+
+#: includes/class-gdpr-manager.php:388
+msgid "Einwilligung Fotos"
+msgstr "Consenso foto"
+
+#: includes/class-gdpr-manager.php:389
+msgid "Bestätigung angefordert"
+msgstr "Conferma richiesta"
+
+#: includes/class-gdpr-manager.php:390
+msgid "Bestätigt am"
+msgstr "Confermato il"
+
+#: includes/class-gdpr-manager.php:391
+msgid "Eingecheckt am"
+msgstr "Check-in effettuato il"
+
+#: includes/class-gdpr-manager.php:392
+msgid "Gebuchte Sessions"
+msgstr "Sessioni prenotate"
+
+#: includes/class-gdpr-manager.php:393 includes/class-gdpr-manager.php:426
+msgid "Rechnungsnummer"
+msgstr "Numero fattura"
+
+#: includes/class-gdpr-manager.php:407
+msgid "CyberEvents Registrierungen"
+msgstr "Iscrizioni CyberEvents"
+
+#: includes/class-gdpr-manager.php:423
+msgid "CyberEvents Rechnungen"
+msgstr "Fatture CyberEvents"
+
+#: includes/class-gdpr-manager.php:427
+msgid "Empfänger"
+msgstr "Destinatario"
+
+#: includes/class-gdpr-manager.php:428
+msgid "Adresse"
+msgstr "Indirizzo"
+
+#: includes/class-gdpr-manager.php:429
+msgid "Bruttobetrag"
+msgstr "Importo lordo"
+
+#: includes/class-gdpr-manager.php:430
+msgid "Ausgestellt am"
+msgstr "Emessa il"
+
+#. translators: %d: registration id
+#: includes/class-gdpr-manager.php:481
+#, php-format
+msgid "Registrierung #%d konnte nicht gelöscht werden."
+msgstr "Impossibile eliminare l’iscrizione #%d."
+
+#. translators: %d: registration id
+#: includes/class-gdpr-manager.php:511
+#, php-format
+msgid ""
+"Registrierung #%d konnte nicht anonymisiert werden; die Daten sind "
+"unverändert."
+msgstr "Impossibile anonimizzare l’iscrizione #%d; i dati restano invariati."
+
+#. translators: 1: registration id, 2: invoice number
+#: includes/class-gdpr-manager.php:519
+#, php-format
+msgid ""
+"Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse "
+"und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin "
+"nicht."
+msgstr ""
+"L’iscrizione #%1$d è stata anonimizzata. La fattura %2$s con nome, indirizzo "
+"ed email rimane memorizzata invariata; il plugin non elimina le fatture."
+
+#: includes/class-rest-api.php:298
+msgid ""
+"Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). "
+"Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt "
+"ist."
+msgstr ""
+"Il webhook Brevo è disattivato senza segreto condiviso (restituisce 401). I "
+"rimbalzi e le disiscrizioni non verranno elaborati finché non sarà "
+"configurato un segreto."
+
+#: includes/class-rest-api.php:301
+msgid ""
+"Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht "
+"versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen "
+"gelöscht."
+msgstr ""
+"Nessuna chiave API Brevo configurata: le email di conferma non verranno "
+"inviate; le nuove iscrizioni restano non confermate e vengono eliminate dopo "
+"14 giorni."
+
+#: includes/class-rest-api.php:304
+msgid ""
+"Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält "
+"kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet."
+msgstr ""
+"Friendly Captcha è attivo ma privo di effetto: il plugin non include un "
+"widget captcha, quindi il modulo viene elaborato senza protezione anti-bot."
+
+#: includes/class-rest-api.php:311
+msgid "Einstellungen öffnen"
+msgstr "Apri impostazioni"
+
+#: includes/class-rest-api.php:546
+msgid "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut."
+msgstr "Troppe richieste. Riprova tra un minuto."
+
+#. translators: %s: Comma-separated list of error messages
+#: includes/class-rest-api.php:942
+#, php-format
+msgid ""
+"Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben "
+"bestehen."
+msgstr ""
+"La selezione non è stata salvata: %s Le tue prenotazioni precedenti restano "
+"invariate."
+
+#. translators: %s: Comma-separated list of error messages
+#: includes/class-rest-api.php:968
+#, php-format
+msgid ""
+"Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte "
+"freigegeben werden: %s"
+msgstr ""
+"Le nuove sessioni sono state prenotate, ma non tutte le sessioni "
+"deselezionate hanno potuto essere liberate: %s"
+
+#: includes/class-rest-api.php:1077
+msgid "Ungültiges Sicherheits-Token (Nonce)."
+msgstr "Token di sicurezza (nonce) non valido."
+
+#: includes/class-rest-api.php:1080
+msgid "Ungültiges Formular-Token (Nonce)."
+msgstr "Token del modulo (nonce) non valido."
+
+#: includes/class-rest-api.php:1097
+msgid "Teilnehmer nicht autorisiert oder nicht gefunden."
+msgstr "Partecipante non autorizzato o non trovato."
+
+#: includes/class-rest-api.php:1104
+msgid "Keine Bilddatei übermittelt."
+msgstr "Nessun file immagine inviato."
+
+#: includes/class-rest-api.php:1131
+msgid "Profilbild erfolgreich aktualisiert."
+msgstr "Immagine del profilo aggiornata correttamente."
+
+#: includes/class-rest-api.php:1147
+msgid "Bestätigungs-Token fehlt."
+msgstr "Token di conferma mancante."
+
+#: includes/class-rest-api.php:1152
+msgid "Ungültiges oder noch nicht bestätigtes Ticket."
+msgstr "Biglietto non valido o non ancora confermato."
+
+#: includes/class-seat-map.php:252
+msgid "Sitzplan: belegte und freie Plätze je Session"
+msgstr "Mappa dei posti: posti occupati e liberi per sessione"
+
+#. translators: 1: session title, 2: seats taken, 3: capacity
+#: includes/class-seat-map.php:280
+#, php-format
+msgid "%1$s — %2$d von %3$d Plätzen belegt"
+msgstr "%1$s — %2$d su %3$d posti occupati"
+
+#: includes/class-seat-map.php:338
+msgid "Für den Sitzplan fehlt die Veranstaltung."
+msgstr "Nessun evento specificato per la mappa dei posti."
+
+#: includes/class-seat-map.php:343
+msgid "Die Veranstaltung des Sitzplans existiert nicht."
+msgstr "L’evento della mappa dei posti non esiste."
+
+#: includes/class-seat-map.php:375
+msgid "frei"
+msgstr "libero"
+
+#: includes/class-seat-map.php:376
+msgid "belegt"
+msgstr "occupato"
+
+#: includes/class-seat-map.php:377
+msgid "von Ihnen gebucht"
+msgstr "prenotato da te"
+
+#: includes/class-seat-map.php:381
+msgid "Belegung je Session"
+msgstr "Occupazione per sessione"
+
+#: includes/class-seat-map.php:382
+msgid "Session"
+msgstr "Sessione"
+
+#: includes/class-seat-map.php:383
+msgid "Belegt"
+msgstr "Occupati"
+
+#: includes/class-seat-map.php:384
+msgid "Frei"
+msgstr "Liberi"
+
+#: includes/class-seat-map.php:399
+msgid "Belegung wird laufend aktualisiert."
+msgstr "L’occupazione si aggiorna automaticamente."
+
+#: includes/class-seat-map.php:399
+msgid "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert."
+msgstr ""
+"Stato al caricamento della pagina; l’occupazione non si aggiorna in tempo "
+"reale."
+
+#. translators: 1: attendee email, 2: error message
+#: includes/class-seeder.php:467
+#, php-format
+msgid "Demodaten: Buchung für %1$s abgelehnt — %2$s"
+msgstr "Dati demo: prenotazione per %1$s rifiutata — %2$s"
+
+#: includes/class-seeder.php:528
+msgid "Demodaten: Teilnahme storniert"
+msgstr "Dati demo: partecipazione annullata"
+
+#: includes/class-sessions-manager.php:21
+msgctxt "post type general name"
+msgid "Sessions & Tracks"
+msgstr "Sessioni e track"
+
+#: includes/class-sessions-manager.php:22
+msgctxt "post type singular name"
+msgid "Session"
+msgstr "Sessione"
+
+#: includes/class-sessions-manager.php:23
+msgctxt "admin menu"
+msgid "Sessions"
+msgstr "Sessioni"
+
+#: includes/class-sessions-manager.php:24
+msgid "Alle Sessions"
+msgstr "Tutte le sessioni"
+
+#: includes/class-sessions-manager.php:26
+msgid "Session bearbeiten"
+msgstr "Modifica sessione"
+
+#: includes/class-sessions-manager.php:27
+msgid "Session ansehen"
+msgstr "Visualizza sessione"
+
+#: includes/class-sessions-manager.php:28
+msgid "Sessions durchsuchen"
+msgstr "Cerca sessioni"
+
+#: includes/class-sessions-manager.php:29
+msgid "Keine Sessions gefunden."
+msgstr "Nessuna sessione trovata."
+
+#: includes/class-sessions-manager.php:30
+msgid "Keine Sessions im Papierkorb."
+msgstr "Nessuna sessione trovata nel cestino."
+
+#: includes/class-sessions-manager.php:57
+msgid "Session-Daten"
+msgstr "Dettagli sessione"
+
+#: includes/class-sessions-manager.php:90
+msgid "Zugehörige Konferenz:"
+msgstr "Conferenza associata:"
+
+#: includes/class-sessions-manager.php:92
+msgid "— Keine Konferenz ausgewählt —"
+msgstr "— Nessuna conferenza selezionata —"
+
+#: includes/class-sessions-manager.php:102
+msgid "Referent / Speaker & Institution:"
+msgstr "Relatore e istituzione:"
+
+#: includes/class-sessions-manager.php:103
+msgid "z. B. Erika Mustermann (Beispiel GmbH)"
+msgstr "ad es. Giulia Rossi (Esempio S.r.l.)"
+
+#: includes/class-sessions-manager.php:107
+msgid "Raum / Saal / Track:"
+msgstr "Sala / auditorium / track:"
+
+#: includes/class-sessions-manager.php:112
+msgid "Workshop-Kapazität:"
+msgstr "Capienza del workshop:"
+
+#: includes/class-sessions-manager.php:140
+msgid "Speaker"
+msgstr "Relatore"
+
+#: includes/class-sessions-manager.php:141
+msgid "Raum / Track"
+msgstr "Sala / track"
+
+#: includes/class-sessions-manager.php:142
+msgid "Zeitfenster"
+msgstr "Fascia oraria"
+
+#: includes/class-sessions-manager.php:143
+msgid "Belegung"
+msgstr "Occupazione"
+
+#. translators: 1: First name, 2: Last name
+#: includes/class-sessions-manager.php:303
+#, php-format
+msgid "Willkommen, %1$s %2$s!"
+msgstr "Benvenuto/a, %1$s %2$s!"
+
+#: includes/class-sessions-manager.php:306
+msgid ""
+"Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange "
+"die Session nicht ausgebucht ist."
+msgstr ""
+"Scegli le tue sessioni. Un posto viene assegnato al salvataggio finché la "
+"sessione non è esaurita."
+
+#: includes/class-sessions-manager.php:310
+msgid "Anmeldung bestätigt"
+msgstr "Iscrizione confermata"
+
+#: includes/class-sessions-manager.php:362
+msgid "Für diese Session eingetragen"
+msgstr "Iscritto a questa sessione"
+
+#: includes/class-sessions-manager.php:362
+msgid "Diesen Programmpunkt auswählen"
+msgstr "Seleziona questa sessione"
+
+#: includes/class-sessions-manager.php:363
+msgid ""
+"Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht "
+"ist."
+msgstr ""
+"Il posto viene assegnato al salvataggio finché la sessione non è esaurita."
+
+#: includes/class-sessions-manager.php:374
+msgid "Sessions ausgewählt"
+msgstr "Sessioni selezionate"
+
+#: includes/class-sessions-manager.php:377
+msgid "Auswahl verbindlich speichern"
+msgstr "Salva selezione"
+
+#: includes/class-theme-manager.php:30
+msgid "WordPress Theme-Standard (Automatisch vererbt)"
+msgstr "Predefinito del tema WordPress (ereditato automaticamente)"
+
+#: includes/class-theme-manager.php:31
+msgid "Empfohlen"
+msgstr "Consigliato"
+
+#: includes/class-theme-manager.php:32
+msgid ""
+"Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-"
+"Theme (GeneratePress, Astra, Twenty Twenty-Four etc.)."
+msgstr ""
+"Eredita direttamente tipografia, colori, pulsanti e spaziature dal tema "
+"WordPress attivo (GeneratePress, Astra, Twenty Twenty-Four, ecc.)."
+
+#: includes/class-theme-manager.php:41
+msgid "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)"
+msgstr "Viola e rosé (lilla scuro, viola, accento rosé)"
+
+#: includes/class-theme-manager.php:42
+msgid "Farbstark"
+msgstr "Vivace"
+
+#: includes/class-theme-manager.php:43
+msgid ""
+"Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), "
+"Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf."
+msgstr ""
+"Lilla scuro (#482683), viola brillante (#7D40E7), accento rosé (#DF0079), "
+"Noto Sans se il tema lo carica, e una sfumatura discreta."
+
+#: includes/class-theme-manager.php:53
+msgid "Enterprise Dark (Navy & Cyan)"
+msgstr "Enterprise Dark (blu navy e ciano)"
+
+#: includes/class-theme-manager.php:54
+msgid "High-Tech Dark"
+msgstr "Scuro high-tech"
+
+#: includes/class-theme-manager.php:55
+msgid ""
+"Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-"
+"Sicherheit & Konferenzen."
+msgstr ""
+"Stile scuro e cobalto su misura con accenti luminosi, pensato per conferenze "
+"sulla cybersicurezza."
+
+#: includes/class-theme-manager.php:65
+msgid "Minimalist Modern (Slate & Monochrome)"
+msgstr "Minimalist Modern (ardesia e monocromatico)"
+
+#: includes/class-theme-manager.php:66
+msgid "Modern"
+msgstr "Moderno"
+
+#: includes/class-theme-manager.php:67
+msgid ""
+"Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern "
+"und maximalem Weißraum."
+msgstr ""
+"Design SaaS pulito ed essenziale con grigi neutri, bordi nitidi e ampio "
+"spazio bianco."
+
+#: includes/class-theme-manager.php:77
+msgid "Editorial Warm (Klassisch & Warmton)"
+msgstr "Editorial Warm (classico e toni caldi)"
+
+#: includes/class-theme-manager.php:78
+msgid "Klassik"
+msgstr "Classico"
+
+#: includes/class-theme-manager.php:79
+msgid ""
+"Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene "
+"Fachkongresse."
+msgstr ""
+"Calde tonalità avorio e bordeaux per simposi accademici e congressi "
+"direzionali."
+
+#: includes/class-theme-manager.php:89
+msgid "Hochkontrast (Schwarz auf Weiß)"
+msgstr "Alto contrasto (nero su bianco)"
+
+#: includes/class-theme-manager.php:90
+msgid "Hochkontrast"
+msgstr "Alto contrasto"
+
+#: includes/class-theme-manager.php:91
+msgid ""
+"Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten "
+"Fokus-Rahmen."
+msgstr ""
+"Testo nero su sfondo bianco (contrasto 21:1) con accento giallo e contorni "
+"di focus rinforzati."
+
+#: includes/class-theme-manager.php:101
+msgid "Benutzerdefiniertes Theme (Eigene Farben & CSS)"
+msgstr "Tema personalizzato (colori e CSS propri)"
+
+#: includes/class-theme-manager.php:102
+msgid "Individuell"
+msgstr "Personalizzato"
+
+#: includes/class-theme-manager.php:103
+msgid ""
+"Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-"
+"Stylesheets."
+msgstr ""
+"Selettori colore personalizzati e supporto per fogli di stile CSS caricati."
+
+#: includes/class-theme-manager.php:377
+msgid "Keine gültige Upload-Datei übergeben."
+msgstr "Nessun file caricato valido fornito."
+
+#: includes/class-theme-manager.php:387
+msgid ""
+"Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen "
+"werden."
+msgstr ""
+"Errore di sicurezza: è consentito caricare esclusivamente file .css puri."
+
+#: includes/class-theme-manager.php:394
+msgid "Die CSS-Datei überschreitet das Limit von 2 MB."
+msgstr "Il file CSS supera il limite di 2 MB."
+
+#: includes/class-theme-manager.php:421
+msgid "Konnte die Theme-Datei nicht auf dem Server speichern."
+msgstr "Impossibile salvare il file del tema sul server."
+
+#: includes/class-theme-manager.php:434
+msgid "Custom-Theme CSS erfolgreich hochgeladen und aktiviert."
+msgstr "CSS del tema personalizzato caricato e attivato."
+
+#: includes/class-venues-manager.php:23
+msgctxt "taxonomy general name"
+msgid "Veranstaltungsorte"
+msgstr "Sedi"
+
+#: includes/class-venues-manager.php:24
+msgctxt "taxonomy singular name"
+msgid "Veranstaltungsort"
+msgstr "Sede dell’evento"
+
+#: includes/class-venues-manager.php:25
+msgid "Veranstaltungsorte durchsuchen"
+msgstr "Cerca sedi"
+
+#: includes/class-venues-manager.php:26
+msgid "Häufige Tagungsorte"
+msgstr "Sedi frequenti"
+
+#: includes/class-venues-manager.php:27
+msgid "Alle Veranstaltungsorte"
+msgstr "Tutte le sedi"
+
+#: includes/class-venues-manager.php:30
+msgid "Veranstaltungsort bearbeiten"
+msgstr "Modifica sede"
+
+#: includes/class-venues-manager.php:31
+msgid "Veranstaltungsort aktualisieren"
+msgstr "Aggiorna sede"
+
+#: includes/class-venues-manager.php:32
+msgid "Neuen Veranstaltungsort hinzufügen"
+msgstr "Aggiungi nuova sede"
+
+#: includes/class-venues-manager.php:33
+msgid "Name des neuen Tagungsorts"
+msgstr "Nome della nuova sede"
+
+#: includes/class-venues-manager.php:34
+msgid "Orte mit Kommas trennen"
+msgstr "Separa le sedi con virgole"
+
+#: includes/class-venues-manager.php:35
+msgid "Orte hinzufügen oder entfernen"
+msgstr "Aggiungi o rimuovi sedi"
+
+#: includes/class-venues-manager.php:36
+msgid "Aus häufig genutzten Orten wählen"
+msgstr "Scegli tra le sedi più utilizzate"
+
+#: includes/class-venues-manager.php:37
+msgid "Keine Veranstaltungsorte gefunden."
+msgstr "Nessuna sede trovata."
+
+#: includes/class-venues-manager.php:64 includes/class-venues-manager.php:128
+msgid "Stadt / Ort:"
+msgstr "Città / località:"
+
+#: includes/class-venues-manager.php:65
+msgid "z. B. Musterstadt"
+msgstr "ad es. Milano"
+
+#: includes/class-venues-manager.php:66 includes/class-venues-manager.php:131
+msgid "Hauptstadt oder Gemeinde des Tagungsorts."
+msgstr "Comune o città della sede congressuale."
+
+#: includes/class-venues-manager.php:70 includes/class-venues-manager.php:136
+msgid "Straße & Hausnummer:"
+msgstr "Via e numero civico:"
+
+#: includes/class-venues-manager.php:71
+msgid "z. B. Musterstraße 1"
+msgstr "ad es. Via Roma 1"
+
+#: includes/class-venues-manager.php:75 includes/class-venues-manager.php:143
+msgid "Postleitzahl (PLZ):"
+msgstr "Codice di avviamento postale (CAP):"
+
+#: includes/class-venues-manager.php:80 includes/class-venues-manager.php:150
+msgid "Land:"
+msgstr "Paese:"
+
+#: includes/class-venues-manager.php:85
+msgid "Maximale Raumkapazität (Personen):"
+msgstr "Capienza massima della sala (persone):"
+
+#: includes/class-venues-manager.php:92 includes/class-venues-manager.php:169
+msgid "Rollstuhlgerecht zugänglich"
+msgstr "Accessibile in sedia a rotelle"
+
+#: includes/class-venues-manager.php:94
+msgid ""
+"Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der "
+"Veranstaltungsorte und in der REST-Route /venues."
+msgstr ""
+"Selezionare solo dopo verifica. L’indicazione appare nell’elenco delle sedi "
+"e nella rotta REST /venues."
+
+#: includes/class-venues-manager.php:98
+msgid "Google Maps / Wegbeschreibung URL:"
+msgstr "URL mappa / indicazioni stradali:"
+
+#: includes/class-venues-manager.php:103 includes/class-venues-manager.php:182
+msgid "Webseite des Tagungsorts:"
+msgstr "Sito web della sede:"
+
+#: includes/class-venues-manager.php:157
+msgid "Maximale Raumkapazität:"
+msgstr "Capienza massima della sala:"
+
+#: includes/class-venues-manager.php:160
+msgid "Personenkapazität des Tagungs- und Konferenzbereichs."
+msgstr "Capienza di posti dell’area congressuale."
+
+#: includes/class-venues-manager.php:165
+msgid "Zugänglichkeit:"
+msgstr "Accessibilità:"
+
+#: includes/class-venues-manager.php:175
+msgid "Google Maps Link:"
+msgstr "Link alla mappa:"
+
+#: includes/class-venues-manager.php:247
+msgid "Stadt & Adresse"
+msgstr "Città e indirizzo"
+
+#: includes/class-venues-manager.php:248
+msgid "Kapazität"
+msgstr "Capienza"
+
+#: includes/class-venues-manager.php:249
+msgid "Rollstuhlgerecht"
+msgstr "Accessibile in sedia a rotelle"
+
+#: includes/class-venues-manager.php:288
+msgid "Ja"
+msgstr "Sì"
+
+#: includes/class-venues-manager.php:290
+msgid "Nicht angegeben"
+msgstr "Non specificato"
+
+#. translators: %d: seconds to wait before trying again
+#: includes/class-waiting-room.php:244
+#, php-format
+msgid ""
+"Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden "
+"erneut. Ein Platz ist damit nicht reserviert."
+msgstr ""
+"Volume molto elevato di richieste simultanee. Riprova tra %d secondi. Nessun "
+"posto è stato riservato."
+
+#: includes/class-waiting-room.php:271
+msgid ""
+"Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in "
+"der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber "
+"selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle."
+msgstr ""
+"Senza una cache oggetti persistente (Redis, Memcached), la sala d’attesa "
+"conta nel database: le richieste rifiutate evitano le query di prenotazione, "
+"ma comportano comunque una lettura e una scrittura sulla tabella delle "
+"opzioni."
+
+#: wm-cyber-events-core.php:258
+msgid "Cyber Events Kennzahlen"
+msgstr "Metriche Cyber Events"
+
+#: wm-cyber-events-core.php:273
+msgid "Cyber Events Kennzahl"
+msgstr "Metrica Cyber Events"
+
+#: wm-cyber-events-core.php:277
+msgid ""
+"Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien "
+"Plätzen aus."
+msgstr ""
+"Mostra metriche in tempo reale su conferenze attive, iscrizioni confermate e "
+"posti liberi."
+
+#: wm-cyber-events-core.php:281
+msgid "Kennzahl"
+msgstr "Metrica"
+
+#: wm-cyber-events-core.php:286
+msgid "Veranstaltungs-ID (optional)"
+msgstr "ID evento (facoltativo)"
+
+#: wm-cyber-events-core.php:362
+msgid "Dokumentation"
+msgstr "Documentazione"
+
+#: wm-cyber-events-core.php:588
+msgid ""
+"Bitte geben Sie eine gültige Event-ID an: [cybevents_registration "
+"event_id=\"123\"]"
+msgstr ""
+"Specifica un ID evento valido: [cybevents_registration event_id=\"123\"]"
+
+#: wm-cyber-events-core.php:603
+msgid ""
+"Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus "
+"Ihrer E-Mail."
+msgstr ""
+"Nessun token di conferma valido trovato. Utilizza il link presente nella tua "
+"email."
+
+#: blocks/editor.js:30
+msgid "— Neueste aktive Veranstaltung (Automatisch) —"
+msgstr "— Evento attivo più recente (automatico) —"
+
+#: blocks/editor.js:43
+msgid "Automatisch (Aktuelle Konferenz)"
+msgstr "Automatico (conferenza corrente)"
+
+#: blocks/editor.js:67
+msgid "Veranstaltungs-Auswahl"
+msgstr "Selezione evento"
+
+#: blocks/editor.js:69
+msgid "Ziel-Konferenz"
+msgstr "Conferenza di destinazione"
+
+#: blocks/editor.js:73
+msgid "Wählen Sie die Konferenz, deren Daten im Hero geladen werden."
+msgstr ""
+"Seleziona la conferenza i cui dettagli vengono mostrati nel banner hero."
+
+#: blocks/editor.js:78
+msgid "Design & Layout-Presets"
+msgstr "Preset di design e layout"
+
+#: blocks/editor.js:80
+msgid "Theme-Preset"
+msgstr "Preset del tema"
+
+#: blocks/editor.js:83
+msgid "Enterprise Dark & Glow (Standard)"
+msgstr "Enterprise Dark & Glow (predefinito)"
+
+#: blocks/editor.js:84 blocks/editor.js:767
+msgid "Federal Blue"
+msgstr "Blu istituzionale"
+
+#: blocks/editor.js:85
+msgid "Cyberpunk Cyan Glow"
+msgstr "Bagliore ciano cyberpunk"
+
+#: blocks/editor.js:86
+msgid "Clean White & Modern"
+msgstr "Bianco pulito e moderno"
+
+#: blocks/editor.js:87
+msgid "Glassmorphism Blur"
+msgstr "Sfocatura glassmorphism"
+
+#: blocks/editor.js:92
+msgid "Eckenabrundung (Border Radius)"
+msgstr "Arrotondamento angoli (border radius)"
+
+#: blocks/editor.js:95
+msgid "Ohne (0px)"
+msgstr "Nessuno (0px)"
+
+#: blocks/editor.js:96 blocks/editor.js:262
+msgid "Mittel (8px)"
+msgstr "Medio (8px)"
+
+#: blocks/editor.js:97 blocks/editor.js:263
+msgid "Groß (16px)"
+msgstr "Grande (16px)"
+
+#: blocks/editor.js:98 blocks/editor.js:264
+msgid "Sehr groß (24px)"
+msgstr "Molto grande (24px)"
+
+#: blocks/editor.js:103
+msgid "Leucht- & Glow-Effekt aktivieren"
+msgstr "Attiva effetto bagliore"
+
+#: blocks/editor.js:110
+msgid "Texte & Call-to-Action Buttons"
+msgstr "Testi e pulsanti di invito all’azione"
+
+#: blocks/editor.js:112 blocks/editor.js:473
+msgid "Badge / Dachzeile"
+msgstr "Badge / occhiello"
+
+#: blocks/editor.js:117
+msgid "Individuelle Hauptüberschrift (Optional)"
+msgstr "Titolo principale personalizzato (facoltativo)"
+
+#: blocks/editor.js:119 blocks/editor.js:275 blocks/editor.js:559
+msgid "Standard: Titel der Veranstaltung"
+msgstr "Predefinito: titolo dell’evento"
+
+#: blocks/editor.js:123
+msgid "Individueller Einleitungstext / Lead"
+msgstr "Testo introduttivo personalizzato"
+
+#: blocks/editor.js:125
+msgid "Standard: Beschreibung der Veranstaltung"
+msgstr "Predefinito: descrizione dell’evento"
+
+#: blocks/editor.js:129
+msgid "Primärer CTA-Button Text"
+msgstr "Etichetta pulsante CTA principale"
+
+#: blocks/editor.js:134
+msgid "Primärer CTA-Button Ziel-Link / Anker"
+msgstr "URL / ancora di destinazione CTA principale"
+
+#: blocks/editor.js:139
+msgid "Sekundären Button anzeigen"
+msgstr "Mostra pulsante secondario"
+
+#: blocks/editor.js:144
+msgid "Sekundärer Button Text"
+msgstr "Etichetta pulsante secondario"
+
+#: blocks/editor.js:149
+msgid "Sekundärer Button Ziel-Link"
+msgstr "URL di destinazione pulsante secondario"
+
+#: blocks/editor.js:156
+msgid "Sichtbarkeit von Elementen"
+msgstr "Visibilità degli elementi"
+
+#: blocks/editor.js:158
+msgid "Live Countdown-Timer anzeigen"
+msgstr "Mostra conto alla rovescia in tempo reale"
+
+#: blocks/editor.js:163
+msgid "Freie Plätze / Kapazitäts-Pill anzeigen"
+msgstr "Mostra pill posti liberi / capienza"
+
+#: blocks/editor.js:168
+msgid "Status-Pill (Geöffnet/Ausgebucht) anzeigen"
+msgstr "Mostra pill di stato (aperto/esaurito)"
+
+#: blocks/editor.js:173
+msgid "Veranstaltungsort anzeigen"
+msgstr "Mostra sede dell’evento"
+
+#: blocks/editor.js:178
+msgid "Datum & Uhrzeit anzeigen"
+msgstr "Mostra data e ora"
+
+#: blocks/editor.js:183
+msgid "Ticketpreis / Kostenfrei-Badge anzeigen"
+msgstr "Mostra prezzo biglietto / badge gratuito"
+
+#: blocks/editor.js:188
+msgid "Kalender-Export Button (.ics) anzeigen"
+msgstr "Mostra pulsante esportazione calendario (.ics)"
+
+#: blocks/editor.js:200
+msgid "Kopfbereich"
+msgstr "Intestazione hero"
+
+#: blocks/editor.js:205
+msgid ""
+"Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie "
+"Plätze, Countdown und Anmelde-Button."
+msgstr ""
+"Predefinito: descrizione dell’evento con data, sede, prezzo, posti liberi, "
+"conto alla rovescia e pulsante di iscrizione."
+
+#: blocks/editor.js:210
+msgid "Countdown"
+msgstr "Conto alla rovescia"
+
+#: blocks/editor.js:211
+msgid "Freie Plätze"
+msgstr "Posti liberi"
+
+#. translators: %s: style preset key
+#: blocks/editor.js:212 blocks/editor.js:337
+msgid "Stil: %s"
+msgstr "Stile: %s"
+
+#. translators: %s: button label
+#: blocks/editor.js:213 blocks/editor.js:338 blocks/editor.js:939
+msgid "Button: %s"
+msgstr "Pulsante: %s"
+
+#: blocks/editor.js:237 blocks/editor.js:362 blocks/editor.js:450
+#: blocks/editor.js:545
+msgid "Konferenz-Auswahl"
+msgstr "Selezione conferenza"
+
+#: blocks/editor.js:239 blocks/editor.js:364 blocks/editor.js:452
+#: blocks/editor.js:547
+msgid "Ziel-Veranstaltung"
+msgstr "Evento di destinazione"
+
+#: blocks/editor.js:243
+msgid "Wählen Sie das Event aus, für das sich Besucher anmelden."
+msgstr "Seleziona l’evento a cui si iscrivono i visitatori."
+
+#: blocks/editor.js:248
+msgid "Formular-Design & Theme"
+msgstr "Design e tema del modulo"
+
+#: blocks/editor.js:250
+msgid "Formular-Stil"
+msgstr "Stile del modulo"
+
+#: blocks/editor.js:253
+msgid "Cyber Glassmorphism (Standard)"
+msgstr "Cyber Glassmorphism (predefinito)"
+
+#: blocks/editor.js:254
+msgid "Clean White Studio"
+msgstr "Studio bianco pulito"
+
+#: blocks/editor.js:259
+msgid "Eckenabrundung"
+msgstr "Arrotondamento angoli"
+
+#: blocks/editor.js:271
+msgid "Formularfelder & Erfassungsoptionen"
+msgstr "Campi del modulo e opzioni di acquisizione"
+
+#: blocks/editor.js:273
+msgid "Individueller Formulartitel"
+msgstr "Titolo modulo personalizzato"
+
+#: blocks/editor.js:279
+msgid "Individueller Untertitel / Hinweis"
+msgstr "Sottotitolo / nota personalizzata"
+
+#: blocks/editor.js:281
+msgid "Standard: kein Untertitel"
+msgstr "Predefinito: nessun sottotitolo"
+
+#: blocks/editor.js:285
+msgid "Organisation / Firma Feld anzeigen"
+msgstr "Mostra campo organizzazione / azienda"
+
+#: blocks/editor.js:290
+msgid "Foto- & Videoaufnahmen Einwilligung anzeigen"
+msgstr "Mostra casella consenso foto e video"
+
+#: blocks/editor.js:295
+msgid "Key Facts Header im Formular anzeigen"
+msgstr "Mostra intestazione informazioni chiave nel modulo"
+
+#: blocks/editor.js:307
+msgid "Button-Beschriftung & DSGVO-Links"
+msgstr "Etichetta pulsante e link privacy"
+
+#: blocks/editor.js:309
+msgid "Absende-Button Beschriftung"
+msgstr "Etichetta pulsante di invio"
+
+#: blocks/editor.js:314
+msgid "Individuelle Datenschutz-URL (Optional)"
+msgstr "URL personalizzato informativa privacy (facoltativo)"
+
+#: blocks/editor.js:316
+msgid "Standard: Datenschutzseite aus Einstellungen > Datenschutz"
+msgstr "Predefinito: pagina privacy in Impostazioni > Privacy"
+
+#: blocks/editor.js:327
+msgid "Anmeldeformular"
+msgstr "Modulo di iscrizione"
+
+#: blocks/editor.js:332
+msgid ""
+"Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach "
+"gilt die Anmeldung."
+msgstr ""
+"Iscrizione con double opt-in: Brevo invia il link di conferma e l’iscrizione "
+"diventa effettiva dopo la conferma."
+
+#: blocks/editor.js:338
+msgid "Standard nach Ticketpreis"
+msgstr "Predefinito in base al prezzo del biglietto"
+
+#: blocks/editor.js:372
+msgid "Überschrift & Untertitel"
+msgstr "Titolo e sottotitolo"
+
+#: blocks/editor.js:374 blocks/editor.js:478 blocks/editor.js:772
+msgid "Überschrift"
+msgstr "Titolo"
+
+#: blocks/editor.js:379
+msgid "Untertitel / Beschreibung"
+msgstr "Sottotitolo / descrizione"
+
+#: blocks/editor.js:386
+msgid "Suche, Angaben & Export"
+msgstr "Ricerca, metadati ed esportazione"
+
+#: blocks/editor.js:388
+msgid "Live-Suchfeld für Sessions anzeigen"
+msgstr "Mostra campo di ricerca sessioni in tempo reale"
+
+#: blocks/editor.js:393
+msgid "Raum- und Ortsangaben anzeigen"
+msgstr "Mostra dettagli di sala e sede"
+
+#: blocks/editor.js:398
+msgid "Referenten-Avatare anzeigen"
+msgstr "Mostra avatar dei relatori"
+
+#: blocks/editor.js:403
+msgid "Gesamten Kalender-Export (.ics) anzeigen"
+msgstr "Mostra esportazione completa del calendario (.ics)"
+
+#: blocks/editor.js:420
+msgid ""
+"Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche "
+"und .ics-Export."
+msgstr ""
+"Sessioni in ordine cronologico con sala, relatore, descrizione, ricerca ed "
+"esportazione .ics."
+
+#: blocks/editor.js:425
+msgid "Suche"
+msgstr "Ricerca"
+
+#: blocks/editor.js:426
+msgid ".ics-Download"
+msgstr "Download .ics"
+
+#: blocks/editor.js:460
+msgid "Layout & Spalten"
+msgstr "Layout e colonne"
+
+#: blocks/editor.js:462 blocks/editor.js:864
+msgid "Spaltenanzahl (Desktop)"
+msgstr "Colonne (desktop)"
+
+#: blocks/editor.js:471
+msgid "Texte & Detail-Anzeigen"
+msgstr "Visualizzazione testi e dettagli"
+
+#: blocks/editor.js:483 blocks/editor.js:777
+msgid "Untertitel"
+msgstr "Sottotitolo"
+
+#: blocks/editor.js:488
+msgid "Vortragsthema der Session anzeigen"
+msgstr "Mostra tema dell’intervento della sessione"
+
+#: blocks/editor.js:493
+msgid "Raumangabe anzeigen"
+msgstr "Mostra indicazione della sala"
+
+#: blocks/editor.js:498
+msgid "Uhrzeit anzeigen"
+msgstr "Mostra orario di inizio"
+
+#: blocks/editor.js:515
+msgid "Konferenz: "
+msgstr "Conferenza: "
+
+#. translators: %d: number of columns
+#: blocks/editor.js:520 blocks/editor.js:938
+msgid "%d Spalten"
+msgstr "%d colonne"
+
+#: blocks/editor.js:521
+msgid "Vortragsthemen"
+msgstr "Temi degli interventi"
+
+#: blocks/editor.js:555
+msgid "Titel"
+msgstr "Titolo"
+
+#: blocks/editor.js:557
+msgid "Individueller Titel"
+msgstr "Titolo personalizzato"
+
+#: blocks/editor.js:565
+msgid "Kalender-Dienste & Optionen"
+msgstr "Servizi e opzioni calendario"
+
+#: blocks/editor.js:567
+msgid "Apple / Outlook (.ics Datei) anzeigen"
+msgstr "Mostra Apple / Outlook (file .ics)"
+
+#: blocks/editor.js:572
+msgid "Google Kalender Direkt-Link anzeigen"
+msgstr "Mostra link diretto Google Calendar"
+
+#: blocks/editor.js:577
+msgid "Outlook Web Direkt-Link anzeigen"
+msgstr "Mostra link diretto Outlook Web"
+
+#: blocks/editor.js:582
+msgid "Microsoft 365 Direkt-Link anzeigen"
+msgstr "Mostra link diretto Microsoft 365"
+
+#: blocks/editor.js:587
+msgid "Zeitzonen-Hinweis anzeigen"
+msgstr "Mostra indicazione del fuso orario"
+
+#: blocks/editor.js:592
+msgid "Hinweis auf die Erinnerung in der .ics-Datei anzeigen"
+msgstr "Mostra nota sul promemoria nel file .ics"
+
+#: blocks/editor.js:604
+msgid "Kalender"
+msgstr "Calendario"
+
+#: blocks/editor.js:609
+msgid ""
+".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google "
+"Kalender, Outlook Web und Microsoft 365."
+msgstr ""
+"File .ics con promemoria il giorno prima dell’inizio e link a Google "
+"Calendar, Outlook Web e Microsoft 365."
+
+#: blocks/editor.js:614
+msgid ".ics-Datei"
+msgstr "File .ics"
+
+#: blocks/editor.js:640 blocks/editor.js:650
+msgid "Session-Auswahl"
+msgstr "Selettore di sessioni"
+
+#: blocks/editor.js:641
+msgid ""
+"Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus "
+"dem Bestätigungslink; ohne Token erscheint ein Hinweis."
+msgstr ""
+"Questo blocco non ha impostazioni. Mostra le sessioni associate al token nel "
+"link di conferma; senza token compare un avviso."
+
+#: blocks/editor.js:655
+msgid ""
+"Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht "
+"ist."
+msgstr ""
+"Un posto viene assegnato al salvataggio finché la sessione non è esaurita."
+
+#: blocks/editor.js:678
+msgid "Ticketpass-Optionen"
+msgstr "Opzioni pass biglietto"
+
+#: blocks/editor.js:680
+msgid "Pass-Überschrift"
+msgstr "Titolo del pass"
+
+#: blocks/editor.js:685
+msgid "Kopfzeile (Standard: Titel der Veranstaltung)"
+msgstr "Riga d’intestazione (predefinito: titolo dell’evento)"
+
+#: blocks/editor.js:690
+msgid "Drucken-Button (Print Badge) anzeigen"
+msgstr "Mostra pulsante di stampa (stampa badge)"
+
+#: blocks/editor.js:695
+msgid "Ticketnummer anzeigen"
+msgstr "Mostra numero biglietto"
+
+#: blocks/editor.js:700
+msgid "Rechnungsnummer / Referenz anzeigen"
+msgstr "Mostra numero / riferimento fattura"
+
+#: blocks/editor.js:705
+msgid "Check-In Status anzeigen"
+msgstr "Mostra stato del check-in"
+
+#: blocks/editor.js:722
+msgid ""
+"Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der "
+"Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und "
+"Druckfunktion."
+msgstr ""
+"Pass per le iscrizioni confermate, accessibile tramite il token dell’email "
+"di conferma: nome, azienda, stato, numero fattura, numero biglietto e "
+"pulsante di stampa."
+
+#: blocks/editor.js:727
+msgid "Ticketnummer"
+msgstr "Numero biglietto"
+
+#: blocks/editor.js:728
+msgid "Druckfunktion"
+msgstr "Pulsante di stampa"
+
+#: blocks/editor.js:729
+msgid "Titel der Veranstaltung"
+msgstr "Titolo dell’evento"
+
+#: blocks/editor.js:752
+msgid "Layout & Farbschema"
+msgstr "Layout e schema colori"
+
+#: blocks/editor.js:754
+msgid "Raster-Layout"
+msgstr "Layout a griglia"
+
+#: blocks/editor.js:757
+msgid "4 Spalten Grid (Standard)"
+msgstr "Griglia a 4 colonne (predefinito)"
+
+#: blocks/editor.js:758
+msgid "2 Spalten Grid (Groß)"
+msgstr "Griglia a 2 colonne (ampia)"
+
+#: blocks/editor.js:763
+msgid "Farbthema"
+msgstr "Tema colori"
+
+#: blocks/editor.js:766
+msgid "Dark Cyber Glow (Standard)"
+msgstr "Dark Cyber Glow (predefinito)"
+
+#: blocks/editor.js:784
+msgid "Angezeigte Karten"
+msgstr "Schede visualizzate"
+
+#: blocks/editor.js:823
+msgid ""
+"Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben "
+"erfüllt, bewertet der Block nicht."
+msgstr ""
+"Schede che descrivono le funzioni del plugin. Il blocco non formula "
+"valutazioni di conformità legale del sito."
+
+#: blocks/editor.js:828
+msgid "Double Opt-in"
+msgstr "Double opt-in"
+
+#: blocks/editor.js:829
+msgid "Formulare"
+msgstr "Moduli"
+
+#: blocks/editor.js:830
+msgid "Eigene Assets"
+msgstr "Risorse ospitate localmente"
+
+#: blocks/editor.js:855
+msgid "Abfrage & Filterung"
+msgstr "Query e filtri"
+
+#: blocks/editor.js:857
+msgid "Maximale Anzahl Konferenzen"
+msgstr "Numero massimo di conferenze"
+
+#: blocks/editor.js:871
+msgid "Status-Filter"
+msgstr "Filtro di stato"
+
+#: blocks/editor.js:874
+msgid "Nur aktive Veranstaltungen"
+msgstr "Solo eventi attivi"
+
+#: blocks/editor.js:875
+msgid "Aktive und archivierte Veranstaltungen"
+msgstr "Eventi attivi e archiviati"
+
+#: blocks/editor.js:876
+msgid "Nur archivierte Veranstaltungen"
+msgstr "Solo eventi archiviati"
+
+#: blocks/editor.js:883
+msgid "Sichtbare Metadaten & Buttons"
+msgstr "Metadati e pulsanti visibili"
+
+#: blocks/editor.js:885
+msgid "Live-Suchleiste anzeigen"
+msgstr "Mostra barra di ricerca in tempo reale"
+
+#: blocks/editor.js:890
+msgid "Preisschild anzeigen"
+msgstr "Mostra etichetta prezzo"
+
+#: blocks/editor.js:895
+msgid "Standort / Tagungsort anzeigen"
+msgstr "Mostra sede / luogo"
+
+#: blocks/editor.js:900
+msgid "Datums-Badge anzeigen"
+msgstr "Mostra badge data"
+
+#: blocks/editor.js:905
+msgid "Direkten .ics Kalenderlink anzeigen"
+msgstr "Mostra link diretto calendario .ics"
+
+#: blocks/editor.js:910
+msgid "Beschreibungstext anzeigen"
+msgstr "Mostra estratto della descrizione"
+
+#: blocks/editor.js:915
+msgid "CTA-Button Beschriftung"
+msgstr "Etichetta pulsante CTA"
+
+#: blocks/editor.js:928
+msgid "Veranstaltungsübersicht"
+msgstr "Panoramica eventi"
+
+#: blocks/editor.js:932
+msgid ""
+"Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-"
+"Button und .ics-Link."
+msgstr ""
+"Griglia degli eventi con data, prezzo, luogo, riepilogo, pulsante di "
+"iscrizione e link .ics."
+
+#. translators: %d: maximum number of events
+#: blocks/editor.js:937
+msgid "Max. %d Veranstaltungen"
+msgstr "Max. %d eventi"
+
+#: blocks/editor.js:952
+msgid "Cyber Events Sitzplan"
+msgstr "Mappa dei posti Cyber Events"
+
+#: blocks/editor.js:965
+msgid "Sitzplan-Einstellungen"
+msgstr "Impostazioni mappa dei posti"
+
+#: blocks/editor.js:973
+msgid "Überschrift (optional)"
+msgstr "Titolo (facoltativo)"
+
+#: blocks/editor.js:978
+msgid "Beschreibungstext (optional)"
+msgstr "Descrizione (facoltativa)"
+
+#: blocks/editor.js:983
+msgid "Live-Aktualisierung aktivieren"
+msgstr "Attiva aggiornamenti in tempo reale"
+
+#: blocks/editor.js:1001
+msgid "Sitzplan"
+msgstr "Mappa dei posti"
+
+#: blocks/editor.js:1006
+msgid ""
+"Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit "
+"barrierefreier Datentabelle."
+msgstr ""
+"Panoramica grafica dell’occupazione di tutte le sessioni di un evento con "
+"tabella dati accessibile."
+
+#: blocks/editor.js:1019
+msgid "Cyber Events Multi-View Kalender"
+msgstr "Calendario multi-vista Cyber Events"
+
+#: blocks/editor.js:1032
+msgid "Ansichten & Datenquelle"
+msgstr "Viste e origine dati"
+
+#: blocks/editor.js:1040
+msgid "Standardansicht"
+msgstr "Vista predefinita"
+
+#: blocks/editor.js:1043
+msgid "Monatskalender"
+msgstr "Calendario mensile"
+
+#: blocks/editor.js:1044
+msgid "Wochenplan"
+msgstr "Pianificazione settimanale"
+
+#: blocks/editor.js:1045
+msgid "Tagesagenda"
+msgstr "Agenda giornaliera"
+
+#: blocks/editor.js:1046
+msgid "Listenansicht"
+msgstr "Vista elenco"
+
+#: blocks/editor.js:1047
+msgid "Kartenansicht"
+msgstr "Vista schede"
+
+#: blocks/editor.js:1048
+msgid "Raumübersicht"
+msgstr "Panoramica sale"
+
+#: blocks/editor.js:1049
+msgid "Track-Matrix"
+msgstr "Matrice dei track"
+
+#: blocks/editor.js:1054
+msgid "Maximale Anzahl Einträge"
+msgstr "Numero massimo di voci"
+
+#: blocks/editor.js:1061
+msgid "Monat (JJJJ-MM, optional)"
+msgstr ""
+
+#: blocks/editor.js:1068
+msgid "Bedienleiste & Filter"
+msgstr "Barra degli strumenti e filtri"
+
+#: blocks/editor.js:1070
+msgid "Ansichts-Umschalter anzeigen"
+msgstr "Mostra selettore di vista"
+
+#: blocks/editor.js:1075
+msgid "Track- und Raumfilter anzeigen"
+msgstr "Mostra filtri di track e sala"
+
+#: blocks/editor.js:1080
+msgid "Suchfeld anzeigen"
+msgstr "Mostra campo di ricerca"
+
+#: blocks/editor.js:1085
+msgid "Meldungsleiste anzeigen"
+msgstr "Mostra barra ticker"
+
+#: blocks/editor.js:1103
+msgid "Kalender-Ansichten"
+msgstr "Viste del calendario"
+
+#: blocks/editor.js:1104
+msgid "Multi-View Kalender & Agenda"
+msgstr "Calendario e agenda multi-vista"
+
+#: blocks/editor.js:1108
+msgid ""
+"Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-"
+"Ansicht."
+msgstr ""
+"Viste commutabili per mese, settimana, giorno, elenco, schede, sale e track."
+
+#: blocks/agenda-matrix/block.json
+msgctxt "block title"
+msgid "Cyber Events Konferenz-Agenda"
+msgstr "Agenda conferenze Cyber Events"
+
+#: blocks/agenda-matrix/block.json
+msgctxt "block description"
+msgid ""
+"Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, "
+"Raumfiltern und iCal (.ics) Download."
+msgstr ""
+"Programma interattivo multi-track della conferenza con cronologia, dettagli "
+"relatori, filtri sala e download iCal (.ics)."
+
+#: blocks/calendar-views/block.json
+msgctxt "block title"
+msgid "Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)"
+msgstr "Cyber Events Multi-View Pro (calendario, agenda e track)"
+
+#: blocks/calendar-views/block.json
+msgctxt "block description"
+msgid ""
+"Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: "
+"Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, "
+"Raumkarte und Summit Multi-Track Matrix."
+msgstr ""
+"Suite avanzata di calendario e agenda con 7 viste interattive nel frontend: "
+"calendario mensile, pianificazione settimanale, agenda giornaliera, vista "
+"elenco, schede fotografiche, mappa sale e matrice multi-track."
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "event"
+msgstr "evento"
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "calendar"
+msgstr "calendario"
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "agenda"
+msgstr "agenda"
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "schedule"
+msgstr "programma"
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "summit"
+msgstr "summit"
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "timetable"
+msgstr "orario"
+
+#: blocks/calendar-views/block.json
+msgctxt "block keyword"
+msgid "matrix"
+msgstr "matrice"
+
+#: blocks/calendar-widget/block.json
+msgctxt "block title"
+msgid "Cyber Events Kalender & .ics Widget"
+msgstr "Widget calendario e .ics Cyber Events"
+
+#: blocks/calendar-widget/block.json
+msgctxt "block description"
+msgid ""
+"Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web "
+"und Microsoft 365."
+msgstr ""
+"Widget calendario con download .ics e link a Google Calendar, Outlook Web e "
+"Microsoft 365."
+
+#: blocks/event-hero/block.json
+msgctxt "block title"
+msgid "Cyber Event Hero & Countdown Banner"
+msgstr "Banner Hero e conto alla rovescia Cyber Event"
+
+#: blocks/event-hero/block.json
+msgctxt "block description"
+msgid ""
+"Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-"
+"Buttons."
+msgstr ""
+"Banner hero dell’evento con conto alla rovescia, dati principali, stato e "
+"pulsanti di iscrizione."
+
+#: blocks/events-grid/block.json
+msgctxt "block title"
+msgid "Cyber Events Übersicht & Archiv Grid"
+msgstr "Griglia panoramica e archivio Cyber Events"
+
+#: blocks/events-grid/block.json
+msgctxt "block description"
+msgid ""
+"Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und "
+"Workshops mit Suchleiste und Status-Filtern."
+msgstr ""
+"Panoramica dinamica a schede di conferenze, simposi e workshop in arrivo con "
+"barra di ricerca e filtri di stato."
+
+#: blocks/registration-form/block.json
+msgctxt "block title"
+msgid "Cyber Events Registrierungsformular"
+msgstr "Modulo di iscrizione Cyber Events"
+
+#: blocks/registration-form/block.json
+msgctxt "block description"
+msgid ""
+"Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und "
+"Einwilligung zu Fotoaufnahmen."
+msgstr ""
+"Modulo di iscrizione con double opt-in tramite Brevo, foto profilo "
+"facoltativa e consenso per le riprese fotografiche."
+
+#: blocks/seat-map/block.json
+msgctxt "block title"
+msgid "Cyber Events Sitzplan"
+msgstr "Mappa dei posti Cyber Events"
+
+#: blocks/seat-map/block.json
+msgctxt "block description"
+msgid ""
+"Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert "
+"über Server-Sent Events."
+msgstr ""
+"Occupazione di tutte le sessioni di un evento in SVG, aggiornata "
+"continuamente tramite Server-Sent Events."
+
+#: blocks/security-trust-badge/block.json
+msgctxt "block title"
+msgid "Cyber Events Security & Trust Badges"
+msgstr "Badge sicurezza e fiducia Cyber Events"
+
+#: blocks/security-trust-badge/block.json
+msgctxt "block description"
+msgid ""
+"Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-"
+"in, Löschfristen, Audit-Log, Rechnungs-XML."
+msgstr ""
+"Panoramica delle funzioni di privacy e sicurezza del plugin: double opt-in, "
+"termini di conservazione, registro di audit e XML fattura."
+
+#: blocks/session-selector/block.json
+msgctxt "block title"
+msgid "Cyber Events Session- & Workshop-Selektor"
+msgstr "Selettore di sessioni e workshop Cyber Events"
+
+#: blocks/session-selector/block.json
+msgctxt "block description"
+msgid ""
+"Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern "
+"vergeben, solange die Session nicht ausgebucht ist."
+msgstr ""
+"Selezione sessioni per le iscrizioni confermate: i posti vengono assegnati "
+"al salvataggio finché resta disponibilità."
+
+#: blocks/speaker-grid/block.json
+msgctxt "block title"
+msgid "Cyber Events Referenten & Speaker Grid"
+msgstr "Griglia relatori ed esperti Cyber Events"
+
+#: blocks/speaker-grid/block.json
+msgctxt "block description"
+msgid ""
+"Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, "
+"Raumverteilung und Bio-Details."
+msgstr ""
+"Panoramica generata automaticamente di keynote speaker, interventi, sale e "
+"profili biografici."
+
+#: blocks/ticket-pass-verifier/block.json
+msgctxt "block title"
+msgid "Cyber Events Digitaler Ticket-Pass"
+msgstr "Pass biglietto digitale Cyber Events"
+
+#: blocks/ticket-pass-verifier/block.json
+msgctxt "block description"
+msgid ""
+"Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, "
+"Ort und Druckfunktion."
+msgstr ""
+"Pass partecipante per le iscrizioni confermate con numero biglietto, evento, "
+"sede e pulsante di stampa."
+
+#~ msgid "LIVE AGENDA TELEMETRIE"
+#~ msgstr "TELEMETRIA AGENDA IN TEMPO REALE"
+
+#~ msgid "Track oder Kategorie filtern"
+#~ msgstr "Filtra per track o categoria"
+
+#~ msgid "Alle Fach-Tracks"
+#~ msgstr "Tutti i track specialistici"
+
+#~ msgid "Track 01: Post-Quantum-Kryptografie"
+#~ msgstr "Track 01: Crittografia post-quantistica"
+
+#~ msgid "Track 02: Zero-Trust & DORA Resilienz"
+#~ msgstr "Track 02: Zero Trust e resilienza DORA"
+
+#~ msgid "Track 03: Autonome KI & § 203 StGB"
+#~ msgstr "Track 03: IA autonoma e segreto professionale"
+
+#~ msgid "Track 04: Software Supply Chain & CRA"
+#~ msgstr "Track 04: Software Supply Chain e CRA"
+
+#~ msgid "Konferenzsaal filtern"
+#~ msgstr "Filtra sala conferenze"
+
+#~ msgid "Plenarsaal Alpha (Keynotes)"
+#~ msgstr "Sala plenaria Alpha (keynote)"
+
+#~ msgid "Security Lab Beta"
+#~ msgstr "Laboratorio sicurezza Beta"
+
+#~ msgid "Workshop Studio Gamma"
+#~ msgstr "Studio workshop Gamma"
+
+#~ msgid "Virtual AS4 Stream Hub"
+#~ msgstr "Hub streaming virtuale AS4"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

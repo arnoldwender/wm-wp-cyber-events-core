@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "tr_TR",
+        "plural-forms": "nplurals=2; plural=(n > 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Brevo üzerinden çift onaylı (Double Opt-in) etkinlikler, oturumlar ve kayıtlar, giriş kontrolü (check-in), fatura XML'i (EN 16931) ve DATEV dışa aktarımı."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Etkinlik bulunamadı veya artık etkin değil."
+      ],
+      "Verbindlich anmelden": [
+        "Ödeme yükümlülüğüyle kaydol"
+      ],
+      "Kostenfrei anmelden": [
+        "Ücretsiz kaydol"
+      ],
+      "Datum": [
+        "Tarih"
+      ],
+      "Veranstaltungsort": [
+        "Etkinlik Yeri"
+      ],
+      "Einlass": [
+        "Giriş"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "E-posta bağlantısı üzerinden onaylandıktan sonra"
+      ],
+      "Kontaktdaten": [
+        "İletişim bilgileri"
+      ],
+      "Einwilligung": [
+        "Onay"
+      ],
+      "Bestätigung": [
+        "Doğrulama"
+      ],
+      "Vorname": [
+        "Ad"
+      ],
+      "z. B. Erika": [
+        "örn. Ayşe"
+      ],
+      "Nachname": [
+        "Soyad"
+      ],
+      "z. B. Mustermann": [
+        "örn. Yılmaz"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Kurumsal e-posta adresi"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Kurum / Kamu Kuruluşu / Şirket"
+      ],
+      "z. B. Beispiel GmbH": [
+        "örn. Örnek A.Ş."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Katılımcı kartı için profil fotoğrafı (isteğe bağlı)"
+      ],
+      "Profilbild Vorschau": [
+        "Profil fotoğrafı önizlemesi"
+      ],
+      "Foto auswählen": [
+        "Fotoğraf seç"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG veya WebP · maks. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Veri koruma ve çift onay (Double Opt-In) rızası *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Konferansa katılım amacıyla verilerimin GDPR kapsamında işlenmesini onaylıyorum. Doğrulama için e-posta yoluyla bir onay bağlantısı alacağım."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Gizlilik politikasını oku"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Fotoğraf ve video çekimleri (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Etkinlik kapsamında organizatörün halkla ilişkiler çalışmaları için fotoğraf ve video görüntülerimin çekilmesini onaylıyorum."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Kontrol Merkezi ve Doluluk"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Kurumsal Motoru etkin"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Kapasite yönetimi, DATEV dışa aktarımı ve giriş kontrolü"
+      ],
+      "Events": [
+        "Etkinlikler"
+      ],
+      "Bestätigte Gäste": [
+        "Onaylanmış konuklar"
+      ],
+      "Ausstehende DOI": [
+        "Bekleyen DOI"
+      ],
+      "Mission Control öffnen": [
+        "Kontrol Merkezini aç"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "GDPR onayı gerekli"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Bu dışa aktarım, GDPR Madde 4(1) kapsamında korunması gereken kişisel veriler içerir. İndirmeden önce verileri gizli tutacağınızı, yalnızca amacına uygun işleyeceğinizi ve etkinlik sonrasında veri koruma kurallarına uygun şekilde sileceğinizi onaylamanız gerekir."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Rezervasyon yönetimine dön"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR koruması"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Finans ve borçlu verilerinin dışa aktarılması, verilerin gizli tutulacağının ve yalnızca muhasebe amacıyla kullanılacağının onaylanmasını gerektirir."
+      ],
+      "Zurück zum DATEV Studio": [
+        "DATEV Stüdyosuna dön"
+      ],
+      "DATEV-Export": [
+        "DATEV dışa aktarımı"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Yetersiz yetki."
+      ],
+      "Cyber Events": [
+        "Siber Etkinlikler"
+      ],
+      "Dashboard & KPIs": [
+        "Kontrol Paneli ve KPI'lar"
+      ],
+      "Dashboard": [
+        "Kontrol Paneli"
+      ],
+      "Alle Veranstaltungen": [
+        "Tüm etkinlikler"
+      ],
+      "Veranstaltungen": [
+        "Etkinlikler"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Yeni etkinlik oluştur"
+      ],
+      "Neue Veranstaltung": [
+        "Yeni etkinlik"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Etkinlik yerleri ve konferans merkezleri"
+      ],
+      "Veranstaltungsorte": [
+        "Etkinlik yerleri"
+      ],
+      "Sessions & Agenda": [
+        "Oturumlar ve gündem"
+      ],
+      "Neue Session erstellen": [
+        "Yeni oturum oluştur"
+      ],
+      "Neue Session": [
+        "Yeni oturum"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Katılımcılar ve rezervasyonlar"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV içe aktarma ve katılım süreci"
+      ],
+      "CSV-Import": [
+        "CSV içe aktarma"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finans ve DATEV dışa aktarımı"
+      ],
+      "Finanzen & DATEV": [
+        "Finans ve DATEV"
+      ],
+      "Audit-Log": [
+        "Denetim günlüğü"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Ayarlar ve Tema Stüdyosu"
+      ],
+      "Einstellungen": [
+        "Ayarlar"
+      ],
+      "Handbuch & Dokumentation": [
+        "Kılavuz ve dokümantasyon"
+      ],
+      "Handbuch": [
+        "Kılavuz"
+      ],
+      "Events & Konferenzen": [
+        "Etkinlikler ve konferanslar"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Etkinlik ve konferans yönetimi yetkileri."
+      ],
+      "Teilnehmer verwalten": [
+        "Katılımcıları yönet"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Tam WordPress yönetici erişimi olmadan etkinlik kayıtlarını görüntülemeye ve dışa aktarmaya izin verir."
+      ],
+      "Einstellungen & Theme": [
+        "Ayarlar ve tema"
+      ],
+      "Handbuch & Doku": [
+        "Kılavuz ve belgeler"
+      ],
+      "Plugin-Navigation": [
+        "Eklenti gezintisi"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Etkinlik başarıyla kaydedildi!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Veriler veritabanında ve WordPress sisteminde eşzamanlı olarak güncellendi."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Etkinlik silindi!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Kayıt kaldırıldı ve yazı çöp kutusuna taşındı."
+      ],
+      "Demodaten angelegt.": [
+        "Demo verileri oluşturuldu."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Örnek etkinlik, oturumlar ve örnek katılımcılar oluşturuldu; faturalar yalnızca fatura düzenleyen bilgileri yapılandırıldığında oluşturulur."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents Komut Konsolu"
+      ],
+      "Enterprise 2026": [
+        "Kurumsal 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Brevo üzerinden çift onaylı etkinlikler, oturumlar ve kayıtlar, giriş kontrolü, fatura XML'i ve DATEV dışa aktarımı."
+      ],
+      "Part of the WM Suite plugin family": [
+        "WM Suite eklenti ailesinin bir parçası"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub modu"
+      ],
+      "Standalone": [
+        "Bağımsız"
+      ],
+      "Demo-Daten auffrischen": [
+        "Demo verilerini yenile"
+      ],
+      "Springen zu:": [
+        "Şuraya git:"
+      ],
+      "Kurzanleitung": [
+        "Hızlı kılavuz"
+      ],
+      "Kennzahlen": [
+        "Göstergeler"
+      ],
+      "Rechnungen": [
+        "Faturalar"
+      ],
+      "Audit-Protokoll": [
+        "Denetim günlüğü"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "CyberEvents ne işe yarar ve bu ekranda neler bulunur?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Eklenti; oturumlu ve kayıtlı etkinlikleri yönetir. Katılımcılar Brevo tarafından gönderilen çift onay bağlantısıyla kayıtlarını doğrular (API anahtarı gerekir), ardından kapasitesi aşılamayan oturumları seçer ve girişte kendi belirteçleriyle (token) kontrol edilirler. Faturalar CII-XML (EN 16931) olarak oluşturulur ve DATEV muhasebe yığını olarak dışa aktarılabilir."
+      ],
+      "Schnellzugriff:": [
+        "Hızlı erişim:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Katılımcılar ve kayıtlar"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Faturaları DATEV yığını olarak dışa aktar"
+      ],
+      "Event Auslastung": [
+        "Etkinlik doluluğu"
+      ],
+      "Kritisch": [
+        "Kritik"
+      ],
+      "Optimal": [
+        "İdeal"
+      ],
+      "Max. Kapazität:": [
+        "Maks. kapasite:"
+      ],
+      "Gebucht:": [
+        "Rezerve edilen:"
+      ],
+      "Live Check-In Counter": [
+        "Canlı giriş sayacı"
+      ],
+      "Anwesend": [
+        "Mevcut"
+      ],
+      "Registriert:": [
+        "Kayıtlı:"
+      ],
+      "Eingecheckt:": [
+        "Giriş yapan:"
+      ],
+      "Wartend:": [
+        "Bekleyen:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Yeni kayıtlar (24 sa.)"
+      ],
+      "Sessions": [
+        "Oturumlar"
+      ],
+      "in 24 h": [
+        "24 saatte"
+      ],
+      "Ausstehende DOI:": [
+        "Bekleyen DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM kuyruk telemetrisi"
+      ],
+      "Jobs": [
+        "Görevler"
+      ],
+      "Verarbeitung": [
+        "İşleniyor"
+      ],
+      "Verarbeitet:": [
+        "İşlenen:"
+      ],
+      "Schnellaktionen": [
+        "Hızlı işlemler"
+      ],
+      "Neue Konferenz anlegen": [
+        "Yeni konferans oluştur"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Katılımcı listesi ve giriş kontrolü"
+      ],
+      "CSV-Batch Import": [
+        "Toplu CSV içe aktarma"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Etkinlik genel görünümü ve doluluk izleme"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Tanımlanan kapasiteye oranla etkinlik başına onaylanmış kayıtlar."
+      ],
+      "Event suchen...": [
+        "Etkinlik ara..."
+      ],
+      "Neue Konferenz": [
+        "Yeni konferans"
+      ],
+      "Konferenz / Event": [
+        "Konferans / etkinlik"
+      ],
+      "Zeitraum": [
+        "Dönem"
+      ],
+      "Ort": [
+        "Şehir"
+      ],
+      "Kapazität & Belegung": [
+        "Kapasite ve doluluk"
+      ],
+      "Status": [
+        "Durum"
+      ],
+      "Aktionen": [
+        "İşlemler"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Hiçbir etkinlik bulunamadı."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Gutenberg blok düzenleyicisinde düzenle"
+      ],
+      "Bearbeiten": [
+        "Düzenle"
+      ],
+      "Schnellbearbeitung": [
+        "Hızlı düzenleme"
+      ],
+      "Vorschau": [
+        "Önizleme"
+      ],
+      "Teilnehmer (%d)": [
+        "Katılımcılar (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Bu etkinliği kalıcı olarak silmek istediğinizden emin misiniz?"
+      ],
+      "Löschen": [
+        "Sil"
+      ],
+      "%d Sessions": [
+        "%d oturum"
+      ],
+      "/ %d Plätze": [
+        "/ %d koltuk"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(kapasite sınırı yok)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Gutenberg düzenleyicisinde düzenle"
+      ],
+      "Editor": [
+        "Düzenleyici"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Hızlı düzenlemeyi aç"
+      ],
+      "Quick": [
+        "Hızlı"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Önyüz sayfasını görüntüle"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Geçerli ve iptal edilmiş faturaların yanı sıra onaylanmamış kayıtlar."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brüt, geçerli faturalar"
+      ],
+      "Gültige Rechnungen": [
+        "Geçerli faturalar"
+      ],
+      "Storniert": [
+        "İptal edildi"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Onaylanmamış kayıtlar"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV dışa aktarımı ve denetim günlüğü"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Belirli bir döneme ait fatura ve alacak dekontlarının muhasebe yığını; hesapları ve vergi anahtarlarını mali müşavirinizle teyit edin."
+      ],
+      "DATEV Format": [
+        "DATEV biçimi"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategori 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256 zinciri"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "90 gün sonra takma adlandırma"
+      ],
+      "DATEV Export Studio öffnen": [
+        "DATEV Dışa Aktarım Stüdyosunu aç"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Denetim günlüğünü görüntüle"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Sürekli zincirlenmiş denetim günlüğü: her kayıt bir öncekini birlikte imzalar; böylece sonradan yapılan değişiklikler, silmeler ve eklemeler fark edilir. Değiştirilemezlik değil, müdahale kanıtı sağlar — wp-config.php dosyasını okuyan anahtara da sahiptir."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Tam denetim günlüğünü aç"
+      ],
+      "Zeitstempel": [
+        "Zaman damgası"
+      ],
+      "Ereignis-Typ": [
+        "Olay türü"
+      ],
+      "Benutzer / System": [
+        "Kullanıcı / sistem"
+      ],
+      "Objekt-ID": [
+        "Nesne kimliği"
+      ],
+      "Audit-Details & Nachweis": [
+        "Denetim ayrıntıları ve kanıt"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Henüz kaydedilmiş bir denetim kaydı yok."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Etkinliği düzenle / hızlı yapılandırma"
+      ],
+      "Schließen": [
+        "Kapat"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Konferans / etkinlik başlığı:"
+      ],
+      "URL-Slug:": [
+        "URL kısa adı (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Toplantı yeri / konum:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Başlangıç (tarih ve saat):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Bitiş (tarih ve saat):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Maks. katılımcı kapasitesi:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Bilet fiyatı (€ cinsinden net):"
+      ],
+      "Status:": [
+        "Durum:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Etkin (yayımlandı)"
+      ],
+      "Entwurf (Draft)": [
+        "Taslak"
+      ],
+      "Archiviert": [
+        "Arşivlendi"
+      ],
+      "Kostenpflichtig": [
+        "Ücretli"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Gutenberg blok düzenleyicisinde aç"
+      ],
+      "Abbrechen": [
+        "İptal"
+      ],
+      "Änderungen speichern": [
+        "Değişiklikleri kaydet"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Katılımcı bilgileri başarıyla güncellendi!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Kayıt bilgileri ve durum veritabanına kaydedildi."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Katılımcı silindi!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Kayıt ve ilişkili tüm oturum rezervasyonları kaldırıldı."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Giriş durumu güncellendi!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Katılımcının katılım durumu değiştirildi."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Çift onay (Double Opt-In) doğrulandı!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Kayıt manuel olarak onaylandı şeklinde işaretlendi."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Katılımcı ve rezervasyon yönetimi"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Çift onay durumu, oturum rezervasyonları ve faturalarla birlikte tüm kayıtlar."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Yaka kartları / katılımcı listesi (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Konferansa göre filtrelendi: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Filtreyi temizle"
+      ],
+      "Alle Teilnehmer": [
+        "Tüm katılımcılar"
+      ],
+      "Bestätigt": [
+        "Onaylandı"
+      ],
+      "Ausstehend DOI": [
+        "Bekleyen DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Ad, e-posta veya şirket ara..."
+      ],
+      "Teilnehmer": [
+        "Katılımcı"
+      ],
+      "Organisation / Firma": [
+        "Kuruluş / şirket"
+      ],
+      "Check-In": [
+        "Giriş kontrolü"
+      ],
+      "Rechnung": [
+        "Fatura"
+      ],
+      "Anmeldedatum": [
+        "Kayıt tarihi"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Kayıt bulunamadı."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Katılımcı bilgilerini düzenle"
+      ],
+      "Auschecken": [
+        "Çıkış yap"
+      ],
+      "Einchecken": [
+        "Giriş yap"
+      ],
+      "DOI bestätigen": [
+        "DOI onayla"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Bu katılımcıyı kalıcı olarak silmek istediğinizden emin misiniz?"
+      ],
+      "Status umschalten": [
+        "Durumu değiştir"
+      ],
+      "Eingecheckt": [
+        "Giriş yapıldı"
+      ],
+      "Nicht vor Ort": [
+        "Alanda değil"
+      ],
+      "Rechnungs-XML": [
+        "Fatura XML'i"
+      ],
+      "Kostenfrei / Keine": [
+        "Ücretsiz / Yok"
+      ],
+      "Edit": [
+        "Düzenle"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Bu katılımcıyı silmek istediğinizden emin misiniz?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Katılımcı bilgilerini düzenle / katılımcı yönetimi"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profil fotoğrafı / katılımcı yaka kartı fotoğrafı (JPG, PNG, WebP · maks. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Fotoğrafı kaldır"
+      ],
+      "Vorname:": [
+        "Ad:"
+      ],
+      "Nachname:": [
+        "Soyad:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-posta adresi:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Kuruluş / şirket / kamu kurumu:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Atanan konferans:"
+      ],
+      "Anmeldestatus:": [
+        "Kayıt durumu:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Onaylandı"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Beklemede (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "İptal edildi"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Teslim edilemedi (geri döndü)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Giriş durumu (etkinlik alanında):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Hayır / alanda değil"
+      ],
+      "Ja / Eingecheckt": [
+        "Evet / giriş yapıldı"
+      ],
+      "Rechnungsnummer:": [
+        "Fatura numarası:"
+      ],
+      "Zahlungsstatus:": [
+        "Ödeme durumu:"
+      ],
+      "Kostenfrei (Free)": [
+        "Ücretsiz"
+      ],
+      "Ausstehend (Pending)": [
+        "Beklemede"
+      ],
+      "Bezahlt (Paid)": [
+        "Ödendi"
+      ],
+      "Erstattet (Refunded)": [
+        "İade edildi"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR veri koruma onayı verildi"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Fotoğraf ve video çekimi onayı verildi"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR gizlilik ve dışa aktarım onayı"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Kişisel verilerin korunması (GDPR Madde 4 ve 5)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Bu dışa aktarım, korunması gereken kişisel katılımcı verilerini (tam adlar, şirketler, kurumsal e-posta adresleri, fatura referansları ve giriş durumu) içeren bir CSV dosyası oluşturur."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Amaçla sınırlılık (GDPR Madde 5(1)(b)):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Veriler yalnızca etkinliğin operasyonel yürütülmesi (örn. yaka kartı basımı ve girişte akreditasyon) amacıyla kullanılabilir."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Gizlilik ve koruma (GDPR Madde 5(1)(f)):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Yetkisiz üçüncü taraflara aktarılması veya şifrelenmemiş mobil cihazlarda saklanması yasaktır."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Silme yükümlülüğü (GDPR Madde 17):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Konferans sona erdikten sonra dışa aktarılan yerel dosya derhal ve veri koruma kurallarına uygun olarak silinmelidir."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "GDPR onayını doğruluyorum:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Bu dışa aktarımın gizli kişisel veriler içerdiğini kabul ediyorum. Verileri yalnızca amacına uygun, özenli bir şekilde işlemeyi ve yasal veri koruma gerekliliklerine titizlikle uymayı taahhüt ediyorum."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "CSV dışa aktarımını şimdi güvenle indir"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Fatura XML'i (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "XML'i panoya kopyala"
+      ],
+      "Keine Berechtigung.": [
+        "Yetkiniz yok."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Güvenlik hatası: Yalnızca gerçek CSV dosyalarına izin verilir."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Dosya çok büyük (en fazla 5 MB izin verilir)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Lütfen bir etkinlik seçin ve CSV verisi sağlayın."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Katılımcı toplu CSV içe aktarma (mükerrer kayıt koruması TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Mükerrer kayıtları kesin biçimde önleyerek harici sistemlerden katılımcı listelerinin otomatik içe aktarımı."
+      ],
+      "Import-Zusammenfassung": [
+        "İçe aktarma özeti"
+      ],
+      "Gesamtzeilen": [
+        "Toplam satır"
+      ],
+      "Neu Importiert": [
+        "Yeni içe aktarılan"
+      ],
+      "Dubletten abgewiesen": [
+        "Reddedilen mükerrer kayıt"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Yeni katılımcı listesi içe aktar"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Hedef etkinlik *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Etkinlik seçin —"
+      ],
+      "CSV-Datei auswählen": [
+        "CSV dosyası seçin"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Biçim: Ad;Soyad;E-posta;Şirket (noktalı virgül veya virgülle ayrılmış, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Veya CSV metnini yapıştırın"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "CSV içe aktarımını şimdi çalıştır"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Muhasebe Yığını Stüdyosu"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Mali müşavirler ve DATEV muhasebesi için standartlaştırılmış finansal dışa aktarım (kategori 21, biçim sürümü 700 / 125 alan)."
+      ],
+      "Exportzeitraum festlegen": [
+        "Dışa aktarım dönemini belirleyin"
+      ],
+      "Laufender Monat": [
+        "İçinde bulunulan ay"
+      ],
+      "Vormonat": [
+        "Önceki ay"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Tüm 2026 yılı"
+      ],
+      "Datum von *": [
+        "Başlangıç tarihi *"
+      ],
+      "Datum bis *": [
+        "Bitiş tarihi *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Borçlu verilerinin dışa aktarımı için onay:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Finans ve fatura alıcısı verilerinin dışa aktarımının kişisel veriler içerdiğini ve yalnızca yasal defter tutma ve vergi kaydı amacıyla yetkili mali müşavirlik ofisine iletileceğini onaylıyorum."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "DATEV EXTF muhasebe yığınını (.csv) indir"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Güvenlikle ilgili tüm işlemlerin, çift onayların, iptallerin ve erişim denetimlerinin zincirlenmiş denetim izi."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Denetim zinciri bütünlüğü tam — %1$d kayıt içerik açısından doğrulandı, %2$d kayıt takma adlandırıldı (yalnızca zincir konumu doğrulanabilir)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Denetim zinciri bütünlüğü BOZULMUŞ"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d kayıt zincirleme öncesinden kalmadır ve doğrulanabilir bir imza taşımaz. Bütünlüğü tam değil, doğrulanmamış sayılır."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY tanımlı değil: zincir anahtarı veritabanından — yani yazma erişimine sahip bir saldırganın zaten değiştirebileceği yerden — alınıyor. wp-config.php içinde AUTH_KEY tanımlayın."
+      ],
+      "Zeitpunkt": [
+        "Zaman"
+      ],
+      "Ereignistyp": [
+        "Olay türü"
+      ],
+      "Referenz-ID": [
+        "Referans kimliği"
+      ],
+      "IP-Adresse": [
+        "IP adresi"
+      ],
+      "Audit-Details (JSON)": [
+        "Denetim ayrıntıları (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Günlük kaydı bulunamadı."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "\"%1$s\" etkinliği %2$d oturum ve %3$d katılımcıyla oluşturuldu."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demo verileri başarıyla içe aktarıldı!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d etkinlik, %2$d oturum, %3$d kayıt ve %4$d fatura silindi."
+      ],
+      "Demodaten bereinigt!": [
+        "Demo verileri temizlendi!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Fabrika ayarları geri yüklendi!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Tüm tablolar boşaltıldı ve ayarlar sıfırlandı."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Yüklenen tema dosyası kaldırıldı."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Ayarlar güvenle kaydedildi."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Kurumsal Yapılandırma ve Güvenlik"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Tasarım, Brevo, faturalar ve DATEV, bot koruması ve demo verileri."
+      ],
+      "Design & Theme Studio": [
+        "Tasarım ve Tema Stüdyosu"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM ve Webhook'lar"
+      ],
+      "Rechnungen & DATEV": [
+        "Faturalar ve DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Bot Koruması (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demo Verileri ve Sıfırlama"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Önyüz Tasarım Sistemi ve Tema Mirası"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Etkinliklerin ve rezervasyon formlarının önyüzde nasıl biçimlendirileceğini seçin. Varsayılan olarak eklenti, yazı tiplerini, renkleri ve düğmeleri etkin WordPress temasından sorunsuzca devralır."
+      ],
+      "Primärfarbe": [
+        "Ana renk"
+      ],
+      "Akzentfarbe": [
+        "Vurgu rengi"
+      ],
+      "Kartenhintergrund": [
+        "Kart arka planı"
+      ],
+      "Textfarbe": [
+        "Metin rengi"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Özel Tema Renkleri ve Kenarlıklar (Özel Tema Özelleştirici)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Ana renk (düğmeler ve vurgular):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Vurgu rengi (rozetler ve ışıma):"
+      ],
+      "Seitenhintergrund:": [
+        "Sayfa arka planı:"
+      ],
+      "Kartenhintergrund:": [
+        "Kart arka planı:"
+      ],
+      "Haupttextfarbe:": [
+        "Ana metin rengi:"
+      ],
+      "Eckenabrundung (px):": [
+        "Köşe yuvarlatma (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Özel CSS teması yükle (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Özelleştirilmiş bir .css stil dosyası yükleyin (örn. ajans-tema.css). Yalıtılmış olarak yüklenir ve otomatik olarak doğrulanır."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Etkin özel tema mevcut"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Yüklenen CSS tema dosyasını gerçekten silmek istiyor musunuz?"
+      ],
+      "Theme löschen": [
+        "Temayı sil"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Ek özel CSS (satır içi düzenleyici)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Özel CSS kurallarını buraya girin, örn.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 ve Webhook Kimlik Doğrulaması"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API anahtarı (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Eşzamansız çift onay e-posta gönderimi ve kişi özniteliklerinin eşitlemesi için kullanılır."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Webhook paylaşılan gizli anahtarı / imza belirteci"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Gelen Brevo webhook verilerini doğrulamak için kullanılan zamanlama saldırılarına dayanıklı belirteç."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Personel tarayıcı API anahtarı (giriş kontrolü)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Giriş personelinin mobil tarayıcı cihazları için kimlik doğrulama belirteci."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Bekleme odası: dakikadaki kabul sayısı"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Dakika ve etkinlik başına kayıt ve oturum rezervasyonuna kabul edilen istek sayısı. 0 bekleme odasını kapatır (varsayılan). Bu sınırın üzerinde rota, herhangi bir veritabanı sorgusu çalışmadan önce HTTP 503 ve Retry-After ile yanıt verir — bu işlemle yer ayrılmaz."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Bu kurulumdaki sayaç altyapısı: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "kalıcı nesne önbelleği"
+      ],
+      "Datenbank (Transients)": [
+        "veritabanı (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI Şablon Kimliği"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo kişi listesi kimliği"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Faturalar (CII-XML) ve DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Fatura numarası öneki"
+      ],
+      "Rechnungssteller": [
+        "Fatura düzenleyen"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Bu bilgiler olmadan fatura ve alacak dekontu oluşturulmaz: %s."
+      ],
+      "Name / Firma": [
+        "Ad / şirket"
+      ],
+      "Straße und Hausnummer": [
+        "Cadde/sokak ve kapı numarası"
+      ],
+      "PLZ": [
+        "Posta kodu"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Ülke (ISO kodu, örn. TR)"
+      ],
+      "USt-IdNr.": [
+        "KDV Numarası"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Vergi numarası (KDV kimlik numarası yoksa)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Faturalandırma e-postası"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "Banka havaleleri için IBAN (isteğe bağlı)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV danışman numarası"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV müşteri numarası"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Gelir hesabı (örn. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Alacak hesabı (örn. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Eklenti henüz bir captcha bileşeni içermiyor: ayar kaydedilir ancak form captcha olmadan işlenir."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Friendly Captcha'yı etkinleştir"
+      ],
+      "Sitekey": [
+        "Site anahtarı (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API anahtarı / gizli anahtar"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demo Verileri Yönetimi ve Fabrika Ayarlarına Sıfırlama"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Örnek verileri içe aktarın, tekrar kaldırın veya eklentiyi fabrika ayarlarına sıfırlayın."
+      ],
+      "1. Demodaten importieren": [
+        "1. Demo verilerini içe aktar"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Oturumlar ve örnek katılımcılar içeren örnek bir konferans oluşturur. Faturalar yalnızca fatura düzenleyen bilgileri ayarlandığında oluşturulur."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Örnek verileri şimdi içe aktarmak istiyor musunuz?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Demo verilerini içe aktar (konferanslar, oturumlar, katılımcılar, faturalar)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Demo verilerini temizle (yalnızca test verilerini sil)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Yalnızca oluşturulan demo konferansları, demo oturumları, demo katılımcıları ve demo faturaları siler. Gerçek etkinlikler ve rezervasyonlar hiçbir şekilde etkilenmez."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Tüm demo verilerini güvenle kaldırmak istiyor musunuz? Gerçek veriler korunacaktır."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Demo verilerini temizle (yalnızca test verileri)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Fabrika ayarlarına sıfırla (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Dikkat (geri alınamaz):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Tüm etkinlik, oturum, kayıt, fatura ve denetim günlüğü tablolarını boşaltır, tüm cybevent ve cybsession yazılarını siler ve bütün ayarları varsayılan duruma sıfırlar."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "UYARI: Kesinlikle emin misiniz? Bu işlem TÜM etkinlikleri, kayıtları ve faturaları siler ve tüm ayarları sıfırlar!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Tam fabrika sıfırlaması (her şeyi sil ve varsayılanlara dön)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Eklenti kaldırıldığında davranış"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Kaldırma sırasında tüm tabloları ve ayarları sil"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Varsayılan olarak eklenti silindiğinde tüm etkinlik, kayıt, fatura ve denetim verileri korunur (yasal saklama yükümlülükleri). Bu seçeneği yalnızca eklenti kaldırılırken tüm tabloların kalıcı olarak silinmesi gerekiyorsa etkinleştirin."
+      ],
+      "Alle Einstellungen speichern": [
+        "Tüm ayarları kaydet"
+      ],
+      "Platzbuchung": [
+        "Koltuk rezervasyonu"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Bir koltuk tek bir koşullu UPDATE sorgusuyla rezerve edilir (belegt = belegt + 1, yalnızca belegt < kapazitaet olduğu sürece). Son koltuk için aynı anda gelen iki istekten yalnızca biri satırı değiştirir; diğeri 'kontenjan dolu' mesajını alır."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Faturalar ve alacak dekontları EN 16931 profiline uygun CII-XML olarak oluşturulur ve testlerde Mustang doğrulayıcısıyla denetlenir. PDF oluşturulmadığından XML bir ZUGFeRD hibrit dosyası değildir. Faturaların münferit durumlarda yasal gereklilikleri karşılayıp karşılamadığını mali müşaviriniz inceler."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF ve muhasebe"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Bir döneme ait fatura ve alacak dekontlarını Windows-1252 kodlamasıyla DATEV biçiminde (EXTF 700, kategori 21) muhasebe yığını olarak dışa aktarır. Alacak ve gelir hesapları ayarlardan alınır; her satır vergi anahtarı 3'ü taşır. Hesapları ve anahtarları mali müşavirinizle teyit edin."
+      ],
+      "Handbuch & API:": [
+        "Kılavuz ve API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Tam kılavuz"
+      ],
+      "Entwickelt von WM Suite.": [
+        "WM Suite tarafından geliştirildi."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Yönetici ve Geliştirici Kılavuzu"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Koltuk rezervasyonu, fatura XML'i, DATEV dışa aktarımı, Brevo çift onayı, kısa kodlar ve tema önayarları."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Kapasite aşımı olmadan koltuk rezervasyonu"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Doluluk sayacı tek bir koşullu ifadeyle artırılır; son koltuk için aynı anda gelen iki istekten yalnızca biri satırı günceller:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Fatura XML'i ve DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Ayarlardaki satıcı bilgileri, hizmet tarihi ve ardışık numarayla faturalar ve alacak dekontları. PDF yok, Leitweg-ID yok."
+      ],
+      "Gutschriften:": [
+        "Alacak dekontları:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Kendi ardışık numarası, orijinal faturaya atıfta bulunan 381 türü."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Tek bir takvim yılı içindeki döneme ait muhasebe yığını, Windows-1252. Hesapları ve vergi anahtarlarını mali müşavirinizle teyit edin."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Çift Onay ve Arka Plan Kuyruğu"
+      ],
+      "Double Opt-In (DOI):": [
+        "Çift onay (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo kişisel bağlantılı onay e-postasını gönderir; bağlantı kaydı bir kez onaylar. Onaylanmamış kayıtlar 14 gün sonra silinir."
+      ],
+      "Warteschlange:": [
+        "Kuyruk:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Brevo çağrıları, en fazla beş denemeyle her dakika WP-Cron tarafından işlenen (veya wp cybevents queue-run ile çalıştırılan) bir veritabanı kuyruğu üzerinden yürütülür."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Kısa Kodlar ve Gutenberg Entegrasyonu"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Erişilebilir kayıt formu."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Etkileşimli konferans gündemi ve kulvar (track) genel görünümü."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "DOI onayından sonra belirteç tabanlı oturum seçimi."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. Yöneticiler için WP-CLI"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Tema Önayarları ve Tasarım Belirteçleri (Design Tokens)"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Önyüz her WordPress temasına esnek biçimde uyum sağlar veya yerleşik tasarım önayarlarını kullanır:"
+      ],
+      "Presets:": [
+        "Önayarlar:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Koyu mor, menekşe ve gül rengi (#482683, #7D40E7, #DF0079) dahil olmak üzere birden fazla renk önayarı."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Tema mirası (varsayılan):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Yazı tiplerini, kenarlık yarıçaplarını ve ana renkleri etkin temadan (GeneratePress, Astra, Twenty Twenty-Four) sorunsuzca devralır."
+      ],
+      "CSS Custom Properties:": [
+        "CSS özel özellikleri:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Dikkat Edilecek Noktalar ve En İyi Uygulamalar"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tablolar ENGINE=InnoDB ile oluşturulur."
+      ],
+      "Löschfristen:": [
+        "Saklama süreleri:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Onaylanmamış kayıtlar 14 gün sonra silinir, denetim günlüğü kayıtları 90 gün sonra takma adlandırılır (fatura olayları hariç). Onaylanmış kayıtlar ve faturalar eklenti tarafından otomatik silinmez; bunun için bir ayar yoktur."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Kuyruk işleme ve saklama süresi temizliği WP-Cron üzerinden çalışır; düzenli ziyaretçisi olmayan sitelerde gerçek bir sistem cron görevi gerekir."
+      ],
+      "Cyber Events Suite": [
+        "Siber Etkinlikler Paketi"
+      ],
+      "Veranstaltung auswählen": [
+        "Etkinlik seçin"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Bu blok için hedef etkinliği seçin."
+      ],
+      "Key Facts Header anzeigen": [
+        "Temel bilgiler üstbilgisini göster"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Adım göstergesini (stepper) göster"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Takvime aktar (.ics) düğmesini göster"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Geri sayım sayacını göster"
+      ],
+      "Freie Plätze anzeigen": [
+        "Boş koltukları göster"
+      ],
+      "Spaltenanzahl": [
+        "Sütun sayısı"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Lütfen blok ayarlarında geçerli bir etkinlik seçin."
+      ],
+      "Vorschau im Editor": [
+        "Düzenleyici önizlemesi"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Onaylanmış kayıtlar için oturum seçimi"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Önyüzde bu blok, her katılımcı için kendi bireysel belirteci kullanılarak dinamik olarak oluşturulur."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Onay belirteci bulunamadı."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Lütfen bu sayfayı onay e-postanızdaki kişiselleştirilmiş bağlantı üzerinden açın."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Geçersiz veya süresi dolmuş katılımcı belirteci."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Etkinlik oturma planı"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Önyüzde bu blok, her oturumun doluluğunu SVG olarak gösterir ve Server-Sent Events aracılığıyla güncel tutar."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Etkinlik bulunamadı."
+      ],
+      "Jetzt anmelden": [
+        "Şimdi kaydol"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Şimdi ücretsiz kaydol"
+      ],
+      "Programm ansehen": [
+        "Programı görüntüle"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Ücretsiz katılım"
+      ],
+      "Anmeldung geöffnet": [
+        "Kayıtlar açık"
+      ],
+      "Ausgebucht": [
+        "Kontenjan dolu"
+      ],
+      "Preis": [
+        "Fiyat"
+      ],
+      "%d freier Platz": [
+        "%d boş koltuk",
+        "%d boş koltuk"
+      ],
+      "von max. %d": [
+        "maks. %d içinden"
+      ],
+      "Beginn in:": [
+        "Başlamasına kalan:"
+      ],
+      "Tage": [
+        "Gün"
+      ],
+      "Std.": [
+        "Sa."
+      ],
+      "Min.": [
+        "Dk."
+      ],
+      "Sek.": [
+        "Sn."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Takvime aktar (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics dosyası)"
+      ],
+      "Google Kalender": [
+        "Google Takvim"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        ".ics dosyası başlangıçtan bir gün önce bir hatırlatıcı içerir."
+      ],
+      "Referenten & Fachexperten": [
+        "Konuşmacılar ve alan uzmanları"
+      ],
+      "Referenten": [
+        "Konuşmacılar"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Konuşmacı listesi yakında açıklanacaktır."
+      ],
+      "TEILNEHMERPASS": [
+        "KATILIMCI KARTI"
+      ],
+      "Teilnehmerpass": [
+        "Katılımcı kartı"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Bilet ve akreditasyonu aç"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Onay e-postasındaki 64 karakterli güvenlik belirtecinizi girin:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Belirteci girin (örn. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Kartı göster"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Geçersiz veya bulunamayan rezervasyon belirteci."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Bu kayıt için katılımcı kartı mevcut değil: kayıt onaylanmamış veya iptal edilmiş."
+      ],
+      "Max Mustermann": [
+        "Ahmet Yılmaz"
+      ],
+      "Beispiel GmbH": [
+        "Örnek A.Ş."
+      ],
+      "Veranstaltung": [
+        "Etkinlik"
+      ],
+      "Rechnungs-Nr.": [
+        "Fatura no."
+      ],
+      "Keine": [
+        "Yok"
+      ],
+      "Ticket-Nummer": [
+        "Bilet numarası"
+      ],
+      "Pass drucken": [
+        "Kartı yazdır"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Veri koruma ve güvenlik"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Çift onay ve saklama süreleri"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Bir kayıt yalnızca e-posta bağlantısı üzerinden onaylandıktan sonra geçerli olur. Onaylanmamış kayıtlar 14 gün sonra silinir, denetim günlüğü kayıtları 90 gün sonra takma adlandırılır."
+      ],
+      "Beschriftete Formulare": [
+        "Etiketlenmiş formlar"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Görünür etiketlere, işaretlenmiş zorunlu alanlara ve ekran okuyucuların seslendirdiği canlı durum bildirimlerine sahip form alanları."
+      ],
+      "Eigene Skripte und Styles": [
+        "Yerel barındırılan betikler ve stiller"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Eklenti kendi betiklerini, stillerini ve simgelerini bir CDN yerine kendi sunucunuzdan yükler."
+      ],
+      "Audit-Log und Tokens": [
+        "Denetim günlüğü ve belirteçler"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "HMAC-SHA256 ile zincirlenmiş bir denetim günlüğü sonradan yapılan değişiklikleri algılanabilir kılar. Katılımcı belirteçleri yalnızca SHA-256 özeti (hash) olarak saklanır."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Fatura XML'i ve DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "EN 16931 profiline uygun CII-XML olarak faturalar ve DATEV muhasebe yığını olarak dışa aktarım."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (İş Kanıtı)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "AB veri koruma mevzuatına uygun, kullanıcı takibi veya görsel bulmacalar içermeyen gizlilik dostu bot koruması."
+      ],
+      "Zur Anmeldung": [
+        "Kayda git"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Arşivlenmiş etkinlik bulunmamaktadır."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Şu anda planlanmış etkinlik bulunmamaktadır."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Etkinlikleri başlığa veya konuma göre filtrele..."
+      ],
+      "Kostenfrei": [
+        "Ücretsiz"
+      ],
+      "In Kalender eintragen": [
+        "Takvime ekle"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Canlı konferans ve gündem bilgi bandı"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "CANLI GÜNDEM TELEMETRİSİ"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Görünüm ve filtre denetimleri"
+      ],
+      "Kalenderansichten": [
+        "Takvim görünümleri"
+      ],
+      "Monat": [
+        "Ay"
+      ],
+      "Woche": [
+        "Hafta"
+      ],
+      "Tag / Agenda": [
+        "Gün / gündem"
+      ],
+      "Liste": [
+        "Liste"
+      ],
+      "Karten": [
+        "Kartlar"
+      ],
+      "Räume & Ort": [
+        "Salonlar ve konum"
+      ],
+      "Summit Tracks": [
+        "Zirve kulvarları"
+      ],
+      "Vorheriger Zeitraum": [
+        "Önceki dönem"
+      ],
+      "Nächster Zeitraum": [
+        "Sonraki dönem"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Etkinlik, konu veya konuşmacı ara..."
+      ],
+      "Suchbegriff eingeben": [
+        "Arama terimi girin"
+      ],
+      "Track oder Kategorie filtern": [
+        "Kulvar veya kategori filtrele"
+      ],
+      "Alle Fach-Tracks": [
+        "Tüm uzmanlık kulvarları"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Kulvar 01: Kuantum Sonrası Kriptografi"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Kulvar 02: Sıfır Güven (Zero Trust) ve DORA Dayanıklılığı"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Kulvar 03: Otonom Yapay Zekâ ve Gizlilik Kuralları (§ 203 StGB)"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Kulvar 04: Yazılım Tedarik Zinciri ve CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Konferans salonunu filtrele"
+      ],
+      "Alle Säle & Räume": [
+        "Tüm salonlar ve odalar"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Genel Kurul Salonu Alpha (Açılış Konuşmaları)"
+      ],
+      "Security Lab Beta": [
+        "Güvenlik Laboratuvarı Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Atölye Stüdyosu Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Sanal AS4 Yayın Merkezi"
+      ],
+      "Monatskalenderansicht": [
+        "Aylık takvim görünümü"
+      ],
+      "Mo": [
+        "Pzt"
+      ],
+      "Di": [
+        "Sal"
+      ],
+      "Mi": [
+        "Çar"
+      ],
+      "Do": [
+        "Per"
+      ],
+      "Fr": [
+        "Cum"
+      ],
+      "Sa": [
+        "Cmt"
+      ],
+      "So": [
+        "Paz"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Haftalık program ve zaman çizelgesi görünümü"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Günlük gündem ve zaman akışı görünümü"
+      ],
+      "Chronologische Listenansicht": [
+        "Kronolojik liste görünümü"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Görsel fotoğraflı kart görünümü"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Mekân ve salon gezgini görünümü"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Zirve çoklu kulvar matrisi"
+      ],
+      "Dialog schließen": [
+        "İletişim kutusunu kapat"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Geçersiz oturum veya kayıt kimliği."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Veritabanı hatası nedeniyle rezervasyon işlenemedi."
+      ],
+      "Session %d existiert nicht.": [
+        "%d oturumu mevcut değil."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" tamamen dolu (%2$d / %2$d koltuk dolu)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Rezervasyon kaydedilemedi. Koltuk tekrar serbest bırakıldı."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Veritabanı hatası nedeniyle iptal işlemi gerçekleştirilemedi."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Geçerli bir dosya yüklenmedi."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Dosya yükleme hatası."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profil görseli en fazla 5 MB büyüklüğünde olabilir."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Geçersiz dosya biçimi. İzin verilen biçimler: JPG, PNG ve WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Geçersiz dosya uzantısı. İzin verilen uzantılar: .jpg, .jpeg, .png ve .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Profil görseli kaydedilirken hata oluştu."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Daha önce %d kayıt işlenmiş olmasına rağmen denetim günlüğü boş."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Zincire sonradan imzasız bir kayıt eklendi."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kayıt #%d noktasında zincir kırılması: bir kayıt silinmiş, eklenmiş veya sıralaması değiştirilmiş."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "#%d numaralı kaydın imzası içerik özetiyle eşleşmiyor."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "#%d numaralı kayıt geçerli bir kanıt olmadan takma adlandırılmış olarak işaretlenmiş: içeriği değiştirilmiş olabilir."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "#%d numaralı kaydın içeriği oluşturulduktan sonra değiştirilmiş."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Günlük sonu kaydedilen son kayıtla eşleşmiyor. En yeni kayıtlar silinmiş."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Etkinlikler"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Etkinlik"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Siber Etkinlikler"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Etkinlik"
+      ],
+      "event\u0004Neu erstellen": [
+        "Yeni oluştur"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Etkinliği düzenle"
+      ],
+      "Veranstaltung ansehen": [
+        "Etkinliği görüntüle"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Etkinlikleri ara"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Çöp kutusunda etkinlik bulunamadı."
+      ],
+      "Veranstaltungsdaten": [
+        "Etkinlik bilgileri"
+      ],
+      "Veranstaltungsort:": [
+        "Etkinlik yeri:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Etkinlik yerlerini yönet ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Kayıtlı bir toplantı yeri seçin —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manuel konum / salon / adres..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Listeden kayıtlı bir yer seçin veya konum/salon bilgisini özel olarak uyarlayın."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Başlangıç (tarih ve saat):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Bitiş (tarih ve saat):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Ücretli etkinlik"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Şu anda kullanılabilir konferans programı bulunmamaktadır."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Konu, konuşmacı veya salon ara..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferans gündemi"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Ayrıntılı program yakında duyurulacaktır."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents katılımcı verileri"
+      ],
+      "E-Mail": [
+        "E-posta"
+      ],
+      "Unternehmen / Organisation": [
+        "Şirket / kuruluş"
+      ],
+      "Profilbild": [
+        "Profil görseli"
+      ],
+      "Einwilligung Datenschutz": [
+        "Gizlilik onayı"
+      ],
+      "ja": [
+        "evet"
+      ],
+      "nein": [
+        "hayır"
+      ],
+      "Einwilligung Fotos": [
+        "Fotoğraf onayı"
+      ],
+      "Bestätigung angefordert": [
+        "Onay istendi"
+      ],
+      "Bestätigt am": [
+        "Onaylanma tarihi"
+      ],
+      "Eingecheckt am": [
+        "Giriş tarihi"
+      ],
+      "Gebuchte Sessions": [
+        "Rezerve edilen oturumlar"
+      ],
+      "Rechnungsnummer": [
+        "Fatura numarası"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents kayıtları"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents faturaları"
+      ],
+      "Empfänger": [
+        "Alıcı"
+      ],
+      "Adresse": [
+        "Adres"
+      ],
+      "Bruttobetrag": [
+        "Brüt tutar"
+      ],
+      "Ausgestellt am": [
+        "Düzenlenme tarihi"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "#%d numaralı kayıt silinemedi."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "#%d numaralı kayıt anonimleştirilemedi; veriler değişmedi."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "#%1$d numaralı kayıt anonimleştirildi. Ad, adres ve e-posta içeren %2$s faturası değiştirilmeden saklanmaya devam eder; eklenti faturaları silmez."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Brevo webhook'u paylaşılan gizli anahtar olmadan devre dışıdır (401 yanıtı verir). Gizli anahtar tanımlanana kadar geri dönen e-postalar ve abonelik iptalleri işlenmez."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Tanımlı Brevo API anahtarı yok: onay e-postaları gönderilmez; yeni kayıtlar onaylanmamış kalır ve 14 gün sonra silinir."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha etkinleştirilmiş ancak etkisi yok: eklenti bir captcha bileşeni içermediğinden form bot koruması olmadan işlenir."
+      ],
+      "Einstellungen öffnen": [
+        "Ayarları aç"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Çok fazla istek. Lütfen bir dakika sonra tekrar deneyin."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Seçim kaydedilmedi: %s Önceki rezervasyonlarınız korunmaktadır."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Yeni oturumlar rezerve edildi ancak seçimi kaldırılan her oturum serbest bırakılamadı: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Geçersiz güvenlik belirteci (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Geçersiz form belirteci (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Katılımcı yetkisiz veya bulunamadı."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Görsel dosyası gönderilmedi."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profil görseli başarıyla güncellendi."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Onay belirteci eksik."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Geçersiz veya henüz onaylanmamış bilet."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Bu etkinlik için tanımlanmış oturum bulunmamaktadır."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Oturma planı: oturum başına dolu ve boş koltuklar"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %3$d koltuktan %2$d tanesi dolu"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Oturma planı için etkinlik belirtilmemiş."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Oturma planına ait etkinlik mevcut değil."
+      ],
+      "frei": [
+        "boş"
+      ],
+      "belegt": [
+        "dolu"
+      ],
+      "von Ihnen gebucht": [
+        "sizin tarafınızdan rezerve edildi"
+      ],
+      "Belegung je Session": [
+        "Oturum başına doluluk"
+      ],
+      "Session": [
+        "Oturum"
+      ],
+      "Belegt": [
+        "Dolu"
+      ],
+      "Frei": [
+        "Boş"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Doluluk sürekli güncellenir."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Sayfa yüklendiğindeki durum; doluluk canlı olarak güncellenmez."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demo verileri: %1$s için rezervasyon reddedildi — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demo verileri: katılım iptal edildi"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Oturumlar ve kulvarlar"
+      ],
+      "post type singular name\u0004Session": [
+        "Oturum"
+      ],
+      "admin menu\u0004Sessions": [
+        "Oturumlar"
+      ],
+      "Alle Sessions": [
+        "Tüm oturumlar"
+      ],
+      "Session bearbeiten": [
+        "Oturumu düzenle"
+      ],
+      "Session ansehen": [
+        "Oturumu görüntüle"
+      ],
+      "Sessions durchsuchen": [
+        "Oturumları ara"
+      ],
+      "Keine Sessions gefunden.": [
+        "Oturum bulunamadı."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Çöp kutusunda oturum bulunamadı."
+      ],
+      "Session-Daten": [
+        "Oturum bilgileri"
+      ],
+      "Zugehörige Konferenz:": [
+        "Bağlı olduğu konferans:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Konferans seçilmedi —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Konuşmacı ve kurum:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "örn. Ayşe Yılmaz (Örnek A.Ş.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Oda / salon / kulvar:"
+      ],
+      "Workshop-Kapazität:": [
+        "Atölye kapasitesi:"
+      ],
+      "Speaker": [
+        "Konuşmacı"
+      ],
+      "Raum / Track": [
+        "Salon / kulvar"
+      ],
+      "Zeitfenster": [
+        "Zaman dilimi"
+      ],
+      "Belegung": [
+        "Doluluk"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Hoş geldiniz, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Oturumlarınızı seçin. Oturum tamamen dolu olmadığı sürece kaydetme sırasında bir koltuk ayrılır."
+      ],
+      "Anmeldung bestätigt": [
+        "Kayıt onaylandı"
+      ],
+      "Für diese Session eingetragen": [
+        "Bu oturuma kayıtlı"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Bu program maddesini seç"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Oturum tamamen dolu olmadığı sürece kaydetme sırasında koltuk ayrılır."
+      ],
+      "Sessions ausgewählt": [
+        "Seçilen oturumlar"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Seçimi kaydet"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress tema standardı (otomatik devralınır)"
+      ],
+      "Empfohlen": [
+        "Önerilen"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Tipografiyi, renkleri, düğmeleri ve boşlukları etkin WordPress temasından (GeneratePress, Astra, Twenty Twenty-Four vb.) bire bir devralır."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Mor ve pembe (koyu leylak, mor, pembe vurgu)"
+      ],
+      "Farbstark": [
+        "Canlı"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Koyu leylak (#482683), parlak mor (#7D40E7), pembe vurgu (#DF0079), tema yüklüyorsa Noto Sans ve hafif bir renk geçişi."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (lacivert ve camgöbeği)"
+      ],
+      "High-Tech Dark": [
+        "Yüksek Teknoloji Koyu"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Siber güvenlik ve konferanslar için uyarlanmış, ışıma efektli özel koyu ve kobalt görünüm."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (Arduvaz ve Monokrom)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Nötr gri tonları, ince kenarlıklar ve geniş boşluklarla sade ve net SaaS tasarımı."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editöryal Sıcak (Klasik ve Sıcak Tonlar)"
+      ],
+      "Klassik": [
+        "Klasik"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Akademik sempozyumlar ve seçkin uzmanlık kongreleri için sıcak fildişi ve bordo tonları."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Yüksek Kontrast (Beyaz Üzerine Siyah)"
+      ],
+      "Hochkontrast": [
+        "Yüksek kontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Sarı vurgulu ve güçlendirilmiş odak çerçevelerine sahip beyaz üzerine siyah metin (21:1 kontrast)."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Özel Tema (Kendi Renkleriniz ve CSS)"
+      ],
+      "Individuell": [
+        "Özel"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Serbest renk tanımlama ve yüklenen özel CSS stil dosyaları için destek."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Geçerli bir yükleme dosyası sağlanmadı."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Güvenlik hatası: Yalnızca salt .css dosyaları yüklenebilir."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS dosyası 2 MB sınırını aşıyor."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Tema dosyası sunucuya kaydedilemedi."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Özel tema CSS dosyası başarıyla yüklendi ve etkinleştirildi."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Etkinlik yerleri"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Etkinlik Yeri"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Etkinlik yerlerini ara"
+      ],
+      "Häufige Tagungsorte": [
+        "Sık kullanılan toplantı yerleri"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Tüm etkinlik yerleri"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Etkinlik yerini düzenle"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Etkinlik yerini güncelle"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Yeni etkinlik yeri ekle"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Yeni toplantı yerinin adı"
+      ],
+      "Orte mit Kommas trennen": [
+        "Yerleri virgülle ayırın"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Yer ekleyin veya kaldırın"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "En sık kullanılan yerlerden seçin"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Etkinlik yeri bulunamadı."
+      ],
+      "Stadt / Ort:": [
+        "Şehir / ilçe:"
+      ],
+      "z. B. Musterstadt": [
+        "örn. Örnekşehir"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Toplantı yerinin bulunduğu belediye veya şehir."
+      ],
+      "Straße & Hausnummer:": [
+        "Cadde/sokak ve kapı numarası:"
+      ],
+      "z. B. Musterstraße 1": [
+        "örn. Örnek Caddesi No: 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Posta kodu:"
+      ],
+      "Land:": [
+        "Ülke:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maksimum salon kapasitesi (kişi):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Tekerlekli sandalye erişimine uygun"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Yalnızca doğrulandığında işaretleyin. Etkinlik yerleri listesinde ve /venues REST rotasında görünür."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Google Haritalar / yol tarifi URL'si:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Toplantı yerinin web sitesi:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maksimum salon kapasitesi:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Toplantı ve konferans alanının kişi kapasitesi."
+      ],
+      "Zugänglichkeit:": [
+        "Erişilebilirlik:"
+      ],
+      "Google Maps Link:": [
+        "Google Haritalar bağlantısı:"
+      ],
+      "Stadt & Adresse": [
+        "Şehir ve adres"
+      ],
+      "Kapazität": [
+        "Kapasite"
+      ],
+      "Rollstuhlgerecht": [
+        "Tekerlekli sandalyeye uygun"
+      ],
+      "Ja": [
+        "Evet"
+      ],
+      "Nicht angegeben": [
+        "Belirtilmemiş"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Şu anda eşzamanlı çok fazla istek var. Lütfen %d saniye sonra tekrar deneyin. Bu işlemle yer ayrılmamıştır."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Kalıcı nesne önbelleği (Redis, Memcached) olmadan bekleme odası sayımı veritabanında yapar: reddedilen istekler rezervasyon sorgularından tasarruf sağlar ancak seçenekler tablosunda yine de bir okuma ve bir yazma işlemine mal olur."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Siber Etkinlik Göstergeleri"
+      ],
+      "Cyber Events Kennzahl": [
+        "Siber Etkinlik Göstergesi"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Etkin konferanslar, onaylanan kayıtlar ve boş koltuklar için canlı göstergeler sunar."
+      ],
+      "Kennzahl": [
+        "Gösterge"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Etkinlik kimliği (isteğe bağlı)"
+      ],
+      "Dokumentation": [
+        "Belgeler"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Lütfen geçerli bir etkinlik kimliği belirtin: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Geçerli bir onay belirteci bulunamadı. Lütfen e-postanızdaki bağlantıyı kullanın."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— En yeni etkin etkinlik (otomatik) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Otomatik (güncel konferans)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Etkinlik seçimi"
+      ],
+      "Ziel-Konferenz": [
+        "Hedef konferans"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Üst alanda (hero) verileri yüklenecek konferansı seçin."
+      ],
+      "Design & Layout-Presets": [
+        "Tasarım ve yerleşim önayarları"
+      ],
+      "Theme-Preset": [
+        "Tema önayarı"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Kurumsal Koyu ve Işıma (varsayılan)"
+      ],
+      "Federal Blue": [
+        "Federal Mavi"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Camgöbeği Işıma"
+      ],
+      "Clean White & Modern": [
+        "Temiz Beyaz ve Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Cam Efekti Bulanıklığı (Glassmorphism)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Köşe yuvarlatma (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Yok (0px)"
+      ],
+      "Mittel (8px)": [
+        "Orta (8px)"
+      ],
+      "Groß (16px)": [
+        "Büyük (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Çok büyük (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Parlama ve ışıma efektini etkinleştir"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Metinler ve eylem çağrısı (CTA) düğmeleri"
+      ],
+      "Badge / Dachzeile": [
+        "Rozet / üst başlık"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Özel ana başlık (isteğe bağlı)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Varsayılan: etkinliğin başlığı"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Özel giriş metni / özet"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Varsayılan: etkinliğin açıklaması"
+      ],
+      "Primärer CTA-Button Text": [
+        "Birincil CTA düğmesi metni"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Birincil CTA düğmesi hedef bağlantısı / çapa"
+      ],
+      "Sekundären Button anzeigen": [
+        "İkincil düğmeyi göster"
+      ],
+      "Sekundärer Button Text": [
+        "İkincil düğme metni"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "İkincil düğme hedef bağlantısı"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Öğelerin görünürlüğü"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Canlı geri sayım sayacını göster"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Boş koltuk / kapasite etiketini göster"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Durum etiketini (Açık/Dolu) göster"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Etkinlik yerini göster"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Tarih ve saati göster"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Bilet fiyatı / ücretsiz rozetini göster"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Takvime aktar (.ics) düğmesini göster"
+      ],
+      "Kopfbereich": [
+        "Üst alan (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Varsayılan: etkinlik açıklamasının yanı sıra tarih, yer, fiyat, boş koltuklar, geri sayım ve kayıt düğmesi."
+      ],
+      "Countdown": [
+        "Geri sayım"
+      ],
+      "Freie Plätze": [
+        "Boş koltuklar"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Düğme: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Konferans seçimi"
+      ],
+      "Ziel-Veranstaltung": [
+        "Hedef etkinlik"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Ziyaretçilerin kaydolacağı etkinliği seçin."
+      ],
+      "Formular-Design & Theme": [
+        "Form tasarımı ve tema"
+      ],
+      "Formular-Stil": [
+        "Form stili"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Siber Cam Efekti (varsayılan)"
+      ],
+      "Clean White Studio": [
+        "Temiz Beyaz Stüdyo"
+      ],
+      "Eckenabrundung": [
+        "Köşe yuvarlatma"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Form alanları ve bilgi toplama seçenekleri"
+      ],
+      "Individueller Formulartitel": [
+        "Özel form başlığı"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Özel alt başlık / not"
+      ],
+      "Standard: kein Untertitel": [
+        "Varsayılan: alt başlık yok"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Kuruluş / şirket alanını göster"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Fotoğraf ve video çekimi onay kutusunu göster"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Formda temel bilgiler üstbilgisini göster"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Düğme etiketi ve gizlilik bağlantıları"
+      ],
+      "Absende-Button Beschriftung": [
+        "Gönder düğmesi etiketi"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Özel gizlilik politikası URL'si (isteğe bağlı)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Varsayılan: Ayarlar > Gizlilik altındaki gizlilik sayfası"
+      ],
+      "Anmeldeformular": [
+        "Kayıt formu"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Çift onaylı kayıt: Brevo onay bağlantısını gönderir; kayıt yalnızca onaylandıktan sonra geçerli olur."
+      ],
+      "Standard nach Ticketpreis": [
+        "Bilet fiyatına göre varsayılan"
+      ],
+      "Überschrift & Untertitel": [
+        "Başlık ve alt başlık"
+      ],
+      "Überschrift": [
+        "Başlık"
+      ],
+      "Untertitel / Beschreibung": [
+        "Alt başlık / açıklama"
+      ],
+      "Suche, Angaben & Export": [
+        "Arama, üstveriler ve dışa aktarım"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Oturumlar için canlı arama alanını göster"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Salon ve konum bilgilerini göster"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Konuşmacı avatarlarını göster"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Tam takvim dışa aktarımını (.ics) göster"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Salon, konuşmacı, açıklama, arama ve .ics dışa aktarımıyla kronolojik sırada oturumlar."
+      ],
+      "Suche": [
+        "Arama"
+      ],
+      ".ics-Download": [
+        ".ics indirme"
+      ],
+      "Layout & Spalten": [
+        "Yerleşim ve sütunlar"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Sütun sayısı (masaüstü)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Metin ve ayrıntı görünümleri"
+      ],
+      "Untertitel": [
+        "Alt başlık"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Oturumun sunum konusunu göster"
+      ],
+      "Raumangabe anzeigen": [
+        "Salon bilgisini göster"
+      ],
+      "Uhrzeit anzeigen": [
+        "Başlangıç saatini göster"
+      ],
+      "Konferenz: ": [
+        "Konferans: "
+      ],
+      "%d Spalten": [
+        "%d sütun"
+      ],
+      "Vortragsthemen": [
+        "Sunum konuları"
+      ],
+      "Titel": [
+        "Başlık"
+      ],
+      "Individueller Titel": [
+        "Özel başlık"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Takvim servisleri ve seçenekler"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Apple / Outlook (.ics dosyası) göster"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Google Takvim doğrudan bağlantısını göster"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Outlook Web doğrudan bağlantısını göster"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Microsoft 365 doğrudan bağlantısını göster"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Saat dilimi bilgisini göster"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        ".ics dosyasındaki hatırlatıcı notunu göster"
+      ],
+      "Kalender": [
+        "Takvim"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Başlangıçtan bir gün önce hatırlatıcı içeren .ics dosyası ile Google Takvim, Outlook Web ve Microsoft 365 bağlantıları."
+      ],
+      ".ics-Datei": [
+        ".ics dosyası"
+      ],
+      "Session-Auswahl": [
+        "Oturum seçici"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Bu bloğun ayarı yoktur. Onay bağlantısındaki belirtece ait oturumları gösterir; belirteç yoksa bir uyarı görüntülenir."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Oturum tamamen dolu olmadığı sürece kaydetme sırasında bir koltuk ayrılır."
+      ],
+      "Ticketpass-Optionen": [
+        "Bilet kartı seçenekleri"
+      ],
+      "Pass-Überschrift": [
+        "Kart başlığı"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Üst satır (varsayılan: etkinliğin başlığı)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Yazdır düğmesini (yaka kartı yazdır) göster"
+      ],
+      "Ticketnummer anzeigen": [
+        "Bilet numarasını göster"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Fatura numarasını / referansı göster"
+      ],
+      "Check-In Status anzeigen": [
+        "Giriş durumunu göster"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Onay e-postasındaki belirteçle açılan onaylanmış kayıt kartı: ad, şirket, durum, fatura numarası, bilet numarası ve yazdırma işlevi."
+      ],
+      "Ticketnummer": [
+        "Bilet numarası"
+      ],
+      "Druckfunktion": [
+        "Yazdırma işlevi"
+      ],
+      "Titel der Veranstaltung": [
+        "Etkinliğin başlığı"
+      ],
+      "Layout & Farbschema": [
+        "Yerleşim ve renk şeması"
+      ],
+      "Raster-Layout": [
+        "Izgara yerleşimi"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4 sütunlu ızgara (varsayılan)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2 sütunlu ızgara (geniş)"
+      ],
+      "Farbthema": [
+        "Renk teması"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Koyu Siber Işıma (varsayılan)"
+      ],
+      "Angezeigte Karten": [
+        "Gösterilen kartlar"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Eklentinin ne yaptığına ilişkin kartlar. Blok, web sitesinin yasal gereklilikleri karşılayıp karşılamadığını değerlendirmez."
+      ],
+      "Double Opt-in": [
+        "Çift onay (Double Opt-in)"
+      ],
+      "Formulare": [
+        "Formlar"
+      ],
+      "Eigene Assets": [
+        "Yerel barındırılan varlıklar"
+      ],
+      "Abfrage & Filterung": [
+        "Sorgu ve filtreleme"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maksimum konferans sayısı"
+      ],
+      "Status-Filter": [
+        "Durum filtresi"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Yalnızca etkin etkinlikler"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Etkin ve arşivlenmiş etkinlikler"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Yalnızca arşivlenmiş etkinlikler"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Görünür üstveriler ve düğmeler"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Canlı arama çubuğunu göster"
+      ],
+      "Preisschild anzeigen": [
+        "Fiyat etiketini göster"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Konumu / toplantı yerini göster"
+      ],
+      "Datums-Badge anzeigen": [
+        "Tarih rozetini göster"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Doğrudan .ics takvim bağlantısını göster"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Açıklama özetini göster"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA düğmesi etiketi"
+      ],
+      "Veranstaltungsübersicht": [
+        "Etkinlik genel görünümü"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Tarih, fiyat, yer, kısa açıklama, kayıt düğmesi ve .ics bağlantısı içeren etkinlik ızgarası."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Maks. %d etkinlik"
+      ],
+      "Cyber Events Sitzplan": [
+        "Siber Etkinlik Oturma Planı"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Oturma planı ayarları"
+      ],
+      "Überschrift (optional)": [
+        "Başlık (isteğe bağlı)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Açıklama metni (isteğe bağlı)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Canlı güncellemeyi etkinleştir"
+      ],
+      "Sitzplan": [
+        "Oturma planı"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Erişilebilir veri tablosuyla birlikte bir etkinliğin tüm oturumlarının grafiksel doluluk görünümü."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Siber Etkinlik Çoklu Görünümlü Takvim"
+      ],
+      "Ansichten & Datenquelle": [
+        "Görünümler ve veri kaynağı"
+      ],
+      "Standardansicht": [
+        "Varsayılan görünüm"
+      ],
+      "Monatskalender": [
+        "Aylık takvim"
+      ],
+      "Wochenplan": [
+        "Haftalık program"
+      ],
+      "Tagesagenda": [
+        "Günlük gündem"
+      ],
+      "Listenansicht": [
+        "Liste görünümü"
+      ],
+      "Kartenansicht": [
+        "Kart görünümü"
+      ],
+      "Raumübersicht": [
+        "Salon genel görünümü"
+      ],
+      "Track-Matrix": [
+        "Kulvar matrisi"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maksimum kayıt sayısı"
+      ],
+      "Bedienleiste & Filter": [
+        "Araç çubuğu ve filtreler"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Görünüm değiştiriciyi göster"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Kulvar ve salon filtrelerini göster"
+      ],
+      "Suchfeld anzeigen": [
+        "Arama alanını göster"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Bildirim çubuğunu göster"
+      ],
+      "Kalender-Ansichten": [
+        "Takvim görünümleri"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Çoklu görünümlü takvim ve gündem"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Değiştirilebilir ay, hafta, gün, liste, kart, salon ve kulvar görünümleri."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Siber Etkinlik Konferans Gündemi"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Zaman akışı, konuşmacı ayrıntıları, salon filtreleri ve iCal (.ics) indirme özellikli etkileşimli çoklu kulvar konferans planı."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Siber Etkinlik Multi-View Pro (Takvim, Gündem ve Kulvarlar)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "7 etkileşimli önyüz görünümüne sahip gelişmiş takvim ve gündem paketi: aylık takvim, haftalık program, günlük gündem, liste görünümü, fotoğraflı kartlar, salon haritası ve zirve çoklu kulvar matrisi."
+      ],
+      "block keyword\u0004event": [
+        "etkinlik"
+      ],
+      "block keyword\u0004calendar": [
+        "takvim"
+      ],
+      "block keyword\u0004agenda": [
+        "gündem"
+      ],
+      "block keyword\u0004schedule": [
+        "program"
+      ],
+      "block keyword\u0004summit": [
+        "zirve"
+      ],
+      "block keyword\u0004timetable": [
+        "çizelge"
+      ],
+      "block keyword\u0004matrix": [
+        "matris"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Siber Etkinlik Takvimi ve .ics Bileşeni"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics indirme ve Google Takvim, Outlook Web ve Microsoft 365 bağlantıları içeren takvim bileşeni."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Siber Etkinlik Üst Alan ve Geri Sayım Afişi"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Geri sayım, temel bilgiler, durum ve kayıt düğmeleri içeren etkinlik üst alanı."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Siber Etkinlik Genel Görünüm ve Arşiv Izgarası"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Arama çubuğu ve durum filtreleriyle yaklaşan konferansların, sempozyumların ve atölyelerin dinamik kart görünümü."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Siber Etkinlik Kayıt Formu"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Brevo üzerinden çift onaylı, isteğe bağlı profil görselli ve fotoğraf çekimi onaylı kayıt formu."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Siber Etkinlik Oturma Planı"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Server-Sent Events üzerinden sürekli güncellenen, bir etkinliğin tüm oturumlarının SVG olarak doluluk durumu."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Siber Etkinlik Güvenlik ve Güven Rozetleri"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Eklentinin veri koruma ve güvenlik işlevlerine genel bakış: çift onay, saklama süreleri, denetim günlüğü, fatura XML'i."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Siber Etkinlik Oturum ve Atölye Seçici"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Onaylanmış kayıtlar için oturum seçimi: oturum tamamen dolu olmadığı sürece kaydetme sırasında koltuklar ayrılır."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Siber Etkinlik Konuşmacılar ve Uzmanlar Izgarası"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Tüm ana konuşmacıların, oturum konuşmacılarının, salon dağılımının ve biyografi ayrıntılarının otomatik oluşturulan görünümü."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Siber Etkinlik Dijital Bilet Kartı"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Bilet numarası, etkinlik, konum ve yazdırma işlevi içeren onaylanmış kayıt katılımcı kartı."
+      ]
+    }
+  }
+}

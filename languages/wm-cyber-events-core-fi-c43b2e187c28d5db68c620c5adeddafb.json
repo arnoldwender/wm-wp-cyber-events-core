@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "fi",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Tapahtumat, sessiot ja ilmoittautumiset Brevon kaksivaiheisella vahvistuksella, sisäänkirjautumisella, lasku-XML:llä (EN 16931) ja DATEV-viennillä."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Tapahtumaa ei löytynyt tai se ei ole enää aktiivinen."
+      ],
+      "Verbindlich anmelden": [
+        "Ilmoittaudu sitovasti (maksullinen)"
+      ],
+      "Kostenfrei anmelden": [
+        "Ilmoittaudu maksutta"
+      ],
+      "Datum": [
+        "Päivämäärä"
+      ],
+      "Veranstaltungsort": [
+        "Tapahtumapaikka"
+      ],
+      "Einlass": [
+        "Sisäänpääsy"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Sähköpostilinkillä tehdyn vahvistuksen jälkeen"
+      ],
+      "Kontaktdaten": [
+        "Yhteystiedot"
+      ],
+      "Einwilligung": [
+        "Suostumus"
+      ],
+      "Bestätigung": [
+        "Vahvistus"
+      ],
+      "Vorname": [
+        "Etunimi"
+      ],
+      "z. B. Erika": [
+        "esim. Maija"
+      ],
+      "Nachname": [
+        "Sukunimi"
+      ],
+      "z. B. Mustermann": [
+        "esim. Meikäläinen"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Työsähköpostiosoite"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Organisaatio / viranomainen / yritys"
+      ],
+      "z. B. Beispiel GmbH": [
+        "esim. Esimerkki Oy"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profiilikuva osallistujapassiin (valinnainen)"
+      ],
+      "Profilbild Vorschau": [
+        "Profiilikuvan esikatselu"
+      ],
+      "Foto auswählen": [
+        "Valitse kuva"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG tai WebP · enintään 5 Mt"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Tietosuoja ja kaksivaiheisen vahvistuksen suostumus *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Annan suostumukseni tietojeni käsittelyyn konferenssiin osallistumista varten yleisen tietosuoja-asetuksen (GDPR) mukaisesti. Vahvistusta varten saan vahvistuslinkin sähköpostitse."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Lue tietosuojaseloste"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Valokuva- ja videotallenteet"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Annan suostumukseni siihen, että minusta saa ottaa tapahtuman yhteydessä valokuvia ja videotallenteita järjestäjän viestintää varten."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Ohjauskeskus ja täyttöaste"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine aktiivinen"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Kapasiteetinhallinta, DATEV-vienti ja sisäänkirjautuminen"
+      ],
+      "Events": [
+        "Tapahtumat"
+      ],
+      "Bestätigte Gäste": [
+        "Vahvistetut vieraat"
+      ],
+      "Ausstehende DOI": [
+        "Odottavat DOI-vahvistukset"
+      ],
+      "Mission Control öffnen": [
+        "Avaa ohjauskeskus"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "GDPR-suostumus vaaditaan"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Tämä vienti sisältää yleisen tietosuoja-asetuksen (GDPR) 4 artiklan 1 kohdan mukaisia suojattavia henkilötietoja. Ennen lataamista sinun on vahvistettava, että käsittelet tietoja luottamuksellisesti, vain määriteltyyn käyttötarkoitukseen ja poistat ne tietosuojavaatimusten mukaisesti tapahtuman päätyttyä."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Takaisin varausten hallintaan"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR-tietosuoja"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Talous- ja myyntireskontratietojen vienti edellyttää vahvistusta siitä, että tietoja käsitellään luottamuksellisesti ja käytetään ainoastaan kirjanpitoon."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Takaisin DATEV Studioon"
+      ],
+      "DATEV-Export": [
+        "DATEV-vienti"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Riittämättömät käyttöoikeudet."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Hallintapaneeli ja tunnusluvut"
+      ],
+      "Dashboard": [
+        "Hallintapaneeli"
+      ],
+      "Alle Veranstaltungen": [
+        "Kaikki tapahtumat"
+      ],
+      "Veranstaltungen": [
+        "Tapahtumat"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Luo uusi tapahtuma"
+      ],
+      "Neue Veranstaltung": [
+        "Uusi tapahtuma"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Tapahtumapaikat ja kokouskeskukset"
+      ],
+      "Veranstaltungsorte": [
+        "Tapahtumapaikat"
+      ],
+      "Sessions & Agenda": [
+        "Sessiot ja ohjelma"
+      ],
+      "Neue Session erstellen": [
+        "Luo uusi sessio"
+      ],
+      "Neue Session": [
+        "Uusi sessio"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Osallistujat ja varaukset"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-tuonti ja käyttöönotto"
+      ],
+      "CSV-Import": [
+        "CSV-tuonti"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Talous ja DATEV-vienti"
+      ],
+      "Finanzen & DATEV": [
+        "Talous ja DATEV"
+      ],
+      "Audit-Log": [
+        "Tarkastusloki"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Asetukset ja Theme Studio"
+      ],
+      "Einstellungen": [
+        "Asetukset"
+      ],
+      "Handbuch & Dokumentation": [
+        "Käsikirja ja dokumentaatio"
+      ],
+      "Handbuch": [
+        "Käsikirja"
+      ],
+      "Events & Konferenzen": [
+        "Tapahtumat ja konferenssit"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Käyttöoikeudet tapahtumien ja konferenssien hallintaan."
+      ],
+      "Teilnehmer verwalten": [
+        "Hallinnoi osallistujia"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Sallii tapahtumailmoittautumisten tarkastelun ja viennin ilman täysiä WordPress-järjestelmänvalvojan oikeuksia."
+      ],
+      "Einstellungen & Theme": [
+        "Asetukset ja teema"
+      ],
+      "Handbuch & Doku": [
+        "Käsikirja ja ohjeet"
+      ],
+      "Plugin-Navigation": [
+        "Lisäosan navigaatio"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Tapahtuma tallennettiin onnistuneesti!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Tiedot päivitettiin samanaikaisesti tietokantaan ja WordPress-järjestelmään."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Tapahtuma poistettu!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Tietue poistettiin ja julkaisu siirrettiin roskakoriin."
+      ],
+      "Demodaten angelegt.": [
+        "Demotiedot luotu."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Esimerkkitapahtuma, sessiot ja esimerkkiosallistujat luotiin; laskut luodaan vain, kun laskuttajan tiedot on määritetty."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents-komentokonsoli"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Tapahtumat, sessiot ja ilmoittautumiset Brevon kaksivaiheisella vahvistuksella, sisäänkirjautumisella, lasku-XML:llä ja DATEV-viennillä."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Osa WM Suiten lisäosaperhettä"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub-tila"
+      ],
+      "Standalone": [
+        "Itsenäinen"
+      ],
+      "Demo-Daten auffrischen": [
+        "Päivitä demotiedot"
+      ],
+      "Springen zu:": [
+        "Siirry kohtaan:"
+      ],
+      "Kurzanleitung": [
+        "Pikaopas"
+      ],
+      "Kennzahlen": [
+        "Tunnusluvut"
+      ],
+      "Rechnungen": [
+        "Laskut"
+      ],
+      "Audit-Protokoll": [
+        "Tarkastusloki"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Mitä CyberEvents tekee ja mitä tällä näytöllä on?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Lisäosa hallinnoi tapahtumia, niiden sessioita ja ilmoittautumisia. Osallistujat vahvistavat ilmoittautumisensa Brevon lähettämällä kaksivaiheisella vahvistuslinkillä (API-avain vaaditaan), valitsevat sen jälkeen sessiot, joiden paikkoja ei voi ylivarata, ja kirjautuvat sisään ovella henkilökohtaisella tunnisteellaan. Laskut muodostetaan CII-XML-muodossa (EN 16931) ja ne voidaan viedä DATEV-kirjanpitoeränä."
+      ],
+      "Schnellzugriff:": [
+        "Pikavalinnat:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Osallistujat ja ilmoittautumiset"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Vie laskut DATEV-eränä"
+      ],
+      "Event Auslastung": [
+        "Tapahtumien täyttöaste"
+      ],
+      "Kritisch": [
+        "Kriittinen"
+      ],
+      "Optimal": [
+        "Optimaalinen"
+      ],
+      "Max. Kapazität:": [
+        "Enimmäiskapasiteetti:"
+      ],
+      "Gebucht:": [
+        "Varattu:"
+      ],
+      "Live Check-In Counter": [
+        "Reaaliaikainen sisäänkirjautumislaskuri"
+      ],
+      "Anwesend": [
+        "Paikalla"
+      ],
+      "Registriert:": [
+        "Ilmoittautuneita:"
+      ],
+      "Eingecheckt:": [
+        "Sisäänkirjautuneita:"
+      ],
+      "Wartend:": [
+        "Odottaa:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Uudet ilmoittautumiset (24 t)"
+      ],
+      "Sessions": [
+        "Sessiot"
+      ],
+      "in 24 h": [
+        "24 tunnissa"
+      ],
+      "Ausstehende DOI:": [
+        "Odottavat DOI-vahvistukset:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM -jonon telemetria"
+      ],
+      "Jobs": [
+        "Tehtävät"
+      ],
+      "Verarbeitung": [
+        "Käsittelyssä"
+      ],
+      "Verarbeitet:": [
+        "Käsitelty:"
+      ],
+      "Schnellaktionen": [
+        "Pikatoiminnot"
+      ],
+      "Neue Konferenz anlegen": [
+        "Luo uusi konferenssi"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Osallistujaluettelo ja sisäänkirjautuminen"
+      ],
+      "CSV-Batch Import": [
+        "CSV-erätuonti"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Tapahtumayhteenveto ja täyttöasteen seuranta"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Vahvistetut ilmoittautumiset tapahtumittain suhteessa määritettyyn kapasiteettiin."
+      ],
+      "Event suchen...": [
+        "Etsi tapahtumaa..."
+      ],
+      "Neue Konferenz": [
+        "Uusi konferenssi"
+      ],
+      "Konferenz / Event": [
+        "Konferenssi / tapahtuma"
+      ],
+      "Zeitraum": [
+        "Ajanjakso"
+      ],
+      "Ort": [
+        "Postitoimipaikka"
+      ],
+      "Kapazität & Belegung": [
+        "Kapasiteetti ja täyttöaste"
+      ],
+      "Status": [
+        "Tila"
+      ],
+      "Aktionen": [
+        "Toiminnot"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Tapahtumia ei löytynyt."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Muokkaa Gutenberg-lohkoeditorissa"
+      ],
+      "Bearbeiten": [
+        "Muokkaa"
+      ],
+      "Schnellbearbeitung": [
+        "Pikamuokkaus"
+      ],
+      "Vorschau": [
+        "Esikatselu"
+      ],
+      "Teilnehmer (%d)": [
+        "Osallistujat (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Haluatko varmasti poistaa tämän tapahtuman pysyvästi?"
+      ],
+      "Löschen": [
+        "Poista"
+      ],
+      "%d Sessions": [
+        "%d sessiota"
+      ],
+      "/ %d Plätze": [
+        "/ %d paikkaa"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(ei kapasiteettirajaa)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Muokkaa Gutenberg-editorissa"
+      ],
+      "Editor": [
+        "Editori"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Avaa pikamuokkaus"
+      ],
+      "Quick": [
+        "Pika"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Näytä julkinen sivu"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Voimassa olevat ja peruutetut laskut sekä vahvistamattomat ilmoittautumiset."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brutto, voimassa olevat laskut"
+      ],
+      "Gültige Rechnungen": [
+        "Voimassa olevat laskut"
+      ],
+      "Storniert": [
+        "Peruutettu"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Vahvistamattomat tilaukset"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV-vienti ja tarkastusloki"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Ajanjakson laskujen ja hyvityslaskujen kirjanpitoerä; täsmäytä tilit ja verokoodit kirjanpitäjäsi kanssa."
+      ],
+      "DATEV Format": [
+        "DATEV-muoto"
+      ],
+      "Kategorie 21 (v13)": [
+        "Luokka 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256-ketju"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonymisointi 90 päivän kuluttua"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Avaa DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Näytä tarkastusloki"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Jatkuvasti ketjutettu tarkastusloki: jokainen merkintä allekirjoittaa edeltäjänsä, jolloin jälkikäteiset muutokset, poistot ja lisäykset havaitaan. Peukaloinnin osoitus, ei muuttumattomuus — se, joka pääsee lukemaan wp-config.php-tiedostoa, hallitsee avainta."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Avaa koko tarkastusloki"
+      ],
+      "Zeitstempel": [
+        "Aikaleima"
+      ],
+      "Ereignis-Typ": [
+        "Tapahtumatyyppi"
+      ],
+      "Benutzer / System": [
+        "Käyttäjä / järjestelmä"
+      ],
+      "Objekt-ID": [
+        "Kohteen tunniste"
+      ],
+      "Audit-Details & Nachweis": [
+        "Tarkastustiedot ja todiste"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Tarkastusmerkintöjä ei ole vielä kirjattu."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Muokkaa tapahtumaa / pika-asetukset"
+      ],
+      "Schließen": [
+        "Sulje"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Konferenssin / tapahtuman nimi:"
+      ],
+      "URL-Slug:": [
+        "URL-polkutunnus:"
+      ],
+      "Tagungsort / Location:": [
+        "Tapahtumapaikka / sijainti:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Alkaa (päivä ja aika):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Päättyy (päivä ja aika):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Enimmäisosallistujamäärä:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Lipun hinta (netto €):"
+      ],
+      "Status:": [
+        "Tila:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktiivinen (julkaistu)"
+      ],
+      "Entwurf (Draft)": [
+        "Luonnos"
+      ],
+      "Archiviert": [
+        "Arkistoitu"
+      ],
+      "Kostenpflichtig": [
+        "Maksullinen"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Avaa Gutenberg-lohkoeditorissa"
+      ],
+      "Abbrechen": [
+        "Peruuta"
+      ],
+      "Änderungen speichern": [
+        "Tallenna muutokset"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Osallistujan tiedot päivitettiin onnistuneesti!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Ilmoittautumistiedot ja tila on tallennettu tietokantaan."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Osallistuja poistettu!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Ilmoittautuminen ja kaikki siihen liittyvät sessiovaraukset on poistettu."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Sisäänkirjautumistila päivitetty!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Osallistujan läsnäolotilaa vaihdettiin."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Kaksivaiheinen vahvistus hyväksytty!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Ilmoittautuminen merkittiin manuaalisesti vahvistetuksi."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Osallistujien ja varausten hallinta"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Kaikki ilmoittautumiset, kaksivaiheisen vahvistuksen tila, sessiovaraukset ja laskut."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Nimikortit / osallistujaluettelo (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Suodatettu konferenssin mukaan: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Tyhjennä suodatin"
+      ],
+      "Alle Teilnehmer": [
+        "Kaikki osallistujat"
+      ],
+      "Bestätigt": [
+        "Vahvistettu"
+      ],
+      "Ausstehend DOI": [
+        "Odottaa DOI-vahvistusta"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Hae nimeä, sähköpostia tai yritystä..."
+      ],
+      "Teilnehmer": [
+        "Osallistuja"
+      ],
+      "Organisation / Firma": [
+        "Organisaatio / yritys"
+      ],
+      "Check-In": [
+        "Sisäänkirjautuminen"
+      ],
+      "Rechnung": [
+        "Lasku"
+      ],
+      "Anmeldedatum": [
+        "Ilmoittautumispäivä"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Ilmoittautumisia ei löytynyt."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Muokkaa osallistujan tietoja"
+      ],
+      "Auschecken": [
+        "Kirjaa ulos"
+      ],
+      "Einchecken": [
+        "Kirjaa sisään"
+      ],
+      "DOI bestätigen": [
+        "Vahvista DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Haluatko varmasti poistaa tämän osallistujan pysyvästi?"
+      ],
+      "Status umschalten": [
+        "Vaihda tilaa"
+      ],
+      "Eingecheckt": [
+        "Kirjautunut sisään"
+      ],
+      "Nicht vor Ort": [
+        "Ei paikalla"
+      ],
+      "Rechnungs-XML": [
+        "Lasku-XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Maksuton / ei laskua"
+      ],
+      "Edit": [
+        "Muokkaa"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Haluatko varmasti poistaa tämän osallistujan?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Muokkaa osallistujan tietoja / osallistujahallinta"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profiilikuva / osallistujapassin kuva (JPG, PNG, WebP · enintään 5 Mt):"
+      ],
+      "Foto entfernen": [
+        "Poista kuva"
+      ],
+      "Vorname:": [
+        "Etunimi:"
+      ],
+      "Nachname:": [
+        "Sukunimi:"
+      ],
+      "E-Mail-Adresse:": [
+        "Sähköpostiosoite:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organisaatio / yritys / viranomainen:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Liitetty konferenssi:"
+      ],
+      "Anmeldestatus:": [
+        "Ilmoittautumistila:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Vahvistettu"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Odottaa (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Peruutettu"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Perille toimittamaton (bounced)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Sisäänkirjautumistila (paikan päällä):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Ei / ei paikalla"
+      ],
+      "Ja / Eingecheckt": [
+        "Kyllä / kirjautunut sisään"
+      ],
+      "Rechnungsnummer:": [
+        "Laskun numero:"
+      ],
+      "Zahlungsstatus:": [
+        "Maksun tila:"
+      ],
+      "Kostenfrei (Free)": [
+        "Maksuton"
+      ],
+      "Ausstehend (Pending)": [
+        "Odottaa"
+      ],
+      "Bezahlt (Paid)": [
+        "Maksettu"
+      ],
+      "Erstattet (Refunded)": [
+        "Hyvitetty"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR-tietosuojasuostumus annettu"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Valokuva- ja videosuostumus annettu"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR-tietosuoja ja vientisuostumus"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Henkilötietojen suoja (GDPR 4 ja 5 artikla)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Tämä vienti luo CSV-tiedoston, joka sisältää luottamuksellisia osallistujien henkilötietoja (koko nimet, yritykset, työsähköpostiosoitteet, laskuviitteet ja sisäänkirjautumistiedot)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Käyttötarkoitussidonnaisuus (GDPR 5 artiklan 1 kohdan b alakohta):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Tietoja saa käyttää ainoastaan tapahtuman käytännön toteuttamiseen (esim. nimikorttien tulostamiseen ja akkreditointiin sisäänpääsyssä)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Luottamuksellisuus ja turvallisuus (GDPR 5 artiklan 1 kohdan f alakohta):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Tietojen luovuttaminen ulkopuolisille tai tallentaminen salaamattomille mobiililaitteille on kielletty."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Poistamisvelvollisuus (GDPR 17 artikla):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Konferenssin päätyttyä viety paikallinen tiedosto on poistettava viipymättä tietosuojavaatimusten mukaisesti."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Vahvistan GDPR-suostumuksen:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Ymmärrän, että tämä vienti sisältää luottamuksellisia henkilötietoja. Sitoudun käsittelemään tietoja huolellisesti vain määriteltyyn tarkoitukseen ja noudattamaan tarkoin lakisääteisiä tietosuojavaatimuksia."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Lataa CSV-vienti turvallisesti nyt"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Lasku-XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopioi XML leikepöydälle"
+      ],
+      "Keine Berechtigung.": [
+        "Ei käyttöoikeutta."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Tietoturvavirhe: vain aidot CSV-tiedostot ovat sallittuja."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Tiedosto on liian suuri (enintään 5 Mt sallittu)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Valitse tapahtuma ja anna CSV-tiedot."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Osallistujien CSV-erätuonti (kaksoiskappaleiden esto TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Osallistujaluetteloiden automaattinen tuonti ulkoisista järjestelmistä estäen tiukasti päällekkäiset ilmoittautumiset."
+      ],
+      "Import-Zusammenfassung": [
+        "Tuonnin yhteenveto"
+      ],
+      "Gesamtzeilen": [
+        "Rivejä yhteensä"
+      ],
+      "Neu Importiert": [
+        "Uusia tuotu"
+      ],
+      "Dubletten abgewiesen": [
+        "Kaksoiskappaleita hylätty"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Tuo uusi osallistujaluettelo"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Kohdetapahtuma *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Valitse tapahtuma —"
+      ],
+      "CSV-Datei auswählen": [
+        "Valitse CSV-tiedosto"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Muoto: Etunimi;Sukunimi;Sähköposti;Yritys (puolipisteellä tai pilkulla erotettu, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Tai liitä CSV-teksti"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Suorita CSV-tuonti nyt"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF -kirjanpitoerästudio"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standardoitu talousvienti (luokka 21, muotoversio 700 / 125 kenttää) tilitoimistoille ja DATEV-kirjanpitoon."
+      ],
+      "Exportzeitraum festlegen": [
+        "Valitse vientijakso"
+      ],
+      "Laufender Monat": [
+        "Kuluva kuukausi"
+      ],
+      "Vormonat": [
+        "Edellinen kuukausi"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Koko vuosi 2026"
+      ],
+      "Datum von *": [
+        "Alkupäivämäärä *"
+      ],
+      "Datum bis *": [
+        "Loppupäivämäärä *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Vahvistus myyntireskontratietojen viennille:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Vahvistan, että talous- ja laskunsaajatietojen vienti sisältää henkilötietoja ja että tiedot toimitetaan yksinomaan valtuutetulle tilitoimistolle lakisääteistä kirjanpitoa ja verotusta varten."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Lataa DATEV EXTF -kirjanpitoerä (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Ketjutettu tarkastuspolku kaikista tietoturvan kannalta olennaisista tapahtumista, kaksivaiheisista vahvistuksista, peruutuksista ja käyttöoikeustarkistuksista."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Tarkastusketju ehjä — %1$d merkintää tarkistettu sisällöltään, %2$d pseudonymisoitu (ketjusijainti tarkistettu)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Tarkastusketju EI ole ehjä"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d merkintä(ä) on ajalta ennen ketjutusta eikä niillä ole varmennettavaa allekirjoitusta. Ne luokitellaan tarkistamattomiksi, ei ehjiksi."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY-vakio ei ole määritetty: ketjuavain luetaan tietokannasta — samasta paikasta, jota kirjoitusoikeudet saanut hyökkääjä muokkaisi. Määritä AUTH_KEY tiedostossa wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Ajankohta"
+      ],
+      "Ereignistyp": [
+        "Tapahtumatyyppi"
+      ],
+      "Referenz-ID": [
+        "Viitetunniste"
+      ],
+      "IP-Adresse": [
+        "IP-osoite"
+      ],
+      "Audit-Details (JSON)": [
+        "Tarkastustiedot (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Lokimerkintöjä ei löytynyt."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Tapahtuma \"%1$s\" luotiin (%2$d sessiota ja %3$d osallistujaa)."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demotiedot tuotiin onnistuneesti!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d tapahtumaa, %2$d sessiota, %3$d ilmoittautumista ja %4$d laskua poistettiin."
+      ],
+      "Demodaten bereinigt!": [
+        "Demotiedot siivottiin!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Tehdasasetukset palautettiin!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Kaikki taulut on tyhjennetty ja asetukset palautettu oletusarvoihin."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Ladattu teematiedosto poistettiin."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Asetukset tallennettiin turvallisesti."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise-määritykset ja tietoturva"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Ulkoasu, Brevo, laskut ja DATEV, bottisuojaus ja demotiedot."
+      ],
+      "Design & Theme Studio": [
+        "Ulkoasu ja Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM ja webhookit"
+      ],
+      "Rechnungen & DATEV": [
+        "Laskut ja DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Bottisuojaus (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demotiedot ja nollaus"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Julkisen sivuston ulkoasujärjestelmä ja teeman periytyminen"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Valitse, miten tapahtumat ja ilmoittautumislomakkeet muotoillaan sivustolla. Oletuksena lisäosa perii saumattomasti fontit, värit ja painikkeet aktiivisesta WordPress-teemasta."
+      ],
+      "Primärfarbe": [
+        "Pääväri"
+      ],
+      "Akzentfarbe": [
+        "Korostusväri"
+      ],
+      "Kartenhintergrund": [
+        "Kortin tausta"
+      ],
+      "Textfarbe": [
+        "Tekstin väri"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Mukautetut teemavärit ja reunat (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Pääväri (painikkeet ja korostukset):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Korostusväri (tunnisteet ja hehku):"
+      ],
+      "Seitenhintergrund:": [
+        "Sivun tausta:"
+      ],
+      "Kartenhintergrund:": [
+        "Kortin tausta:"
+      ],
+      "Haupttextfarbe:": [
+        "Leipätekstin väri:"
+      ],
+      "Eckenabrundung (px):": [
+        "Kulmien pyöristys (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Lataa mukautettu CSS-teema (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Lataa räätälöity .css-tyylitiedosto (esim. toimisto-teema.css). Se ladataan eristettynä ja tarkistetaan automaattisesti."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Mukautettu teema on käytössä"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Haluatko varmasti poistaa ladatun CSS-teematiedoston?"
+      ],
+      "Theme löschen": [
+        "Poista teema"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Mukautettu lisä-CSS (sisäinen editori)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Kirjoita omat CSS-säännöt tähän, esim.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 ja webhook-todennus"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API -avain (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Käytetään asynkroniseen kaksivaiheisten vahvistusviestien lähetykseen ja yhteystietomääritteiden synkronointiin."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Jaettu webhook-salaisuus / allekirjoitustunniste"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Ajoitushyökkäyksiltä suojattu tunniste saapuvien Brevo-webhook-kutsujen tarkistamiseen."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Henkilökunnan lukijan API-avain (ovivalvonta)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Todennustunniste sisäänpääsyhenkilöstön mobiililukijoille."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Odotushuone: hyväksynnät minuutissa"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Ilmoittautumiseen ja sessiovaraukseen päästettävien pyyntöjen määrä minuutissa tapahtumaa kohti. 0 poistaa odotushuoneen käytöstä (oletus). Rajan ylittyessä reitti vastaa HTTP 503 -tilakoodilla ja Retry-After-otsakkeella ennen yhtäkään tietokantakyselyä — paikkaa ei tällöin varata."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Laskurin taustajärjestelmä tässä asennuksessa: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "pysyvä välimuisti (object cache)"
+      ],
+      "Datenbank (Transients)": [
+        "tietokanta (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI-mallipohjan tunniste"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo-yhteystietolistan tunniste"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Laskut (CII-XML) ja DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Laskunumeron etuliite"
+      ],
+      "Rechnungssteller": [
+        "Laskun lähettäjä"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Ilman näitä tietoja laskuja tai hyvityslaskuja ei luoda: %s."
+      ],
+      "Name / Firma": [
+        "Nimi / yritys"
+      ],
+      "Straße und Hausnummer": [
+        "Katuosoite ja talon numero"
+      ],
+      "PLZ": [
+        "Postinumero"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Maa (ISO-koodi, esim. FI tai DE)"
+      ],
+      "USt-IdNr.": [
+        "ALV-tunniste"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Verotunniste / Y-tunnus (jos ei ALV-tunnistetta)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Laskutussähköposti"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN tilisiirtoja varten (valinnainen)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV-neuvonantajanumero"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV-asiakasnumero"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Myyntitili (esim. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Myyntisaamistili (esim. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Lisäosa ei vielä sisällä captcha-komponenttia: asetus tallennetaan, mutta lomake käsitellään ilman captcha-tarkistusta."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Ota Friendly Captcha käyttöön"
+      ],
+      "Sitekey": [
+        "Sivustoavain (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API-avain / salaisuus"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demotietojen hallinta ja tehdasasetusten palautus"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Tuo esimerkkitietoja, poista ne tai palauta lisäosa tehdasasetuksiin."
+      ],
+      "1. Demodaten importieren": [
+        "1. Tuo demotiedot"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Luo esimerkkikonferenssin, sessiot ja esimerkkiosallistujat. Laskut luodaan vain, kun laskuttajan tiedot on määritetty."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Haluatko tuoda esimerkkitiedot nyt?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Tuo demotiedot (konferenssit, sessiot, osallistujat, laskut)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Siivoa demotiedot (poista vain testitiedot)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Poistaa ainoastaan luodut demokonferenssit, demosessiot, demo-osallistujat ja demolaskut. Oikeat tapahtumat ja varaukset säilyvät täysin koskemattomina."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Haluatko poistaa kaikki demotiedot? Oikeat tiedot säilytetään."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Siivoa demotiedot (vain testitiedot)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Palauta tehdasasetukset (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Varoitus (peruuttamaton):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Tyhjentää kaikki tapahtuma-, sessio-, ilmoittautumis-, lasku- ja tarkastuslokitaulut, poistaa kaikki cybevent- ja cybsession-julkaisut sekä palauttaa kaikki asetukset oletusarvoihin."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "VAROITUS: Oletko aivan varma? Tämä poistaa KAIKKI tapahtumat, ilmoittautumiset ja laskut sekä nollaa asetukset!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Täydellinen tehdasasetusten palautus (poista kaikki ja palauta oletukset)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Toiminta lisäosan poiston yhteydessä"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Poista kaikki taulut ja asetukset asennuksen poiston yhteydessä"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Oletuksena kaikki tapahtuma-, ilmoittautumis-, lasku- ja tarkastuslokitiedot säilytetään lisäosaa poistettaessa (lakisääteinen säilytysvelvollisuus). Ota tämä valinta käyttöön vain, jos kaikki taulut halutaan poistaa pysyvästi asennuksen poiston yhteydessä."
+      ],
+      "Alle Einstellungen speichern": [
+        "Tallenna kaikki asetukset"
+      ],
+      "Platzbuchung": [
+        "Paikkavaraus"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Paikka varataan yhdellä ehdollisella UPDATE-lauseella (belegt = belegt + 1, vain niin kauan kuin belegt < kapazitaet). Kahdesta samanaikaisesta pyynnöstä viimeiselle paikalle vain toinen muuttaa riviä; toinen saa ilmoituksen 'täynnä'."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Laskut ja hyvityslaskut muodostetaan EN 16931 -profiilin mukaisena CII-XML:nä ja tarkistetaan testeissä Mustang-validaattorilla. PDF-tiedostoa ei luoda, joten XML ei ole ZUGFeRD-hybriditiedosto. Kirjanpitäjäsi arvioi, täyttävätkö laskut lakisääteiset vaatimukset yksittäistapauksessa."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF ja kirjanpito"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Vie ajanjakson laskut ja hyvityslaskut DATEV-kirjanpitoeränä (EXTF 700, luokka 21) Windows-1252-merkistöllä. Myyntisaamis- ja myyntitilit haetaan asetuksista; jokaisella rivillä on verokoodi 3. Täsmäytä tilit ja koodit kirjanpitäjäsi kanssa."
+      ],
+      "Handbuch & API:": [
+        "Käsikirja ja API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Täydellinen käsikirja"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Kehittänyt WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Ylläpitäjän ja kehittäjän käsikirja"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Paikkavaraukset, lasku-XML, DATEV-vienti, Brevon kaksivaiheinen vahvistus, lyhytkoodit ja teemaesiasetukset."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Paikkavaraus ilman ylivarausta"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Täyttöastelaskuria kasvatetaan yhdessä ehdollisessa lauseessa; kahdesta samanaikaisesta pyynnöstä viimeiselle paikalle vain toinen päivittää rivin:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Lasku-XML ja DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Laskut ja hyvityslaskut asetuksista haetuilla myyjätiedoilla, toimituspäivällä ja juoksevalla numeroinnilla. Ei PDF-tiedostoa, ei Leitweg-ID-tunnistetta."
+      ],
+      "Gutschriften:": [
+        "Hyvityslaskut:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Oma juokseva numero, tyyppi 381 viittauksella alkuperäiseen laskuun."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Kirjanpitoerä yhden kalenterivuoden sisäiselle ajanjaksolle, Windows-1252. Täsmäytä tilit ja verokoodit kirjanpitäjäsi kanssa."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM -kaksivaiheinen vahvistus ja taustajono"
+      ],
+      "Double Opt-In (DOI):": [
+        "Kaksivaiheinen vahvistus (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo lähettää vahvistussähköpostin henkilökohtaisella linkillä; linkki vahvistaa ilmoittautumisen kerran. Vahvistamattomat ilmoittautumiset poistetaan 14 päivän kuluttua."
+      ],
+      "Warteschlange:": [
+        "Jono:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Brevo-kutsut kulkevat tietokantajonon kautta, jota WP-Cron käsittelee minuutin välein (tai komennolla wp cybevents queue-run), enintään viidellä yrityksellä."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Lyhytkoodit ja Gutenberg-integraatio"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Saavutettava ilmoittautumislomake."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Vuorovaikutteinen konferenssiohjelma ja linjanäkymä."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Tunnistepohjainen sessiovalinta DOI-vahvistuksen jälkeen."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI ylläpitäjille"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Teemaesiasetukset ja suunnittelutokenit"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Julkinen näkymä mukautuu mihin tahansa WordPress-teemaan tai käyttää valmiita ulkoasuesiasetuksia:"
+      ],
+      "Presets:": [
+        "Esiasetukset:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Useita väriesiasetuksia, mukaan lukien tummanvioletti, violetti ja ruusunpunainen (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Teeman periytyminen (oletus):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Perii fontit, kulmien pyöristykset ja päävärit saumattomasti aktiivisesta teemasta (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Mukautetut CSS-ominaisuudet:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Huomioitavaa ja parhaat käytännöt"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Taulut luodaan määrityksellä ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Säilytysajat:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Vahvistamattomat ilmoittautumiset poistetaan 14 päivän kuluttua ja tarkastuslokin merkinnät pseudonymisoidaan 90 päivän kuluttua (laskutapahtumia lukuun ottamatta). Vahvistettuja ilmoittautumisia ja laskuja lisäosa ei poista automaattisesti, eikä sille ole asetusta."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Jonon käsittely ja säilytysaikojen siivous suoritetaan WP-Cronin kautta; sivustoilla, joilla ei ole säännöllistä kävijäliikennettä, tarvitaan oikea järjestelmän cron-ajastus."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Valitse tapahtuma"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Valitse tälle lohkolle kohdetapahtuma."
+      ],
+      "Key Facts Header anzeigen": [
+        "Näytä perustietojen ylätunniste"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Näytä vaiheosoitin (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Näytä kalenteriviennin (.ics) painike"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Näytä lähtölaskenta-ajastin"
+      ],
+      "Freie Plätze anzeigen": [
+        "Näytä vapaat paikat"
+      ],
+      "Spaltenanzahl": [
+        "Sarakkeiden määrä"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Valitse kelvollinen tapahtuma lohkon asetuksista."
+      ],
+      "Vorschau im Editor": [
+        "Editorin esikatselu"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Sessiovalinta vahvistetuille ilmoittautumisille"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Julkisella sivulla tämä lohko muodostetaan dynaamisesti kullekin osallistujalle hänen henkilökohtaisen tunnisteensa perusteella."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Vahvistustunnistetta ei löytynyt."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Avaa tämä sivu vahvistussähköpostissasi olevasta henkilökohtaisesta linkistä."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Virheellinen tai vanhentunut osallistujatunniste."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Tapahtuman paikkakartta"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Julkisella sivulla tämä lohko näyttää kunkin session täyttöasteen SVG-muodossa ja pitää sen ajan tasalla Server-Sent Events -yhteydellä."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Tapahtumaa ei löytynyt."
+      ],
+      "Jetzt anmelden": [
+        "Ilmoittaudu nyt"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Ilmoittaudu maksutta nyt"
+      ],
+      "Programm ansehen": [
+        "Katso ohjelma"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Maksuton osallistuminen"
+      ],
+      "Anmeldung geöffnet": [
+        "Ilmoittautuminen avoinna"
+      ],
+      "Ausgebucht": [
+        "Täynnä"
+      ],
+      "Preis": [
+        "Hinta"
+      ],
+      "%d freier Platz": [
+        "%d vapaa paikka",
+        "%d vapaata paikkaa"
+      ],
+      "von max. %d": [
+        "/ enint. %d"
+      ],
+      "Beginn in:": [
+        "Alkaa:"
+      ],
+      "Tage": [
+        "Päivää"
+      ],
+      "Std.": [
+        "Tuntia"
+      ],
+      "Min.": [
+        "Min"
+      ],
+      "Sek.": [
+        "Sek"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Vie kalenteriin (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics-tiedosto)"
+      ],
+      "Google Kalender": [
+        "Google Kalenteri"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        ".ics-tiedosto sisältää muistutuksen päivää ennen alkua."
+      ],
+      "Referenten & Fachexperten": [
+        "Puhujat ja asiantuntijat"
+      ],
+      "Referenten": [
+        "Puhujat"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Puhujaluettelo julkaistaan pian."
+      ],
+      "TEILNEHMERPASS": [
+        "OSALLISTUJAPASSI"
+      ],
+      "Teilnehmerpass": [
+        "Osallistujapassi"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Avaa lippu ja akkreditointi"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Syötä vahvistussähköpostista saamasi 64-merkkinen turvatunniste:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Syötä tunniste (esim. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Näytä passi"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Virheellinen tai tuntematon varaustunniste."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Tälle ilmoittautumiselle ei ole saatavilla osallistujapassia: sitä ei ole vahvistettu tai se on peruutettu."
+      ],
+      "Max Mustermann": [
+        "Matti Meikäläinen"
+      ],
+      "Beispiel GmbH": [
+        "Esimerkki Oy"
+      ],
+      "Veranstaltung": [
+        "Tapahtuma"
+      ],
+      "Rechnungs-Nr.": [
+        "Laskun nro"
+      ],
+      "Keine": [
+        "Ei ole"
+      ],
+      "Ticket-Nummer": [
+        "Lipun numero"
+      ],
+      "Pass drucken": [
+        "Tulosta passi"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Tietosuoja ja tietoturva"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Kaksivaiheinen vahvistus ja säilytysajat"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Ilmoittautuminen astuu voimaan vasta sähköpostilinkin kautta tehdyn vahvistuksen jälkeen. Vahvistamattomat ilmoittautumiset poistetaan 14 päivän kuluttua ja tarkastuslokin merkinnät pseudonymisoidaan 90 päivän kuluttua."
+      ],
+      "Beschriftete Formulare": [
+        "Nimettyjen kenttien lomakkeet"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Lomakekentät, joissa on näkyvät selitteet, merkityt pakolliset kentät ja ruudunlukijoiden lukemat tilailmoitukset."
+      ],
+      "Eigene Skripte und Styles": [
+        "Omalla palvelimella isännöidyt komentosarjat ja tyylit"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Lisäosa lataa komentosarjansa, tyylinsä ja kuvakkeensa omalta palvelimeltasi CDN-verkon sijaan."
+      ],
+      "Audit-Log und Tokens": [
+        "Tarkastusloki ja tunnisteet"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "HMAC-SHA256-ketjutettu tarkastusloki tekee jälkikäteisen muokkauksen havaittavaksi. Osallistujatunnisteet tallennetaan ainoastaan SHA-256-tiivisteinä."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Lasku-XML ja DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Laskut EN 16931 -profiilin mukaisena CII-XML:nä sekä vienti DATEV-kirjanpitoeränä."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Yksityisyyttä kunnioittava bottisuojaus ilman käyttäjäseurantaa tai kuvatehtäviä EU:n tietosuojalainsäädännön mukaisesti."
+      ],
+      "Zur Anmeldung": [
+        "Kirjaudu sisään"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Arkistoituja tapahtumia ei ole."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Suunniteltuja tapahtumia ei tällä hetkellä ole."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Suodata tapahtumia nimen tai paikan mukaan..."
+      ],
+      "Kostenfrei": [
+        "Maksuton"
+      ],
+      "In Kalender eintragen": [
+        "Lisää kalenteriin"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Konferenssin ja ohjelman reaaliaikainen seuranta"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "OHJELMAN REAALIAIKAINEN TELEMETRIA"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Näkymä- ja suodatinohjaimet"
+      ],
+      "Kalenderansichten": [
+        "Kalenterinäkymät"
+      ],
+      "Monat": [
+        "Kuukausi"
+      ],
+      "Woche": [
+        "Viikko"
+      ],
+      "Tag / Agenda": [
+        "Päivä / ohjelma"
+      ],
+      "Liste": [
+        "Luettelo"
+      ],
+      "Karten": [
+        "Kortit"
+      ],
+      "Räume & Ort": [
+        "Salit ja paikka"
+      ],
+      "Summit Tracks": [
+        "Konferenssilinjat"
+      ],
+      "Vorheriger Zeitraum": [
+        "Edellinen jakso"
+      ],
+      "Nächster Zeitraum": [
+        "Seuraava jakso"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Etsi tapahtumaa, aihetta tai puhujaa..."
+      ],
+      "Suchbegriff eingeben": [
+        "Kirjoita hakusana"
+      ],
+      "Track oder Kategorie filtern": [
+        "Suodata linjaa tai luokkaa"
+      ],
+      "Alle Fach-Tracks": [
+        "Kaikki asiantuntijalinjat"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Linja 01: Kvanttiturvallinen kryptografia"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Linja 02: Zero Trust ja DORA-kestävyys"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Linja 03: Autonominen tekoäly ja salassapitosäännökset"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Linja 04: Ohjelmistojen toimitusketju ja CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Suodata konferenssisalia"
+      ],
+      "Alle Säle & Räume": [
+        "Kaikki salit ja tilat"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Pääsali Alpha (keynote-puheenvuorot)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Kuukausikalenterinäkymä"
+      ],
+      "Mo": [
+        "Ma"
+      ],
+      "Di": [
+        "Ti"
+      ],
+      "Mi": [
+        "Ke"
+      ],
+      "Do": [
+        "To"
+      ],
+      "Fr": [
+        "Pe"
+      ],
+      "Sa": [
+        "La"
+      ],
+      "So": [
+        "Su"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Viikko-ohjelma- ja aikaruudukkonäkymä"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Päiväohjelma- ja aikajananäkymä"
+      ],
+      "Chronologische Listenansicht": [
+        "Aikajärjestyksessä oleva luettelonäkymä"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Visuaalinen kuvakorttinäkymä"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Tapahtumapaikka- ja salikarttanäkymä"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Monilinjainen konferenssimatriisi"
+      ],
+      "Dialog schließen": [
+        "Sulje valintaikkuna"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Virheellinen session tai ilmoittautumisen tunniste."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Varausta ei voitu käsitellä tietokantavirheen vuoksi."
+      ],
+      "Session %d existiert nicht.": [
+        "Sessiota %d ei ole olemassa."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" on täynnä (%2$d / %2$d paikkaa varattu)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Varausta ei voitu tallentaa. Paikka on vapautettu uudelleen."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Peruutusta ei voitu käsitellä tietokantavirheen vuoksi."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Kelvollista tiedostoa ei ladattu."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Virhe tiedoston latauksessa."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profiilikuvan enimmäiskoko on 5 Mt."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Virheellinen tiedostomuoto. Sallitut muodot ovat JPG, PNG ja WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Virheellinen tiedostopääte. Sallitut päätteet ovat .jpg, .jpeg, .png ja .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Virhe profiilikuvan tallennuksessa."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Tarkastusloki on tyhjä, vaikka aiemmin oli kirjattu %d merkintää."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Ketjuun on lisätty jälkikäteen allekirjoittamaton merkintä."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ketjukatkos merkinnässä #%d: merkintä on poistettu, lisätty väliin tai järjestetty uudelleen."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Merkinnän #%d allekirjoitus ei täsmää sen sisältötiivisteeseen."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Merkintä #%d on merkitty pseudonymisoiduksi ilman kelvollista todistetta: sen sisältöä on voitu muuttaa."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Merkinnän #%d sisältöä on muutettu luomisen jälkeen."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Lokin loppu ei täsmää viimeksi kirjattuun merkintään. Uusimmat merkinnät on poistettu."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Tapahtumat"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Tapahtuma"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Tapahtuma"
+      ],
+      "event\u0004Neu erstellen": [
+        "Lisää uusi"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Muokkaa tapahtumaa"
+      ],
+      "Veranstaltung ansehen": [
+        "Näytä tapahtuma"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Etsi tapahtumia"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Roskakorissa ei ole tapahtumia."
+      ],
+      "Veranstaltungsdaten": [
+        "Tapahtuman tiedot"
+      ],
+      "Veranstaltungsort:": [
+        "Tapahtumapaikka:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Hallinnoi tapahtumapaikkoja ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Valitse tallennettu tapahtumapaikka —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manuaalinen paikka / tila / osoite..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Valitse tallennettu tapahtumapaikka luettelosta tai mukauta paikan ja tilan kuvausta."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Alkaa (päivä ja kellonaika):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Päättyy (päivä ja kellonaika):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Maksullinen tapahtuma"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Konferenssiaikatauluja ei ole tällä hetkellä saatavilla."
+      ],
+      "Programm": [
+        "Ohjelma"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Etsi aihetta, puhujaa tai tilaa..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferenssiohjelma"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Tarkempi ohjelma julkaistaan pian."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents-osallistujatiedot"
+      ],
+      "E-Mail": [
+        "Sähköposti"
+      ],
+      "Unternehmen / Organisation": [
+        "Yritys / organisaatio"
+      ],
+      "Profilbild": [
+        "Profiilikuva"
+      ],
+      "Einwilligung Datenschutz": [
+        "Tietosuojasuostumus"
+      ],
+      "ja": [
+        "kyllä"
+      ],
+      "nein": [
+        "ei"
+      ],
+      "Einwilligung Fotos": [
+        "Valokuvasuostumus"
+      ],
+      "Bestätigung angefordert": [
+        "Vahvistusta pyydetty"
+      ],
+      "Bestätigt am": [
+        "Vahvistettu"
+      ],
+      "Eingecheckt am": [
+        "Kirjautunut sisään"
+      ],
+      "Gebuchte Sessions": [
+        "Varatut sessiot"
+      ],
+      "Rechnungsnummer": [
+        "Laskun numero"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents-ilmoittautumiset"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents-laskut"
+      ],
+      "Empfänger": [
+        "Vastaanottaja"
+      ],
+      "Adresse": [
+        "Osoite"
+      ],
+      "Bruttobetrag": [
+        "Bruttosumma"
+      ],
+      "Ausgestellt am": [
+        "Päivätty"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Ilmoittautumista #%d ei voitu poistaa."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Ilmoittautumista #%d ei voitu anonymisoida; tiedot säilyivät ennallaan."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Ilmoittautuminen #%1$d anonymisoitiin. Lasku %2$s (nimi, osoite ja sähköposti) säilytetään muuttumattomana; lisäosa ei poista laskuja."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Brevo-webhook on poissa käytöstä ilman jaettua salaisuutta (vastaa 401). Palautuvia viestejä ja peruutuksia ei käsitellä ennen kuin salaisuus on määritetty."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Brevo API -avainta ei ole määritetty: vahvistusviestejä ei lähetetä, uudet ilmoittautumiset jäävät vahvistamattomiksi ja ne poistetaan 14 päivän kuluttua."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha on otettu käyttöön, mutta sillä ei ole vaikutusta: lisäosa ei sisällä captcha-komponenttia, joten lomake käsitellään ilman bottisuojausta."
+      ],
+      "Einstellungen öffnen": [
+        "Avaa asetukset"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Liian monta pyyntöä. Yritä uudelleen minuutin kuluttua."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Valintaa ei tallennettu: %s Aiemmat varauksesi pysyvät voimassa."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Uudet sessiot varattiin, mutta kaikkia poistettuja valintoja ei voitu vapauttaa: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Virheellinen turvatunniste (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Virheellinen lomaketunniste (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Osallistujalla ei ole valtuuksia tai häntä ei löytynyt."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Kuvatiedostoa ei lähetetty."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profiilikuva päivitettiin onnistuneesti."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Vahvistustunniste puuttuu."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Virheellinen tai vielä vahvistamaton lippu."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Tälle tapahtumalle ei ole määritetty sessioita."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Paikkakartta: varatut ja vapaat paikat sessioittain"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d / %3$d paikkaa varattu"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Paikkakartalta puuttuu tapahtuma."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Paikkakartan tapahtumaa ei ole olemassa."
+      ],
+      "frei": [
+        "vapaa"
+      ],
+      "belegt": [
+        "varattu"
+      ],
+      "von Ihnen gebucht": [
+        "sinun varaamasi"
+      ],
+      "Belegung je Session": [
+        "Täyttöaste sessioittain"
+      ],
+      "Session": [
+        "Sessio"
+      ],
+      "Belegt": [
+        "Varattu"
+      ],
+      "Frei": [
+        "Vapaa"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Täyttöaste päivittyy automaattisesti."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Tilanne sivun lataushetkellä; täyttöaste ei päivity reaaliaikaisesti."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demotiedot: varaus kohteeseen %1$s hylättiin — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demotiedot: osallistuminen peruutettu"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessiot ja linjat"
+      ],
+      "post type singular name\u0004Session": [
+        "Sessio"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessiot"
+      ],
+      "Alle Sessions": [
+        "Kaikki sessiot"
+      ],
+      "Session bearbeiten": [
+        "Muokkaa sessiota"
+      ],
+      "Session ansehen": [
+        "Näytä sessio"
+      ],
+      "Sessions durchsuchen": [
+        "Etsi sessioita"
+      ],
+      "Keine Sessions gefunden.": [
+        "Sessioita ei löytynyt."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Roskakorissa ei ole sessioita."
+      ],
+      "Session-Daten": [
+        "Session tiedot"
+      ],
+      "Zugehörige Konferenz:": [
+        "Emokonferenssi:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Konferenssia ei valittu —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Puhuja ja organisaatio:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "esim. Maija Meikäläinen (Esimerkki Oy)"
+      ],
+      "Raum / Saal / Track:": [
+        "Tila / sali / linja:"
+      ],
+      "Workshop-Kapazität:": [
+        "Työpajan kapasiteetti:"
+      ],
+      "Speaker": [
+        "Puhuja"
+      ],
+      "Raum / Track": [
+        "Sali / linja"
+      ],
+      "Zeitfenster": [
+        "Aikaikkuna"
+      ],
+      "Belegung": [
+        "Täyttöaste"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Tervetuloa, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Valitse sessiosi. Paikka varataan tallennettaessa, mikäli sessio ei ole täynnä."
+      ],
+      "Anmeldung bestätigt": [
+        "Ilmoittautuminen vahvistettu"
+      ],
+      "Für diese Session eingetragen": [
+        "Ilmoittauduttu tähän sessioon"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Valitse tämä ohjelmaosio"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Paikka varataan tallennettaessa, mikäli sessio ei ole täynnä."
+      ],
+      "Sessions ausgewählt": [
+        "Sessioita valittu"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Tallenna valinta"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress-teeman oletus (peritään automaattisesti)"
+      ],
+      "Empfohlen": [
+        "Suositeltu"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Perii typografian, värit, painikkeet ja välistykset suoraan aktiivisesta WordPress-teemasta (GeneratePress, Astra, Twenty Twenty-Four jne.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violetti ja rosé (tumma liila, violetti, rosé-korostus)"
+      ],
+      "Farbstark": [
+        "Värikäs"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Tumma liila (#482683), kirkas violetti (#7D40E7), rosé-korostus (#DF0079), Noto Sans, jos teema lataa sen, ja hienovarainen liukuväri."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (laivastonsininen ja syaani)"
+      ],
+      "High-Tech Dark": [
+        "Tekninen tumma"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Räätälöity tumma ja koboltinsininen korkean teknologian ilme hehkukorostuksilla kyberturvallisuuskonferensseihin."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (liuskekivi ja yksivärinen)"
+      ],
+      "Modern": [
+        "Moderni"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Selkeä ja hillitty SaaS-ulkoasu neutraaleilla harmaasävyillä, terävillä reunoilla ja runsaalla tyhjällä tilalla."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (klassinen ja lämminsävyinen)"
+      ],
+      "Klassik": [
+        "Klassinen"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Lämpimät norsunluun ja viininpunaisen sävyt akateemisiin symposiumeihin ja vaativiin asiantuntijakongresseihin."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Suuri kontrasti (musta valkoisella)"
+      ],
+      "Hochkontrast": [
+        "Suuri kontrasti"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Musta teksti valkoisella pohjalla (kontrasti 21:1), keltainen korostusväri ja vahvistetut kohdistusreunukset."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Mukautettu teema (omat värit ja CSS)"
+      ],
+      "Individuell": [
+        "Mukautettu"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Vapaat värivalitsimet ja tuki ladatuille mukautetuille CSS-tyylitiedostoille."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Kelvollista ladattavaa tiedostoa ei annettu."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Tietoturvavirhe: vain puhtaita .css-tiedostoja saa ladata."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS-tiedosto ylittää 2 Mt:n rajan."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Teematiedostoa ei voitu tallentaa palvelimelle."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Mukautettu teema-CSS ladattiin ja otettiin käyttöön."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Tapahtumapaikat"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Tapahtumapaikka"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Etsi tapahtumapaikkoja"
+      ],
+      "Häufige Tagungsorte": [
+        "Suositut tapahtumapaikat"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Kaikki tapahtumapaikat"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Muokkaa tapahtumapaikkaa"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Päivitä tapahtumapaikka"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Lisää uusi tapahtumapaikka"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Uuden tapahtumapaikan nimi"
+      ],
+      "Orte mit Kommas trennen": [
+        "Erota tapahtumapaikat pilkuilla"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Lisää tai poista tapahtumapaikkoja"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Valitse useimmin käytetyistä tapahtumapaikoista"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Tapahtumapaikkoja ei löytynyt."
+      ],
+      "Stadt / Ort:": [
+        "Kaupunki / paikkakunta:"
+      ],
+      "z. B. Musterstadt": [
+        "esim. Tampere"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Tapahtumapaikan kunta tai kaupunki."
+      ],
+      "Straße & Hausnummer:": [
+        "Katuosoite ja numero:"
+      ],
+      "z. B. Musterstraße 1": [
+        "esim. Esimerkkikatu 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Postinumero:"
+      ],
+      "Land:": [
+        "Maa:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Tilan enimmäiskapasiteetti (henkilöä):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Esteetön pyörätuolilla"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Valitse vain, kun esteettömyys on varmistettu. Näytetään tapahtumapaikkaluettelossa ja REST-reitissä /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Kartan / reittiohjeiden URL-osoite:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Tapahtumapaikan verkkosivusto:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Tilan enimmäiskapasiteetti:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Kokous- ja konferenssialueen henkilökapasiteetti."
+      ],
+      "Zugänglichkeit:": [
+        "Esteettömyys:"
+      ],
+      "Google Maps Link:": [
+        "Karttalinkki:"
+      ],
+      "Stadt & Adresse": [
+        "Kaupunki ja osoite"
+      ],
+      "Kapazität": [
+        "Kapasiteetti"
+      ],
+      "Rollstuhlgerecht": [
+        "Pyörätuolilla esteetön"
+      ],
+      "Ja": [
+        "Kyllä"
+      ],
+      "Nicht angegeben": [
+        "Ei ilmoitettu"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Palvelussa on juuri nyt erittäin paljon samanaikaisia pyyntöjä. Yritä uudelleen %d sekunnin kuluttua. Paikkaa ei ole varattu."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Ilman pysyvää välimuistia (Redis, Memcached) odotushuone laskee pyynnöt tietokannassa: hylätyt pyynnöt säästävät varauskyselyt, mutta vaativat silti yhden luku- ja yhden kirjoitusoperaation asetustauluun."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Tunnusluvut"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Tunnusluku"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Tulostaa reaaliaikaiset tunnusluvut aktiivisista konferensseista, vahvistetuista ilmoittautumisista ja vapaista paikoista."
+      ],
+      "Kennzahl": [
+        "Mittari"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Tapahtuman tunniste (valinnainen)"
+      ],
+      "Dokumentation": [
+        "Dokumentaatio"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Anna kelvollinen tapahtuman tunniste: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Kelvollista vahvistustunnistetta ei löytynyt. Käytä sähköpostiviestissäsi olevaa linkkiä."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Uusin aktiivinen tapahtuma (automaattinen) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automaattinen (nykyinen konferenssi)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Tapahtuman valinta"
+      ],
+      "Ziel-Konferenz": [
+        "Kohdekonferenssi"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Valitse konferenssi, jonka tiedot ladataan pääbanneriin."
+      ],
+      "Design & Layout-Presets": [
+        "Ulkoasu- ja asetteluesiasetukset"
+      ],
+      "Theme-Preset": [
+        "Teemaesiasetus"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (oletus)"
+      ],
+      "Federal Blue": [
+        "Federal Blue"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Cyan Glow"
+      ],
+      "Clean White & Modern": [
+        "Clean White & Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Glassmorphism Blur"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Kulmien pyöristys (border-radius)"
+      ],
+      "Ohne (0px)": [
+        "Ei pyöristystä (0px)"
+      ],
+      "Mittel (8px)": [
+        "Keskikokoinen (8px)"
+      ],
+      "Groß (16px)": [
+        "Suuri (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Erittäin suuri (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Ota hehkutehoste käyttöön"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Tekstit ja toimintakehotepainikkeet"
+      ],
+      "Badge / Dachzeile": [
+        "Tunniste / yläotsikko"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Mukautettu pääotsikko (valinnainen)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Oletus: tapahtuman nimi"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Mukautettu johdantoteksti / ingressi"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Oletus: tapahtuman kuvaus"
+      ],
+      "Primärer CTA-Button Text": [
+        "Ensisijaisen CTA-painikkeen teksti"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Ensisijaisen CTA-painikkeen kohdelinkki / ankkuri"
+      ],
+      "Sekundären Button anzeigen": [
+        "Näytä toissijainen painike"
+      ],
+      "Sekundärer Button Text": [
+        "Toissijaisen painikkeen teksti"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Toissijaisen painikkeen kohdelinkki"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Elementtien näkyvyys"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Näytä reaaliaikainen lähtölaskenta"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Näytä vapaiden paikkojen / kapasiteetin tunniste"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Näytä tilatunniste (avoinna/täynnä)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Näytä tapahtumapaikka"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Näytä päivämäärä ja kellonaika"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Näytä lipun hinta / maksuton-tunniste"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Näytä kalenterivientipainike (.ics)"
+      ],
+      "Kopfbereich": [
+        "Pääbanneri (hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Oletus: tapahtuman kuvaus sekä päivämäärä, paikka, hinta, vapaat paikat, lähtölaskenta ja ilmoittautumispainike."
+      ],
+      "Countdown": [
+        "Lähtölaskenta"
+      ],
+      "Freie Plätze": [
+        "Vapaat paikat"
+      ],
+      "Stil: %s": [
+        "Tyyli: %s"
+      ],
+      "Button: %s": [
+        "Painike: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Konferenssin valinta"
+      ],
+      "Ziel-Veranstaltung": [
+        "Kohdetapahtuma"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Valitse tapahtuma, johon kävijät ilmoittautuvat."
+      ],
+      "Formular-Design & Theme": [
+        "Lomakkeen ulkoasu ja teema"
+      ],
+      "Formular-Stil": [
+        "Lomakkeen tyyli"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (oletus)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Kulmien pyöristys"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Lomakekentät ja kerättävät tiedot"
+      ],
+      "Individueller Formulartitel": [
+        "Mukautettu lomakkeen otsikko"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Mukautettu alaotsikko / ohje"
+      ],
+      "Standard: kein Untertitel": [
+        "Oletus: ei alaotsikkoa"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Näytä organisaatio / yritys -kenttä"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Näytä valokuva- ja videosuostumuksen valintaruutu"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Näytä perustietojen ylätunniste lomakkeessa"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Painikkeen teksti ja tietosuojalinkit"
+      ],
+      "Absende-Button Beschriftung": [
+        "Lähetä-painikkeen teksti"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Mukautettu tietosuojaselosteen URL-osoite (valinnainen)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Oletus: tietosuojasivu kohdasta Asetukset > Tietosuoja"
+      ],
+      "Anmeldeformular": [
+        "Ilmoittautumislomake"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Kaksivaiheinen ilmoittautuminen: Brevo lähettää vahvistuslinkin, ja ilmoittautuminen astuu voimaan vasta vahvistuksen jälkeen."
+      ],
+      "Standard nach Ticketpreis": [
+        "Oletus lipun hinnan mukaan"
+      ],
+      "Überschrift & Untertitel": [
+        "Otsikko ja alaotsikko"
+      ],
+      "Überschrift": [
+        "Otsikko"
+      ],
+      "Untertitel / Beschreibung": [
+        "Alaotsikko / kuvaus"
+      ],
+      "Suche, Angaben & Export": [
+        "Haku, metatiedot ja vienti"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Näytä sessioiden pikahakukenttä"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Näytä tila- ja paikkatiedot"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Näytä puhujien profiilikuvat"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Näytä koko kalenterin vienti (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessiot aikajärjestyksessä sisältäen salin, puhujan, kuvauksen, haun ja .ics-viennin."
+      ],
+      "Suche": [
+        "Haku"
+      ],
+      ".ics-Download": [
+        ".ics-lataus"
+      ],
+      "Layout & Spalten": [
+        "Asettelu ja sarakkeet"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Sarakkeiden määrä (työpöytä)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Teksti- ja tietonäkymä"
+      ],
+      "Untertitel": [
+        "Alaotsikko"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Näytä session esityksen aihe"
+      ],
+      "Raumangabe anzeigen": [
+        "Näytä salimerkintä"
+      ],
+      "Uhrzeit anzeigen": [
+        "Näytä alkamisaika"
+      ],
+      "Konferenz: ": [
+        "Konferenssi: "
+      ],
+      "%d Spalten": [
+        "%d saraketta"
+      ],
+      "Vortragsthemen": [
+        "Esitysaiheet"
+      ],
+      "Titel": [
+        "Otsikko"
+      ],
+      "Individueller Titel": [
+        "Mukautettu otsikko"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalenteripalvelut ja asetukset"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Näytä Apple / Outlook (.ics-tiedosto)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Näytä suora linkki Google Kalenteriin"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Näytä suora linkki Outlook Webiin"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Näytä suora linkki Microsoft 365:een"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Näytä aikavyöhykehuomautus"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Näytä maininta .ics-tiedoston muistutuksesta"
+      ],
+      "Kalender": [
+        "Kalenteri"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics-tiedosto, jossa on muistutus päivää ennen alkua, sekä linkit Google Kalenteriin, Outlook Webiin ja Microsoft 365:een."
+      ],
+      ".ics-Datei": [
+        ".ics-tiedosto"
+      ],
+      "Session-Auswahl": [
+        "Sessiovalitsin"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Tällä lohkolla ei ole asetuksia. Se näyttää vahvistuslinkin tunnistetta vastaavat sessiot; ilman tunnistetta näytetään ohjeviesti."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Paikka varataan tallennettaessa, mikäli sessio ei ole täynnä."
+      ],
+      "Ticketpass-Optionen": [
+        "Lippupassin asetukset"
+      ],
+      "Pass-Überschrift": [
+        "Passin otsikko"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Ylärivi (oletus: tapahtuman nimi)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Näytä tulostuspainike (tulosta kortti)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Näytä lipun numero"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Näytä laskun numero / viite"
+      ],
+      "Check-In Status anzeigen": [
+        "Näytä sisäänkirjautumistila"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Passi vahvistetuille ilmoittautumisille, avataan vahvistussähköpostin tunnisteella: nimi, yritys, tila, laskun numero, lipun numero ja tulostuspainike."
+      ],
+      "Ticketnummer": [
+        "Lipun numero"
+      ],
+      "Druckfunktion": [
+        "Tulostustoiminto"
+      ],
+      "Titel der Veranstaltung": [
+        "Tapahtuman nimi"
+      ],
+      "Layout & Farbschema": [
+        "Asettelu ja värimaailma"
+      ],
+      "Raster-Layout": [
+        "Ruudukkoasettelu"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4 sarakkeen ruudukko (oletus)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2 sarakkeen ruudukko (leveä)"
+      ],
+      "Farbthema": [
+        "Väriteema"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (oletus)"
+      ],
+      "Angezeigte Karten": [
+        "Näytettävät kortit"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kortit, jotka kuvaavat lisäosan toimintaa. Lohko ei ota kantaa sivuston lakisääteiseen vaatimustenmukaisuuteen."
+      ],
+      "Double Opt-in": [
+        "Kaksivaiheinen vahvistus"
+      ],
+      "Formulare": [
+        "Lomakkeet"
+      ],
+      "Eigene Assets": [
+        "Omat resurssit"
+      ],
+      "Abfrage & Filterung": [
+        "Kysely ja suodatus"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Konferenssien enimmäismäärä"
+      ],
+      "Status-Filter": [
+        "Tilasuodatin"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Vain aktiiviset tapahtumat"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktiiviset ja arkistoidut tapahtumat"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Vain arkistoidut tapahtumat"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Näkyvät metatiedot ja painikkeet"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Näytä pikahakupalkki"
+      ],
+      "Preisschild anzeigen": [
+        "Näytä hintalappu"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Näytä tapahtumapaikka / sijainti"
+      ],
+      "Datums-Badge anzeigen": [
+        "Näytä päivämäärätunniste"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Näytä suora .ics-kalenterilinkki"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Näytä kuvausote"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA-painikkeen teksti"
+      ],
+      "Veranstaltungsübersicht": [
+        "Tapahtumaluettelo"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Tapahtumaruudukko, jossa on päivämäärä, hinta, paikka, tiivistelmä, ilmoittautumispainike ja .ics-linkki."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Enint. %d tapahtumaa"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Paikkakartta"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Paikkakartan asetukset"
+      ],
+      "Überschrift (optional)": [
+        "Otsikko (valinnainen)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Kuvausteksti (valinnainen)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Ota reaaliaikainen päivitys käyttöön"
+      ],
+      "Sitzplan": [
+        "Paikkakartta"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Graafinen täyttöastekatsaus tapahtuman kaikista sessioista sekä saavutettava tietotaulukko."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Moninäkymäkalenteri"
+      ],
+      "Ansichten & Datenquelle": [
+        "Näkymät ja tietolähde"
+      ],
+      "Standardansicht": [
+        "Oletusnäkymä"
+      ],
+      "Monatskalender": [
+        "Kuukausikalenteri"
+      ],
+      "Wochenplan": [
+        "Viikko-ohjelma"
+      ],
+      "Tagesagenda": [
+        "Päiväohjelma"
+      ],
+      "Listenansicht": [
+        "Luettelonäkymä"
+      ],
+      "Kartenansicht": [
+        "Korttinäkymä"
+      ],
+      "Raumübersicht": [
+        "Tilayhteenveto"
+      ],
+      "Track-Matrix": [
+        "Linjamatriisi"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Merkintöjen enimmäismäärä"
+      ],
+      "Bedienleiste & Filter": [
+        "Työkalupalkki ja suodattimet"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Näytä näkymänvalitsin"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Näytä linja- ja salisuodattimet"
+      ],
+      "Suchfeld anzeigen": [
+        "Näytä hakukenttä"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Näytä tiedotepalkki"
+      ],
+      "Kalender-Ansichten": [
+        "Kalenterinäkymät"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Moninäkymäkalenteri ja ohjelma"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Vaihdettavat kuukausi-, viikko-, päivä-, luettelo-, kortti-, tila- ja linjanäkymät."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Konferenssiohjelma"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Vuorovaikutteinen monilinjainen konferenssiohjelma aikajanalla, puhujatiedoilla, salisuodattimilla ja iCal (.ics) -latauksella."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalenteri, ohjelma ja linjat)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Laaja kalenteri- ja ohjelmakokonaisuus 7 vuorovaikutteisella näkymällä: kuukausikalenteri, viikko-ohjelma, päiväohjelma, luettelonäkymä, kuvakortit, tilakartta ja monilinjainen konferenssimatriisi."
+      ],
+      "block keyword\u0004event": [
+        "tapahtuma"
+      ],
+      "block keyword\u0004calendar": [
+        "kalenteri"
+      ],
+      "block keyword\u0004agenda": [
+        "ohjelma"
+      ],
+      "block keyword\u0004schedule": [
+        "aikataulu"
+      ],
+      "block keyword\u0004summit": [
+        "konferenssi"
+      ],
+      "block keyword\u0004timetable": [
+        "lukujärjestys"
+      ],
+      "block keyword\u0004matrix": [
+        "matriisi"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Kalenteri- ja .ics-vimpain"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalenterivimpain .ics-latauksella ja linkeillä Google Kalenteriin, Outlook Webiin ja Microsoft 365:een."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Pää- ja lähtölaskentabanneri"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Tapahtuman pääbanneri lähtölaskennalla, perustiedoilla, tilatunnisteella ja ilmoittautumispainikkeilla."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Tapahtuma- ja arkistoruudukko"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynaaminen korttinäkymä tulevista konferensseista, symposiumeista ja työpajoista hakupalkilla ja tilasuodattimilla."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Ilmoittautumislomake"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Ilmoittautumislomake Brevon kaksivaiheisella vahvistuksella, valinnaisella profiilikuvalla ja valokuvasuostumuksella."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Paikkakartta"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Tapahtuman kaikkien sessioiden täyttöaste SVG-muodossa, päivitetään jatkuvasti Server-Sent Events -tekniikalla."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Tietoturva- ja luottamustunnisteet"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Katsaus lisäosan tietosuoja- ja tietoturvaominaisuuksiin: kaksivaiheinen vahvistus, säilytysajat, tarkastusloki ja lasku-XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Sessio- ja työpajavalitsin"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Sessiovalitsin vahvistetuille ilmoittautumisille: paikat jaetaan tallennettaessa niin kauan kuin kapasiteettia riittää."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Puhuja- ja asiantuntijaruudukko"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automaattisesti luotu katsaus pääpuhujista, sessiopuheenvuoroista, salijaosta ja puhujaesittelyistä."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digitaalinen lippupassi"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Osallistujapassi vahvistetuille ilmoittautumisille sisältäen lipun numeron, tapahtuman, paikan ja tulostuspainikkeen."
+      ]
+    }
+  }
+}

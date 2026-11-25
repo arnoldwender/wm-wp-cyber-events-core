@@ -1,0 +1,79 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/registration-form",
+	"version": "1.1.0",
+	"title": "Cyber Events Registrierungsformular",
+	"category": "cyber-events",
+	"icon": "clipboard",
+	"description": "Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"formStyle": {
+			"type": "string",
+			"default": "card-glass"
+		},
+		"customTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"customSubtitle": {
+			"type": "string",
+			"default": ""
+		},
+		"showKeyFacts": {
+			"type": "boolean",
+			"default": true
+		},
+		"showStepper": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCompanyField": {
+			"type": "boolean",
+			"default": true
+		},
+		"showJobTitle": {
+			"type": "boolean",
+			"default": false
+		},
+		"showPhoneField": {
+			"type": "boolean",
+			"default": false
+		},
+		"showDietary": {
+			"type": "boolean",
+			"default": false
+		},
+		"showPhotoConsent": {
+			"type": "boolean",
+			"default": true
+		},
+		"buttonText": {
+			"type": "string",
+			"default": ""
+		},
+		"privacyPolicyUrl": {
+			"type": "string",
+			"default": ""
+		},
+		"borderRadius": {
+			"type": "string",
+			"default": "lg"
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

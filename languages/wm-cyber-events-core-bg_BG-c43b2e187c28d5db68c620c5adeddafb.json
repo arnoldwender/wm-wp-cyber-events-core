@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "bg_BG",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Събития, сесии и регистрации с двойно потвърждение (Double Opt-in) чрез Brevo, чекиране, XML фактури (EN 16931) и DATEV експорт."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Събитието не е намерено или вече не е активно."
+      ],
+      "Verbindlich anmelden": [
+        "Задължаваща регистрация с плащане"
+      ],
+      "Kostenfrei anmelden": [
+        "Безплатна регистрация"
+      ],
+      "Datum": [
+        "Дата"
+      ],
+      "Veranstaltungsort": [
+        "Място на провеждане"
+      ],
+      "Einlass": [
+        "вход"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "След потвърждение чрез линк по имейл"
+      ],
+      "Kontaktdaten": [
+        "Данни за контакт"
+      ],
+      "Einwilligung": [
+        "Съгласие"
+      ],
+      "Bestätigung": [
+        "Потвърждение"
+      ],
+      "Vorname": [
+        "Първо име"
+      ],
+      "z. B. Erika": [
+        "напр. Елена"
+      ],
+      "Nachname": [
+        "Фамилия"
+      ],
+      "z. B. Mustermann": [
+        "напр. Иванова"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Служебен имейл адрес"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Институция / орган / компания"
+      ],
+      "z. B. Beispiel GmbH": [
+        "напр. Пример ООД"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Профилна снимка за пропуск на участник (по избор)"
+      ],
+      "Profilbild Vorschau": [
+        "Визуализация на профилна снимка"
+      ],
+      "Foto auswählen": [
+        "Избор на снимка"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG или WebP · макс. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Защита на данните и двойно съгласие за включване *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Съгласен/съгласна съм с обработването на моите данни за участие в конференцията съгласно ОРЗД (GDPR). За потвърждение ще получа линк по имейл."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Прочетете политиката за поверителност"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Фото- и видеозаснемане (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Съгласен/съгласна съм по време на събитието да бъдат правени фото- и видеозаписи с мен за целите на връзките с обществеността на организатора."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Контролен център и запълняемост"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine е активен"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Управление на капацитета, DATEV експорт и чекиране"
+      ],
+      "Events": [
+        "Събития"
+      ],
+      "Bestätigte Gäste": [
+        "Потвърдени гости"
+      ],
+      "Ausstehende DOI": [
+        "Чакащи DOI"
+      ],
+      "Mission Control öffnen": [
+        "Отваряне на контролния център"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Изисква се съгласие по ОРЗД (GDPR)"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Този експорт съдържа чувствителни лични данни съгласно чл. 4, т. 1 от ОРЗД (GDPR). Преди изтегляне трябва да потвърдите, че ще третирате данните поверително, ще ги обработвате само по предназначение и ще ги изтриете след събитието съгласно изискванията за защита на данните."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Назад към управлението на резервациите"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR защита"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Експортирането на финансови данни и данни за дебитори изисква потвърждение, че данните ще се пазят в тайна и ще се използват единствено за счетоводни цели."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Назад към DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV експорт"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Недостатъчни права."
+      ],
+      "Cyber Events": [
+        "Кибер събития"
+      ],
+      "Dashboard & KPIs": [
+        "Табло за управление и KPI"
+      ],
+      "Dashboard": [
+        "Табло за управление"
+      ],
+      "Alle Veranstaltungen": [
+        "Всички събития"
+      ],
+      "Veranstaltungen": [
+        "събития"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Създайте ново събитие"
+      ],
+      "Neue Veranstaltung": [
+        "Ново събитие"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Места на провеждане и конферентни центрове"
+      ],
+      "Veranstaltungsorte": [
+        "Места"
+      ],
+      "Sessions & Agenda": [
+        "Сесии и дневен ред"
+      ],
+      "Neue Session erstellen": [
+        "Създайте нова сесия"
+      ],
+      "Neue Session": [
+        "Нова сесия"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Участници и резервации"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-Импортиране и внедряване"
+      ],
+      "CSV-Import": [
+        "CSV-Импортиране"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Финанси и експорт на DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Финанси и DATEV"
+      ],
+      "Audit-Log": [
+        "Одитен дневник"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Настройки и студио за теми"
+      ],
+      "Einstellungen": [
+        "Настройки"
+      ],
+      "Handbuch & Dokumentation": [
+        "Ръководство и документация"
+      ],
+      "Handbuch": [
+        "Ръководство"
+      ],
+      "Events & Konferenzen": [
+        "Събития и конференции"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Права за управление на събития и конференции."
+      ],
+      "Teilnehmer verwalten": [
+        "Управление на участниците"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Позволява преглеждане и експортиране на регистрации за събития без пълен достъп до WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Настройки и тема"
+      ],
+      "Handbuch & Doku": [
+        "Ръководство и документация"
+      ],
+      "Plugin-Navigation": [
+        "Навигация на разширението"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Събитието е запазено успешно!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Данните се актуализираха синхронно в базата данни и в системата WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Събитието е изтрито!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Записът е премахнат и публикацията е преместена в кошчето."
+      ],
+      "Demodaten angelegt.": [
+        "Демо данните са създадени."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Създадени са примерно събитие, сесии и примерни участници; фактури се генерират само ако са попълнени данните на издателя на фактури."
+      ],
+      "CyberEvents Command Console": [
+        "Командна конзола CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Предприятие 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Събития, сесии и регистрации с двойно потвърждение чрез Brevo, чекиране, XML фактури и DATEV експорт."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Част от семейството разширения на WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Режим Hub"
+      ],
+      "Standalone": [
+        "Самостоятелен"
+      ],
+      "Demo-Daten auffrischen": [
+        "Обновяване на демонстрационни данни"
+      ],
+      "Springen zu:": [
+        "Към секция:"
+      ],
+      "Kurzanleitung": [
+        "Кратко ръководство"
+      ],
+      "Kennzahlen": [
+        "Показатели"
+      ],
+      "Rechnungen": [
+        "Фактури"
+      ],
+      "Audit-Protokoll": [
+        "Одитен дневник"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Какво прави CyberEvents и какво ще откриете тук?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Разширението управлява събития със сесии и регистрации. Участниците потвърждават регистрацията си чрез линк за двойно потвърждение (Double Opt-in), изпратен от Brevo (изисква се API ключ), след това избират сесии, чиито места не могат да бъдат свръхрезервирани, и се чекират на входа чрез своя токен. Фактурите се генерират като CII-XML (EN 16931) и могат да се експортират като DATEV счетоводен пакет."
+      ],
+      "Schnellzugriff:": [
+        "Бърз достъп:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Участници и регистрации"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Експортиране на фактури като DATEV пакет"
+      ],
+      "Event Auslastung": [
+        "Използване на събития"
+      ],
+      "Kritisch": [
+        "Критичен"
+      ],
+      "Optimal": [
+        "Оптимално"
+      ],
+      "Max. Kapazität:": [
+        "Макс. капацитет:"
+      ],
+      "Gebucht:": [
+        "Резервирано:"
+      ],
+      "Live Check-In Counter": [
+        "Гише за регистрация на живо"
+      ],
+      "Anwesend": [
+        "Настояще"
+      ],
+      "Registriert:": [
+        "Регистриран:"
+      ],
+      "Eingecheckt:": [
+        "Регистрирал се:"
+      ],
+      "Wartend:": [
+        "Чакане:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Нови регистрации (24 ч)"
+      ],
+      "Sessions": [
+        "Сесии"
+      ],
+      "in 24 h": [
+        "за 24 ч"
+      ],
+      "Ausstehende DOI:": [
+        "Чакащи DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Телеметрия на опашката на Brevo CRM"
+      ],
+      "Jobs": [
+        "Задачи"
+      ],
+      "Verarbeitung": [
+        "обработка"
+      ],
+      "Verarbeitet:": [
+        "Обработени:"
+      ],
+      "Schnellaktionen": [
+        "Бързи действия"
+      ],
+      "Neue Konferenz anlegen": [
+        "Създайте нова конференция"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Списък с участници и чекиране"
+      ],
+      "CSV-Batch Import": [
+        "CSV-пакетно импортиране"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Преглед на събитията и мониторинг на запълняемостта"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Потвърдени регистрации за всяко събитие спрямо зададения капацитет."
+      ],
+      "Event suchen...": [
+        "Търсене на събитие..."
+      ],
+      "Neue Konferenz": [
+        "Нова конференция"
+      ],
+      "Konferenz / Event": [
+        "Конференция/събитие"
+      ],
+      "Zeitraum": [
+        "Точка"
+      ],
+      "Ort": [
+        "Град"
+      ],
+      "Kapazität & Belegung": [
+        "Капацитет и запълняемост"
+      ],
+      "Status": [
+        "Статус"
+      ],
+      "Aktionen": [
+        "Действия"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Няма намерени събития."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Редактирайте в редактора на блок Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Редактиране"
+      ],
+      "Schnellbearbeitung": [
+        "Бързо редактиране"
+      ],
+      "Vorschau": [
+        "Преглед"
+      ],
+      "Teilnehmer (%d)": [
+        "Участници (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Наистина ли искате да изтриете това събитие безвъзвратно?"
+      ],
+      "Löschen": [
+        "Изтриване"
+      ],
+      "%d Sessions": [
+        "%d сесии"
+      ],
+      "/ %d Plätze": [
+        "/ %d места"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(без ограничение на капацитета)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Редактирайте в Gutenberg Editor"
+      ],
+      "Editor": [
+        "редактор"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Отваряне на бърза редакция"
+      ],
+      "Quick": [
+        "бързо"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Показване на предната страница"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Валидни и анулирани фактури, както и непотвърдени регистрации."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Бруто, валидни фактури"
+      ],
+      "Gültige Rechnungen": [
+        "Валидни фактури"
+      ],
+      "Storniert": [
+        "Анулирани"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Непотвърдени записвания"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV експорт и одитен дневник"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Счетоводен пакет с фактури и кредитни известия за избран период; съгласувайте сметките и данъчните кодове със счетоводителя си."
+      ],
+      "DATEV Format": [
+        "DATEV формат"
+      ],
+      "Kategorie 21 (v13)": [
+        "Категория 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256 верига"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Псевдонимизация след 90 дни"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Отваряне на DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Преглед на одитния дневник"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Непрекъснато свързан одитен дневник: всеки запис подписва и своя предшественик, така че последващи промени, изтривания и вмъквания се откриват. Доказателство за намеса, а не неизменяемост — който чете wp-config.php, държи ключа."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Отваряне на пълния одитен дневник"
+      ],
+      "Zeitstempel": [
+        "Времеви печат"
+      ],
+      "Ereignis-Typ": [
+        "Тип събитие"
+      ],
+      "Benutzer / System": [
+        "Потребител/Система"
+      ],
+      "Objekt-ID": [
+        "ИД на обект"
+      ],
+      "Audit-Details & Nachweis": [
+        "Подробности и доказателства за одита"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Все още няма записани одитни събития."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Редактиране на събитие / бърза конфигурация"
+      ],
+      "Schließen": [
+        "Затваряне"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Заглавие на конференцията/събитието:"
+      ],
+      "URL-Slug:": [
+        "Url слъг:"
+      ],
+      "Tagungsort / Location:": [
+        "Място на конференцията/локация:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Начална дата и час:"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Край (дата и час):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Макс. капацитет участници:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Цена на билет (нето в €):"
+      ],
+      "Status:": [
+        "Статус:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Активно (публикувано)"
+      ],
+      "Entwurf (Draft)": [
+        "проект"
+      ],
+      "Archiviert": [
+        "Архивирано"
+      ],
+      "Kostenpflichtig": [
+        "Платено"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Отваряне в блоковия редактор Gutenberg"
+      ],
+      "Abbrechen": [
+        "Отказ"
+      ],
+      "Änderungen speichern": [
+        "Запазване на промените"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Данните за участниците са актуализирани успешно!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Данните за регистрацията и състоянието са запазени в базата данни."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Участникът е изтрит!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Регистрацията и всички свързани резервации за сесии бяха премахнати."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Статусът на настаняване е актуализиран!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Състоянието на присъствие на участника е променено."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Двойното потвърждение (Double Opt-in) е потвърдено!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Регистрацията беше ръчно отбелязана като потвърдена."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Участници и управление на резервациите"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Всички регистрации със статус на двойно потвърждение, резервации за сесии и фактури."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Етикети с имена / списък с участници (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Филтриран по конференция: „%1$s“ (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Отмяна на филтъра"
+      ],
+      "Alle Teilnehmer": [
+        "Всички участници"
+      ],
+      "Bestätigt": [
+        "Потвърден"
+      ],
+      "Ausstehend DOI": [
+        "Чакащ DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Търсете име, имейл или фирма..."
+      ],
+      "Teilnehmer": [
+        "участник"
+      ],
+      "Organisation / Firma": [
+        "Организация / Фирма"
+      ],
+      "Check-In": [
+        "Настаняване"
+      ],
+      "Rechnung": [
+        "Фактура"
+      ],
+      "Anmeldedatum": [
+        "Дата на регистрация"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Няма налични регистрации."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Редактирайте данните на участниците"
+      ],
+      "Auschecken": [
+        "Проверете"
+      ],
+      "Einchecken": [
+        "Настанете се"
+      ],
+      "DOI bestätigen": [
+        "Потвърждаване на DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Наистина ли искате да изтриете този участник безвъзвратно?"
+      ],
+      "Status umschalten": [
+        "Превключване на състоянието"
+      ],
+      "Eingecheckt": [
+        "Регистрирал се"
+      ],
+      "Nicht vor Ort": [
+        "Не на място"
+      ],
+      "Rechnungs-XML": [
+        "XML на фактура"
+      ],
+      "Kostenfrei / Keine": [
+        "Безплатно / Няма"
+      ],
+      "Edit": [
+        "Редактиране"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Наистина ли искате да изтриете този участник?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Редактиране на данни за участници / управление на участници"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Профилна снимка / снимка за бадж на участника (JPG, PNG, WebP · макс. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Премахване на снимка"
+      ],
+      "Vorname:": [
+        "Име:"
+      ],
+      "Nachname:": [
+        "Фамилия:"
+      ],
+      "E-Mail-Adresse:": [
+        "Имейл адрес:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Организация / компания / институция:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Назначена конференция:"
+      ],
+      "Anmeldestatus:": [
+        "Състояние на прегледа:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Потвърдена"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Чакаща (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Анулирана"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Недоставима (върнат имейл)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Статус на настаняване (на място):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Не / Не е на място"
+      ],
+      "Ja / Eingecheckt": [
+        "Да / чекиран"
+      ],
+      "Rechnungsnummer:": [
+        "номер на фактура:"
+      ],
+      "Zahlungsstatus:": [
+        "Статус на плащане:"
+      ],
+      "Kostenfrei (Free)": [
+        "безплатно"
+      ],
+      "Ausstehend (Pending)": [
+        "В очакване"
+      ],
+      "Bezahlt (Paid)": [
+        "Платено"
+      ],
+      "Erstattet (Refunded)": [
+        "Възстановена сума"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR защита на данните е договорена"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Съгласувани фото и видео записи"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Поверителност по ОРЗД и съгласие за експорт"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Защита на личните данни (чл. 4 и 5 от GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Този експорт генерира CSV файл с чувствителни лични данни на участниците (пълни имена, компании, служебни имейл адреси, номера на фактури и статус на чекиране)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Ограничение на целта (член 5, параграф 1, буква b от GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Данните могат да се използват единствено за оперативното провеждане на събитието (напр. печат на баджове и акредитация на входа)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Поверителност и защита (член 5, параграф 1, буква f от GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Разкриването пред неоправомощени трети лица или съхранението на некриптирани мобилни устройства е забранено."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Задължение за изтриване (чл. 17 от ОРЗД):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "След приключване на конференцията експортираният локален файл трябва незабавно да бъде изтрит в съответствие с правилата за защита на данните."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Потвърждавам съгласието по ОРЗД:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Приемам за сведение, че този експорт съдържа поверителни лични данни. Задължавам се да ги обработвам добросъвестно само по предназначение и при стриктно спазване на законовите изисквания за защита на данните."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Изтеглете CSV експорт безопасно сега"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML на фактура (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Копирайте XML в клипборда"
+      ],
+      "Keine Berechtigung.": [
+        "Нямате права за достъп."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Грешка в сигурността: разрешени са само автентични CSV файлове."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Файлът е твърде голям (разрешени са максимум 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Моля, изберете събитие и предоставете CSV данни."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Пакетно импортиране на CSV на участници (предотвратяване на дублиране TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Автоматично импортиране на списъци с участници от външни системи със стриктно избягване на дублиращи се регистрации."
+      ],
+      "Import-Zusammenfassung": [
+        "Резюме за импортиране"
+      ],
+      "Gesamtzeilen": [
+        "общо редове"
+      ],
+      "Neu Importiert": [
+        "Нов внос"
+      ],
+      "Dubletten abgewiesen": [
+        "Дубликатите са отхвърлени"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Импортирайте нов списък с участници"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Целево събитие *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Изберете събитие —"
+      ],
+      "CSV-Datei auswählen": [
+        "Избор на CSV файл"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Формат: собствено име; Фамилия; имейл; Компания (точка и запетая или разделени със запетая, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Или поставете CSV текст"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Стартиране на CSV импорта сега"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF студио за стекове за резервации"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Стандартизиран финансов експорт (категория 21, версия на формата 700 / 125 полета) за данъчни консултанти и счетоводство в DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Задайте период на експортиране"
+      ],
+      "Laufender Monat": [
+        "Текущ месец"
+      ],
+      "Vormonat": [
+        "предишния месец"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Цялата 2026 година"
+      ],
+      "Datum von *": [
+        "Дата от *"
+      ],
+      "Datum bis *": [
+        "Дата до *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Потвърждение за експорт на данни за дебитори:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Потвърждавам, че експортът на финансови данни и данни за получатели на фактури съдържа лични данни и се предава единствено на упълномощената счетоводна кантора за законоустановено счетоводно и данъчно отчитане."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Изтеглете партида резервации DATEV EXTF (.csv)."
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Свързана одитна следа за всички значими за сигурността действия, двойни потвърждения, анулирания и проверки за достъп."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Одитната верига е цялостна — %1$d записа са проверени по съдържание, %2$d са псевдонимизирани (проверена е позицията във веригата)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Одит на веригата НЕ на целостта"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d запис(а) произхождат отпреди свързването във верига и нямат проверим подпис. Те се считат за непроверени, а не за цялостни."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY не е дефиниран: ключът на веригата идва от базата данни — същото място, където атакуващ с права за запис би направил промени. Дефинирайте AUTH_KEY във wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Време"
+      ],
+      "Ereignistyp": [
+        "Тип събитие"
+      ],
+      "Referenz-ID": [
+        "Референтен идентификатор"
+      ],
+      "IP-Adresse": [
+        "IP адрес"
+      ],
+      "Audit-Details (JSON)": [
+        "Подробности за одита (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Няма налични записи в дневника."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Събитието \"%1$s\" е създадено с %2$d сесии и %3$d участници."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Демонстрационните данни са импортирани успешно!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Изтрити са %1$d събития, %2$d сесии, %3$d регистрации и %4$d фактури."
+      ],
+      "Demodaten bereinigt!": [
+        "Демо данните са изчистени!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Фабричните настройки са възстановени!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Всички таблици бяха изчистени и настройките бяха нулирани."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Каченият файл с тема е премахнат."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Настройките се съхраняват сигурно."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Корпоративна конфигурация и сигурност"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Дизайн, Brevo, фактури и DATEV, защита от ботове и демо данни."
+      ],
+      "Design & Theme Studio": [
+        "Студио за дизайн и теми"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM и уеб кукички"
+      ],
+      "Rechnungen & DATEV": [
+        "Фактури и DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Bot-Schutz (приятелски Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Демодира и нулира"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Система за дизайн на предния край и наследяване на теми"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Изберете как събитията и формулярите за резервация да изглеждат във фронтенда. По подразбиране разширението наследява плавно шрифтовете, цветовете и бутоните от активната тема на WordPress."
+      ],
+      "Primärfarbe": [
+        "Основен цвят"
+      ],
+      "Akzentfarbe": [
+        "Цвят на акцента"
+      ],
+      "Kartenhintergrund": [
+        "Фон на картата"
+      ],
+      "Textfarbe": [
+        "Цвят на текста"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Собствени цветове и рамки на темата (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Основен цвят (бутони и акценти):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Akzentfarbe (значки и блясък):"
+      ],
+      "Seitenhintergrund:": [
+        "Фон на страницата:"
+      ],
+      "Kartenhintergrund:": [
+        "Фон на картата:"
+      ],
+      "Haupttextfarbe:": [
+        "Основен цвят на текста:"
+      ],
+      "Eckenabrundung (px):": [
+        "Заобляне на ъгли (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Избрана персонализирана CSS тема (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Качете персонализиран .css файл (напр. agency-theme.css). Той се зарежда изолирано и се валидира автоматично."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Налична активна персонализирана тема"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Наистина ли искате да изтриете качения CSS файл на темата?"
+      ],
+      "Theme löschen": [
+        "Изтриване на темата"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Допълнителен потребителски CSS (вграден редактор)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Въведете вашите собствени CSS правила тук, напр.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 и удостоверяване на Webhook"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API ключ (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Използва се за асинхронно изпращане на имейли за двойно потвърждение и синхронизиране на атрибути на контакти."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Споделена тайна на Webhook / Signatur-Token"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Сигурен токен за тайминг атака за валидиране на входящи полезни данни за уеб кукичка на Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "API ключ на скенер за служители (контрол на входа)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Токен за удостоверяване на мобилни сканиращи устройства на персонала на входа."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Чакалня: допускания на минута"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Заявки за регистрация и резервация на сесии, допускани на минута и на събитие. 0 изключва чакалнята (по подразбиране). Над този лимит маршрутът връща HTTP 503 и Retry-After преди изпълнение на заявка към базата данни — място не се резервира."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Бекенд на брояча за тази инсталация: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "постоянен обектен кеш"
+      ],
+      "Datenbank (Transients)": [
+        "база данни (transients)"
+      ],
+      "DOI Template ID": [
+        "ДВА ID на шаблона"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID на списъка с контакти на Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Фактури (CII-XML) и DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Префикс на номера на фактурата"
+      ],
+      "Rechnungssteller": [
+        "Издател на фактурата"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Без тези данни не се издават фактури и кредитни известия: %s."
+      ],
+      "Name / Firma": [
+        "Име / компания"
+      ],
+      "Straße und Hausnummer": [
+        "Улица и номер"
+      ],
+      "PLZ": [
+        "Пощенски код"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Държава (ISO код, напр. DE)"
+      ],
+      "USt-IdNr.": [
+        "ДДС номер"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Данъчен номер (ако няма ДДС номер)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Имейл за фактури"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN за банкови преводи (по избор)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Номер на консултант ДАТЕВ"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV клиентски номер"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Сметка за приходи (напр. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Сметка за вземания (напр. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Разширението все още не включва уиджет за captcha: настройката се запазва, но формулярът се обработва без captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Активирайте приятелски captcha"
+      ],
+      "Sitekey": [
+        "Ключ на сайта (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API ключ/тайна"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Демо управление на данни и фабрични настройки (нулиране)"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Импортирайте примерни данни, премахнете ги отново или върнете разширението към фабричните настройки."
+      ],
+      "1. Demodaten importieren": [
+        "1. Импортирайте демонстрационни данни"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Създава примерна конференция със сесии и примерни участници. Фактури се създават само когато са попълнени данните на издателя."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Искате ли да импортирате примерни данни сега?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Импортиране на демонстрационни данни (конференции, сесии, участници, фактури)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Изчистване на демо данни (изтриване само на тестови данни)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Изтрива единствено генерираните демо конференции, демо сесии, демо участници и демо фактури. Реалните събития и резервации остават напълно незасегнати."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Искате ли безопасно да премахнете всички демо данни? Реалните данни ще бъдат запазени."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Чисти демонстрационни данни (само тестови данни)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Възстановяване на фабричните настройки (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Внимание (необратимо):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Изпразва всички таблици за събития, сесии, регистрации, фактури и одитен дневник, изтрива всички публикации от тип cybevent и cybsession и връща всички настройки към първоначалното състояние."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "ПРЕДУПРЕЖДЕНИЕ: Напълно ли сте сигурни? Това ще изтрие ВСИЧКИ събития, регистрации и фактури и ще нулира настройките!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Пълно фабрично нулиране (изтриване на всичко и възстановяване по подразбиране)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Поведение при деинсталиране на разширението"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Изтриване на всички таблици и настройки при деинсталиране"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "По подразбиране всички данни за събития, регистрации, фактури и одит се запазват при изтриване на разширението (законови срокове за съхранение). Активирайте тази опция само ако при премахване на разширението всички таблици трябва да бъдат окончателно изтрити."
+      ],
+      "Alle Einstellungen speichern": [
+        "Запазете всички настройки"
+      ],
+      "Platzbuchung": [
+        "Резервация на място"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Място се резервира с една-единствена условна заявка UPDATE (belegt = belegt + 1, само докато belegt < kapazitaet). При две едновременни заявки за последното място само една променя реда; другата получава съобщение „изчерпани места“."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Фактурите и кредитните известия се генерират като CII-XML по профила EN 16931 и при тестване се проверяват с валидатора Mustang. PDF не се създава, така че XML файлът не е хибриден ZUGFeRD файл. Дали фактурите отговарят на законовите изисквания в конкретния случай, се проверява от данъчния консултант."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF и счетоводство"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Експортира фактурите и кредитните известия за даден период като счетоводен пакет във формат DATEV (EXTF 700, категория 21) в кодировка Windows-1252. Сметките за вземания и приходи се вземат от настройките; всеки ред носи данъчен код 3. Съгласувайте сметките и кодовете с Вашия данъчен консултант."
+      ],
+      "Handbuch & API:": [
+        "Ръководство и API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Пълно ръководство"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Разработено от WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Ръководство за администратори и разработчици"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Резервация на места, XML фактури, DATEV експорт, двойно потвърждение чрез Brevo, кратки кодове и предварително зададени теми."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Резервация на места без свръхрезервиране"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Броячът за запълняемост се увеличава с една условна заявка; при две едновременни заявки за последното място само една обновява реда:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML фактури и DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Фактури и кредитни известия с данни на издателя от настройките, дата на данъчното събитие и поредна номерация. Без PDF, без Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Кредитни известия:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Собствен пореден номер, тип 381 с препратка към оригиналната фактура."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Счетоводен пакет за период в рамките на една календарна година, Windows-1252. Съгласувайте сметките и данъчните кодове с данъчния консултант."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Двойно включване и опашка за фон на Brevo CRM"
+      ],
+      "Double Opt-In (DOI):": [
+        "Двойно включване (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo изпраща имейла за потвърждение с персонален линк; линкът потвърждава регистрацията еднократно. Непотвърдените регистрации се изтриват след 14 дни."
+      ],
+      "Warteschlange:": [
+        "Опашка:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Извикванията към Brevo преминават през опашка в базата данни, която WP-Cron обработва всяка минута (или чрез wp cybevents queue-run), с до пет опита."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Кратки кодове и интеграция на Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Достъпна форма за регистрация."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Интерактивна програма на конференцията и преглед на направленията."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Избор на сесии чрез токен след двойно потвърждение (DOI)."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI за администратори"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Шаблони на теми и дизайн токени"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Предният интерфейс се адаптира гъвкаво към всяка тема на WordPress или използва готови предварително зададени настройки за дизайн:"
+      ],
+      "Presets:": [
+        "Предварителни шаблони:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Няколко цветови шаблона, включително такъв в тъмнолилаво, виолетово и розово (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Наследяване на тема (по подразбиране):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Наследява безпроблемно шрифтове, радиуси на ъглите и основни цветове от активната тема (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS персонализирани свойства:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Проблеми и най-добри практики"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Таблиците се създават с ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Срокове за изтриване:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Непотвърдените регистрации се изтриват след 14 дни, а записите в одитния дневник се псевдонимизират след 90 дни (с изключение на събитията по фактури). Разширението не изтрива автоматично потвърдени регистрации и фактури; няма настройка за това."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Опашката и сроковете за изтриване работят чрез WP-Cron; сайтовете без редовен трафик се нуждаят от истински системен cron job."
+      ],
+      "Cyber Events Suite": [
+        "Пакет за кибер събития"
+      ],
+      "Veranstaltung auswählen": [
+        "Избор на събитие"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Изберете целевото събитие за този блок."
+      ],
+      "Key Facts Header anzeigen": [
+        "Ключови факти Добавяне на заглавка"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Показване на стъпков дисплей (степер)."
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Показване на бутона за експортиране на календар (.ics)."
+      ],
+      "Countdown-Timer anzeigen": [
+        "Показване на таймера за обратно отброяване"
+      ],
+      "Freie Plätze anzeigen": [
+        "Показване на свободните места"
+      ],
+      "Spaltenanzahl": [
+        "Брой колони"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Моля, изберете валидно събитие в настройките на блока."
+      ],
+      "Vorschau im Editor": [
+        "Преглед в редактора"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Избор на сесии за потвърдени регистрации"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Във фронтенда този блок се визуализира динамично за всеки участник чрез неговия индивидуален токен."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Не е намерен токен за потвърждение."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Моля, отворете тази страница чрез персонализирания линк от Вашия имейл за потвърждение."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Невалиден или изтекъл токен на участник."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Схема на местата за събитието"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Във фронтенда този блок показва запълняемостта на всяка сесия като SVG и я поддържа актуална чрез Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Събитието не е намерено."
+      ],
+      "Jetzt anmelden": [
+        "Регистрирайте се сега"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Регистрирайте се сега безплатно"
+      ],
+      "Programm ansehen": [
+        "Вижте програмата"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Безплатно участие"
+      ],
+      "Anmeldung geöffnet": [
+        "Регистрацията е отворена"
+      ],
+      "Ausgebucht": [
+        "Напълно резервиран"
+      ],
+      "Preis": [
+        "Цена"
+      ],
+      "%d freier Platz": [
+        "%d свободно място",
+        "%d свободни места"
+      ],
+      "von max. %d": [
+        "от макс. %d"
+      ],
+      "Beginn in:": [
+        "Започва след:"
+      ],
+      "Tage": [
+        "Вземете"
+      ],
+      "Std.": [
+        "на"
+      ],
+      "Min.": [
+        "Мин."
+      ],
+      "Sek.": [
+        "сек."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Експортиране в календар (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics файл)"
+      ],
+      "Google Kalender": [
+        "Календар на Google"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Файлът .ics съдържа напомняне един ден преди началото."
+      ],
+      "Referenten & Fachexperten": [
+        "Лектори и експерти по темата"
+      ],
+      "Referenten": [
+        "Лектори"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Списъкът с лектори ще бъде обявен скоро."
+      ],
+      "TEILNEHMERPASS": [
+        "ПРОПУСК НА УЧАСТНИК"
+      ],
+      "Teilnehmerpass": [
+        "Пропуск на участник"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Вижте билет и акредитация"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Въведете Вашия 64-символен токен за сигурност от имейла за потвърждение:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Въведете токен (напр. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Покажи паспорт"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Невалиден или ненамерен токен за резервация."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "За тази регистрация няма наличен пропуск на участник: тя не е потвърдена или е била анулирана."
+      ],
+      "Max Mustermann": [
+        "Иван Иванов"
+      ],
+      "Beispiel GmbH": [
+        "Пример ООД"
+      ],
+      "Veranstaltung": [
+        "Събитие"
+      ],
+      "Rechnungs-Nr.": [
+        "Номер на фактура"
+      ],
+      "Keine": [
+        "Няма"
+      ],
+      "Ticket-Nummer": [
+        "Номер на билет"
+      ],
+      "Pass drucken": [
+        "Печат на паспорт"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Защита на данните и сигурност"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Двойно потвърждение и срокове за изтриване"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Регистрацията влиза в сила едва след потвърждение чрез линка в имейла. Непотвърдените регистрации се изтриват след 14 дни, а записите в одитния дневник се псевдонимизират след 90 дни."
+      ],
+      "Beschriftete Formulare": [
+        "Надписани формуляри"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Полета на формулярите с видими етикети, отбелязани задължителни полета и известия за състоянието, разчитани от екранни четци."
+      ],
+      "Eigene Skripte und Styles": [
+        "Собствено хоствани скриптове и стилове"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Разширението зарежда своите скриптове, стилове и икони от собствения Ви сървър, а не от CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Одитен дневник и токени"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Свързаният с HMAC-SHA256 одитен дневник прави последващите промени откриваеми. Токените на участниците се съхраняват единствено като SHA-256 хеш."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML фактури и DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Фактури като CII-XML по профила EN 16931 и експорт като счетоводен пакет за DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Приятелски Captcha (доказателство за работа)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Щадяща поверителността защита от ботове без проследяване на потребителите или графични загадки съгласно правото на ЕС за защита на данните."
+      ],
+      "Zur Anmeldung": [
+        "Към вход"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Няма архивирани събития."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "В момента няма планирани събития."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Филтриране на събитието по заглавие или местоположение..."
+      ],
+      "Kostenfrei": [
+        "безплатно"
+      ],
+      "In Kalender eintragen": [
+        "Добавяне към календара"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Информационна лента на живо за конференцията и програмата"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "ТЕЛЕМЕТРИЯ НА ПРОГРАМАТА НА ЖИВО"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Управление на изгледи и филтри"
+      ],
+      "Kalenderansichten": [
+        "Изгледи на календара"
+      ],
+      "Monat": [
+        "Месец"
+      ],
+      "Woche": [
+        "Седмица"
+      ],
+      "Tag / Agenda": [
+        "Ден / програма"
+      ],
+      "Liste": [
+        "Списък"
+      ],
+      "Karten": [
+        "Карти"
+      ],
+      "Räume & Ort": [
+        "Зали и място"
+      ],
+      "Summit Tracks": [
+        "Направления на форума"
+      ],
+      "Vorheriger Zeitraum": [
+        "Предишен период"
+      ],
+      "Nächster Zeitraum": [
+        "Следващ период"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Търсене на събитие, тема или лектор..."
+      ],
+      "Suchbegriff eingeben": [
+        "Въведете дума за търсене"
+      ],
+      "Track oder Kategorie filtern": [
+        "Филтриране по направление или категория"
+      ],
+      "Alle Fach-Tracks": [
+        "Всички специализирани направления"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Направление 01: Постквантова криптография"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Направление 02: Zero-Trust и устойчивост по DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Направление 03: Автономен ИИ и правила за поверителност"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Направление 04: Верига за доставки на софтуер и CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Филтриране по конферентна зала"
+      ],
+      "Alle Säle & Räume": [
+        "Всички зали и помещения"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Пленарна зала Алфа (Основни доклади)"
+      ],
+      "Security Lab Beta": [
+        "Лаборатория по сигурност Бета"
+      ],
+      "Workshop Studio Gamma": [
+        "Студио за работилници Гама"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Виртуален AS4 стрийм хъб"
+      ],
+      "Monatskalenderansicht": [
+        "Месечен календарен изглед"
+      ],
+      "Mo": [
+        "Пн"
+      ],
+      "Di": [
+        "Вт"
+      ],
+      "Mi": [
+        "Ср"
+      ],
+      "Do": [
+        "Чт"
+      ],
+      "Fr": [
+        "Пт"
+      ],
+      "Sa": [
+        "Сб"
+      ],
+      "So": [
+        "Нд"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Седмичен график и часова мрежа"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Дневна програма и времева линия"
+      ],
+      "Chronologische Listenansicht": [
+        "Хронологичен списъчен изглед"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Визуален изглед с фотокарти"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Навигатор на мястото и залите"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Матрица с множество направления"
+      ],
+      "Dialog schließen": [
+        "Затваряне на прозореца"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Невалиден идентификатор на сесия или регистрация."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Резервацията не можа да бъде обработена поради грешка в базата данни."
+      ],
+      "Session %d existiert nicht.": [
+        "Сесия %d не съществува."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "„%1$s\" е с изчерпани места (%2$d от %2$d места са заети)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Резервацията не можа да бъде запазена. Мястото беше освободено отново."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Анулирането не можа да бъде обработено поради грешка в базата данни."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Не е качен валиден файл."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Грешка при качване на файл."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Профилното изображение не може да надвишава 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Невалиден файлов формат. Разрешени са JPG, PNG и WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Невалидно файлово разширение. Разрешени са .jpg, .jpeg, .png и .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Грешка при запазване на профилната снимка."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Одитният дневник е празен, въпреки че последно са били записани %d записа."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Неподписан запис е бил вмъкнат допълнително във веригата."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Прекъсване на веригата при запис #%d: запис е изтрит, вмъкнат или пренареден."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Подписът на запис #%d не съвпада с контролната сума на съдържанието му."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Запис #%d е отбелязан като псевдонимизиран без валидно доказателство: съдържанието му може да е било променено."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Съдържанието на запис #%d е било променено след създаването му."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Краят на дневника не съвпада с последния отбелязан запис. Най-новите записи са премахнати."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "събития"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Събитие"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Кибер събития"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Събитие"
+      ],
+      "event\u0004Neu erstellen": [
+        "Създаване на ново"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Редактиране на събитието"
+      ],
+      "Veranstaltung ansehen": [
+        "Вижте събитието"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Преглед на събития"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Няма събития в кошчето."
+      ],
+      "Veranstaltungsdaten": [
+        "Данни за събитието"
+      ],
+      "Veranstaltungsort:": [
+        "Място на провеждане:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Управление на местата на провеждане ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Изберете запазено място на провеждане —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Ръчно местоположение/стая/адрес..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Изберете запазено място от списъка или персонализирайте описанието на мястото/залата."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Начална дата и час:"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Край (дата и час):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Платено събитие"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "В момента няма налични конферентни графици."
+      ],
+      "Programm": [
+        "Програма"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Потърсете тема, говорител или стая..."
+      ],
+      "Konferenz-Agenda": [
+        "Дневен ред на конференцията"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Подробната програма ще бъде обявена скоро."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Данни за участниците в CyberEvents"
+      ],
+      "E-Mail": [
+        "Имейл"
+      ],
+      "Unternehmen / Organisation": [
+        "Компания/Организация"
+      ],
+      "Profilbild": [
+        "Профилно изображение"
+      ],
+      "Einwilligung Datenschutz": [
+        "Съгласие за поверителност"
+      ],
+      "ja": [
+        "да"
+      ],
+      "nein": [
+        "не"
+      ],
+      "Einwilligung Fotos": [
+        "Съгласие за снимки"
+      ],
+      "Bestätigung angefordert": [
+        "Поискано потвърждение"
+      ],
+      "Bestätigt am": [
+        "Потвърдено на"
+      ],
+      "Eingecheckt am": [
+        "Чекиран на"
+      ],
+      "Gebuchte Sessions": [
+        "Резервирани сесии"
+      ],
+      "Rechnungsnummer": [
+        "Номер на фактура"
+      ],
+      "CyberEvents Registrierungen": [
+        "Регистрации в CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Фактури в CyberEvents"
+      ],
+      "Empfänger": [
+        "Получател"
+      ],
+      "Adresse": [
+        "Адрес"
+      ],
+      "Bruttobetrag": [
+        "Брутна сума"
+      ],
+      "Ausgestellt am": [
+        "Издадена на"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Регистрация #%d не можа да бъде изтрита."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Регистрация #%d не можа да бъде анонимизирана; данните остават непроменени."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Регистрация #%1$d беше анонимизирана. Фактурата %2$s с име, адрес и имейл остава съхранена без промяна; разширението не изтрива фактури."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Уебхукът на Brevo е деактивиран без споделена тайна (връща 401). Върнатите имейли и отписванията няма да се обработват, докато не бъде зададена тайна."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Няма зададен API ключ за Brevo: имейли за потвърждение няма да се изпращат, новите регистрации остават непотвърдени и се изтриват след 14 дни."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha е активирана, но няма ефект: разширението не съдържа captcha уиджет и формулярът се обработва без защита от ботове."
+      ],
+      "Einstellungen öffnen": [
+        "Отваряне на настройките"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Твърде много заявки. Опитайте отново след една минута."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Изборът не беше запазен: %s Предишните Ви резервации остават непроменени."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Новите сесии бяха резервирани, но не всяка отменена сесия можа да бъде освободена: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Невалиден токен за сигурност (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Невалиден токен на формуляра (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Абонатът не е оторизиран или не е намерен."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Не е подаден графичен файл."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Профилната снимка е актуализирана успешно."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Липсва токен за потвърждение."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Невалиден или все още непотвърден билет."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "За това събитие няма конфигурирани сесии."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Схема на местата: заети и свободни места по сесии"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d от %3$d места са заети"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Липсва събитие за схемата на местата."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Събитието за схемата на местата не съществува."
+      ],
+      "frei": [
+        "свободно"
+      ],
+      "belegt": [
+        "заето"
+      ],
+      "von Ihnen gebucht": [
+        "резервирано от Вас"
+      ],
+      "Belegung je Session": [
+        "Запълняемост по сесии"
+      ],
+      "Session": [
+        "Сесия"
+      ],
+      "Belegt": [
+        "Заети"
+      ],
+      "Frei": [
+        "Свободни"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Запълняемостта се обновява автоматично."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Моментна снимка при зареждане на страницата; запълняемостта не се обновява в реално време."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Демо данни: резервацията за %1$s е отхвърлена — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Демо дати: Участието е отменено"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Сесии и направления"
+      ],
+      "post type singular name\u0004Session": [
+        "Сесия"
+      ],
+      "admin menu\u0004Sessions": [
+        "Сесии"
+      ],
+      "Alle Sessions": [
+        "Всички сесии"
+      ],
+      "Session bearbeiten": [
+        "Редактиране на сесия"
+      ],
+      "Session ansehen": [
+        "Вижте сесията"
+      ],
+      "Sessions durchsuchen": [
+        "Преглед на сесии"
+      ],
+      "Keine Sessions gefunden.": [
+        "Няма намерени сесии."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Няма сесии в кошчето."
+      ],
+      "Session-Daten": [
+        "Данни за сесията"
+      ],
+      "Zugehörige Konferenz:": [
+        "Основна конференция:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Не е избрана конференция —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Референт/Лектор и институция:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "напр. Елена Иванова (Пример ООД)"
+      ],
+      "Raum / Saal / Track:": [
+        "Стая / Зала / Писта:"
+      ],
+      "Workshop-Kapazität:": [
+        "Капацитет на работилницата:"
+      ],
+      "Speaker": [
+        "Говорител"
+      ],
+      "Raum / Track": [
+        "Космос/писта"
+      ],
+      "Zeitfenster": [
+        "времеви прозорец"
+      ],
+      "Belegung": [
+        "Заетост"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Добре дошли, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Изберете Вашите сесии. Мястото се разпределя при запазване, стига сесията да не е с изчерпани места."
+      ],
+      "Anmeldung bestätigt": [
+        "Регистрацията е потвърдена"
+      ],
+      "Für diese Session eingetragen": [
+        "Записан/а за тази сесия"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Избор на тази точка от програмата"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Мястото се разпределя при запазване, стига сесията да не е с изчерпани места."
+      ],
+      "Sessions ausgewählt": [
+        "Избрани сесии"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Запазете селекцията обвързващо"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Стандартна тема на WordPress (автоматично наследена)"
+      ],
+      "Empfohlen": [
+        "Препоръчва се"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Наследява директно типографията, цветовете, бутоните и отстоянията от активната тема на WordPress (GeneratePress, Astra, Twenty Twenty-Four и др.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Виолетово и розово (тъмен лилав, виолетов, розов акцент)"
+      ],
+      "Farbstark": [
+        "Наситен"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Тъмен лилав (#482683), ярък виолетов (#7D40E7), розов акцент (#DF0079), Noto Sans, ако темата го зарежда, и дискретен преход."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (тъмносиньо и циан)"
+      ],
+      "High-Tech Dark": [
+        "Високотехнологичен тъмен"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Специален високотехнологичен външен вид Dark & ​​​​Cobalt със светещи ефекти, съобразен с киберсигурността и конференциите."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Минималистичен модерен (площ и монохромен)"
+      ],
+      "Modern": [
+        "Модерен"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Изчистен, сдържан SaaS дизайн с неутрални сиви тонове, фини контури и максимално бяло пространство."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Редакционно топло (класически и топъл тон)"
+      ],
+      "Klassik": [
+        "Класически"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Топли тонове в слонова кост и бордо за академични симпозиуми и престижни конгреси."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Висок контраст (черно върху бяло)"
+      ],
+      "Hochkontrast": [
+        "Висок контраст"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Черен текст върху бял фон (контраст 21:1) с жълт акцент и подсилени контури за фокус."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Персонализирана тема (персонализирани цветове и CSS)"
+      ],
+      "Individuell": [
+        "Индивидуално"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Свободен избор на цветове и поддръжка на качени потребителски CSS таблици със стилове."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Не е подаден валиден файл за качване."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Грешка в сигурността: разрешено е качването само на чисти .css файлове."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS файлът надвишава ограничението от 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Файлът с темата не можа да бъде запазен на сървъра."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "CSS на персонализираната тема е успешно качен и активиран."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Места"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Място на провеждане"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Разгледайте местата"
+      ],
+      "Häufige Tagungsorte": [
+        "Често използвани места на провеждане"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Всички места"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Редактиране на мястото"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Актуализиране на мястото"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Добавяне на ново място на провеждане"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Име на новото място за среща"
+      ],
+      "Orte mit Kommas trennen": [
+        "Отделете местата със запетаи"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Добавяне или премахване на места"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Избор от често използвани места"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Няма намерени места."
+      ],
+      "Stadt / Ort:": [
+        "Град/Местоположение:"
+      ],
+      "z. B. Musterstadt": [
+        "напр. София"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Столица или община на мястото на конференцията."
+      ],
+      "Straße & Hausnummer:": [
+        "Улица и номер:"
+      ],
+      "z. B. Musterstraße 1": [
+        "напр. ул. Примерна 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Пощенски код (пощенски код):"
+      ],
+      "Land:": [
+        "земя:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Максимален капацитет на залата (души):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Достъпно за инвалидни колички"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Отбележете само ако е проверено. Информацията се показва в списъка с места на провеждане и в REST маршрута /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL адрес на Google Карти/Упътвания:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Сайт на мястото на конференцията:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Максимален капацитет на залата:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Капацитет за сядане в конферентната зона."
+      ],
+      "Zugänglichkeit:": [
+        "Достъпност:"
+      ],
+      "Google Maps Link:": [
+        "Връзка към Google Карти:"
+      ],
+      "Stadt & Adresse": [
+        "Град и адрес"
+      ],
+      "Kapazität": [
+        "Капацитет"
+      ],
+      "Rollstuhlgerecht": [
+        "Достъпно за колички"
+      ],
+      "Ja": [
+        "Да"
+      ],
+      "Nicht angegeben": [
+        "Не е посочено"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Твърде много едновременни заявки в момента. Моля, опитайте отново след %d секунди. Място не е резервирано."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Без постоянен обектен кеш (Redis, Memcached) чакалнята брои в базата данни: отхвърлените заявки спестяват заявките за резервация, но сами по себе си струват едно четене и един запис в таблицата с опции."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Показатели на Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Показател на Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Извежда показатели в реално време за активни конференции, потвърдени регистрации и свободни места."
+      ],
+      "Kennzahl": [
+        "Показател"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Идентификатор на събитие (по избор)"
+      ],
+      "Dokumentation": [
+        "Документация"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Моля, посочете валиден идентификатор на събитие: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Не е намерен валиден токен за потвърждение. Моля, използвайте линка от Вашия имейл."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Най-новото активно събитие (автоматично) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Автоматично (текуща конференция)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Избор на събитие"
+      ],
+      "Ziel-Konferenz": [
+        "Целева конференция"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Изберете конференцията, чиито данни се зареждат във водещия банер."
+      ],
+      "Design & Layout-Presets": [
+        "Шаблони за дизайн и оформление"
+      ],
+      "Theme-Preset": [
+        "Шаблон на тема"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (по подразбиране)"
+      ],
+      "Federal Blue": [
+        "Федерално синьо (Federal Blue)"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Киберпънк цианово сияние (Cyberpunk Cyan Glow)"
+      ],
+      "Clean White & Modern": [
+        "Изчистено бяло и модерно (Clean White & Modern)"
+      ],
+      "Glassmorphism Blur": [
+        "Стъкломорфизъм с размиване (Glassmorphism Blur)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Закръгляне на ъглите (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Без (0px)"
+      ],
+      "Mittel (8px)": [
+        "Средно (8px)"
+      ],
+      "Groß (16px)": [
+        "Голямо (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Много голямо (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Активиране на светещ (Glow) ефект"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Текстове и бутони за действие (CTA)"
+      ],
+      "Badge / Dachzeile": [
+        "Значка / надзаглавие"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Собствено основно заглавие (по избор)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "По подразбиране: заглавие на събитието"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Собствен въвеждащ текст / резюме"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "По подразбиране: описание на събитието"
+      ],
+      "Primärer CTA-Button Text": [
+        "Текст на основния CTA бутон"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Целеви линк / котва на основния CTA бутон"
+      ],
+      "Sekundären Button anzeigen": [
+        "Показване на вторичен бутон"
+      ],
+      "Sekundärer Button Text": [
+        "Текст на вторичния бутон"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Целеви линк на вторичния бутон"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Видимост на елементите"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Показване на таймер за обратно броене на живо"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Показване на етикет със свободни места / капацитет"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Показване на етикет за статус (отворено/изчерпано)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Показване на мястото на провеждане"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Показване на дата и час"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Показване на цена на билета / значка за безплатен вход"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Показване на бутон за календарен експорт (.ics)"
+      ],
+      "Kopfbereich": [
+        "Заглавна секция (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "По подразбиране: описание на събитието, както и дата, място, цена, свободни места, обратно броене и бутон за регистрация."
+      ],
+      "Countdown": [
+        "Обратно броене"
+      ],
+      "Freie Plätze": [
+        "Свободни места"
+      ],
+      "Stil: %s": [
+        "Стил: %s"
+      ],
+      "Button: %s": [
+        "Бутон: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Избор на конференция"
+      ],
+      "Ziel-Veranstaltung": [
+        "Целево събитие"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Изберете събитието, за което се регистрират посетителите."
+      ],
+      "Formular-Design & Theme": [
+        "Дизайн и тема на формуляра"
+      ],
+      "Formular-Stil": [
+        "Стил на формуляра"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Кибер стъкломорфизъм (по подразбиране)"
+      ],
+      "Clean White Studio": [
+        "Изчистено бяло студио (Clean White Studio)"
+      ],
+      "Eckenabrundung": [
+        "Закръгляне на ъглите"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Полета на формуляра и опции за събиране на данни"
+      ],
+      "Individueller Formulartitel": [
+        "Собствено заглавие на формуляра"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Собствено подзаглавие / бележка"
+      ],
+      "Standard: kein Untertitel": [
+        "По подразбиране: без подзаглавие"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Показване на поле за организация / компания"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Показване на отметка за съгласие за фото- и видеозаснемане"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Показване на заглавната лента с основни данни във формуляра"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Надпис на бутона и връзки за поверителност по ОРЗД"
+      ],
+      "Absende-Button Beschriftung": [
+        "Надпис на бутона за изпращане"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Собствен URL адрес на политиката за поверителност (по избор)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "По подразбиране: страницата за поверителност от Настройки > Поверителност"
+      ],
+      "Anmeldeformular": [
+        "Формуляр за регистрация"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Регистрация с двойно потвърждение: Brevo изпраща линка за потвърждение и регистрацията влиза в сила след потвърждаването му."
+      ],
+      "Standard nach Ticketpreis": [
+        "По подразбиране според цената на билета"
+      ],
+      "Überschrift & Untertitel": [
+        "Заглавие и подзаглавие"
+      ],
+      "Überschrift": [
+        "Заглавие"
+      ],
+      "Untertitel / Beschreibung": [
+        "Подзаглавие / описание"
+      ],
+      "Suche, Angaben & Export": [
+        "Търсене, метаданни и експорт"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Показване на поле за търсене на сесии на живо"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Показване на данни за зала и място"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Показване на аватари на лекторите"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Показване на пълен календарен експорт (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Сесии в хронологичен ред със зала, лектор, описание, търсене и .ics експорт."
+      ],
+      "Suche": [
+        "Търсене"
+      ],
+      ".ics-Download": [
+        "Изтегляне на .ics"
+      ],
+      "Layout & Spalten": [
+        "Оформление и колони"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Брой колони (настолен екран)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Текстове и показване на детайли"
+      ],
+      "Untertitel": [
+        "Подзаглавие"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Показване на темата на доклада за сесията"
+      ],
+      "Raumangabe anzeigen": [
+        "Показване на обозначение за зала"
+      ],
+      "Uhrzeit anzeigen": [
+        "Показване на начален час"
+      ],
+      "Konferenz: ": [
+        "Конференция: "
+      ],
+      "%d Spalten": [
+        "%d колони"
+      ],
+      "Vortragsthemen": [
+        "Теми на докладите"
+      ],
+      "Titel": [
+        "Заглавие"
+      ],
+      "Individueller Titel": [
+        "Собствено заглавие"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Календарни услуги и опции"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Показване на Apple / Outlook (.ics файл)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Показване на директен линк към Google Календар"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Показване на директен линк към Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Показване на директен линк към Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Показване на бележка за часовата зона"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Показване на бележка за напомнянето във файла .ics"
+      ],
+      "Kalender": [
+        "Календар"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Файл .ics с напомняне един ден преди началото и връзки към Google Календар, Outlook Web и Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Файл .ics"
+      ],
+      "Session-Auswahl": [
+        "Избор на сесии"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Този блок няма настройки. Той показва сесиите за токена от линка за потвърждение; без токен се извежда известие."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Място се разпределя при запазване, стига сесията да не е с изчерпани места."
+      ],
+      "Ticketpass-Optionen": [
+        "Опции за пропуск с билет"
+      ],
+      "Pass-Überschrift": [
+        "Заглавие на пропуска"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Горен ред (по подразбиране: заглавие на събитието)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Показване на бутон за печат (печат на бадж)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Показване на номер на билета"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Показване на номер на фактура / референция"
+      ],
+      "Check-In Status anzeigen": [
+        "Показване на статус на чекиране"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Пропуск за потвърдени регистрации, достъпен чрез токена от имейла за потвърждение: име, компания, статус, номер на фактура, номер на билет и функция за печат."
+      ],
+      "Ticketnummer": [
+        "Номер на билет"
+      ],
+      "Druckfunktion": [
+        "Функция за печат"
+      ],
+      "Titel der Veranstaltung": [
+        "Заглавие на събитието"
+      ],
+      "Layout & Farbschema": [
+        "Оформление и цветова схема"
+      ],
+      "Raster-Layout": [
+        "Решетъчно оформление"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Решетка с 4 колони (по подразбиране)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Решетка с 2 колони (широка)"
+      ],
+      "Farbthema": [
+        "Цветова тема"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (по подразбиране)"
+      ],
+      "Angezeigte Karten": [
+        "Показвани карти"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Карти, описващи какво прави разширението. Блокът не дава правна оценка за съответствие на уебсайта."
+      ],
+      "Double Opt-in": [
+        "Двойно потвърждение (Double Opt-in)"
+      ],
+      "Formulare": [
+        "Формуляри"
+      ],
+      "Eigene Assets": [
+        "Собствени ресурси"
+      ],
+      "Abfrage & Filterung": [
+        "Заявки и филтриране"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Максимален брой конференции"
+      ],
+      "Status-Filter": [
+        "Филтър по статус"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Само активни събития"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Активни и архивирани събития"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Само архивирани събития"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Видими метаданни и бутони"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Показване на лента за търсене на живо"
+      ],
+      "Preisschild anzeigen": [
+        "Показване на етикет с цена"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Показване на място на провеждане / локация"
+      ],
+      "Datums-Badge anzeigen": [
+        "Показване на значка с дата"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Показване на директен .ics календарен линк"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Показване на кратък описателен текст"
+      ],
+      "CTA-Button Beschriftung": [
+        "Надпис на CTA бутона"
+      ],
+      "Veranstaltungsübersicht": [
+        "Преглед на събитията"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Решетка от събития с дата, цена, място, кратко описание, бутон за регистрация и .ics връзка."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Макс. %d събития"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Схема на местата"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Настройки на схемата на местата"
+      ],
+      "Überschrift (optional)": [
+        "Заглавие (по избор)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Описателен текст (по избор)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Активиране на обновяване в реално време"
+      ],
+      "Sitzplan": [
+        "Схема на местата"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Графичен преглед на запълняемостта на всички сесии от дадено събитие с достъпна таблица с данни."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Многоизгледен календар"
+      ],
+      "Ansichten & Datenquelle": [
+        "Изгледи и източник на данни"
+      ],
+      "Standardansicht": [
+        "Изглед по подразбиране"
+      ],
+      "Monatskalender": [
+        "Месечен календар"
+      ],
+      "Wochenplan": [
+        "Седмичен график"
+      ],
+      "Tagesagenda": [
+        "Дневна програма"
+      ],
+      "Listenansicht": [
+        "Списъчен изглед"
+      ],
+      "Kartenansicht": [
+        "Изглед с карти"
+      ],
+      "Raumübersicht": [
+        "Преглед по зали"
+      ],
+      "Track-Matrix": [
+        "Матрица на направленията"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Максимален брой записи"
+      ],
+      "Bedienleiste & Filter": [
+        "Лента за управление и филтри"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Показване на превключвателя на изгледи"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Показване на филтри за направления и зали"
+      ],
+      "Suchfeld anzeigen": [
+        "Показване на поле за търсене"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Показване на информационната лента"
+      ],
+      "Kalender-Ansichten": [
+        "Календарни изгледи"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Многоизгледен календар и програма"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Превключваем месечен, седмичен, дневен, списъчен, картов изглед, както и изглед по зали и направления."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Програма на конференцията"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Интерактивен многопрофилен конферентен план с времева линия, детайли за лекторите, филтри по зали и iCal (.ics) изтегляне."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (Календар, програма и направления)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Разширен пакет за календар и програма със 7 интерактивни фронтенд изгледа: месечен календар, седмичен график, дневна програма, списъчен изглед, фотокарти, карта на залите и матрица с направления."
+      ],
+      "block keyword\u0004event": [
+        "събитие"
+      ],
+      "block keyword\u0004calendar": [
+        "календар"
+      ],
+      "block keyword\u0004agenda": [
+        "програма"
+      ],
+      "block keyword\u0004schedule": [
+        "график"
+      ],
+      "block keyword\u0004summit": [
+        "конференция"
+      ],
+      "block keyword\u0004timetable": [
+        "разписание"
+      ],
+      "block keyword\u0004matrix": [
+        "матрица"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Календар и .ics уиджет"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Календарен уиджет с изтегляне на .ics и връзки към Google Календар, Outlook Web и Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Водещ банер и обратно броене"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Заглавен банер на събитието с обратно броене, основни факти, статус и бутони за регистрация."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Решетка за преглед и архив"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Динамичен картов преглед на предстоящи конференции, симпозиуми и работилници с лента за търсене и филтри по статус."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Формуляр за регистрация"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Формуляр за регистрация с двойно потвърждение чрез Brevo, незадължителна профилна снимка и съгласие за заснемане."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Схема на местата"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Запълняемост на всички сесии на дадено събитие като SVG, актуализирана текущо чрез Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Значки за сигурност и доверие"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Преглед на функциите за защита на данните и сигурност на разширението: двойно потвърждение, срокове за изтриване, одитен дневник, XML фактури."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Селектор на сесии и работилници"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Избор на сесии за потвърдени регистрации: местата се разпределят при запазване, докато има свободен капацитет."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Решетка с лектори и експерти"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Автоматично генериран преглед на основните лектори, докладите, разпределението по зали и биографичните данни."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Дигитален пропуск с билет"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Пропуск на участник за потвърдени регистрации с номер на билет, събитие, място и функция за печат."
+      ]
+    }
+  }
+}

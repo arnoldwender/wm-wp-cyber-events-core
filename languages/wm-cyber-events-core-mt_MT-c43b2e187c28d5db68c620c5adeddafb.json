@@ -1,0 +1,2826 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "mt_MT",
+        "plural-forms": "nplurals=4; plural=(n==1 ? 0 : n==0 || (n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Avvenimenti, sessjonijiet u reġistrazzjonijiet b’konferma doppja (Double Opt-in) permezz ta’ Brevo, check-in, XML tal-fatturi (EN 16931) u esportazzjoni DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "L-avveniment ma nstabx jew m’għadux attiv."
+      ],
+      "Verbindlich anmelden": [
+        "Irreġistra b’obbligu ta’ ħlas"
+      ],
+      "Kostenfrei anmelden": [
+        "Irreġistra bla ħlas"
+      ],
+      "Datum": [
+        "Data"
+      ],
+      "Veranstaltungsort": [
+        "Post tal-avveniment"
+      ],
+      "Einlass": [
+        "Dħul"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Wara konferma permezz tal-link fl-imejl"
+      ],
+      "Kontaktdaten": [
+        "Dettalji ta’ kuntatt"
+      ],
+      "Einwilligung": [
+        "Kunsens"
+      ],
+      "Bestätigung": [
+        "Konferma"
+      ],
+      "Vorname": [
+        "Isem"
+      ],
+      "z. B. Erika": [
+        "eż. Marija"
+      ],
+      "Nachname": [
+        "Kunjom"
+      ],
+      "z. B. Mustermann": [
+        "eż. Borg"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Indirizz tal-imejl tax-xogħol"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Istituzzjoni / awtorità / kumpanija"
+      ],
+      "z. B. Beispiel GmbH": [
+        "eż. Eżempju Ltd"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Ritratt tal-profil għall-pass tal-parteċipant (mhux obbligatorju)"
+      ],
+      "Profilbild Vorschau": [
+        "Dehra minn qabel tar-ritratt tal-profil"
+      ],
+      "Foto auswählen": [
+        "Agħżel ritratt"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG jew WebP · mass. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Protezzjoni tad-data u kunsens Double Opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Nagħti l-kunsens tiegħi għall-ipproċessar tad-data tiegħi għall-parteċipazzjoni fil-konferenza skont il-GDPR. Se nirċievi link ta’ konferma bl-imejl għall-verifika."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Aqra l-politika tal-privatezza"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Ritratti u reġistrazzjonijiet bil-vidjo (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Nagħti l-kunsens tiegħi sabiex matul l-avveniment ikunu jistgħu jittieħdu ritratti u filmati tiegħi għar-relazzjonijiet pubbliċi tal-organizzatur."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Ċentru tal-Kontroll u Okkupanza"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Magna Intrapriża CyberEvents attiva"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Ġestjoni tal-kapaċità, esportazzjoni DATEV u check-in"
+      ],
+      "Events": [
+        "Avvenimenti"
+      ],
+      "Bestätigte Gäste": [
+        "Mistednin ikkonfermati"
+      ],
+      "Ausstehende DOI": [
+        "DOI pendenti"
+      ],
+      "Mission Control öffnen": [
+        "Iftaħ iċ-Ċentru tal-Kontroll"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Meħtieġ il-kunsens tal-GDPR"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Din l-esportazzjoni fiha data personali protetta skont l-Art. 4(1) tal-GDPR. Qabel ma tniżżel il-fajl, trid tikkonferma li se tittratta d-data b’mod kunfidenzjali, tipproċessaha biss għall-iskop maħsub tagħha u tħassarha skont ir-regoli tal-protezzjoni tad-data wara l-avveniment."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Lura għall-ġestjoni tal-prenotazzjonijiet"
+      ],
+      "DSGVO-Schutz": [
+        "Protezzjoni GDPR"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "L-esportazzjoni ta’ data finanzjarja u tad-debituri teħtieġ konferma li d-data se tinżamm kunfidenzjali u tintuża biss għall-kontabbiltà."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Lura għal DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "Esportazzjoni DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Permessi mhux biżżejjed."
+      ],
+      "Cyber Events": [
+        "Avvenimenti Ċibernetiċi"
+      ],
+      "Dashboard & KPIs": [
+        "Daxxbord u KPIs"
+      ],
+      "Dashboard": [
+        "Daxxbord"
+      ],
+      "Alle Veranstaltungen": [
+        "L-avvenimenti kollha"
+      ],
+      "Veranstaltungen": [
+        "Avvenimenti"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Oħloq avveniment ġdid"
+      ],
+      "Neue Veranstaltung": [
+        "Avveniment ġdid"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Postijiet u ċentri tal-konferenzi"
+      ],
+      "Veranstaltungsorte": [
+        "Postijiet"
+      ],
+      "Sessions & Agenda": [
+        "Sessjonijiet u aġenda"
+      ],
+      "Neue Session erstellen": [
+        "Oħloq sessjoni ġdida"
+      ],
+      "Neue Session": [
+        "Sessjoni ġdida"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Parteċipanti u prenotazzjonijiet"
+      ],
+      "CSV-Import & Onboarding": [
+        "Importazzjoni CSV u onboarding"
+      ],
+      "CSV-Import": [
+        "Importazzjoni CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finanzi u esportazzjoni DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Finanzi u DATEV"
+      ],
+      "Audit-Log": [
+        "Reġistru tal-awditjar"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Settings u Studjo tat-Temi"
+      ],
+      "Einstellungen": [
+        "Settings"
+      ],
+      "Handbuch & Dokumentation": [
+        "Manwal u dokumentazzjoni"
+      ],
+      "Handbuch": [
+        "Manwal"
+      ],
+      "Events & Konferenzen": [
+        "Avvenimenti u konferenzi"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Kapaċitajiet għall-ġestjoni ta’ avvenimenti u konferenzi."
+      ],
+      "Teilnehmer verwalten": [
+        "Immaniġġja l-parteċipanti"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Jippermetti l-wiri u l-esportazzjoni tar-reġistrazzjonijiet tal-avvenimenti mingħajr aċċess sħiħ ta’ amministratur ta’ WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Settings u tema"
+      ],
+      "Handbuch & Doku": [
+        "Manwal u dokumenti"
+      ],
+      "Plugin-Navigation": [
+        "Navigazzjoni tal-plugin"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "L-avveniment ġie ssejvjat b’suċċess!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Id-data ġiet aġġornata b’mod sinkroniku fid-database u fis-sistema WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "L-avveniment tħassar!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Ir-rekord tneħħa u l-entrata ntbagħtet fiż-żibel."
+      ],
+      "Demodaten angelegt.": [
+        "Inħolqot id-data tad-demo."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Inħolqu avveniment kampjun, sessjonijiet u parteċipanti kampjun; il-fatturi jinħolqu biss meta d-dettalji tal-emittent tal-fattura jkunu kkonfigurati."
+      ],
+      "CyberEvents Command Console": [
+        "Konsola tal-Kmand CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Intrapriża 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Avvenimenti, sessjonijiet u reġistrazzjonijiet b’konferma doppja permezz ta’ Brevo, check-in, XML tal-fatturi u esportazzjoni DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parti mill-familja ta’ plugins WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Modalità Hub"
+      ],
+      "Standalone": [
+        "Awtonomu"
+      ],
+      "Demo-Daten auffrischen": [
+        "Aġġorna d-data tad-demo"
+      ],
+      "Springen zu:": [
+        "Aqbeż għal:"
+      ],
+      "Kurzanleitung": [
+        "Gwida malajr"
+      ],
+      "Kennzahlen": [
+        "Metriċi"
+      ],
+      "Rechnungen": [
+        "Fatturi"
+      ],
+      "Audit-Protokoll": [
+        "Reġistru tal-awditjar"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "X’jagħmel CyberEvents, u x’tista’ ssib hawn?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Il-plugin jimmaniġġja avvenimenti b’sessjonijiet u reġistrazzjonijiet. Il-parteċipanti jikkonfermaw ir-reġistrazzjoni tagħhom permezz ta’ link Double Opt-in mibgħuta minn Brevo (meħtieġa ċavetta API), imbagħad jagħżlu sessjonijiet li l-postijiet tagħhom ma jistgħux jiġu bbukkjat iżżejjed, u jsirilhom check-in fid-dħul permezz tat-token tagħhom. Il-fatturi jinħolqu bħala CII-XML (EN 16931) u jistgħu jiġu esportati bħala lott ta’ reġistrazzjoni DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Aċċess malajr:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Parteċipanti u reġistrazzjonijiet"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Esporta l-fatturi bħala lott DATEV"
+      ],
+      "Event Auslastung": [
+        "Okkupanza tal-avveniment"
+      ],
+      "Kritisch": [
+        "Kritiku"
+      ],
+      "Optimal": [
+        "Ottimali"
+      ],
+      "Max. Kapazität:": [
+        "Kapaċità massima:"
+      ],
+      "Gebucht:": [
+        "Ibbukkjat:"
+      ],
+      "Live Check-In Counter": [
+        "Kontatur taċ-check-in dirett"
+      ],
+      "Anwesend": [
+        "Preżenti"
+      ],
+      "Registriert:": [
+        "Irreġistrati:"
+      ],
+      "Eingecheckt:": [
+        "B’check-in magħmul:"
+      ],
+      "Wartend:": [
+        "Fl-istennija:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Reġistrazzjonijiet ġodda (24 s)"
+      ],
+      "Sessions": [
+        "Sessjonijiet"
+      ],
+      "in 24 h": [
+        "f’24 s"
+      ],
+      "Ausstehende DOI:": [
+        "DOI pendenti:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Telemetrija tal-kju Brevo CRM"
+      ],
+      "Jobs": [
+        "Xogħlijiet"
+      ],
+      "Verarbeitung": [
+        "Ipproċessar"
+      ],
+      "Verarbeitet:": [
+        "Ipproċessati:"
+      ],
+      "Schnellaktionen": [
+        "Azzjonijiet malajr"
+      ],
+      "Neue Konferenz anlegen": [
+        "Oħloq konferenza ġdida"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Lista tal-parteċipanti u check-in"
+      ],
+      "CSV-Batch Import": [
+        "Importazzjoni f’lott CSV"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Ħarsa ġenerali tal-avvenimenti u monitoraġġ tal-okkupanza"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Reġistrazzjonijiet ikkonfermati għal kull avveniment meta mqabbla mal-kapaċità kkonfigurata."
+      ],
+      "Event suchen...": [
+        "Fittex avveniment..."
+      ],
+      "Neue Konferenz": [
+        "Konferenza ġdida"
+      ],
+      "Konferenz / Event": [
+        "Konferenza / avveniment"
+      ],
+      "Zeitraum": [
+        "Perjodu"
+      ],
+      "Ort": [
+        "Belt / Lokalità"
+      ],
+      "Kapazität & Belegung": [
+        "Kapaċità u okkupanza"
+      ],
+      "Status": [
+        "Stat"
+      ],
+      "Aktionen": [
+        "Azzjonijiet"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Ma nstab l-ebda avveniment."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Editja fl-editur tal-blokki Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Editja"
+      ],
+      "Schnellbearbeitung": [
+        "Editjar malajr"
+      ],
+      "Vorschau": [
+        "Dehra minn qabel"
+      ],
+      "Teilnehmer (%d)": [
+        "Parteċipanti (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Tixtieq tassew tħassar dan l-avveniment b’mod permanenti?"
+      ],
+      "Löschen": [
+        "Ħassar"
+      ],
+      "%d Sessions": [
+        "%d sessjonijiet"
+      ],
+      "/ %d Plätze": [
+        "/ %d postijiet"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(mingħajr limitu ta’ kapaċità)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Editja fl-editur Gutenberg"
+      ],
+      "Editor": [
+        "Editur"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Iftaħ l-editjar malajr"
+      ],
+      "Quick": [
+        "Malajr"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Uri l-paġna tal-frontend"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Fatturi validi u kkanċellati kif ukoll reġistrazzjonijiet mhux ikkonfermati."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Gross, fatturi validi"
+      ],
+      "Gültige Rechnungen": [
+        "Fatturi validi"
+      ],
+      "Storniert": [
+        "Ikkanċellati"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Reġistrazzjonijiet mhux ikkonfermati"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Esportazzjoni DATEV u reġistru tal-awditjar"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Lott ta’ reġistrazzjoni tal-fatturi u n-noti ta’ kreditu għal perjodu; ikkoordina l-kontijiet u l-kodiċijiet tat-taxxa mal-konsulent fiskali tiegħek."
+      ],
+      "DATEV Format": [
+        "Format DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategorija 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Katina HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Psewdonimizzazzjoni wara 90 jum"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Iftaħ DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Ara r-reġistru tal-awditjar"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Reġistru tal-awditjar marbut f’katina kontinwa: kull entrata tiffirma wkoll dik ta’ qabilha sabiex bidliet, tħassir u inserzjonijiet sussegwenti jidhru. Prova ta’ tbagħbis, mhux immutabbiltà — min jaqra wp-config.php iżomm iċ-ċavetta."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Iftaħ ir-reġistru sħiħ tal-awditjar"
+      ],
+      "Zeitstempel": [
+        "Timbru tal-ħin"
+      ],
+      "Ereignis-Typ": [
+        "Tip ta’ avveniment"
+      ],
+      "Benutzer / System": [
+        "Utent / sistema"
+      ],
+      "Objekt-ID": [
+        "ID tal-oġġett"
+      ],
+      "Audit-Details & Nachweis": [
+        "Dettalji u prova tal-awditjar"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "S’issa għadha ma ġiet irreġistrata l-ebda entrata tal-awditjar."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Editja l-avveniment / konfigurazzjoni malajr"
+      ],
+      "Schließen": [
+        "Agħlaq"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Titlu tal-konferenza / tal-avveniment:"
+      ],
+      "URL-Slug:": [
+        "Slug tal-URL:"
+      ],
+      "Tagungsort / Location:": [
+        "Post tal-konferenza / lokalità:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Bidu (data u ħin):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Tmiem (data u ħin):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Kapaċità massima ta’ parteċipanti:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Prezz tal-biljett (nett f’€):"
+      ],
+      "Status:": [
+        "Stat:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Attiv (ippubblikat)"
+      ],
+      "Entwurf (Draft)": [
+        "Abbozz"
+      ],
+      "Archiviert": [
+        "Arkivjat"
+      ],
+      "Kostenpflichtig": [
+        "Bi ħlas"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Iftaħ fl-editur tal-blokki Gutenberg"
+      ],
+      "Abbrechen": [
+        "Ikkanċella"
+      ],
+      "Änderungen speichern": [
+        "Issejvja l-bidliet"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Id-dettalji tal-parteċipant ġew aġġornati b’suċċess!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Id-dettalji tar-reġistrazzjoni u l-istat ġew issejvjati fid-database."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Il-parteċipant tħassar!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Ir-reġistrazzjoni u l-prenotazzjonijiet kollha tas-sessjonijiet assoċjati tneħħew."
+      ],
+      "Check-In Status aktualisiert!": [
+        "L-istat taċ-check-in ġie aġġornat!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "L-istat tal-preżenza tal-parteċipant inbidel."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Double Opt-in ikkonfermat!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Ir-reġistrazzjoni ġiet immarkata manwalment bħala kkonfermata."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Ġestjoni tal-parteċipanti u l-prenotazzjonijiet"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Ir-reġistrazzjonijiet kollha bl-istat Double Opt-in, il-prenotazzjonijiet tas-sessjonijiet u l-fatturi."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Badges tal-isem / lista tal-parteċipanti (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Iffiltrat skont il-konferenza: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Neħħi l-filtru"
+      ],
+      "Alle Teilnehmer": [
+        "Il-parteċipanti kollha"
+      ],
+      "Bestätigt": [
+        "Ikkonfermat"
+      ],
+      "Ausstehend DOI": [
+        "DOI pendenti"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Fittex isem, imejl jew kumpanija..."
+      ],
+      "Teilnehmer": [
+        "Parteċipant"
+      ],
+      "Organisation / Firma": [
+        "Organizzazzjoni / kumpanija"
+      ],
+      "Check-In": [
+        "Check-in"
+      ],
+      "Rechnung": [
+        "Fattura"
+      ],
+      "Anmeldedatum": [
+        "Data tar-reġistrazzjoni"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Ma nstabet l-ebda reġistrazzjoni."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Editja d-dettalji tal-parteċipant"
+      ],
+      "Auschecken": [
+        "Check-out"
+      ],
+      "Einchecken": [
+        "Check-in"
+      ],
+      "DOI bestätigen": [
+        "Ikkonferma d-DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Tixtieq tassew tħassar dan il-parteċipant b’mod permanenti?"
+      ],
+      "Status umschalten": [
+        "Aqleb l-istat"
+      ],
+      "Eingecheckt": [
+        "B’check-in magħmul"
+      ],
+      "Nicht vor Ort": [
+        "Mhux fuq il-post"
+      ],
+      "Rechnungs-XML": [
+        "XML tal-fattura"
+      ],
+      "Kostenfrei / Keine": [
+        "Bla ħlas / Xejn"
+      ],
+      "Edit": [
+        "Editja"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Tixtieq tassew tħassar dan il-parteċipant?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Editja d-dettalji tal-parteċipant / ġestjoni tal-parteċipanti"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Ritratt tal-profil / ritratt tal-badge tal-parteċipant (JPG, PNG, WebP · mass. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Neħħi r-ritratt"
+      ],
+      "Vorname:": [
+        "Isem:"
+      ],
+      "Nachname:": [
+        "Kunjom:"
+      ],
+      "E-Mail-Adresse:": [
+        "Indirizz tal-imejl:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizzazzjoni / kumpanija / awtorità:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Konferenza assenjata:"
+      ],
+      "Anmeldestatus:": [
+        "Stat tar-reġistrazzjoni:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Ikkonfermat"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Pendenti (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Ikkanċellat"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Ma setax jitwassal (bounced)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Stat taċ-check-in (fuq il-post):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Le / mhux fuq il-post"
+      ],
+      "Ja / Eingecheckt": [
+        "Iva / check-in magħmul"
+      ],
+      "Rechnungsnummer:": [
+        "Numru tal-fattura:"
+      ],
+      "Zahlungsstatus:": [
+        "Stat tal-ħlas:"
+      ],
+      "Kostenfrei (Free)": [
+        "Bla ħlas"
+      ],
+      "Ausstehend (Pending)": [
+        "Pendenti"
+      ],
+      "Bezahlt (Paid)": [
+        "Imħallas"
+      ],
+      "Erstattet (Refunded)": [
+        "Rimborżat"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Kunsens tal-privatezza GDPR mogħti"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Kunsens għar-ritratti u l-vidjos mogħti"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Privatezza GDPR u kunsens għall-esportazzjoni"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Protezzjoni tad-data personali (Art. 4 u 5 tal-GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Din l-esportazzjoni tiġġenera fajl CSV b’data personali sensittiva tal-parteċipanti (ismijiet sħaħ, kumpaniji, indirizzi tal-imejl tax-xogħol, referenzi tal-fatturi u stat taċ-check-in)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Limitazzjoni tal-iskop (Art. 5(1)(b) tal-GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Id-data tista’ tintuża esklussivament għat-tmexxija operattiva tal-avveniment (eż. stampar ta’ badges tal-isem u akkreditazzjoni fid-dħul)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Kunfidenzjalità u protezzjoni (Art. 5(1)(f) tal-GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "L-iżvelar lil partijiet terzi mhux awtorizzati jew il-ħażna fuq apparat mobbli mhux kriptat huma pprojbiti."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Obbligu ta’ tħassir (Art. 17 tal-GDPR):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Wara li tintemm il-konferenza, il-fajl lokali esportat irid jitħassar minnufih u b’konformità mar-regoli tal-protezzjoni tad-data."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Nikkonferma l-kunsens tal-GDPR:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Nirrikonoxxi li din l-esportazzjoni fiha data personali kunfidenzjali. Nintrabat li nipproċessaha b’reqqa għall-iskop maħsub tagħha biss u b’konformità stretta mar-rekwiżiti legali tal-protezzjoni tad-data."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Niżżel l-esportazzjoni CSV b’mod sigur issa"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML tal-fattura (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Ikkopja l-XML fil-clipboard"
+      ],
+      "Keine Berechtigung.": [
+        "M'għandekx permess."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Żball ta’ sigurtà: fajls CSV ġenwini biss huma permessi."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Il-fajl huwa kbir wisq (massimu ta’ 5 MB permess)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Jekk jogħġbok agħżel avveniment u pprovdi d-data CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Importazzjoni f’lott CSV tal-parteċipanti (protezzjoni kontra duplikati TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Importazzjoni awtomatizzata ta’ listi tal-parteċipanti minn sistemi esterni bi prevenzjoni stretta ta’ reġistrazzjonijiet doppji."
+      ],
+      "Import-Zusammenfassung": [
+        "Sommarju tal-importazzjoni"
+      ],
+      "Gesamtzeilen": [
+        "Ringieli totali"
+      ],
+      "Neu Importiert": [
+        "Importati ġodda"
+      ],
+      "Dubletten abgewiesen": [
+        "Duplikati miċħuda"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importa lista ġdida ta’ parteċipanti"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Avveniment fil-mira *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Agħżel avveniment —"
+      ],
+      "CSV-Datei auswählen": [
+        "Agħżel fajl CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Isem;Kunjom;Imejl;Kumpanija (separati b’punt u virgola jew virgola, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Jew waħħal it-test CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Mexxi l-importazzjoni CSV issa"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "Studjo tal-Lott ta’ Reġistrazzjoni DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Esportazzjoni finanzjarja standardizzata (kategorija 21, verżjoni tal-format 700 / 125 qasam) għall-konsulenti fiskali u l-kontabbiltà DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Agħżel il-perjodu tal-esportazzjoni"
+      ],
+      "Laufender Monat": [
+        "Ix-xahar kurrenti"
+      ],
+      "Vormonat": [
+        "Ix-xahar ta’ qabel"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Is-sena sħiħa 2026"
+      ],
+      "Datum von *": [
+        "Data minn *"
+      ],
+      "Datum bis *": [
+        "Data sa *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Konferma għall-esportazzjoni tad-data tad-debituri:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Nikkonferma li l-esportazzjoni ta’ rekords finanzjarji u tar-riċevituri tal-fatturi tinkludi data personali u tintbagħat esklussivament lill-uffiċċju fiskali awtorizzat għaż-żamma tal-kotba u l-kontabbiltà tat-taxxa meħtieġa bil-liġi."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Niżżel il-lott ta’ reġistrazzjoni DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Traċċa tal-awditjar marbuta f’katina tal-azzjonijiet kollha rilevanti għas-sigurtà, Double Opt-ins, kanċellazzjonijiet u kontrolli tal-aċċess."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Katina tal-awditjar intatta — %1$d entrati vverifikati skont il-kontenut, %2$d psewdonimizzati (il-pożizzjoni fil-katina biss ivverifikata)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Katina tal-awditjar MHUX intatta"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d entrata/entrati ġejjin minn qabel ir-rabta fil-katina u ma jġorru l-ebda firma vverifikabbli. Jitqiesu bħala mhux ivverifikati, mhux bħala intatti."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY mhijiex iddefinita: iċ-ċavetta tal-katina ġejja mid-database — l-istess post li attakkant b’aċċess għall-kitba jista’ jimmodifika. Iddefinixxi AUTH_KEY f’wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Ħin"
+      ],
+      "Ereignistyp": [
+        "Tip ta’ avveniment"
+      ],
+      "Referenz-ID": [
+        "ID ta’ referenza"
+      ],
+      "IP-Adresse": [
+        "Indirizz IP"
+      ],
+      "Audit-Details (JSON)": [
+        "Dettalji tal-awditjar (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Ma nstabet l-ebda entrata fir-reġistru."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Avveniment \"%1$s\" maħluq b’%2$d sessjonijiet u %3$d parteċipanti."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Id-data tad-demo ġiet importata b’suċċess!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d avvenimenti, %2$d sessjonijiet, %3$d reġistrazzjonijiet u %4$d fatturi tħassru."
+      ],
+      "Demodaten bereinigt!": [
+        "Id-data tad-demo tnaddfet!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Is-settings oriġinali tal-fabbrika ġew irrestawrati!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "It-tabelli kollha tbattlu u s-settings ġew irrisettjati."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Il-fajl tat-tema mtella’ tneħħa."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Is-settings ġew issejvjati b’mod sigur."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Konfigurazzjoni u Sigurtà tal-Intrapriża"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Disinn, Brevo, fatturi u DATEV, protezzjoni kontra l-bots u data tad-demo."
+      ],
+      "Design & Theme Studio": [
+        "Studjo tad-Disinn u t-Temi"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM u Webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Fatturi u DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Protezzjoni kontra l-Bots (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Data tad-Demo u Reset"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Sistema tad-Disinn tal-Frontend u Wirt tat-Tema"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Agħżel kif l-avvenimenti u l-formoli tal-prenotazzjoni jidhru fuq il-frontend. B’mod awtomatiku, il-plugin jiret il-fonts, il-kuluri u l-buttuni mit-tema attiva ta’ WordPress."
+      ],
+      "Primärfarbe": [
+        "Kulur primarju"
+      ],
+      "Akzentfarbe": [
+        "Kulur tal-aċċent"
+      ],
+      "Kartenhintergrund": [
+        "Sfond tal-kard"
+      ],
+      "Textfarbe": [
+        "Kulur tat-test"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Kuluri u Borduri tat-Tema Personalizzati (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Kulur primarju (buttuni u aċċenti):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Kulur tal-aċċent (badges u dawl):"
+      ],
+      "Seitenhintergrund:": [
+        "Sfond tal-paġna:"
+      ],
+      "Kartenhintergrund:": [
+        "Sfond tal-kard:"
+      ],
+      "Haupttextfarbe:": [
+        "Kulur ewlieni tat-test:"
+      ],
+      "Eckenabrundung (px):": [
+        "Raġġ tal-kantunieri (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Tella’ tema CSS personalizzata (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Tella’ stylesheet .css imfassla apposta (eż. agenzija-tema.css). Din titgħabba b’mod iżolat u tiġi vvalidata awtomatikament."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Tema personalizzata attiva preżenti"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Tixtieq tassew tħassar il-fajl tat-tema CSS imtella’?"
+      ],
+      "Theme löschen": [
+        "Ħassar it-tema"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "CSS personalizzat addizzjonali (editur inline)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Daħħal ir-regoli CSS personalizzati hawn, eż.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 u Awtentikazzjoni Webhook"
+      ],
+      "Brevo API Key (v3)": [
+        "Ċavetta API Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Użata għat-twassil asinkroniku tal-imejls Double Opt-in u s-sinkronizzazzjoni tal-attributi tal-kuntatti."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Sigriet kondiviż tal-Webhook / token tal-firma"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Token protett kontra attakki tal-ħin użat biex jivvalida l-payloads deħlin tal-Webhook ta’ Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Ċavetta API tal-iskener tal-istaff (kontroll tad-dħul)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Token ta’ awtentikazzjoni għall-iskeners mobbli użati mill-istaff tad-dħul."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Kamra ta’ stennija: ammissjonijiet kull minuta"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Talbiet għar-reġistrazzjoni u l-prenotazzjoni tas-sessjonijiet ammessi kull minuta u għal kull avveniment. 0 jitfi l-kamra ta’ stennija (awtomatiku). ’Il fuq minn dak il-limitu, ir-rotta twieġeb HTTP 503 b’Retry-After qabel ma taħdem kwalunkwe mistoqsija tad-database — l-ebda post ma jiġi rriżervat."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Backend tal-kontatur fuq din l-installazzjoni: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "cache persistenti tal-oġġetti"
+      ],
+      "Datenbank (Transients)": [
+        "database (transients)"
+      ],
+      "DOI Template ID": [
+        "ID tat-Template DOI"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID tal-lista tal-kuntatti Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Fatturi (CII-XML) u DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Prefiss tan-numru tal-fattura"
+      ],
+      "Rechnungssteller": [
+        "Emittent tal-fattura"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "L-ebda fattura jew nota ta’ kreditu ma tinħoloq mingħajr dawn id-dettalji: %s."
+      ],
+      "Name / Firma": [
+        "Isem / kumpanija"
+      ],
+      "Straße und Hausnummer": [
+        "Triq u numru tad-dar"
+      ],
+      "PLZ": [
+        "Kodiċi postali"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Pajjiż (kodiċi ISO, eż. MT)"
+      ],
+      "USt-IdNr.": [
+        "Numru tal-VAT"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Numru tat-taxxa (jekk m’hemmx numru tal-VAT)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Imejl għall-fatturi"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN għat-trasferimenti bankarji (mhux obbligatorju)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Numru tal-konsulent DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Numru tal-klijent DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Kont tad-dħul (eż. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Kont tar-riċevibbli (eż. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Il-plugin għadu ma jinkludix widget captcha: is-setting jiġi ssejvjat, iżda l-formola tiġi pproċessata mingħajr captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Attiva Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Ċavetta tas-sit (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Ċavetta API / sigriet"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Ġestjoni tad-Data tad-Demo u Reset tal-Fabbrika"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importa data kampjun, erġa’ neħħiha jew irrisettja l-plugin għas-settings oriġinali tal-fabbrika."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importa d-data tad-demo"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Joħloq konferenza kampjun b’sessjonijiet u parteċipanti kampjun. Il-fatturi jinħolqu biss meta d-dettalji tal-emittent ikunu kkonfigurati."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Tixtieq timporta d-data kampjun issa?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importa d-data tad-demo (konferenzi, sessjonijiet, parteċipanti, fatturi)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Naddaf id-data tad-demo (ħassar id-data tat-test biss)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Iħassar biss il-konferenzi tad-demo, is-sessjonijiet tad-demo, il-parteċipanti tad-demo u l-fatturi tad-demo ġġenerati. Avvenimenti u prenotazzjonijiet reali jibqgħu mhux mittiefsa."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Tixtieq tneħħi d-data kollha tad-demo b’mod sigur? Id-data reali se tinżamm."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Naddaf id-data tad-demo (data tat-test biss)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Irrisettja għas-settings tal-fabbrika (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Twissija (irreversibbli):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Jbattal it-tabelli kollha tal-avvenimenti, tas-sessjonijiet, tar-reġistrazzjonijiet, tal-fatturi u tar-reġistru tal-awditjar, iħassar il-posts kollha cybevent u cybsession u jirrisettja s-settings kollha għall-istat oriġinali."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "TWISSIJA: Int ċert għalkollox? Dan se jħassar L-AVVENIMENTI, ir-reġistrazzjonijiet u l-fatturi KOLLHA u jirrisettja s-settings kollha!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Reset sħiħ tal-fabbrika (ħassar kollox u rrestawra s-settings oriġinali)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Imġiba waqt id-diżinstallazzjoni tal-plugin"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Ħassar it-tabelli u s-settings kollha waqt id-diżinstallazzjoni"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "B’mod awtomatiku, ir-rekords kollha tal-avvenimenti, tar-reġistrazzjonijiet, tal-fatturi u tal-awditjar jinżammu meta jitħassar il-plugin (obbligi legali taż-żamma). Attiva din l-għażla biss jekk it-tabelli kollha għandhom jitħassru b’mod permanenti waqt id-diżinstallazzjoni."
+      ],
+      "Alle Einstellungen speichern": [
+        "Issejvja s-settings kollha"
+      ],
+      "Platzbuchung": [
+        "Prenotazzjoni tal-postijiet"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Post jiġi bbukkjat b’istruzzjoni UPDATE kundizzjonali waħda (belegt = belegt + 1, biss sakemm belegt < kapazitaet). Minn żewġ talbiet simultanji għall-aħħar post, waħda biss tibdel ir-ringiela; l-oħra tirċievi l-messaġġ ‘kompletament ibbukkjat’."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Il-fatturi u n-noti ta’ kreditu jiġu ġġenerati bħala CII-XML skont il-profil EN 16931 u jiġu ċċekkjati bil-validatur Mustang fit-testijiet. Ma jinħoloq l-ebda PDF, għalhekk l-XML mhuwiex fajl ibridu ZUGFeRD. Jekk il-fatturi jissodisfawx ir-rekwiżiti legali f’każ individwali jiġi vverifikat mill-konsulent fiskali tiegħek."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF u kontabbiltà"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Jesporta l-fatturi u n-noti ta’ kreditu ta’ perjodu bħala lott ta’ reġistrazzjoni fil-format DATEV (EXTF 700, kategorija 21) f’Windows-1252. Il-kontijiet tar-riċevibbli u tad-dħul jiġu mis-settings; kull ringiela ġġorr il-kodiċi tat-taxxa 3. Ikkoordina l-kontijiet u l-kodiċijiet mal-konsulent fiskali tiegħek."
+      ],
+      "Handbuch & API:": [
+        "Manwal u API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Manwal sħiħ"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Żviluppat minn WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Manwal tal-Amministratur u tal-Iżviluppatur"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Prenotazzjoni tal-postijiet, XML tal-fatturi, esportazzjoni DATEV, Brevo Double Opt-in, shortcodes u presets tat-temi."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Prenotazzjoni tal-postijiet mingħajr overbooking"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Il-kontatur tal-okkupanza jiżdied f’istruzzjoni kundizzjonali waħda; minn żewġ talbiet simultanji għall-aħħar post, waħda biss taġġorna r-ringiela:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML tal-fatturi u DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Fatturi u noti ta’ kreditu bid-dettalji tal-emittent mis-settings, id-data tal-provvista u numru sekwenzjali. L-ebda PDF, l-ebda Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Noti ta’ kreditu:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Numru sekwenzjali proprju, tip 381 b’referenza għall-fattura oriġinali."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Lott ta’ reġistrazzjoni għal perjodu fi ħdan sena kalendarja waħda, Windows-1252. Ikkoordina l-kontijiet u l-kodiċijiet tat-taxxa mal-konsulent fiskali tiegħek."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-in u Kju fl-Isfond"
+      ],
+      "Double Opt-In (DOI):": [
+        "Double Opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo jibgħat l-imejl ta’ konferma b’link personali; il-link tikkonferma r-reġistrazzjoni darba waħda. Ir-reġistrazzjonijiet mhux ikkonfermati jitħassru wara 14-il jum."
+      ],
+      "Warteschlange:": [
+        "Kju:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Is-sejħiet lil Brevo jgħaddu minn kju fid-database li WP-Cron jipproċessa kull minuta (jew wp cybevents queue-run), b’sa ħames tentattivi."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcodes u Integrazzjoni ma’ Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Formola ta’ reġistrazzjoni aċċessibbli."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Aġenda interattiva tal-konferenza u ħarsa ġenerali tat-tracks."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Għażla tas-sessjonijiet ibbażata fuq token wara l-konferma tad-DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI għall-Amministraturi"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Presets tat-Temi u Design Tokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Il-frontend jadatta ruħu b’mod flessibbli għal kwalunkwe tema ta’ WordPress jew juża presets tad-disinn integrati:"
+      ],
+      "Presets:": [
+        "Mudelli lesti (Presets):"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Diversi presets tal-kuluri, inkluż wieħed bil-vjola skur, vjola u roża (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Wirt tat-tema (awtomatiku):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Jiret il-fonts, ir-raġġi tal-borduri u l-kuluri primarji mit-tema attiva (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Proprjetajiet personalizzati tas-CSS:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Punti ta’ Attenzjoni u l-Aħjar Prattiki"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "It-tabelli jinħolqu b’ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Perjodi ta’ żamma:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Ir-reġistrazzjonijiet mhux ikkonfermati jitħassru wara 14-il jum, u l-entrati fir-reġistru tal-awditjar jiġu psewdonimizzati wara 90 jum (ħlief l-avvenimenti tal-fatturi). Ir-reġistrazzjonijiet ikkonfermati u l-fatturi ma jitħassrux awtomatikament mill-plugin; m’hemm l-ebda setting għal dan."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "L-ipproċessar tal-kju u t-tindif tal-perjodi ta’ żamma jaħdmu permezz ta’ WP-Cron; siti mingħajr traffiku regolari jeħtieġu cron job reali tas-sistema."
+      ],
+      "Cyber Events Suite": [
+        "Suite tal-Avvenimenti Ċibernetiċi"
+      ],
+      "Veranstaltung auswählen": [
+        "Agħżel avveniment"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Agħżel l-avveniment fil-mira għal dan il-blokk."
+      ],
+      "Key Facts Header anzeigen": [
+        "Uri l-intestatura tal-informazzjoni ewlenija"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Uri l-indikatur tal-passi (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Uri l-buttuna tal-esportazzjoni tal-kalendarju (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Uri t-tajmer tal-countdown"
+      ],
+      "Freie Plätze anzeigen": [
+        "Uri l-postijiet ħielsa"
+      ],
+      "Spaltenanzahl": [
+        "Għadd ta’ kolonni"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Jekk jogħġbok agħżel avveniment validu fis-settings tal-blokk."
+      ],
+      "Vorschau im Editor": [
+        "Dehra minn qabel fl-editur"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Għażla tas-sessjonijiet għal reġistrazzjonijiet ikkonfermati"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Fuq il-frontend, dan il-blokk jintwera b’mod dinamiku għal kull parteċipant bit-token individwali tiegħu."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Ma nstab l-ebda token ta’ konferma."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Jekk jogħġbok iftaħ din il-paġna permezz tal-link personalizzata mill-imejl ta’ konferma tiegħek."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Token tal-parteċipant invalidu jew skadut."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Mappa tal-postijiet tal-avveniment"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Fuq il-frontend, dan il-blokk juri l-okkupanza ta’ kull sessjoni bħala SVG u jżommha aġġornata permezz ta’ Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "L-avveniment ma nstabx."
+      ],
+      "Jetzt anmelden": [
+        "Irreġistra issa"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Irreġistra bla ħlas issa"
+      ],
+      "Programm ansehen": [
+        "Ara l-programm"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Parteċipazzjoni bla ħlas"
+      ],
+      "Anmeldung geöffnet": [
+        "Ir-reġistrazzjoni miftuħa"
+      ],
+      "Ausgebucht": [
+        "Kompletament ibbukkjat"
+      ],
+      "Preis": [
+        "Prezz"
+      ],
+      "%d freier Platz": [
+        "%d post ħieles",
+        "%d postijiet ħielsa",
+        "%d post ħieles",
+        "%d post ħieles"
+      ],
+      "von max. %d": [
+        "minn mass. %d"
+      ],
+      "Beginn in:": [
+        "Jibda fi:"
+      ],
+      "Tage": [
+        "Jiem"
+      ],
+      "Std.": [
+        "Sigħat"
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Esporta lejn il-kalendarju (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (fajl .ics)"
+      ],
+      "Google Kalender": [
+        "Google Calendar"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Il-fajl .ics jinkludi tfakkira jum qabel il-bidu."
+      ],
+      "Referenten & Fachexperten": [
+        "Kelliema u esperti tas-suġġett"
+      ],
+      "Referenten": [
+        "Kelliema"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Il-lista tal-kelliema se titħabbar dalwaqt."
+      ],
+      "TEILNEHMERPASS": [
+        "PASS TAL-PARTEĊIPANT"
+      ],
+      "Teilnehmerpass": [
+        "Pass tal-parteċipant"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Iftaħ il-biljett u l-akkreditazzjoni"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Daħħal it-token tas-sigurtà ta’ 64 karattru mill-imejl ta’ konferma:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Daħħal it-token (eż. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Uri l-pass"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Token tal-prenotazzjoni invalidu jew mhux magħruf."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "M’hemm l-ebda pass tal-parteċipant disponibbli għal din ir-reġistrazzjoni: mhijiex ikkonfermata jew ġiet ikkanċellata."
+      ],
+      "Max Mustermann": [
+        "Mario Borg"
+      ],
+      "Beispiel GmbH": [
+        "Eżempju Ltd"
+      ],
+      "Veranstaltung": [
+        "Avveniment"
+      ],
+      "Rechnungs-Nr.": [
+        "Nru tal-fattura"
+      ],
+      "Keine": [
+        "Xejn"
+      ],
+      "Ticket-Nummer": [
+        "Numru tal-biljett"
+      ],
+      "Pass drucken": [
+        "Istampa l-pass"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Protezzjoni tad-data u sigurtà"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double Opt-in u perjodi ta’ żamma"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Reġistrazzjoni tidħol fis-seħħ biss wara konferma permezz tal-link fl-imejl. Ir-reġistrazzjonijiet mhux ikkonfermati jitħassru wara 14-il jum, u l-entrati fir-reġistru tal-awditjar jiġu psewdonimizzati wara 90 jum."
+      ],
+      "Beschriftete Formulare": [
+        "Formoli b’tikketti ċari"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Oqsma tal-formola b’tikketti viżibbli, oqsma obbligatorji mmarkati u messaġġi tal-istat li jinqraw mill-iscreen readers."
+      ],
+      "Eigene Skripte und Styles": [
+        "Skripts u stili ospitati lokalment"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Il-plugin jgħabbi l-iskripts, l-istili u l-ikoni tiegħu mis-server tiegħek stess minflok minn CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Reġistru tal-awditjar u tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Reġistru tal-awditjar marbut f’katina b’HMAC-SHA256 jagħmel kwalunkwe tbagħbis sussegwenti skopribbli. It-tokens tal-parteċipanti jinħażnu biss bħala hash SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML tal-fatturi u DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Fatturi bħala CII-XML skont il-profil EN 16931 u esportazzjoni bħala lott ta’ reġistrazzjoni DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Prova tax-Xogħol)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Protezzjoni kontra l-bots li tirrispetta l-privatezza mingħajr traċċar tal-utenti jew puzzles tal-istampi skont il-liġi tal-UE dwar il-protezzjoni tad-data."
+      ],
+      "Zur Anmeldung": [
+        "Mur għall-illoggjar"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "M’hemm l-ebda avveniment arkivjat."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Bħalissa m’hemm l-ebda avveniment skedat."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Iffiltra l-avvenimenti skont it-titlu jew il-post..."
+      ],
+      "Kostenfrei": [
+        "Bla ħlas"
+      ],
+      "In Kalender eintragen": [
+        "Żid mal-kalendarju"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Ticker dirett tal-konferenza u l-aġenda"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TELEMETRIJA TAL-AĠENDA DIRETTA"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Kontrolli tal-wiri u tal-filtri"
+      ],
+      "Kalenderansichten": [
+        "Dehriet tal-kalendarju"
+      ],
+      "Monat": [
+        "Xahar"
+      ],
+      "Woche": [
+        "Ġimgħa"
+      ],
+      "Tag / Agenda": [
+        "Jum / aġenda"
+      ],
+      "Liste": [
+        "Lista"
+      ],
+      "Karten": [
+        "Kards"
+      ],
+      "Räume & Ort": [
+        "Kmamar u post"
+      ],
+      "Summit Tracks": [
+        "Tracks tas-summit"
+      ],
+      "Vorheriger Zeitraum": [
+        "Il-perjodu ta’ qabel"
+      ],
+      "Nächster Zeitraum": [
+        "Il-perjodu li jmiss"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Fittex avveniment, suġġett jew kelliem..."
+      ],
+      "Suchbegriff eingeben": [
+        "Daħħal terminu tat-tfittxija"
+      ],
+      "Track oder Kategorie filtern": [
+        "Iffiltra track jew kategorija"
+      ],
+      "Alle Fach-Tracks": [
+        "It-tracks speċjalizzati kollha"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Track 01: Kriptografija Post-Kwantistika"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Track 02: Zero Trust u Reżiljenza DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Track 03: IA Awtonoma u Regoli tas-Segretezza (§ 203 StGB)"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Track 04: Katina tal-Provvista tas-Software u CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Iffiltra s-sala tal-konferenzi"
+      ],
+      "Alle Säle & Räume": [
+        "Is-swali u l-kmamar kollha"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Sala Plenarja Alpha (Diskorsi Ewlenin)"
+      ],
+      "Security Lab Beta": [
+        "Laboratorju tas-Sigurtà Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Studjo tal-Workshops Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Hub tax-Xandir Virtwali AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Dehra tal-kalendarju fix-xahar"
+      ],
+      "Mo": [
+        "Tne"
+      ],
+      "Di": [
+        "Tli"
+      ],
+      "Mi": [
+        "Erb"
+      ],
+      "Do": [
+        "Ħam"
+      ],
+      "Fr": [
+        "Ġim"
+      ],
+      "Sa": [
+        "Sib"
+      ],
+      "So": [
+        "Ħad"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Dehra tal-iskeda tal-ġimgħa u l-orarju"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Dehra tal-aġenda ta’ kuljum u l-kronoloġija"
+      ],
+      "Chronologische Listenansicht": [
+        "Dehra ta’ lista kronoloġika"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Dehra viżwali bil-kards tar-ritratti"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Dehra tan-navigatur tal-post u l-kmamar"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Matriċi multi-track tas-summit"
+      ],
+      "Dialog schließen": [
+        "Agħlaq id-djalogu"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "ID tas-sessjoni jew tar-reġistrazzjoni invalida."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Il-prenotazzjoni ma setgħetx tiġi pproċessata minħabba żball fid-database."
+      ],
+      "Session %d existiert nicht.": [
+        "Is-sessjoni %d ma teżistix."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" hija kompletament ibbukkjata (%2$d minn %2$d postijiet meħuda)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Il-prenotazzjoni ma setgħetx tiġi ssejvjata. Il-post reġa’ ġie rilaxxat."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Il-kanċellazzjoni ma setgħetx tiġi pproċessata minħabba żball fid-database."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Ma ttella’ l-ebda fajl validu."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Żball fit-tlugħ tal-fajl."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "L-istampa tal-profil ma tistax taqbeż il-5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Format tal-fajl invalidu. Il-formati permessi huma JPG, PNG u WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Estensjoni tal-fajl invalida. L-estensjonijiet permessi huma .jpg, .jpeg, .png u .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Żball waqt l-issejvjar tal-istampa tal-profil."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Ir-reġistru tal-awditjar huwa vojt għalkemm qabel kienu rreġistrati %d entrati."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Entrata mhux iffirmata ġiet imdaħħla fil-katina wara."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Qtugħ fil-katina fl-entrata #%d: entrata tħassret, ġiet imdaħħla jew tqiegħdet f'ordni oħra."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Il-firma tal-entrata #%d ma taqbilx mas-sommarju tal-kontenut tagħha."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "L-entrata #%d hija mmarkata bħala psewdonimizzata mingħajr prova valida: il-kontenut tagħha jista’ jkun inbidel."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Il-kontenut tal-entrata #%d ġie mmodifikat wara l-ħolqien tagħha."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "It-tmiem tar-reġistru ma jaqbilx mal-aħħar entrata rreġistrata. L-aktar entrati ġodda tneħħew."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Avvenimenti"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Avveniment"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Avvenimenti Ċibernetiċi"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Avveniment"
+      ],
+      "event\u0004Neu erstellen": [
+        "Oħloq ġdid"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Editja l-avveniment"
+      ],
+      "Veranstaltung ansehen": [
+        "Ara l-avveniment"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Fittex avvenimenti"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Ma nstab l-ebda avveniment fiż-żibel."
+      ],
+      "Veranstaltungsdaten": [
+        "Dettalji tal-avveniment"
+      ],
+      "Veranstaltungsort:": [
+        "Post tal-avveniment:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Immaniġġja l-postijiet ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Agħżel post issejvjat —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Post manwali / kamra / indirizz..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Agħżel post issejvjat mil-lista jew ippersonalizza d-deskrizzjoni tal-post/tal-kamra."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Bidu (data u ħin):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Tmiem (data u ħin):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Avveniment bi ħlas"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Bħalissa m’hemm l-ebda skeda tal-konferenza disponibbli."
+      ],
+      "Programm": [
+        "Programm"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Fittex suġġett, kelliem jew kamra..."
+      ],
+      "Konferenz-Agenda": [
+        "Aġenda tal-konferenza"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Il-programm dettaljat se jitħabbar dalwaqt."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Data tal-parteċipanti CyberEvents"
+      ],
+      "E-Mail": [
+        "Email"
+      ],
+      "Unternehmen / Organisation": [
+        "Kumpanija / organizzazzjoni"
+      ],
+      "Profilbild": [
+        "Stampa tal-profil"
+      ],
+      "Einwilligung Datenschutz": [
+        "Kunsens tal-privatezza"
+      ],
+      "ja": [
+        "iva"
+      ],
+      "nein": [
+        "le"
+      ],
+      "Einwilligung Fotos": [
+        "Kunsens għar-ritratti"
+      ],
+      "Bestätigung angefordert": [
+        "Konferma mitluba"
+      ],
+      "Bestätigt am": [
+        "Ikkonfermat fi"
+      ],
+      "Eingecheckt am": [
+        "Check-in magħmul fi"
+      ],
+      "Gebuchte Sessions": [
+        "Sessjonijiet ibbukkjati"
+      ],
+      "Rechnungsnummer": [
+        "Numru tal-fattura"
+      ],
+      "CyberEvents Registrierungen": [
+        "Reġistrazzjonijiet CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Fatturi CyberEvents"
+      ],
+      "Empfänger": [
+        "Riċevitur"
+      ],
+      "Adresse": [
+        "Indirizz"
+      ],
+      "Bruttobetrag": [
+        "Ammont gross"
+      ],
+      "Ausgestellt am": [
+        "Maħruġa fi"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Ir-reġistrazzjoni #%d ma setgħetx titħassar."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Ir-reġistrazzjoni #%d ma setgħetx tiġi anonimizzata; id-data baqgħet kif kienet."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Ir-reġistrazzjoni #%1$d ġiet anonimizzata. Il-fattura %2$s bl-isem, l-indirizz u l-imejl tibqa’ maħżuna mingħajr bidla; il-plugin ma jħassarx il-fatturi."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Il-Webhook ta’ Brevo huwa diżattivat mingħajr sigriet kondiviż (jirritorna 401). Il-bounces u t-tneħħija tal-abbonamenti ma jiġux ipproċessati sakemm jiġi kkonfigurat sigriet."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "L-ebda ċavetta API ta’ Brevo kkonfigurata: l-imejls ta’ konferma ma jintbagħtux; ir-reġistrazzjonijiet ġodda jibqgħu mhux ikkonfermati u jitħassru wara 14-il jum."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha huwa attivat iżda m’għandu l-ebda effett: il-plugin ma jinkludix widget captcha, għalhekk il-formola tiġi pproċessata mingħajr protezzjoni kontra l-bots."
+      ],
+      "Einstellungen öffnen": [
+        "Iftaħ is-settings"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Wisq talbiet. Erġa’ pprova wara minuta."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "L-għażla ma ġietx issejvjata: %s Il-prenotazzjonijiet preċedenti tiegħek jibqgħu fis-seħħ."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Sessjonijiet ġodda ġew ibbukkjati, iżda mhux kull sessjoni mhux magħżula setgħet tiġi rilaxxata: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Token tas-sigurtà invalidu (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Token tal-formola invalidu (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Parteċipant mhux awtorizzat jew ma nstabx."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Ma ntbagħat l-ebda fajl tal-istampa."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "L-istampa tal-profil ġiet aġġornata b’suċċess."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "It-token ta’ konferma huwa nieqes."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Biljett invalidu jew li għadu mhux ikkonfermat."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "M’hemm l-ebda sessjoni kkonfigurata għal dan l-avveniment."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Mappa tal-postijiet: postijiet meħuda u ħielsa għal kull sessjoni"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d minn %3$d postijiet meħuda"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "L-avveniment huwa nieqes għall-mappa tal-postijiet."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "L-avveniment tal-mappa tal-postijiet ma jeżistix."
+      ],
+      "frei": [
+        "ħieles"
+      ],
+      "belegt": [
+        "meħud"
+      ],
+      "von Ihnen gebucht": [
+        "ibbukkjat minnek"
+      ],
+      "Belegung je Session": [
+        "Okkupanza għal kull sessjoni"
+      ],
+      "Session": [
+        "Sessjoni"
+      ],
+      "Belegt": [
+        "Meħuda"
+      ],
+      "Frei": [
+        "Ħielsa"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "L-okkupanza tiġi aġġornata kontinwament."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stat fil-ħin tat-tagħbija tal-paġna; l-okkupanza ma tiġix aġġornata b’mod dirett."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Data tad-demo: prenotazzjoni għal %1$s miċħuda — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Data tad-demo: parteċipazzjoni kkanċellata"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessjonijiet u tracks"
+      ],
+      "post type singular name\u0004Session": [
+        "Sessjoni"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessjonijiet"
+      ],
+      "Alle Sessions": [
+        "Is-sessjonijiet kollha"
+      ],
+      "Session bearbeiten": [
+        "Editja s-sessjoni"
+      ],
+      "Session ansehen": [
+        "Ara s-sessjoni"
+      ],
+      "Sessions durchsuchen": [
+        "Fittex sessjonijiet"
+      ],
+      "Keine Sessions gefunden.": [
+        "Ma nstabet l-ebda sessjoni."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Ma nstabet l-ebda sessjoni fiż-żibel."
+      ],
+      "Session-Daten": [
+        "Dettalji tas-sessjoni"
+      ],
+      "Zugehörige Konferenz:": [
+        "Konferenza assoċjata:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— L-ebda konferenza magħżula —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Kelliem u istituzzjoni:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "eż. Marija Borg (Eżempju Ltd)"
+      ],
+      "Raum / Saal / Track:": [
+        "Kamra / sala / track:"
+      ],
+      "Workshop-Kapazität:": [
+        "Kapaċità tal-workshop:"
+      ],
+      "Speaker": [
+        "Kelliem"
+      ],
+      "Raum / Track": [
+        "Kamra / track"
+      ],
+      "Zeitfenster": [
+        "Ħin tas-sessjoni"
+      ],
+      "Belegung": [
+        "Okkupanza"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Merħba, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Agħżel is-sessjonijiet tiegħek. Post jiġi allokat mal-issejvjar sakemm is-sessjoni ma tkunx kompletament ibbukkjata."
+      ],
+      "Anmeldung bestätigt": [
+        "Reġistrazzjoni kkonfermata"
+      ],
+      "Für diese Session eingetragen": [
+        "Irreġistrat għal din is-sessjoni"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Agħżel din is-sessjoni"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Il-post jiġi allokat mal-issejvjar sakemm is-sessjoni ma tkunx kompletament ibbukkjata."
+      ],
+      "Sessions ausgewählt": [
+        "Sessjonijiet magħżula"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Issejvja l-għażla"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Standard tat-tema WordPress (wiret awtomatikament)"
+      ],
+      "Empfohlen": [
+        "Irrakkomandat"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Jiret it-tipografija, il-kuluri, il-buttuni u l-ispazjar direttament mit-tema attiva ta’ WordPress (GeneratePress, Astra, Twenty Twenty-Four eċċ.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Vjola u rożè (lilà skur, vjola, aċċent rożè)"
+      ],
+      "Farbstark": [
+        "Ħaj"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Lilà skur (#482683), vjola qawwi (#7D40E7), aċċent rożè (#DF0079), Noto Sans jekk it-tema tgħabbih, u gradjent sottili."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (blu skur u ċjan)"
+      ],
+      "High-Tech Dark": [
+        "Skur ta’ Teknoloġija Għolja"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Dehra skura u kobalt imfassla apposta b’effetti ta’ dawl għal konferenzi taċ-ċibersigurtà."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (Lavanja u Monokromatiku)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Disinn SaaS nadif u sempliċi bi griż newtrali, borduri fini u spazju abjad ġeneruż."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorjali Saħħan (Klassiku u Toni Sħan)"
+      ],
+      "Klassik": [
+        "Klassiku"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Toni sħan tal-avorju u burgundy għal simpożji akkademiċi u kungressi professjonali."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Kuntrast Għoli (Iswed fuq l-Abjad)"
+      ],
+      "Hochkontrast": [
+        "Kuntrast għoli"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Test iswed fuq l-abjad (kuntrast 21:1) b’aċċent isfar u borduri tal-fokus imsaħħa."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Tema Personalizzata (Kuluri Proprji u CSS)"
+      ],
+      "Individuell": [
+        "Personalizzat"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Definizzjoni ħielsa tal-kuluri u appoġġ għal stylesheets CSS personalizzati mtellgħin."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Ma ġie pprovdut l-ebda fajl validu għat-tlugħ."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Żball ta’ sigurtà: fajls .css puri biss jistgħu jittellgħu."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Il-fajl CSS jaqbeż il-limitu ta’ 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Il-fajl tat-tema ma setax jiġi ssejvjat fuq is-server."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Is-CSS tat-tema personalizzata ttella’ u ġie attivat b’suċċess."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Postijiet"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Post tal-avveniment"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Fittex postijiet"
+      ],
+      "Häufige Tagungsorte": [
+        "Postijiet komuni"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Il-postijiet kollha"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Editja l-post"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Aġġorna l-post"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Żid post ġdid"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Isem il-post il-ġdid"
+      ],
+      "Orte mit Kommas trennen": [
+        "Issepara l-postijiet bil-virgoli"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Żid jew neħħi postijiet"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Agħżel mill-aktar postijiet użati"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Ma nstab l-ebda post."
+      ],
+      "Stadt / Ort:": [
+        "Belt / lokalità:"
+      ],
+      "z. B. Musterstadt": [
+        "eż. Belt Kampjun"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Muniċipalità jew belt tal-post tal-konferenza."
+      ],
+      "Straße & Hausnummer:": [
+        "Triq u numru tad-dar:"
+      ],
+      "z. B. Musterstraße 1": [
+        "eż. Triq Kampjun 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Kodiċi postali:"
+      ],
+      "Land:": [
+        "Pajjiż:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Kapaċità massima tal-kamra (persuni):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Aċċessibbli bis-siġġu tar-roti"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Immarka biss meta jkun ivverifikat. Jidher fil-lista tal-postijiet u fir-rotta REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL ta’ Google Maps / direzzjonijiet:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Sit web tal-post:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Kapaċità massima tal-kamra:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Kapaċità ta’ persuni fiż-żona tal-konferenzi."
+      ],
+      "Zugänglichkeit:": [
+        "Aċċessibbiltà:"
+      ],
+      "Google Maps Link:": [
+        "Link ta’ Google Maps:"
+      ],
+      "Stadt & Adresse": [
+        "Belt u indirizz"
+      ],
+      "Kapazität": [
+        "Kapaċità"
+      ],
+      "Rollstuhlgerecht": [
+        "Aċċessibbli bis-siġġu tar-roti"
+      ],
+      "Ja": [
+        "Iva"
+      ],
+      "Nicht angegeben": [
+        "Mhux speċifikat"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Volum għoli ħafna ta’ talbiet bħalissa. Jekk jogħġbok erġa’ pprova f’%d sekondi. L-ebda post ma ġie rriżervat."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Mingħajr cache persistenti tal-oġġetti (Redis, Memcached), il-kamra ta’ stennija tgħodd fid-database: it-talbiet miċħuda jevitaw il-mistoqsijiet tal-prenotazzjoni, iżda xorta jiswew qari wieħed u kitba waħda fuq it-tabella tal-għażliet."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Metriċi tal-Avvenimenti Ċibernetiċi"
+      ],
+      "Cyber Events Kennzahl": [
+        "Metrika tal-Avvenimenti Ċibernetiċi"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Juri metriċi diretti dwar konferenzi attivi, reġistrazzjonijiet ikkonfermati u postijiet ħielsa."
+      ],
+      "Kennzahl": [
+        "Indikatur"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "ID tal-avveniment (mhux obbligatorju)"
+      ],
+      "Dokumentation": [
+        "Dokumentazzjoni"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Jekk jogħġbok speċifika ID tal-avveniment valida: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Ma nstab l-ebda token ta’ konferma validu. Jekk jogħġbok uża l-link mill-imejl tiegħek."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— L-aktar avveniment attiv riċenti (awtomatiku) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Awtomatiku (il-konferenza kurrenti)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Għażla tal-avveniment"
+      ],
+      "Ziel-Konferenz": [
+        "Konferenza fil-mira"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Agħżel il-konferenza li d-dettalji tagħha jidhru fil-banner ewlieni."
+      ],
+      "Design & Layout-Presets": [
+        "Presets tad-disinn u t-tqassim"
+      ],
+      "Theme-Preset": [
+        "Preset tat-tema"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Skur tal-Intrapriża u Dawl (awtomatiku)"
+      ],
+      "Federal Blue": [
+        "Blu Federali"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Dawl Ċjan Cyberpunk"
+      ],
+      "Clean White & Modern": [
+        "Abjad Nadif u Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Ċajpar Glassmorphism"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Arrotondament tal-kantunieri (border radius)"
+      ],
+      "Ohne (0px)": [
+        "Xejn (0px)"
+      ],
+      "Mittel (8px)": [
+        "Medju (8px)"
+      ],
+      "Groß (16px)": [
+        "Kbir (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Kbir ħafna (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Attiva l-effett tad-dawl (glow)"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Testi u buttuni ta’ sejħa għall-azzjoni"
+      ],
+      "Badge / Dachzeile": [
+        "Badge / linja ta’ fuq"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Titlu ewlieni personalizzat (mhux obbligatorju)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Awtomatiku: titlu tal-avveniment"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Test introduttorju personalizzat"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Awtomatiku: deskrizzjoni tal-avveniment"
+      ],
+      "Primärer CTA-Button Text": [
+        "Test tal-buttuna CTA primarja"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "URL / ankra fil-mira tal-buttuna CTA primarja"
+      ],
+      "Sekundären Button anzeigen": [
+        "Uri l-buttuna sekondarja"
+      ],
+      "Sekundärer Button Text": [
+        "Test tal-buttuna sekondarja"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "URL fil-mira tal-buttuna sekondarja"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Viżibbiltà tal-elementi"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Uri t-tajmer tal-countdown dirett"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Uri l-pillola tal-postijiet ħielsa / kapaċità"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Uri l-pillola tal-istat (miftuħ/mimli)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Uri l-post tal-avveniment"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Uri d-data u l-ħin"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Uri l-prezz tal-biljett / badge bla ħlas"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Uri l-buttuna tal-esportazzjoni tal-kalendarju (.ics)"
+      ],
+      "Kopfbereich": [
+        "Intestatura ewlenija"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Awtomatiku: deskrizzjoni tal-avveniment flimkien mad-data, il-post, il-prezz, il-postijiet ħielsa, il-countdown u l-buttuna tar-reġistrazzjoni."
+      ],
+      "Countdown": [
+        "Għadd lura (Countdown)"
+      ],
+      "Freie Plätze": [
+        "Postijiet ħielsa"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Buttuna: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Għażla tal-konferenza"
+      ],
+      "Ziel-Veranstaltung": [
+        "Avveniment fil-mira"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Agħżel l-avveniment li għalih jirreġistraw il-viżitaturi."
+      ],
+      "Formular-Design & Theme": [
+        "Disinn u tema tal-formola"
+      ],
+      "Formular-Stil": [
+        "Stil tal-formola"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Glassmorphism Ċibernetiku (awtomatiku)"
+      ],
+      "Clean White Studio": [
+        "Studjo Abjad Nadif"
+      ],
+      "Eckenabrundung": [
+        "Arrotondament tal-kantunieri"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Oqsma tal-formola u għażliet tal-ġbir"
+      ],
+      "Individueller Formulartitel": [
+        "Titlu personalizzat tal-formola"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Sottotitlu / nota personalizzata"
+      ],
+      "Standard: kein Untertitel": [
+        "Awtomatiku: l-ebda sottotitlu"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Uri l-qasam tal-organizzazzjoni / kumpanija"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Uri l-kaxxa tal-kunsens għar-ritratti u l-vidjos"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Uri l-intestatura tal-informazzjoni ewlenija fil-formola"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Tikketta tal-buttuna u links tal-privatezza"
+      ],
+      "Absende-Button Beschriftung": [
+        "Tikketta tal-buttuna tal-bgħit"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "URL personalizzata tal-politika tal-privatezza (mhux obbligatorja)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Awtomatiku: paġna tal-privatezza taħt Settings > Privatezza"
+      ],
+      "Anmeldeformular": [
+        "Formola ta’ reġistrazzjoni"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Reġistrazzjoni b’Double Opt-in: Brevo jibgħat il-link ta’ konferma, u r-reġistrazzjoni tidħol fis-seħħ ladarba tiġi kkonfermata."
+      ],
+      "Standard nach Ticketpreis": [
+        "Awtomatiku skont il-prezz tal-biljett"
+      ],
+      "Überschrift & Untertitel": [
+        "Titlu u sottotitlu"
+      ],
+      "Überschrift": [
+        "Titlu"
+      ],
+      "Untertitel / Beschreibung": [
+        "Sottotitlu / deskrizzjoni"
+      ],
+      "Suche, Angaben & Export": [
+        "Tfittxija, metadata u esportazzjoni"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Uri l-qasam tat-tfittxija diretta għas-sessjonijiet"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Uri d-dettalji tal-kamra u l-post"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Uri l-avatars tal-kelliema"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Uri l-esportazzjoni sħiħa tal-kalendarju (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessjonijiet f’ordni kronoloġika bil-kamra, il-kelliem, id-deskrizzjoni, it-tfittxija u l-esportazzjoni .ics."
+      ],
+      "Suche": [
+        "Tfittxija"
+      ],
+      ".ics-Download": [
+        "Tniżżil .ics"
+      ],
+      "Layout & Spalten": [
+        "Tqassim u kolonni"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Għadd ta’ kolonni (desktop)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Wiri tat-test u d-dettalji"
+      ],
+      "Untertitel": [
+        "Sottotitlu"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Uri s-suġġett tad-diskors tas-sessjoni"
+      ],
+      "Raumangabe anzeigen": [
+        "Uri t-tikketta tal-kamra"
+      ],
+      "Uhrzeit anzeigen": [
+        "Uri l-ħin tal-bidu"
+      ],
+      "Konferenz: ": [
+        "Konferenza: "
+      ],
+      "%d Spalten": [
+        "%d kolonni"
+      ],
+      "Vortragsthemen": [
+        "Suġġetti tad-diskorsi"
+      ],
+      "Titel": [
+        "Titlu"
+      ],
+      "Individueller Titel": [
+        "Titlu personalizzat"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Servizzi u għażliet tal-kalendarju"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Uri Apple / Outlook (fajl .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Uri l-link diretta ta’ Google Calendar"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Uri l-link diretta ta’ Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Uri l-link diretta ta’ Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Uri l-avviż taż-żona tal-ħin"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Uri n-nota dwar it-tfakkira fil-fajl .ics"
+      ],
+      "Kalender": [
+        "Kalendarju"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Fajl .ics bi tfakkira jum qabel il-bidu flimkien ma’ links għal Google Calendar, Outlook Web u Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Fajl .ics"
+      ],
+      "Session-Auswahl": [
+        "Selettur tas-sessjonijiet"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Dan il-blokk m’għandu l-ebda setting. Juri s-sessjonijiet għat-token fil-link ta’ konferma; mingħajr token jidher avviż."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Post jiġi allokat mal-issejvjar sakemm is-sessjoni ma tkunx kompletament ibbukkjata."
+      ],
+      "Ticketpass-Optionen": [
+        "Għażliet tal-pass tal-biljett"
+      ],
+      "Pass-Überschrift": [
+        "Titlu tal-pass"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Linja tal-intestatura (awtomatiku: titlu tal-avveniment)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Uri l-buttuna tal-istampar (istampa l-badge)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Uri n-numru tal-biljett"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Uri n-numru / ir-referenza tal-fattura"
+      ],
+      "Check-In Status anzeigen": [
+        "Uri l-istat taċ-check-in"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pass għar-reġistrazzjonijiet ikkonfermati aċċessat permezz tat-token mill-imejl ta’ konferma: isem, kumpanija, stat, numru tal-fattura, numru tal-biljett u funzjoni tal-istampar."
+      ],
+      "Ticketnummer": [
+        "Numru tal-biljett"
+      ],
+      "Druckfunktion": [
+        "Funzjoni tal-istampar"
+      ],
+      "Titel der Veranstaltung": [
+        "Titlu tal-avveniment"
+      ],
+      "Layout & Farbschema": [
+        "Tqassim u skema tal-kuluri"
+      ],
+      "Raster-Layout": [
+        "Tqassim fi grilja"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Grilja b’4 kolonni (awtomatiku)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Grilja b’2 kolonni (wiesgħa)"
+      ],
+      "Farbthema": [
+        "Tema tal-kuluri"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dawl Ċibernetiku Skur (awtomatiku)"
+      ],
+      "Angezeigte Karten": [
+        "Kards murija"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kards dwar dak li jagħmel il-plugin. Il-blokk ma jevalwax jekk is-sit web jissodisfax ir-rekwiżiti legali."
+      ],
+      "Double Opt-in": [
+        "Konferma doppja (Double Opt-in)"
+      ],
+      "Formulare": [
+        "Formoli"
+      ],
+      "Eigene Assets": [
+        "Riżorsi ospitati lokalment"
+      ],
+      "Abfrage & Filterung": [
+        "Mistoqsija u ffiltrar"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Għadd massimu ta’ konferenzi"
+      ],
+      "Status-Filter": [
+        "Filtru tal-istat"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Avvenimenti attivi biss"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Avvenimenti attivi u arkivjati"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Avvenimenti arkivjati biss"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Metadata u buttuni viżibbli"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Uri l-istrixxa tat-tfittxija diretta"
+      ],
+      "Preisschild anzeigen": [
+        "Uri t-tikketta tal-prezz"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Uri l-post / il-lokalità"
+      ],
+      "Datums-Badge anzeigen": [
+        "Uri l-badge tad-data"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Uri l-link diretta tal-kalendarju .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Uri s-silta tad-deskrizzjoni"
+      ],
+      "CTA-Button Beschriftung": [
+        "Tikketta tal-buttuna CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Ħarsa ġenerali tal-avvenimenti"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Grilja tal-avvenimenti bid-data, il-prezz, il-lokalità, is-sommarju, il-buttuna tar-reġistrazzjoni u l-link .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Mass. %d avvenimenti"
+      ],
+      "Cyber Events Sitzplan": [
+        "Mappa tal-Postijiet tal-Avvenimenti Ċibernetiċi"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Settings tal-mappa tal-postijiet"
+      ],
+      "Überschrift (optional)": [
+        "Titlu (mhux obbligatorju)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Test tad-deskrizzjoni (mhux obbligatorju)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Attiva l-aġġornamenti diretti"
+      ],
+      "Sitzplan": [
+        "Mappa tal-postijiet"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Ħarsa ġenerali grafika tal-okkupanza tas-sessjonijiet kollha ta’ avveniment b’tabella tad-data aċċessibbli."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Kalendarju b’Ħafna Dehriet tal-Avvenimenti Ċibernetiċi"
+      ],
+      "Ansichten & Datenquelle": [
+        "Dehriet u sors tad-data"
+      ],
+      "Standardansicht": [
+        "Dehra awtomatika"
+      ],
+      "Monatskalender": [
+        "Kalendarju tax-xahar"
+      ],
+      "Wochenplan": [
+        "Skeda tal-ġimgħa"
+      ],
+      "Tagesagenda": [
+        "Aġenda ta’ kuljum"
+      ],
+      "Listenansicht": [
+        "Dehra ta’ lista"
+      ],
+      "Kartenansicht": [
+        "Dehra tal-kards"
+      ],
+      "Raumübersicht": [
+        "Ħarsa ġenerali tal-kmamar"
+      ],
+      "Track-Matrix": [
+        "Matriċi tat-tracks"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Għadd massimu ta’ entrati"
+      ],
+      "Bedienleiste & Filter": [
+        "Strixxa tal-għodda u filtri"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Uri l-iswiċċ tad-dehra"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Uri l-filtri tat-tracks u l-kmamar"
+      ],
+      "Suchfeld anzeigen": [
+        "Uri l-qasam tat-tfittxija"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Uri l-istrixxa tal-avviżi"
+      ],
+      "Kalender-Ansichten": [
+        "Dehriet tal-kalendarju"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Kalendarju u aġenda b’ħafna dehriet"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Dehriet li jistgħu jinqalbu bejn xahar, ġimgħa, jum, lista, kards, kmamar u tracks."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Aġenda tal-Konferenza tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Skeda interattiva tal-konferenza b’ħafna tracks bi kronoloġija, dettalji tal-kelliema, filtri tal-kmamar u tniżżil iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Avvenimenti Ċibernetiċi Multi-View Pro (Kalendarju, Aġenda u Tracks)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Suite estiża tal-kalendarju u l-aġenda b’7 dehriet interattivi fuq il-frontend: kalendarju tax-xahar, skeda tal-ġimgħa, aġenda ta’ kuljum, dehra ta’ lista, kards tar-ritratti, mappa tal-kmamar u matriċi multi-track tas-summit."
+      ],
+      "block keyword\u0004event": [
+        "avveniment"
+      ],
+      "block keyword\u0004calendar": [
+        "kalendarju"
+      ],
+      "block keyword\u0004agenda": [
+        "aġenda"
+      ],
+      "block keyword\u0004schedule": [
+        "skeda"
+      ],
+      "block keyword\u0004summit": [
+        "laqgħa għolja"
+      ],
+      "block keyword\u0004timetable": [
+        "orarju"
+      ],
+      "block keyword\u0004matrix": [
+        "matriċi"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Kalendarju tal-Avvenimenti Ċibernetiċi u Widget .ics"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Widget tal-kalendarju bi tniżżil .ics u links għal Google Calendar, Outlook Web u Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Banner Ewlieni u Countdown tal-Avveniment Ċibernetiku"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Intestatura tal-avveniment b’countdown, informazzjoni ewlenija, stat u buttuni tar-reġistrazzjoni."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Grilja ta’ Ħarsa Ġenerali u Arkivju tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Ħarsa ġenerali dinamika bil-kards tal-konferenzi, is-simpożji u l-workshops li ġejjin bi strixxa tat-tfittxija u filtri tal-istat."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Formola ta’ Reġistrazzjoni tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Formola ta’ reġistrazzjoni b’Double Opt-in permezz ta’ Brevo, ritratt tal-profil mhux obbligatorju u kunsens għar-ritratti."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Mappa tal-Postijiet tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Okkupanza tas-sessjonijiet kollha ta’ avveniment bħala SVG, aġġornata kontinwament permezz ta’ Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Badges tas-Sigurtà u l-Fiduċja tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Ħarsa ġenerali tal-funzjonijiet tal-privatezza u s-sigurtà tal-plugin: Double Opt-in, perjodi ta’ żamma, reġistru tal-awditjar, XML tal-fatturi."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Selettur tas-Sessjonijiet u l-Workshops tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Għażla tas-sessjonijiet għal reġistrazzjonijiet ikkonfermati: il-postijiet jiġu allokati mal-issejvjar sakemm is-sessjoni ma tkunx kompletament ibbukkjata."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Grilja tal-Kelliema u l-Esperti tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Ħarsa ġenerali ġġenerata awtomatikament tal-kelliema ewlenin, id-diskorsi, it-tqassim tal-kmamar u d-dettalji bijografiċi."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Pass Diġitali tal-Biljett tal-Avvenimenti Ċibernetiċi"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Pass tal-parteċipant għal reġistrazzjonijiet ikkonfermati b’numru tal-biljett, avveniment, post u funzjoni tal-istampar."
+      ]
+    }
+  }
+}

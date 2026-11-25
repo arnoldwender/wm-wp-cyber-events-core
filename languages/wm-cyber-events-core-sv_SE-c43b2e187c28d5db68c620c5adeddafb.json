@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "sv_SE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Evenemang, sessioner och anmälningar med dubbel opt-in via Brevo, incheckning, faktura-XML (EN 16931) och DATEV-export."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Evenemanget hittades inte eller är inte längre aktivt."
+      ],
+      "Verbindlich anmelden": [
+        "Bindande anmälan"
+      ],
+      "Kostenfrei anmelden": [
+        "Kostnadsfri anmälan"
+      ],
+      "Datum": [
+        "Datum"
+      ],
+      "Veranstaltungsort": [
+        "Plats"
+      ],
+      "Einlass": [
+        "Insläpp"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Efter bekräftelse via länk i e-postmeddelande"
+      ],
+      "Kontaktdaten": [
+        "Kontaktuppgifter"
+      ],
+      "Einwilligung": [
+        "Samtycke"
+      ],
+      "Bestätigung": [
+        "Bekräftelse"
+      ],
+      "Vorname": [
+        "Förnamn"
+      ],
+      "z. B. Erika": [
+        "t.ex. Anna"
+      ],
+      "Nachname": [
+        "Efternamn"
+      ],
+      "z. B. Mustermann": [
+        "t.ex. Andersson"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "E-postadress i tjänsten"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institution / myndighet / företag"
+      ],
+      "z. B. Beispiel GmbH": [
+        "t.ex. Exempel AB"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilbild för deltagarpass (valfritt)"
+      ],
+      "Profilbild Vorschau": [
+        "Förhandsgranskning av profilbild"
+      ],
+      "Foto auswählen": [
+        "Välj foto"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG eller WebP · max 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Dataskydd och samtycke till dubbel opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Jag samtycker till att mina personuppgifter behandlas för deltagande i konferensen i enlighet med GDPR. För verifiering får jag en bekräftelselänk via e-post."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Läs integritetspolicyn"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Foto- och videoinspelningar"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Jag samtycker till att foto- och videoinspelningar av mig får göras under evenemanget för arrangörens kommunikations- och informationsarbete."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Mission Control och beläggning"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine aktiv"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Kapacitetshantering, DATEV-export och incheckning"
+      ],
+      "Events": [
+        "Evenemang"
+      ],
+      "Bestätigte Gäste": [
+        "Bekräftade gäster"
+      ],
+      "Ausstehende DOI": [
+        "Väntande DOI"
+      ],
+      "Mission Control öffnen": [
+        "Öppna Mission Control"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "GDPR-samtycke krävs"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Denna export innehåller skyddsvärda personuppgifter enligt art. 4.1 i GDPR. Före nedladdning måste du bekräfta att du behandlar uppgifterna konfidentiellt, uteslutande för det avsedda ändamålet och raderar dem i enlighet med dataskyddsreglerna efter evenemanget."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Tillbaka till bokningshantering"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR-skydd"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Export av ekonomi- och kundreskontrauppgifter kräver bekräftelse på att uppgifterna behandlas konfidentiellt och uteslutande används för bokföring."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Tillbaka till DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV-export"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Otillräckliga behörigheter."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Översikt och nyckeltal"
+      ],
+      "Dashboard": [
+        "Kontrollpanel"
+      ],
+      "Alle Veranstaltungen": [
+        "Alla evenemang"
+      ],
+      "Veranstaltungen": [
+        "Evenemang"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Skapa nytt evenemang"
+      ],
+      "Neue Veranstaltung": [
+        "Nytt evenemang"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Platser och konferensanläggningar"
+      ],
+      "Veranstaltungsorte": [
+        "Platser"
+      ],
+      "Sessions & Agenda": [
+        "Sessioner och program"
+      ],
+      "Neue Session erstellen": [
+        "Skapa ny session"
+      ],
+      "Neue Session": [
+        "Ny session"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Deltagare och bokningar"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-import och onboarding"
+      ],
+      "CSV-Import": [
+        "CSV-import"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Ekonomi och DATEV-export"
+      ],
+      "Finanzen & DATEV": [
+        "Ekonomi och DATEV"
+      ],
+      "Audit-Log": [
+        "Revisionslogg"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Inställningar och Theme Studio"
+      ],
+      "Einstellungen": [
+        "Inställningar"
+      ],
+      "Handbuch & Dokumentation": [
+        "Handbok och dokumentation"
+      ],
+      "Handbuch": [
+        "Handbok"
+      ],
+      "Events & Konferenzen": [
+        "Evenemang och konferenser"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Behörigheter för hantering av evenemang och konferenser."
+      ],
+      "Teilnehmer verwalten": [
+        "Hantera deltagare"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Tillåter visning och export av evenemangsanmälningar utan fullständig WordPress-administratörsbehörighet."
+      ],
+      "Einstellungen & Theme": [
+        "Inställningar och tema"
+      ],
+      "Handbuch & Doku": [
+        "Handbok och dokumentation"
+      ],
+      "Plugin-Navigation": [
+        "Tilläggsnavigering"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Evenemanget har sparats!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Uppgifterna har uppdaterats synkront i databasen och i WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Evenemanget har raderats!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Posten har tagits bort och inlägget har flyttats till papperskorgen."
+      ],
+      "Demodaten angelegt.": [
+        "Demodata har skapats."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Exempelevenemang, sessioner och exempeldeltagare har skapats; fakturor skapas endast när uppgifter om fakturautställare är angivna."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents kommandokonsol"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Evenemang, sessioner och anmälningar med dubbel opt-in via Brevo, incheckning, faktura-XML och DATEV-export."
+      ],
+      "Part of the WM Suite plugin family": [
+        "En del av WM Suites tilläggsfamilj"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub-läge"
+      ],
+      "Standalone": [
+        "Fristående"
+      ],
+      "Demo-Daten auffrischen": [
+        "Uppdatera demodata"
+      ],
+      "Springen zu:": [
+        "Hoppa till:"
+      ],
+      "Kurzanleitung": [
+        "Snabbguide"
+      ],
+      "Kennzahlen": [
+        "Nyckeltal"
+      ],
+      "Rechnungen": [
+        "Fakturor"
+      ],
+      "Audit-Protokoll": [
+        "Revisionslogg"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Vad gör CyberEvents och vad hittar du på den här skärmen?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Tillägget hanterar evenemang med sessioner och anmälningar. Deltagare bekräftar sin anmälan via en dubbel opt-in-länk som skickas av Brevo (API-nyckel krävs), väljer därefter sessioner vars platser inte kan överbokas och checkas in vid entrén med sin token. Fakturor skapas som CII-XML (EN 16931) och kan exporteras som ett DATEV-bokföringsunderlag."
+      ],
+      "Schnellzugriff:": [
+        "Snabbåtkomst:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Deltagare och anmälningar"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Exportera fakturor som DATEV-underlag"
+      ],
+      "Event Auslastung": [
+        "Beläggning för evenemang"
+      ],
+      "Kritisch": [
+        "Kritisk"
+      ],
+      "Optimal": [
+        "Optimal"
+      ],
+      "Max. Kapazität:": [
+        "Maxkapacitet:"
+      ],
+      "Gebucht:": [
+        "Bokat:"
+      ],
+      "Live Check-In Counter": [
+        "Realtidsräknare för incheckning"
+      ],
+      "Anwesend": [
+        "Närvarande"
+      ],
+      "Registriert:": [
+        "Registrerade:"
+      ],
+      "Eingecheckt:": [
+        "Incheckade:"
+      ],
+      "Wartend:": [
+        "Väntande:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nya anmälningar (24 tim)"
+      ],
+      "Sessions": [
+        "Sessioner"
+      ],
+      "in 24 h": [
+        "på 24 tim"
+      ],
+      "Ausstehende DOI:": [
+        "Väntande DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM-kötelemetri"
+      ],
+      "Jobs": [
+        "Jobb"
+      ],
+      "Verarbeitung": [
+        "Bearbetning"
+      ],
+      "Verarbeitet:": [
+        "Bearbetade:"
+      ],
+      "Schnellaktionen": [
+        "Snabbåtgärder"
+      ],
+      "Neue Konferenz anlegen": [
+        "Skapa ny konferens"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Deltagarlista och incheckning"
+      ],
+      "CSV-Batch Import": [
+        "CSV-batchimport"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Evenemangsöversikt och beläggningsövervakning"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Bekräftade anmälningar per evenemang i förhållande till angiven kapacitet."
+      ],
+      "Event suchen...": [
+        "Sök evenemang..."
+      ],
+      "Neue Konferenz": [
+        "Ny konferens"
+      ],
+      "Konferenz / Event": [
+        "Konferens / evenemang"
+      ],
+      "Zeitraum": [
+        "Tidsperiod"
+      ],
+      "Ort": [
+        "Plats"
+      ],
+      "Kapazität & Belegung": [
+        "Kapacitet och beläggning"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Aktionen": [
+        "Åtgärder"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Inga evenemang hittades."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Redigera i Gutenberg-blockredigeraren"
+      ],
+      "Bearbeiten": [
+        "Redigera"
+      ],
+      "Schnellbearbeitung": [
+        "Snabbredigera"
+      ],
+      "Vorschau": [
+        "Förhandsgranskning"
+      ],
+      "Teilnehmer (%d)": [
+        "Deltagare (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Vill du verkligen radera detta evenemang permanent?"
+      ],
+      "Löschen": [
+        "Radera"
+      ],
+      "%d Sessions": [
+        "%d sessioner"
+      ],
+      "/ %d Plätze": [
+        "/ %d platser"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(utan kapacitetsgräns)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Redigera i Gutenberg-redigeraren"
+      ],
+      "Editor": [
+        "Redigerare"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Öppna snabbredigering"
+      ],
+      "Quick": [
+        "Snabb"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Visa frontendsida"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Giltiga och makulerade fakturor samt obekräftade anmälningar."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brutto, giltiga fakturor"
+      ],
+      "Gültige Rechnungen": [
+        "Giltiga fakturor"
+      ],
+      "Storniert": [
+        "Makulerad"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Obekräftade anmälningar"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV-export och revisionslogg"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Bokföringsunderlag med fakturor och kreditfakturor för en period; stäm av konton och momskoder med din redovisningskonsult."
+      ],
+      "DATEV Format": [
+        "DATEV-format"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategori 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256-kedja"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonymisering efter 90 dagar"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Öppna DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Visa revisionslogg"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Löpande kedjad revisionslogg: varje post medsignerar sin föregångare så att efterföljande ändringar, raderingar och infogningar upptäcks. Manipulationsbevis, inte oföränderlighet — den som kan läsa wp-config.php har nyckeln."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Öppna fullständig revisionslogg"
+      ],
+      "Zeitstempel": [
+        "Tidsstämpel"
+      ],
+      "Ereignis-Typ": [
+        "Händelsetyp"
+      ],
+      "Benutzer / System": [
+        "Användare / system"
+      ],
+      "Objekt-ID": [
+        "Objekt-ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Revisionsdetaljer och bevis"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Inga revisionsposter har loggats ännu."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Redigera evenemang / snabbkonfiguration"
+      ],
+      "Schließen": [
+        "Stäng"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Konferensens / evenemangets titel:"
+      ],
+      "URL-Slug:": [
+        "URL-slug:"
+      ],
+      "Tagungsort / Location:": [
+        "Konferensplats / lokal:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Start (datum och tid):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Slut (datum och tid):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Max deltagarkapacitet:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Biljettpris (netto i €):"
+      ],
+      "Status:": [
+        "Status:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktiv (publicerad)"
+      ],
+      "Entwurf (Draft)": [
+        "Utkast"
+      ],
+      "Archiviert": [
+        "Arkiverad"
+      ],
+      "Kostenpflichtig": [
+        "Avgiftsbelagd"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Öppna i Gutenberg-blockredigeraren"
+      ],
+      "Abbrechen": [
+        "Avbryt"
+      ],
+      "Änderungen speichern": [
+        "Spara ändringar"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Deltagaruppgifterna har uppdaterats!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Registreringsuppgifterna och statusen har sparats i databasen."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Deltagaren har raderats!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Anmälan och alla tillhörande sessionsbokningar har tagits bort."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Incheckningsstatus har uppdaterats!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Deltagarens närvarostatus har växlats."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Dubbel opt-in bekräftad!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Anmälan har manuellt markerats som bekräftad."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Deltagar- och bokningshantering"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Alla anmälningar med dubbel opt-in-status, sessionsbokningar och fakturor."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Namnskyltar / deltagarlista (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrerat efter konferens: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Rensa filter"
+      ],
+      "Alle Teilnehmer": [
+        "Alla deltagare"
+      ],
+      "Bestätigt": [
+        "Bekräftad"
+      ],
+      "Ausstehend DOI": [
+        "Väntande DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Sök namn, e-post eller företag..."
+      ],
+      "Teilnehmer": [
+        "Deltagare"
+      ],
+      "Organisation / Firma": [
+        "Organisation / företag"
+      ],
+      "Check-In": [
+        "Incheckning"
+      ],
+      "Rechnung": [
+        "Faktura"
+      ],
+      "Anmeldedatum": [
+        "Anmälningsdatum"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Inga anmälningar hittades."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Redigera deltagaruppgifter"
+      ],
+      "Auschecken": [
+        "Checka ut"
+      ],
+      "Einchecken": [
+        "Checka in"
+      ],
+      "DOI bestätigen": [
+        "Bekräfta DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Vill du verkligen radera denna deltagare permanent?"
+      ],
+      "Status umschalten": [
+        "Växla status"
+      ],
+      "Eingecheckt": [
+        "Incheckad"
+      ],
+      "Nicht vor Ort": [
+        "Inte på plats"
+      ],
+      "Rechnungs-XML": [
+        "Faktura-XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Kostnadsfri / ingen"
+      ],
+      "Edit": [
+        "Redigera"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Vill du verkligen radera denna deltagare?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Redigera deltagaruppgifter / deltagarhantering"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilbild / foto till deltagarbricka (JPG, PNG, WebP · max 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Ta bort foto"
+      ],
+      "Vorname:": [
+        "Förnamn:"
+      ],
+      "Nachname:": [
+        "Efternamn:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-postadress:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organisation / företag / myndighet:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Tilldelad konferens:"
+      ],
+      "Anmeldestatus:": [
+        "Anmälningsstatus:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Bekräftad"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Väntande (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Makulerad"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Olevererbar (studsad)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Incheckningsstatus (på plats):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nej / inte på plats"
+      ],
+      "Ja / Eingecheckt": [
+        "Ja / incheckad"
+      ],
+      "Rechnungsnummer:": [
+        "Fakturanummer:"
+      ],
+      "Zahlungsstatus:": [
+        "Betalningsstatus:"
+      ],
+      "Kostenfrei (Free)": [
+        "Kostnadsfri"
+      ],
+      "Ausstehend (Pending)": [
+        "Väntande"
+      ],
+      "Bezahlt (Paid)": [
+        "Betald"
+      ],
+      "Erstattet (Refunded)": [
+        "Återbetald"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR-samtycke har lämnats"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Samtycke till foto och video har lämnats"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR-dataskydd och exportsamtycke"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Skydd av personuppgifter (art. 4 och 5 i GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Denna export skapar en CSV-fil med känsliga personuppgifter om deltagare (fullständiga namn, företag, e-postadresser i tjänsten, fakturareferenser och incheckningsstatus)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Ändamålsbegränsning (art. 5.1 b i GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Uppgifterna får uteslutande användas för det praktiska genomförandet av evenemanget (t.ex. utskrift av namnskyltar och ackreditering vid entrén)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Konfidentialitet och skydd (art. 5.1 f i GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Utlämnande till obehörig tredje part eller lagring på okrypterade mobila enheter är förbjudet."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Raderingsskyldighet (art. 17 i GDPR):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Efter konferensens slut ska den exporterade lokala filen omedelbart raderas i enlighet med dataskyddsreglerna."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Jag bekräftar GDPR-samtycket:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Jag är införstådd med att denna export innehåller konfidentiella personuppgifter. Jag förbinder mig till ändamålsenlig och omsorgsfull behandling samt strikt efterlevnad av lagstadgade dataskyddskrav."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Ladda ned CSV-export säkert nu"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Faktura-XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopiera XML till urklipp"
+      ],
+      "Keine Berechtigung.": [
+        "Behörighet saknas."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Säkerhetsfel: endast äkta CSV-filer är tillåtna."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Filen är för stor (högst 5 MB tillåts)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Välj ett evenemang och ange CSV-data."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "CSV-batchimport av deltagare (dubblettskydd TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatiserad import av deltagarlistor från externa system med strikt förhindrande av dubbla anmälningar."
+      ],
+      "Import-Zusammenfassung": [
+        "Importsammanfattning"
+      ],
+      "Gesamtzeilen": [
+        "Totalt antal rader"
+      ],
+      "Neu Importiert": [
+        "Nyimporterade"
+      ],
+      "Dubletten abgewiesen": [
+        "Avvisade dubbletter"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importera ny deltagarlista"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Målevenemang *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Välj evenemang —"
+      ],
+      "CSV-Datei auswählen": [
+        "Välj CSV-fil"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Förnamn;Efternamn;E-post;Företag (semikolon- eller kommaseparerat, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Eller klistra in CSV-text"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Kör CSV-import nu"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Bokföringsunderlag Studio"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standardiserad ekonomiexport (kategori 21, formatversion 700 / 125 fält) för redovisningskonsulter och DATEV-bokföring."
+      ],
+      "Exportzeitraum festlegen": [
+        "Välj exportperiod"
+      ],
+      "Laufender Monat": [
+        "Innevarande månad"
+      ],
+      "Vormonat": [
+        "Föregående månad"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Helåret 2026"
+      ],
+      "Datum von *": [
+        "Datum från *"
+      ],
+      "Datum bis *": [
+        "Datum till *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Bekräftelse för export av kundreskontrauppgifter:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Jag bekräftar att exporten av ekonomi- och fakturamottagaruppgifter innehåller personuppgifter och uteslutande vidarebefordras till auktoriserad redovisningsbyrå för lagstadgad bokföring och skatteredovisning."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Ladda ned DATEV EXTF-bokföringsunderlag (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Kedjad verifieringskedja för alla säkerhetsrelevanta åtgärder, dubbel opt-in, avbokningar och åtkomstkontroller."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Revisionskedja intakt — %1$d poster innehållsgranskade, %2$d pseudonymiserade (kedjeposition verifierad)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Revisionskedja INTE intakt"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d post(er) härrör från tiden före kedjningen och saknar verifierbar signatur. De räknas som ogranskade, inte som intakta."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY är inte definierad: kedjenyckeln hämtas från databasen — samma plats som en angripare med skrivbehörighet skulle ändra. Definiera AUTH_KEY i wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Tidpunkt"
+      ],
+      "Ereignistyp": [
+        "Händelsetyp"
+      ],
+      "Referenz-ID": [
+        "Referens-ID"
+      ],
+      "IP-Adresse": [
+        "IP-adress"
+      ],
+      "Audit-Details (JSON)": [
+        "Revisionsdetaljer (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Inga loggposter hittades."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Evenemanget \"%1$s\" skapades med %2$d sessioner och %3$d deltagare."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demodata har importerats!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d evenemang, %2$d sessioner, %3$d anmälningar och %4$d fakturor raderades."
+      ],
+      "Demodaten bereinigt!": [
+        "Demodata har rensats!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Fabriksinställningarna har återställts!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Alla tabeller har tömts och inställningarna har återställts."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Den uppladdade temafilen har tagits bort."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Inställningarna har sparats säkert."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise-konfiguration och säkerhet"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Design, Brevo, fakturor och DATEV, botskydd och demodata."
+      ],
+      "Design & Theme Studio": [
+        "Design och Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM och webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Fakturor och DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Botskydd (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demodata och återställning"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Frontend-designsystem och temaarv"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Välj hur evenemang och anmälningsformulär utformas på frontenden. Som standard ärver tillägget typsnitt, färger och knappar sömlöst från det aktiva WordPress-temat."
+      ],
+      "Primärfarbe": [
+        "Primärfärg"
+      ],
+      "Akzentfarbe": [
+        "Accentfärg"
+      ],
+      "Kartenhintergrund": [
+        "Kortbakgrund"
+      ],
+      "Textfarbe": [
+        "Textfärg"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Egna temafärger och ramar (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primärfärg (knappar och accenter):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Accentfärg (brickor och glöd):"
+      ],
+      "Seitenhintergrund:": [
+        "Sidbakgrund:"
+      ],
+      "Kartenhintergrund:": [
+        "Kortbakgrund:"
+      ],
+      "Haupttextfarbe:": [
+        "Huvudtextfärg:"
+      ],
+      "Eckenabrundung (px):": [
+        "Hörnradie (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Ladda upp anpassat CSS-tema (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Ladda upp en skräddarsydd .css-stilmall (t.ex. byra-tema.css). Den läses in isolerat och valideras automatiskt."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktivt anpassat tema finns"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Vill du verkligen radera den uppladdade CSS-temafilen?"
+      ],
+      "Theme löschen": [
+        "Radera tema"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Ytterligare anpassad CSS (inbäddad redigerare)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Ange egna CSS-regler här, t.ex.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 och webhook-autentisering"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API-nyckel (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Används för asynkron e-postleverans vid dubbel opt-in och synkronisering av kontaktattribut."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Delad webhook-hemlighet / signaturtoken"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Tidssäker token som används för att validera inkommande Brevo-webhook-anrop."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "API-nyckel för personalskanner (entrékontroll)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Autentiseringstoken för mobila skannerenheter som används av entrépersonalen."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Väntrum: insläpp per minut"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Begäranden till anmälan och sessionsbokning som släpps igenom per minut och evenemang. 0 stänger av väntrummet (standard). Därutöver svarar rutten med HTTP 503 och Retry-After innan någon databasfråga körs — ingen plats har därmed reserverats."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Räknarbackend på denna installation: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "beständig objektcache"
+      ],
+      "Datenbank (Transients)": [
+        "databas (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI-mall-ID"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo-kontaktliste-ID"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Fakturor (CII-XML) och DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Prefix för fakturanummer"
+      ],
+      "Rechnungssteller": [
+        "Fakturautställare"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Utan dessa uppgifter skapas inga fakturor eller kreditfakturor: %s."
+      ],
+      "Name / Firma": [
+        "Namn / företag"
+      ],
+      "Straße und Hausnummer": [
+        "Gatuadress och nummer"
+      ],
+      "PLZ": [
+        "Postnummer"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Land (ISO-kod, t.ex. SE eller DE)"
+      ],
+      "USt-IdNr.": [
+        "Momsregistreringsnummer"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Skattenummer / org.nr (om momsreg.nr saknas)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-post för fakturor"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN för banköverföringar (valfritt)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV-rådgivarnummer"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV-klientnummer"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Intäktskonto (t.ex. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Kundfordringskonto (t.ex. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Tillägget innehåller ännu ingen captcha-widget: inställningen sparas, men formuläret behandlas utan captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Aktivera Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Webbplatsnyckel (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API-nyckel / hemlighet"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Hantering av demodata och fabriksåterställning"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importera exempeldata, ta bort dem igen eller återställ tillägget till fabriksinställningarna."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importera demodata"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Skapar en exempelkonferens med sessioner och exempeldeltagare. Fakturor skapas endast när uppgifter om fakturautställare är angivna."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Vill du importera exempeldata nu?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importera demodata (konferenser, sessioner, deltagare, fakturor)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Rensa demodata (radera endast testdata)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Raderar uteslutande genererade demokonferenser, demosessioner, demodeltagare och demofakturor. Verkliga evenemang och bokningar förblir helt orörda."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Vill du ta bort alla demodata? Verkliga data behålls."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Rensa demodata (endast testdata)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Återställ till fabriksinställningar (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Varning (kan inte ångras):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Tömmer alla tabeller för evenemang, sessioner, anmälningar, fakturor och revisionslogg, raderar alla cybevent- och cybsession-inlägg och återställer samtliga inställningar till standardvärdena."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "VARNING: Är du helt säker? Detta raderar ALLA evenemang, anmälningar och fakturor och återställer alla inställningar!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Fullständig fabriksåterställning (radera allt och återställ standardvärden)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Beteende vid avinstallation av tillägget"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Radera alla tabeller och inställningar vid avinstallation"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Som standard bevaras alla uppgifter om evenemang, anmälningar, fakturor och revision när tillägget tas bort (lagstadgad arkiveringsskyldighet). Aktivera endast detta alternativ om samtliga tabeller ska raderas permanent vid avinstallation."
+      ],
+      "Alle Einstellungen speichern": [
+        "Spara alla inställningar"
+      ],
+      "Platzbuchung": [
+        "Platsbokning"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "En plats bokas med en enda villkorlig UPDATE (belegt = belegt + 1, endast så länge belegt < kapazitaet). Av två samtidiga förfrågningar om den sista platsen uppdaterar endast den ena raden; den andra får meddelandet 'fullbokad'."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Fakturor och kreditfakturor genereras som CII-XML enligt profilen EN 16931 och kontrolleras i tester med validatorn Mustang. Ingen PDF genereras, så XML-filen är inte en ZUGFeRD-hybridfil. Om fakturorna uppfyller lagkraven i det enskilda fallet bedöms av din skatterådgivare."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF och bokföring"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exporterar fakturor och kreditfakturor för en period som ett bokföringsunderlag i DATEV-format (EXTF 700, kategori 21) i Windows-1252. Fordrings- och intäktskonton hämtas från inställningarna; varje rad bär skattekod 3. Stäm av konton och koder med din redovisningskonsult."
+      ],
+      "Handbuch & API:": [
+        "Handbok och API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Fullständig handbok"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Utvecklat av WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Handbok för administratörer och utvecklare"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Platsbokning, faktura-XML, DATEV-export, Brevo dubbel opt-in, kortkoder och temaförval."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Platsbokning utan överbokning"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Beläggningsräknaren ökas i en enda villkorlig sats; av två samtidiga förfrågningar om den sista platsen uppdaterar endast den ena raden:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Faktura-XML och DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Fakturor och kreditfakturor med utställaruppgifter från inställningarna, leveransdatum och löpnummer. Ingen PDF, inget Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Kreditfakturor:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Eget löpnummer, typ 381 med hänvisning till ursprungsfakturan."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Bokföringsunderlag för en period inom ett kalenderår, Windows-1252. Stäm av konton och skattekoder med din redovisningskonsult."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM dubbel opt-in och bakgrundskö"
+      ],
+      "Double Opt-In (DOI):": [
+        "Dubbel opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo skickar bekräftelsemejlet med en personlig länk; länken bekräftar anmälan en gång. Obekräftade anmälningar raderas efter 14 dagar."
+      ],
+      "Warteschlange:": [
+        "Kö:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Anrop till Brevo körs via en databaskö som bearbetas av WP-Cron varje minut (eller wp cybevents queue-run), med upp till fem försök."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Kortkoder och Gutenberg-integrering"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Tillgänglighetsanpassat anmälningsformulär."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktivt konferensprogram och spåröversikt."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Tokenbaserat sessionsval efter DOI-bekräftelse."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI för administratörer"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Temaförval och designtokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Frontenden anpassar sig flexibelt till valfritt WordPress-tema eller använder inbyggda designförval:"
+      ],
+      "Presets:": [
+        "Förval:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Flera färgförval, däribland ett i mörklila, violett och rosenrött (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Temaarv (standard):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Ärver typsnitt, hörnradien och primärfärger sömlöst från det aktiva temat (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Anpassade CSS-egenskaper:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Viktiga detaljer och bästa praxis"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tabellerna skapas med ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Gallringsfrister:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Obekräftade anmälningar raderas efter 14 dagar, och poster i revisionsloggen pseudonymiseras efter 90 dagar (utom fakturahändelser). Bekräftade anmälningar och fakturor raderas inte automatiskt av tillägget; det finns ingen inställning för det."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Köbearbetning och gallring körs via WP-Cron; på webbplatser utan regelbundna besökare krävs ett riktigt system-cronjobb."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Välj evenemang"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Välj målevenemanget för detta block."
+      ],
+      "Key Facts Header anzeigen": [
+        "Visa rubrik med nyckelfakta"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Visa stegindikator (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Visa knapp för kalenderexport (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Visa nedräkningstimer"
+      ],
+      "Freie Plätze anzeigen": [
+        "Visa lediga platser"
+      ],
+      "Spaltenanzahl": [
+        "Antal kolumner"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Välj ett giltigt evenemang i blockinställningarna."
+      ],
+      "Vorschau im Editor": [
+        "Förhandsgranskning i redigerare"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Sessionsval för bekräftade anmälningar"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "På frontenden renderas detta block dynamiskt för varje deltagare med dennes individuella token."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Ingen bekräftelsetoken hittades."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Öppna den här sidan via den personliga länken i ditt bekräftelsemejl."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Ogiltig eller utgången deltagartoken."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Platskarta för evenemanget"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "På frontenden visar detta block beläggningen för varje session som SVG och håller den uppdaterad via Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Evenemanget hittades inte."
+      ],
+      "Jetzt anmelden": [
+        "Anmäl dig nu"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Anmäl dig kostnadsfritt nu"
+      ],
+      "Programm ansehen": [
+        "Visa program"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Fri entré"
+      ],
+      "Anmeldung geöffnet": [
+        "Anmälan öppen"
+      ],
+      "Ausgebucht": [
+        "Fullbokad"
+      ],
+      "Preis": [
+        "Pris"
+      ],
+      "%d freier Platz": [
+        "%d ledig plats",
+        "%d lediga platser"
+      ],
+      "von max. %d": [
+        "av max %d"
+      ],
+      "Beginn in:": [
+        "Börjar om:"
+      ],
+      "Tage": [
+        "Dagar"
+      ],
+      "Std.": [
+        "Tim"
+      ],
+      "Min.": [
+        "Min"
+      ],
+      "Sek.": [
+        "Sek"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Exportera till kalender (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics-fil)"
+      ],
+      "Google Kalender": [
+        "Google Kalender"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        ".ics-filen innehåller en påminnelse en dag före start."
+      ],
+      "Referenten & Fachexperten": [
+        "Talare och ämnesexperter"
+      ],
+      "Referenten": [
+        "Talare"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Talarlistan presenteras inom kort."
+      ],
+      "TEILNEHMERPASS": [
+        "DELTAGARPASS"
+      ],
+      "Teilnehmerpass": [
+        "Deltagarpass"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Öppna biljett och ackreditering"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Ange din 64-teckens säkerhetstoken från bekräftelsemejlet:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Ange token (t.ex. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Visa pass"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Ogiltig eller okänd bokningstoken."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Det finns inget deltagarpass för denna anmälan: den är obekräftad eller har avbokats."
+      ],
+      "Max Mustermann": [
+        "Erik Andersson"
+      ],
+      "Beispiel GmbH": [
+        "Exempel AB"
+      ],
+      "Veranstaltung": [
+        "Evenemang"
+      ],
+      "Rechnungs-Nr.": [
+        "Fakturanr"
+      ],
+      "Keine": [
+        "Ingen"
+      ],
+      "Ticket-Nummer": [
+        "Biljettnummer"
+      ],
+      "Pass drucken": [
+        "Skriv ut pass"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Dataskydd och säkerhet"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Dubbel opt-in och gallringsfrister"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "En anmälan gäller först efter bekräftelse via länken i e-postmeddelandet. Obekräftade anmälningar raderas efter 14 dagar och poster i revisionsloggen pseudonymiseras efter 90 dagar."
+      ],
+      "Beschriftete Formulare": [
+        "Uppmärkta formulär"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Formulärfält med synliga etiketter, markerade obligatoriska fält och statusmeddelanden som läses upp av skärmläsare."
+      ],
+      "Eigene Skripte und Styles": [
+        "Egenhostade skript och stilmallar"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Tillägget laddar sina skript, stilmallar och ikoner från din egen server i stället för ett CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Revisionslogg och tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "En HMAC-SHA256-kedjad revisionslogg gör efterföljande manipulering upptäckbar. Deltagartokens lagras uteslutande som SHA-256-hashvärden."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Faktura-XML och DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Fakturor som CII-XML enligt profilen EN 16931 och export som DATEV-bokföringsunderlag."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Integritetsvänligt botskydd utan användarspårning eller bildpussel enligt EU:s dataskyddsregler."
+      ],
+      "Zur Anmeldung": [
+        "Till inloggning"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Det finns inga arkiverade evenemang."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Det finns för närvarande inga planerade evenemang."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtrera evenemang efter titel eller plats..."
+      ],
+      "Kostenfrei": [
+        "Kostnadsfri"
+      ],
+      "In Kalender eintragen": [
+        "Lägg till i kalender"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Realtidsticker för konferens och program"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "LIVE PROGRAMTELEMETRI"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Vy- och filterkontroller"
+      ],
+      "Kalenderansichten": [
+        "Kalendervyer"
+      ],
+      "Monat": [
+        "Månad"
+      ],
+      "Woche": [
+        "Vecka"
+      ],
+      "Tag / Agenda": [
+        "Dag / program"
+      ],
+      "Liste": [
+        "Lista"
+      ],
+      "Karten": [
+        "Kort"
+      ],
+      "Räume & Ort": [
+        "Lokaler och plats"
+      ],
+      "Summit Tracks": [
+        "Konferensspår"
+      ],
+      "Vorheriger Zeitraum": [
+        "Föregående period"
+      ],
+      "Nächster Zeitraum": [
+        "Nästa period"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Sök evenemang, ämne eller talare..."
+      ],
+      "Suchbegriff eingeben": [
+        "Ange sökord"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtrera spår eller kategori"
+      ],
+      "Alle Fach-Tracks": [
+        "Alla fackspår"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Spår 01: Postkvantkryptografi"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Spår 02: Zero Trust och DORA-motståndskraft"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Spår 03: Autonom AI och tystnadsplikt"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Spår 04: Mjukvaruleveranskedja och CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtrera konferenssal"
+      ],
+      "Alle Säle & Räume": [
+        "Alla salar och lokaler"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenarsal Alpha (keynotes)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Månadskalendervy"
+      ],
+      "Mo": [
+        "Mån"
+      ],
+      "Di": [
+        "Tis"
+      ],
+      "Mi": [
+        "Ons"
+      ],
+      "Do": [
+        "Tor"
+      ],
+      "Fr": [
+        "Fre"
+      ],
+      "Sa": [
+        "Lör"
+      ],
+      "So": [
+        "Sön"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Veckoschema- och tidsrutnätsvy"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Dagsprograms- och tidslinjevy"
+      ],
+      "Chronologische Listenansicht": [
+        "Kronologisk listvy"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Visuell fotokortsvy"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Plats- och rumsnavigeringsvy"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Multispårsmatris för konferens"
+      ],
+      "Dialog schließen": [
+        "Stäng dialogruta"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Ogiltigt sessions- eller anmälnings-ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Bokningen kunde inte behandlas på grund av ett databasfel."
+      ],
+      "Session %d existiert nicht.": [
+        "Session %d finns inte."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" är fullbokad (%2$d av %2$d platser upptagna)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Bokningen kunde inte sparas. Platsen har släppts fri igen."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Avbokningen kunde inte behandlas på grund av ett databasfel."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Ingen giltig fil har laddats upp."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Fel vid filuppladdning."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profilbilden får vara högst 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Ogiltigt filformat. Tillåtna format är JPG, PNG och WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Ogiltig filändelse. Tillåtna ändelser är .jpg, .jpeg, .png och .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Fel vid sparande av profilbilden."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Revisionsloggen är tom trots att %d poster tidigare har registrerats."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "En osignerad post har infogats i kedjan i efterhand."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kedjebrott vid post #%d: en post har raderats, infogats eller flyttats."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Signaturen för post #%d stämmer inte överens med dess kontrollsumma."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Post #%d är markerad som pseudonymiserad utan giltigt bevis: dess innehåll kan ha ändrats."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Innehållet i post #%d har ändrats efter att den skapades."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Slutet av loggen stämmer inte med senast noterade post. De nyaste posterna har tagits bort."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Evenemang"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Evenemang"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Evenemang"
+      ],
+      "event\u0004Neu erstellen": [
+        "Lägg till ny"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Redigera evenemang"
+      ],
+      "Veranstaltung ansehen": [
+        "Visa evenemang"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Sök evenemang"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Inga evenemang hittades i papperskorgen."
+      ],
+      "Veranstaltungsdaten": [
+        "Evenemangsuppgifter"
+      ],
+      "Veranstaltungsort:": [
+        "Plats:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Hantera platser ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Välj sparad plats —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manuell plats / lokal / adress..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Välj en sparad plats i listan eller anpassa plats- och lokalbeskrivningen manuellt."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Start (datum och tid):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Slut (datum och tid):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Avgiftsbelagt evenemang"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Inga konferensscheman är tillgängliga för närvarande."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Sök ämne, talare eller lokal..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferensprogram"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Detaljerat program presenteras inom kort."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents deltagaruppgifter"
+      ],
+      "E-Mail": [
+        "E-post"
+      ],
+      "Unternehmen / Organisation": [
+        "Företag / organisation"
+      ],
+      "Profilbild": [
+        "Profilbild"
+      ],
+      "Einwilligung Datenschutz": [
+        "Samtycke dataskydd"
+      ],
+      "ja": [
+        "ja"
+      ],
+      "nein": [
+        "nej"
+      ],
+      "Einwilligung Fotos": [
+        "Samtycke foton"
+      ],
+      "Bestätigung angefordert": [
+        "Bekräftelse begärd"
+      ],
+      "Bestätigt am": [
+        "Bekräftad den"
+      ],
+      "Eingecheckt am": [
+        "Incheckad den"
+      ],
+      "Gebuchte Sessions": [
+        "Bokade sessioner"
+      ],
+      "Rechnungsnummer": [
+        "Fakturanummer"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents anmälningar"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents fakturor"
+      ],
+      "Empfänger": [
+        "Mottagare"
+      ],
+      "Adresse": [
+        "Adress"
+      ],
+      "Bruttobetrag": [
+        "Bruttobelopp"
+      ],
+      "Ausgestellt am": [
+        "Utfärdad den"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Anmälan #%d kunde inte raderas."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Anmälan #%d kunde inte anonymiseras; uppgifterna är oförändrade."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Anmälan #%1$d har anonymiserats. Faktura %2$s med namn, adress och e-post lagras oförändrad; tillägget raderar inte fakturor."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Brevo-webhooken är inaktiverad utan delad hemlighet (svarar 401). Studsar och avregistreringar behandlas inte förrän en hemlighet har angetts."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Ingen Brevo API-nyckel är angiven: bekräftelsemejl skickas inte, och nya anmälningar förblir obekräftade och raderas efter 14 dagar."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha är aktiverad men har ingen effekt: tillägget innehåller ingen captcha-widget, så formuläret behandlas utan botskydd."
+      ],
+      "Einstellungen öffnen": [
+        "Öppna inställningar"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "För många förfrågningar. Försök igen om en minut."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Valet sparades inte: %s Dina tidigare bokningar kvarstår."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Nya sessioner bokades, men inte alla avmarkerade sessioner kunde släppas fria: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Ogiltig säkerhetstoken (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Ogiltig formulärtoken (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Deltagaren saknar behörighet eller hittades inte."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Ingen bildfil skickades."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profilbilden har uppdaterats."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Bekräftelsetoken saknas."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Ogiltig eller ännu obekräftad biljett."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Inga sessioner är konfigurerade för detta evenemang."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Platskarta: upptagna och lediga platser per session"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d av %3$d platser upptagna"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Evenemang saknas för platskartan."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Platskartans evenemang finns inte."
+      ],
+      "frei": [
+        "ledig"
+      ],
+      "belegt": [
+        "upptagen"
+      ],
+      "von Ihnen gebucht": [
+        "bokad av dig"
+      ],
+      "Belegung je Session": [
+        "Beläggning per session"
+      ],
+      "Session": [
+        "Session"
+      ],
+      "Belegt": [
+        "Upptagen"
+      ],
+      "Frei": [
+        "Ledig"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Beläggningen uppdateras automatiskt."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Ögonblicksbild vid sidladdning; beläggningen uppdateras inte i realtid."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demodata: bokning för %1$s nekades — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demodata: deltagande avbokat"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessioner och spår"
+      ],
+      "post type singular name\u0004Session": [
+        "Session"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessioner"
+      ],
+      "Alle Sessions": [
+        "Alla sessioner"
+      ],
+      "Session bearbeiten": [
+        "Redigera session"
+      ],
+      "Session ansehen": [
+        "Visa session"
+      ],
+      "Sessions durchsuchen": [
+        "Sök sessioner"
+      ],
+      "Keine Sessions gefunden.": [
+        "Inga sessioner hittades."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Inga sessioner hittades i papperskorgen."
+      ],
+      "Session-Daten": [
+        "Sessionsuppgifter"
+      ],
+      "Zugehörige Konferenz:": [
+        "Tillhörande konferens:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Ingen konferens vald —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Talare och institution:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "t.ex. Anna Andersson (Exempel AB)"
+      ],
+      "Raum / Saal / Track:": [
+        "Lokal / sal / spår:"
+      ],
+      "Workshop-Kapazität:": [
+        "Workshopkapacitet:"
+      ],
+      "Speaker": [
+        "Talare"
+      ],
+      "Raum / Track": [
+        "Lokal / spår"
+      ],
+      "Zeitfenster": [
+        "Tidspass"
+      ],
+      "Belegung": [
+        "Beläggning"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Välkommen, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Välj dina sessioner. En plats tilldelas när du sparar så länge sessionen inte är fullbokad."
+      ],
+      "Anmeldung bestätigt": [
+        "Anmälan bekräftad"
+      ],
+      "Für diese Session eingetragen": [
+        "Anmäld till denna session"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Välj denna programpunkt"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Platsen tilldelas när du sparar så länge sessionen inte är fullbokad."
+      ],
+      "Sessions ausgewählt": [
+        "Sessioner valda"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Spara val"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress-temastandard (ärvs automatiskt)"
+      ],
+      "Empfohlen": [
+        "Rekommenderas"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Ärver typografi, färger, knappar och avstånd direkt från det aktiva WordPress-temat (GeneratePress, Astra, Twenty Twenty-Four m.fl.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violett och rosé (mörklila, violett, roséaccent)"
+      ],
+      "Farbstark": [
+        "Färgstark"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Mörklila (#482683), klar violett (#7D40E7), roséaccent (#DF0079), Noto Sans om temat laddar den, och en diskret färgövergång."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (marinblå och cyan)"
+      ],
+      "High-Tech Dark": [
+        "Högteknologiskt mörkt"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Skräddarsytt mörkt och koboltblått uttryck med glödeffekter anpassat för cybersäkerhetskonferenser."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (skiffer och monokromt)"
+      ],
+      "Modern": [
+        "Modernt"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Ren, avskalad SaaS-design med neutrala gråskalor, tydliga linjer och generösa luftytor."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (klassiskt och varma toner)"
+      ],
+      "Klassik": [
+        "Klassiskt"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Varma elfenbens- och vinröda toner för akademiska symposier och kvalificerade fackkongresser."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Högkontrast (svart på vitt)"
+      ],
+      "Hochkontrast": [
+        "Högkontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Svart text på vit bakgrund (kontrast 21:1) med gul accent och förstärkta fokusramar."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Anpassat tema (egna färger och CSS)"
+      ],
+      "Individuell": [
+        "Anpassat"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Fria färgväljare och stöd för uppladdade egna CSS-stilmallar."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Ingen giltig uppladdningsfil har angetts."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Säkerhetsfel: endast rena .css-filer får laddas upp."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS-filen överskrider gränsen på 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Det gick inte att spara temafilen på servern."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Anpassad tema-CSS har laddats upp och aktiverats."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Platser"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Plats"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Sök platser"
+      ],
+      "Häufige Tagungsorte": [
+        "Vanliga platser"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Alla platser"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Redigera plats"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Uppdatera plats"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Lägg till ny plats"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Namn på ny plats"
+      ],
+      "Orte mit Kommas trennen": [
+        "Separera platser med kommatecken"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Lägg till eller ta bort platser"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Välj bland de mest använda platserna"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Inga platser hittades."
+      ],
+      "Stadt / Ort:": [
+        "Stad / ort:"
+      ],
+      "z. B. Musterstadt": [
+        "t.ex. Uppsala"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Kommun eller stad för konferensplatsen."
+      ],
+      "Straße & Hausnummer:": [
+        "Gata och gatunummer:"
+      ],
+      "z. B. Musterstraße 1": [
+        "t.ex. Exempelgatan 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Postnummer:"
+      ],
+      "Land:": [
+        "Land:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maximal lokalkapacitet (personer):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Rullstolsanpassad"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Kryssa endast i när detta har verifierats. Visas i platslistan och i REST-rutten /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL till karta / vägbeskrivning:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Platsens webbplats:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maximal lokalkapacitet:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Sittplatskapacitet för konferensområdet."
+      ],
+      "Zugänglichkeit:": [
+        "Tillgänglighet:"
+      ],
+      "Google Maps Link:": [
+        "Kartlänk:"
+      ],
+      "Stadt & Adresse": [
+        "Stad och adress"
+      ],
+      "Kapazität": [
+        "Kapacitet"
+      ],
+      "Rollstuhlgerecht": [
+        "Rullstolsanpassad"
+      ],
+      "Ja": [
+        "Ja"
+      ],
+      "Nicht angegeben": [
+        "Ej angivet"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Mycket hög trafik just nu. Försök igen om %d sekunder. Ingen plats har reserverats."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Utan en beständig objektcache (Redis, Memcached) räknar väntrummet i databasen: avvisade förfrågningar sparar bokningsfrågorna, men kostar ändå en läsning och en skrivning i alternativtabellen."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Nyckeltal"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Nyckeltal"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Visar nyckeltal i realtid för aktiva konferenser, bekräftade anmälningar och lediga platser."
+      ],
+      "Kennzahl": [
+        "Nyckeltal"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Evenemangs-ID (valfritt)"
+      ],
+      "Dokumentation": [
+        "Dokumentation"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Ange ett giltigt evenemangs-ID: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Ingen giltig bekräftelsetoken hittades. Använd länken från ditt e-postmeddelande."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Senaste aktiva evenemang (automatiskt) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatiskt (aktuell konferens)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Val av evenemang"
+      ],
+      "Ziel-Konferenz": [
+        "Målkonferens"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Välj den konferens vars uppgifter visas i toppbannern."
+      ],
+      "Design & Layout-Presets": [
+        "Design- och layoutförval"
+      ],
+      "Theme-Preset": [
+        "Temaförval"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (standard)"
+      ],
+      "Federal Blue": [
+        "Federal Blue"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Cyan Glow"
+      ],
+      "Clean White & Modern": [
+        "Clean White & Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Glassmorphism Blur"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Hörnrundning (border-radius)"
+      ],
+      "Ohne (0px)": [
+        "Ingen (0px)"
+      ],
+      "Mittel (8px)": [
+        "Medel (8px)"
+      ],
+      "Groß (16px)": [
+        "Stor (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Extra stor (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Aktivera ljus- och glödeffekt"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Texter och call-to-action-knappar"
+      ],
+      "Badge / Dachzeile": [
+        "Bricka / överrubrik"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Anpassad huvudrubrik (valfritt)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Standard: evenemangets titel"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Anpassad ingress / inledning"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Standard: evenemangets beskrivning"
+      ],
+      "Primärer CTA-Button Text": [
+        "Text på primär CTA-knapp"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Mållänk / ankare för primär CTA-knapp"
+      ],
+      "Sekundären Button anzeigen": [
+        "Visa sekundär knapp"
+      ],
+      "Sekundärer Button Text": [
+        "Text på sekundär knapp"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Mållänk för sekundär knapp"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Synlighet för element"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Visa nedräkningstimer i realtid"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Visa bricka för lediga platser / kapacitet"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Visa statusbricka (öppen/fullbokad)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Visa plats"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Visa datum och tid"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Visa biljettpris / kostnadsfri-bricka"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Visa knapp för kalenderexport (.ics)"
+      ],
+      "Kopfbereich": [
+        "Sidhuvud (hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Standard: evenemangets beskrivning samt datum, plats, pris, lediga platser, nedräkning och anmälningsknapp."
+      ],
+      "Countdown": [
+        "Nedräkning"
+      ],
+      "Freie Plätze": [
+        "Lediga platser"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Knapp: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Val av konferens"
+      ],
+      "Ziel-Veranstaltung": [
+        "Målevenemang"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Välj det evenemang som besökare anmäler sig till."
+      ],
+      "Formular-Design & Theme": [
+        "Formulärdesign och tema"
+      ],
+      "Formular-Stil": [
+        "Formulärstil"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (standard)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Hörnrundning"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Formulärfält och inmatningsalternativ"
+      ],
+      "Individueller Formulartitel": [
+        "Anpassad formulärtitel"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Anpassad underrubrik / notis"
+      ],
+      "Standard: kein Untertitel": [
+        "Standard: ingen underrubrik"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Visa fält för organisation / företag"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Visa kryssruta för samtycke till foto och video"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Visa nyckelfaktarubrik i formuläret"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Knapptext och integritetslänkar"
+      ],
+      "Absende-Button Beschriftung": [
+        "Text på skicka-knapp"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Anpassad URL till integritetspolicy (valfritt)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Standard: integritetssida under Inställningar > Integritet"
+      ],
+      "Anmeldeformular": [
+        "Anmälningsformulär"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Anmälan med dubbel opt-in: Brevo skickar bekräftelselänken och anmälan gäller först när den har bekräftats."
+      ],
+      "Standard nach Ticketpreis": [
+        "Standard utifrån biljettpris"
+      ],
+      "Überschrift & Untertitel": [
+        "Rubrik och underrubrik"
+      ],
+      "Überschrift": [
+        "Rubrik"
+      ],
+      "Untertitel / Beschreibung": [
+        "Underrubrik / beskrivning"
+      ],
+      "Suche, Angaben & Export": [
+        "Sökning, metadata och export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Visa sökfält i realtid för sessioner"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Visa lokal- och platsuppgifter"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Visa talarbilder"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Visa fullständig kalenderexport (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessioner i kronologisk ordning med lokal, talare, beskrivning, sökning och .ics-export."
+      ],
+      "Suche": [
+        "Sök"
+      ],
+      ".ics-Download": [
+        ".ics-nedladdning"
+      ],
+      "Layout & Spalten": [
+        "Layout och kolumner"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Antal kolumner (dator)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Text- och detaljvisning"
+      ],
+      "Untertitel": [
+        "Underrubrik"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Visa föredragsämne för sessionen"
+      ],
+      "Raumangabe anzeigen": [
+        "Visa lokalangivelse"
+      ],
+      "Uhrzeit anzeigen": [
+        "Visa starttid"
+      ],
+      "Konferenz: ": [
+        "Konferens: "
+      ],
+      "%d Spalten": [
+        "%d kolumner"
+      ],
+      "Vortragsthemen": [
+        "Föredragsämnen"
+      ],
+      "Titel": [
+        "Titel"
+      ],
+      "Individueller Titel": [
+        "Anpassad titel"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalendertjänster och alternativ"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Visa Apple / Outlook (.ics-fil)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Visa direktlänk till Google Kalender"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Visa direktlänk till Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Visa direktlänk till Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Visa tidszonsnotis"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Visa notis om påminnelse i .ics-filen"
+      ],
+      "Kalender": [
+        "Kalender"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics-fil med påminnelse en dag före start samt länkar till Google Kalender, Outlook Web och Microsoft 365."
+      ],
+      ".ics-Datei": [
+        ".ics-fil"
+      ],
+      "Session-Auswahl": [
+        "Sessionsväljare"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Detta block har inga inställningar. Det visar sessionerna för den token som finns i bekräftelselänken; utan token visas ett meddelande."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "En plats tilldelas när du sparar så länge sessionen inte är fullbokad."
+      ],
+      "Ticketpass-Optionen": [
+        "Alternativ för biljettpass"
+      ],
+      "Pass-Überschrift": [
+        "Passrubrik"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Sidhuvudrad (standard: evenemangets titel)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Visa utskriftsknapp (skriv ut bricka)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Visa biljettnummer"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Visa fakturanummer / referens"
+      ],
+      "Check-In Status anzeigen": [
+        "Visa incheckningsstatus"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pass för bekräftade anmälningar som öppnas via token från bekräftelsemejlet: namn, företag, status, fakturanummer, biljettnummer och utskriftsknapp."
+      ],
+      "Ticketnummer": [
+        "Biljettnummer"
+      ],
+      "Druckfunktion": [
+        "Utskriftsknapp"
+      ],
+      "Titel der Veranstaltung": [
+        "Evenemangets titel"
+      ],
+      "Layout & Farbschema": [
+        "Layout och färgschema"
+      ],
+      "Raster-Layout": [
+        "Rutnätslayout"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4-kolumns rutnät (standard)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2-kolumns rutnät (brett)"
+      ],
+      "Farbthema": [
+        "Färgtema"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (standard)"
+      ],
+      "Angezeigte Karten": [
+        "Visade kort"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kort som beskriver vad tillägget gör. Blocket gör ingen bedömning av webbplatsens juridiska efterlevnad."
+      ],
+      "Double Opt-in": [
+        "Dubbel opt-in"
+      ],
+      "Formulare": [
+        "Formulär"
+      ],
+      "Eigene Assets": [
+        "Egna resurser"
+      ],
+      "Abfrage & Filterung": [
+        "Urval och filtrering"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maximalt antal konferenser"
+      ],
+      "Status-Filter": [
+        "Statusfilter"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Endast aktiva evenemang"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktiva och arkiverade evenemang"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Endast arkiverade evenemang"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Synliga metadata och knappar"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Visa sökfält i realtid"
+      ],
+      "Preisschild anzeigen": [
+        "Visa prisetikett"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Visa plats / anläggning"
+      ],
+      "Datums-Badge anzeigen": [
+        "Visa datumbricka"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Visa direkt .ics-kalenderlänk"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Visa utdrag ur beskrivning"
+      ],
+      "CTA-Button Beschriftung": [
+        "Text på CTA-knapp"
+      ],
+      "Veranstaltungsübersicht": [
+        "Evenemangsöversikt"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Rutnät av evenemang med datum, pris, plats, sammanfattning, anmälningsknapp och .ics-länk."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max %d evenemang"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Platskarta"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Inställningar för platskarta"
+      ],
+      "Überschrift (optional)": [
+        "Rubrik (valfritt)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Beskrivningstext (valfritt)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Aktivera realtidsuppdateringar"
+      ],
+      "Sitzplan": [
+        "Platskarta"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafisk beläggningsöversikt för alla sessioner i ett evenemang med en tillgänglighetsanpassad datatabell."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Multivykalender"
+      ],
+      "Ansichten & Datenquelle": [
+        "Vyer och datakälla"
+      ],
+      "Standardansicht": [
+        "Standardvy"
+      ],
+      "Monatskalender": [
+        "Månadskalender"
+      ],
+      "Wochenplan": [
+        "Veckoschema"
+      ],
+      "Tagesagenda": [
+        "Dagsprogram"
+      ],
+      "Listenansicht": [
+        "Listvy"
+      ],
+      "Kartenansicht": [
+        "Kortvy"
+      ],
+      "Raumübersicht": [
+        "Lokalöversikt"
+      ],
+      "Track-Matrix": [
+        "Spårmatris"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maximalt antal poster"
+      ],
+      "Bedienleiste & Filter": [
+        "Verktygsfält och filter"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Visa vyväxlare"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Visa spår- och lokalfilter"
+      ],
+      "Suchfeld anzeigen": [
+        "Visa sökfält"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Visa nyhetslist"
+      ],
+      "Kalender-Ansichten": [
+        "Kalendervyer"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Multivykalender och program"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Växlingsbara månads-, vecko-, dags-, list-, kort-, lokal- och spårvyer."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Konferensprogram"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktivt multispårsprogram med tidslinje, talaruppgifter, lokalfilter och iCal-nedladdning (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalender, program och spår)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Utökad kalender- och programsvit med 7 interaktiva frontendvyer: månadskalender, veckoschema, dagsprogram, listvy, fotokort, lokalkarta och multispårsmatris."
+      ],
+      "block keyword\u0004event": [
+        "evenemang"
+      ],
+      "block keyword\u0004calendar": [
+        "kalender"
+      ],
+      "block keyword\u0004agenda": [
+        "program"
+      ],
+      "block keyword\u0004schedule": [
+        "schema"
+      ],
+      "block keyword\u0004summit": [
+        "konferens"
+      ],
+      "block keyword\u0004timetable": [
+        "tidsplan"
+      ],
+      "block keyword\u0004matrix": [
+        "matris"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Kalender- och .ics-widget"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalenderwidget med .ics-nedladdning och länkar till Google Kalender, Outlook Web och Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Hero- och nedräkningsbanner"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Toppbanner för evenemang med nedräkning, nyckelfakta, statusbricka och anmälningsknappar."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Översikts- och arkivrutnät"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamisk kortöversikt över kommande konferenser, symposier och workshoppar med sökfält och statusfilter."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Anmälningsformulär"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Anmälningsformulär med dubbel opt-in via Brevo, valfri profilbild och samtycke till fotografering."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Platskarta"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Beläggning för alla sessioner i ett evenemang som SVG, löpande uppdaterad via Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Säkerhets- och förtroendebrickor"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Översikt över tilläggets dataskydds- och säkerhetsfunktioner: dubbel opt-in, gallringsfrister, revisionslogg och faktura-XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Sessions- och workshopväljare"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Sessionsval för bekräftade anmälningar: platser tilldelas vid sparande så länge det finns ledig kapacitet."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Talar- och expertrutnät"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatiskt genererad översikt över huvudtalare, sessionsföredrag, lokalfördelning och talarprofiler."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digitalt biljettpass"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Deltagarpass för bekräftade anmälningar med biljettnummer, evenemang, plats och utskriftsknapp."
+      ]
+    }
+  }
+}

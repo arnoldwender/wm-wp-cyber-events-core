@@ -1,0 +1,22 @@
+# WM Cyber Events Core
+
+> WordPress plugin for events, sessions and registrations: double opt-in through Brevo, session booking with a capacity check, check-in, invoice XML (EN 16931), DATEV and CSV exports, iCalendar files.
+
+## Overview
+
+`wm-cyber-events-core` is a WordPress plugin developed with an agentic workflow (AI coding agents). It stores events and sessions as post types mirrored into its own tables, takes registrations through a REST route, confirms them through a Brevo double opt-in mail, lets confirmed participants book sessions, checks them in and exports data. Documentation measured against the code: README.md, DEVELOPERS.md, docs/ARCHITECTURE.md, docs/GUTENBERG-BLOCKS.md. Code audit: docs/AUDIT-2026-09-15.md.
+
+## Facts
+
+- Requires WordPress 6.9+ and PHP 8.3+; CI tests PHP 8.3 and 8.4.
+- REST namespace `cybevents/v1`; WP-CLI `wp cybevents`; shortcodes `cybevents_registration`, `cybevents_session_selector`, `cybevents_seat_map`, `cybevents_agenda`, `cybevents_calendar`, `cybevents_calendar_views`, `wm_events_views`.
+- Scripts, styles and icons are served from the plugin; the server calls Brevo only with an API key.
+- Exposes WordPress 6.5+ Block Bindings (`wm-cybevents/metrics`), GenerateBlocks 2.x Dynamic Tag (`wm_cybevents_metric`), and developer hooks (`wm_cybevents_ready`, `wm_cybevents_metric_value`, `wm_cybevents_public_rest_rate_limit`, `wm_cybevents_ics_output`). No PDF invoices, no payment, no captcha widget.
+- No conformity with GDPR, BFSG or tax law is claimed.
+- Version 1.2.3.
+
+## Official Links
+
+- Plugin Page: https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/
+- GitHub Repository: https://github.com/arnoldwender/wm-wp-cyber-events-core
+- Support & Liability: Zero support — reproducible bugs on https://github.com/arnoldwender/wm-wp-cyber-events-core/issues only · no private support · AS IS / no liability (SUPPORT.md)

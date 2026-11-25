@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "en_US",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Events, sessions and registrations with Brevo double opt-in, check-in, invoice XML (EN 16931) and DATEV export."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Event not found or no longer active."
+      ],
+      "Verbindlich anmelden": [
+        "Register with obligation to pay"
+      ],
+      "Kostenfrei anmelden": [
+        "Register free of charge"
+      ],
+      "Datum": [
+        "Date"
+      ],
+      "Veranstaltungsort": [
+        "Venue"
+      ],
+      "Einlass": [
+        "Admission"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "After confirmation via e-mail link"
+      ],
+      "Kontaktdaten": [
+        "Contact details"
+      ],
+      "Einwilligung": [
+        "Consent"
+      ],
+      "Bestätigung": [
+        "Confirmation"
+      ],
+      "Vorname": [
+        "First name"
+      ],
+      "z. B. Erika": [
+        "e.g. Jane"
+      ],
+      "Nachname": [
+        "Last name"
+      ],
+      "z. B. Mustermann": [
+        "e.g. Doe"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Business e-mail address"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institution / authority / company"
+      ],
+      "z. B. Beispiel GmbH": [
+        "e.g. Example Ltd"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profile photo for attendee pass (optional)"
+      ],
+      "Profilbild Vorschau": [
+        "Profile photo preview"
+      ],
+      "Foto auswählen": [
+        "Choose photo"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG or WebP · max. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Data protection & double opt-in consent *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "I consent to the processing of my data for conference participation under the GDPR. I will receive a confirmation link by e-mail for verification."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Read privacy policy"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Photo & video recordings (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "I consent to photo and video recordings of me being made during the event for the organizer's public relations."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Mission Control & Occupancy"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine active"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Capacity management, DATEV export and check-in"
+      ],
+      "Events": [
+        "Events"
+      ],
+      "Bestätigte Gäste": [
+        "Confirmed guests"
+      ],
+      "Ausstehende DOI": [
+        "Pending DOI"
+      ],
+      "Mission Control öffnen": [
+        "Open Mission Control"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "GDPR consent required"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "This export contains personal data protected under Art. 4(1) GDPR. Before downloading, you must confirm that you will treat the data confidentially, process it only for its intended purpose and delete it in accordance with data protection rules after the event."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Back to booking management"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR protection"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Exporting financial and debtor data requires confirmation that the data will be kept confidential and used solely for accounting."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Back to DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV export"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Insufficient permissions."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Dashboard & KPIs"
+      ],
+      "Dashboard": [
+        "Dashboard"
+      ],
+      "Alle Veranstaltungen": [
+        "All events"
+      ],
+      "Veranstaltungen": [
+        "Events"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Create new event"
+      ],
+      "Neue Veranstaltung": [
+        "New event"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Venues & conference locations"
+      ],
+      "Veranstaltungsorte": [
+        "Venues"
+      ],
+      "Sessions & Agenda": [
+        "Sessions & agenda"
+      ],
+      "Neue Session erstellen": [
+        "Create new session"
+      ],
+      "Neue Session": [
+        "New session"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Attendees & bookings"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV import & onboarding"
+      ],
+      "CSV-Import": [
+        "CSV import"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finance & DATEV export"
+      ],
+      "Finanzen & DATEV": [
+        "Finance & DATEV"
+      ],
+      "Audit-Log": [
+        "Audit log"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Settings & Theme Studio"
+      ],
+      "Einstellungen": [
+        "Settings"
+      ],
+      "Handbuch & Dokumentation": [
+        "Handbook & documentation"
+      ],
+      "Handbuch": [
+        "Handbook"
+      ],
+      "Events & Konferenzen": [
+        "Events & conferences"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Capabilities for event and conference management."
+      ],
+      "Teilnehmer verwalten": [
+        "Manage attendees"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Allows viewing and exporting event registrations without full WordPress administrator access."
+      ],
+      "Einstellungen & Theme": [
+        "Settings & theme"
+      ],
+      "Handbuch & Doku": [
+        "Handbook & docs"
+      ],
+      "Plugin-Navigation": [
+        "Plugin navigation"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Event saved successfully!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Data has been updated synchronously in the database and in WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Event deleted!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "The record was removed and the post moved to the trash."
+      ],
+      "Demodaten angelegt.": [
+        "Demo data created."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Sample event, sessions and sample attendees were created; invoices are created only when invoice seller details are configured."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents Command Console"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Events, sessions and registrations with Brevo double opt-in, check-in, invoice XML and DATEV export."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Part of the WM Suite plugin family"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Standalone"
+      ],
+      "Demo-Daten auffrischen": [
+        "Refresh demo data"
+      ],
+      "Springen zu:": [
+        "Jump to:"
+      ],
+      "Kurzanleitung": [
+        "Quick guide"
+      ],
+      "Kennzahlen": [
+        "Metrics"
+      ],
+      "Rechnungen": [
+        "Invoices"
+      ],
+      "Audit-Protokoll": [
+        "Audit log"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "What does CyberEvents do, and what is on this screen?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "The plugin manages events with sessions and registrations. Attendees confirm their registration via a double opt-in link sent by Brevo (API key required), then choose sessions whose seats cannot be overbooked, and are checked in at the entrance via their token. Invoices are generated as CII XML (EN 16931) and can be exported as a DATEV booking batch."
+      ],
+      "Schnellzugriff:": [
+        "Quick access:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Attendees and registrations"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Export invoices as DATEV batch"
+      ],
+      "Event Auslastung": [
+        "Event occupancy"
+      ],
+      "Kritisch": [
+        "Critical"
+      ],
+      "Optimal": [
+        "Optimal"
+      ],
+      "Max. Kapazität:": [
+        "Max. capacity:"
+      ],
+      "Gebucht:": [
+        "Booked:"
+      ],
+      "Live Check-In Counter": [
+        "Live check-in counter"
+      ],
+      "Anwesend": [
+        "Present"
+      ],
+      "Registriert:": [
+        "Registered:"
+      ],
+      "Eingecheckt:": [
+        "Checked in:"
+      ],
+      "Wartend:": [
+        "Waiting:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "New registrations (24 h)"
+      ],
+      "Sessions": [
+        "Sessions"
+      ],
+      "in 24 h": [
+        "in 24 h"
+      ],
+      "Ausstehende DOI:": [
+        "Pending DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM queue telemetry"
+      ],
+      "Jobs": [
+        "Jobs"
+      ],
+      "Verarbeitung": [
+        "Processing"
+      ],
+      "Verarbeitet:": [
+        "Processed:"
+      ],
+      "Schnellaktionen": [
+        "Quick actions"
+      ],
+      "Neue Konferenz anlegen": [
+        "Create new conference"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Attendee list & check-in"
+      ],
+      "CSV-Batch Import": [
+        "CSV batch import"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Event overview & occupancy monitoring"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Confirmed registrations per event relative to configured capacity."
+      ],
+      "Event suchen...": [
+        "Search event..."
+      ],
+      "Neue Konferenz": [
+        "New conference"
+      ],
+      "Konferenz / Event": [
+        "Conference / event"
+      ],
+      "Zeitraum": [
+        "Period"
+      ],
+      "Ort": [
+        "Location"
+      ],
+      "Kapazität & Belegung": [
+        "Capacity & occupancy"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Aktionen": [
+        "Actions"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "No events found."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Edit in Gutenberg block editor"
+      ],
+      "Bearbeiten": [
+        "Edit"
+      ],
+      "Schnellbearbeitung": [
+        "Quick edit"
+      ],
+      "Vorschau": [
+        "Preview"
+      ],
+      "Teilnehmer (%d)": [
+        "Attendees (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Do you really want to permanently delete this event?"
+      ],
+      "Löschen": [
+        "Delete"
+      ],
+      "%d Sessions": [
+        "%d sessions"
+      ],
+      "/ %d Plätze": [
+        "/ %d seats"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(no capacity limit)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Edit in Gutenberg editor"
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Open quick edit"
+      ],
+      "Quick": [
+        "Quick"
+      ],
+      "Frontend-Seite anzeigen": [
+        "View frontend page"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Valid and cancelled invoices as well as unconfirmed registrations."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Gross, valid invoices"
+      ],
+      "Gültige Rechnungen": [
+        "Valid invoices"
+      ],
+      "Storniert": [
+        "Cancelled"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Unconfirmed registrations"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV export & audit log"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Booking batch of invoices and credit notes for a period; coordinate accounts and tax keys with your tax advisor."
+      ],
+      "DATEV Format": [
+        "DATEV format"
+      ],
+      "Kategorie 21 (v13)": [
+        "Category 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256 chain"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonymization after 90 days"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Open DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "View audit log"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Continuously chained audit log: every entry co-signs its predecessor so subsequent edits, deletions and insertions are detected. Tamper evidence, not immutability — whoever reads wp-config.php holds the key."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Open full audit log"
+      ],
+      "Zeitstempel": [
+        "Timestamp"
+      ],
+      "Ereignis-Typ": [
+        "Event type"
+      ],
+      "Benutzer / System": [
+        "User / system"
+      ],
+      "Objekt-ID": [
+        "Object ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Audit details & proof"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "No audit entries recorded yet."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Edit event / quick configuration"
+      ],
+      "Schließen": [
+        "Close"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Conference / event title:"
+      ],
+      "URL-Slug:": [
+        "URL slug:"
+      ],
+      "Tagungsort / Location:": [
+        "Venue / location:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Start (date & time):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "End (date & time):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Max. attendee capacity:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Ticket price (net in €):"
+      ],
+      "Status:": [
+        "Status:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Active (published)"
+      ],
+      "Entwurf (Draft)": [
+        "Draft"
+      ],
+      "Archiviert": [
+        "Archived"
+      ],
+      "Kostenpflichtig": [
+        "Paid"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Open in Gutenberg block editor"
+      ],
+      "Abbrechen": [
+        "Cancel"
+      ],
+      "Änderungen speichern": [
+        "Save changes"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Attendee details updated successfully!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Registration details and status have been saved in the database."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Attendee deleted!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "The registration and all associated session bookings have been removed."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Check-in status updated!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "The attendee's presence status has been toggled."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Double opt-in confirmed!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "The registration has been manually marked as confirmed."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Attendee & booking management"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "All registrations with double opt-in status, session bookings and invoices."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Name badges / attendee list (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtered by conference: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Clear filter"
+      ],
+      "Alle Teilnehmer": [
+        "All attendees"
+      ],
+      "Bestätigt": [
+        "Confirmed"
+      ],
+      "Ausstehend DOI": [
+        "Pending DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Search name, e-mail or company..."
+      ],
+      "Teilnehmer": [
+        "Attendee"
+      ],
+      "Organisation / Firma": [
+        "Organization / company"
+      ],
+      "Check-In": [
+        "Check-in"
+      ],
+      "Rechnung": [
+        "Invoice"
+      ],
+      "Anmeldedatum": [
+        "Registration date"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "No registrations found."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Edit attendee details"
+      ],
+      "Auschecken": [
+        "Check out"
+      ],
+      "Einchecken": [
+        "Check in"
+      ],
+      "DOI bestätigen": [
+        "Confirm DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Do you really want to permanently delete this attendee?"
+      ],
+      "Status umschalten": [
+        "Toggle status"
+      ],
+      "Eingecheckt": [
+        "Checked in"
+      ],
+      "Nicht vor Ort": [
+        "Not on site"
+      ],
+      "Rechnungs-XML": [
+        "Invoice XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Free / none"
+      ],
+      "Edit": [
+        "Edit"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Do you really want to delete this attendee?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Edit attendee details / attendee management"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profile photo / attendee badge photo (JPG, PNG, WebP · max. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Remove photo"
+      ],
+      "Vorname:": [
+        "First name:"
+      ],
+      "Nachname:": [
+        "Last name:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-mail address:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organization / company / authority:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Assigned conference:"
+      ],
+      "Anmeldestatus:": [
+        "Registration status:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Confirmed"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Pending (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Cancelled"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Undeliverable (bounced)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Check-in status (on site):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "No / not on site"
+      ],
+      "Ja / Eingecheckt": [
+        "Yes / checked in"
+      ],
+      "Rechnungsnummer:": [
+        "Invoice number:"
+      ],
+      "Zahlungsstatus:": [
+        "Payment status:"
+      ],
+      "Kostenfrei (Free)": [
+        "Free"
+      ],
+      "Ausstehend (Pending)": [
+        "Pending"
+      ],
+      "Bezahlt (Paid)": [
+        "Paid"
+      ],
+      "Erstattet (Refunded)": [
+        "Refunded"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR privacy consent granted"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Photo & video consent granted"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR privacy & export consent"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Protection of personal data (Arts. 4 & 5 GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "This export generates a CSV file containing sensitive personal attendee data (full names, companies, business e-mail addresses, invoice references and check-in status)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Purpose limitation (Art. 5(1)(b) GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "The data may be used solely for running the event (e.g. badge printing and entrance accreditation)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Confidentiality & protection (Art. 5(1)(f) GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Disclosure to unauthorized third parties or storage on unencrypted mobile devices is prohibited."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Erasure obligation (Art. 17 GDPR):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "After the conference concludes, the exported local file must be deleted promptly in accordance with data protection rules."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "I confirm GDPR consent:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "I acknowledge that this export contains confidential personal data. I undertake to process it carefully for its intended purpose and in strict observance of statutory data protection requirements."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Download CSV export securely now"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Invoice XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Copy XML to clipboard"
+      ],
+      "Keine Berechtigung.": [
+        "Permission denied."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Security error: only genuine CSV files are permitted."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "File is too large (maximum 5 MB allowed)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Please select an event and provide CSV data."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Attendee CSV batch import (duplicate guard TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automated import of attendee lists from external systems with strict duplicate prevention."
+      ],
+      "Import-Zusammenfassung": [
+        "Import summary"
+      ],
+      "Gesamtzeilen": [
+        "Total rows"
+      ],
+      "Neu Importiert": [
+        "Newly imported"
+      ],
+      "Dubletten abgewiesen": [
+        "Duplicates rejected"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Import new attendee list"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Target event *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Select event —"
+      ],
+      "CSV-Datei auswählen": [
+        "Choose CSV file"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: FirstName;LastName;Email;Company (semicolon- or comma-separated, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Or paste CSV text"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Run CSV import now"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Booking Batch Studio"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standardized financial export (category 21, format version 700 / 125 fields) for tax advisors and DATEV accounting."
+      ],
+      "Exportzeitraum festlegen": [
+        "Select export period"
+      ],
+      "Laufender Monat": [
+        "Current month"
+      ],
+      "Vormonat": [
+        "Previous month"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Full year 2026"
+      ],
+      "Datum von *": [
+        "Date from *"
+      ],
+      "Datum bis *": [
+        "Date to *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Confirmation for debtor data export:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "I confirm that exporting financial and invoice recipient records includes personal data and is forwarded exclusively to the authorized tax practice for statutory bookkeeping and tax accounting."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Download DATEV EXTF booking batch (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Chained audit trail of security-relevant actions, double opt-ins, cancellations and access checks."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Audit chain intact — %1$d entries verified by content, %2$d pseudonymized (chain position verified)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Audit chain NOT intact"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d entry/entries originate before chaining and carry no verifiable signature. They count as unverified, not intact."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY is not defined: the chain key comes from the database — the same place an attacker with write access would modify. Define AUTH_KEY in wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Timestamp"
+      ],
+      "Ereignistyp": [
+        "Event type"
+      ],
+      "Referenz-ID": [
+        "Reference ID"
+      ],
+      "IP-Adresse": [
+        "IP address"
+      ],
+      "Audit-Details (JSON)": [
+        "Audit details (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "No log entries found."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Event \"%1$s\" created with %2$d sessions and %3$d attendees."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demo data imported successfully!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d events, %2$d sessions, %3$d registrations and %4$d invoices were deleted."
+      ],
+      "Demodaten bereinigt!": [
+        "Demo data cleaned up!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Factory defaults restored!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "All tables have been emptied and settings reset."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Uploaded theme file removed."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Settings saved securely."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise Configuration & Security"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Design, Brevo, invoices and DATEV, bot protection and demo data."
+      ],
+      "Design & Theme Studio": [
+        "Design & Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM & Webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Invoices & DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Bot Protection (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demo Data & Reset"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Frontend Design System & Theme Inheritance"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Choose how events and booking forms are styled on the frontend. By default, the plugin inherits fonts, colors and buttons from the active WordPress theme."
+      ],
+      "Primärfarbe": [
+        "Primary color"
+      ],
+      "Akzentfarbe": [
+        "Accent color"
+      ],
+      "Kartenhintergrund": [
+        "Card background"
+      ],
+      "Textfarbe": [
+        "Text color"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Custom Theme Colors & Borders (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primary color (buttons & accents):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Accent color (badges & glow):"
+      ],
+      "Seitenhintergrund:": [
+        "Page background:"
+      ],
+      "Kartenhintergrund:": [
+        "Card background:"
+      ],
+      "Haupttextfarbe:": [
+        "Main text color:"
+      ],
+      "Eckenabrundung (px):": [
+        "Corner radius (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Upload custom CSS theme (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Upload a custom .css stylesheet (e.g. agency-theme.css). It is loaded in isolation and validated automatically."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Active custom theme present"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Do you really want to delete the uploaded CSS theme file?"
+      ],
+      "Theme löschen": [
+        "Delete theme"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Additional custom CSS (inline editor)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Enter custom CSS rules here, e.g.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 & Webhook Authentication"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API key (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Used for asynchronous double opt-in e-mail delivery and contact attribute sync."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Webhook shared secret / signature token"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Timing-safe token used to validate incoming Brevo webhook payloads."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Staff scanner API key (entrance check-in)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Authentication token for mobile scanner devices used by entrance staff."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Waiting room: admissions per minute"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Requests to registration and session booking admitted per minute and per event. 0 switches the waiting room off (default). Above that limit, the route answers HTTP 503 with Retry-After before any database query runs — no seat is reserved."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Counter backend on this installation: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "persistent object cache"
+      ],
+      "Datenbank (Transients)": [
+        "database (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI Template ID"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo contact list ID"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Invoices (CII XML) & DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Invoice number prefix"
+      ],
+      "Rechnungssteller": [
+        "Invoice seller"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "No invoices or credit notes are generated without these details: %s."
+      ],
+      "Name / Firma": [
+        "Name / company"
+      ],
+      "Straße und Hausnummer": [
+        "Street and number"
+      ],
+      "PLZ": [
+        "ZIP code"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Country (ISO code, e.g. DE)"
+      ],
+      "USt-IdNr.": [
+        "VAT ID"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Tax number (if no VAT ID)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Billing e-mail"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN for bank transfers (optional)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV advisor number"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV client number"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Revenue account (e.g. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Receivables account (e.g. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "The plugin does not yet bundle a captcha widget: the setting is saved, but the form is processed without a captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Enable Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Sitekey"
+      ],
+      "API Key / Secret": [
+        "API key / secret"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demo Data Management & Factory Reset"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Import sample data, remove it again or reset the plugin to factory defaults."
+      ],
+      "1. Demodaten importieren": [
+        "1. Import demo data"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Creates a sample conference with sessions and sample attendees. Invoices are created only when seller details are configured."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Do you want to import sample data now?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Import demo data (conferences, sessions, attendees, invoices)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Clean up demo data (delete test data only)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Deletes only generated demo conferences, demo sessions, demo attendees and demo invoices. Real events and bookings remain untouched."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Do you want to remove all demo data? Real data will be kept."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Clean up demo data (test data only)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Reset to factory defaults (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Warning (irreversible):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Empties all event, session, registration, invoice and audit log tables, deletes all cybevent and cybsession posts and resets all settings to defaults."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "WARNING: Are you sure? This deletes ALL events, registrations and invoices and resets all settings!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Full factory reset (delete everything & restore defaults)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Behaviour on plugin uninstallation"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Delete all tables and settings on uninstallation"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "By default, all event, registration, invoice and audit records are preserved when deleting the plugin (statutory retention). Enable this option only if all tables should be permanently dropped on uninstallation."
+      ],
+      "Alle Einstellungen speichern": [
+        "Save all settings"
+      ],
+      "Platzbuchung": [
+        "Seat booking"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "A seat is booked with a single conditional UPDATE (belegt = belegt + 1, only while belegt < kapazitaet). Of two simultaneous requests for the last seat, only one modifies the row; the other receives 'fully booked'."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Invoices and credit notes are generated as CII XML under the EN 16931 profile and checked with the Mustang validator in tests. No PDF is generated, so the XML is not a ZUGFeRD hybrid file. Whether invoices meet statutory requirements in an individual case is reviewed by your tax advisor."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF & accounting"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exports invoices and credit notes of a period as a DATEV booking batch (EXTF 700, category 21) in Windows-1252. Receivables and revenue accounts come from settings; every row carries tax key 3. Coordinate accounts and keys with your tax advisor."
+      ],
+      "Handbuch & API:": [
+        "Handbook & API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Full handbook"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Developed by WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Administrator & Developer Handbook"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Seat booking, invoice XML, DATEV export, Brevo double opt-in, shortcodes and theme presets."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Seat booking without overbooking"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "The occupancy counter is incremented in a single conditional statement; of two simultaneous requests for the last seat, only one updates the row:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Invoice XML & DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Invoices and credit notes with seller details from settings, supply date and sequential number. No PDF, no Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Credit notes:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Own sequential number, type 381 referencing the original invoice."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Booking batch for a period within a single calendar year, Windows-1252. Coordinate accounts and tax keys with your tax advisor."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-In & Background Queue"
+      ],
+      "Double Opt-In (DOI):": [
+        "Double opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo sends the confirmation e-mail with a personal link; the link confirms the registration once. Unconfirmed registrations are deleted after 14 days."
+      ],
+      "Warteschlange:": [
+        "Queue:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Calls to Brevo run through a database queue processed by WP-Cron every minute (or wp cybevents queue-run), with up to five attempts."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcodes & Gutenberg Integration"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Accessible registration form."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interactive conference agenda & track overview."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Token-based session selection after DOI confirmation."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI for Administrators"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Theme Presets & Design Tokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "The frontend adapts to any WordPress theme or uses built-in design presets:"
+      ],
+      "Presets:": [
+        "Presets:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Several color presets, including one in deep purple, violet and rose (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Theme inheritance (default):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Inherits fonts, border radii and primary colors from the active theme (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS custom properties:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Gotchas & Best Practices"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tables are created with ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Retention periods:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Unconfirmed registrations are deleted after 14 days, audit log entries pseudonymized after 90 days (except invoice events). Confirmed registrations and invoices are not deleted automatically; there is no setting for that."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Queue processing and retention cleanup run via WP-Cron; sites without regular traffic require a system cron job."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Select event"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Select the target event for this block."
+      ],
+      "Key Facts Header anzeigen": [
+        "Show key facts header"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Show step indicator (stepper)"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Show calendar export (.ics) button"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Show countdown timer"
+      ],
+      "Freie Plätze anzeigen": [
+        "Show free seats"
+      ],
+      "Spaltenanzahl": [
+        "Number of columns"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Please select a valid event in the block settings."
+      ],
+      "Vorschau im Editor": [
+        "Editor preview"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Session selection for confirmed registrations"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "On the frontend, this block renders dynamically for each attendee using their individual token."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "No confirmation token found."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Please open this page using the personalized link from your confirmation e-mail."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Invalid or expired attendee token."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Event seat map"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "On the frontend, this block renders session occupancy as SVG and keeps it updated via Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Event not found."
+      ],
+      "Jetzt anmelden": [
+        "Register now"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Register free of charge"
+      ],
+      "Programm ansehen": [
+        "View program"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Free admission"
+      ],
+      "Anmeldung geöffnet": [
+        "Registration open"
+      ],
+      "Ausgebucht": [
+        "Fully booked"
+      ],
+      "Preis": [
+        "Price"
+      ],
+      "%d freier Platz": [
+        "%d free seat",
+        "%d free seats"
+      ],
+      "von max. %d": [
+        "of max. %d"
+      ],
+      "Beginn in:": [
+        "Starts in:"
+      ],
+      "Tage": [
+        "Days"
+      ],
+      "Std.": [
+        "Hrs"
+      ],
+      "Min.": [
+        "Min"
+      ],
+      "Sek.": [
+        "Sec"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Export to calendar (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics file)"
+      ],
+      "Google Kalender": [
+        "Google Calendar"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "The .ics file includes a reminder one day before the start."
+      ],
+      "Referenten & Fachexperten": [
+        "Speakers & domain experts"
+      ],
+      "Referenten": [
+        "Speakers"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "The speaker line-up will be announced shortly."
+      ],
+      "TEILNEHMERPASS": [
+        "ATTENDEE PASS"
+      ],
+      "Teilnehmerpass": [
+        "Attendee pass"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Open ticket & accreditation"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Enter your 64-character security token from the confirmation e-mail:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Enter token (e.g. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Show pass"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Invalid or unknown booking token."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "No attendee pass is available for this registration: it is unconfirmed or has been cancelled."
+      ],
+      "Max Mustermann": [
+        "Jane Doe"
+      ],
+      "Beispiel GmbH": [
+        "Example Ltd"
+      ],
+      "Veranstaltung": [
+        "Event"
+      ],
+      "Rechnungs-Nr.": [
+        "Invoice no."
+      ],
+      "Keine": [
+        "None"
+      ],
+      "Ticket-Nummer": [
+        "Ticket number"
+      ],
+      "Pass drucken": [
+        "Print pass"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Data protection and security"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double opt-in and retention periods"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "A registration takes effect only after confirmation via the e-mail link. Unconfirmed registrations are deleted after 14 days, audit log entries pseudonymized after 90 days."
+      ],
+      "Beschriftete Formulare": [
+        "Labelled forms"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Form fields with visible labels, marked required fields and live status messages announced by screen readers."
+      ],
+      "Eigene Skripte und Styles": [
+        "Self-hosted scripts and styles"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "The plugin serves its scripts, styles and icons from your own server rather than a CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Audit log and tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "An HMAC-SHA256 chained audit log makes subsequent tampering detectable. Attendee tokens are stored solely as SHA-256 hashes."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Invoice XML and DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Invoices as CII XML under the EN 16931 profile and export as a DATEV booking batch."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Privacy-respecting bot protection without user tracking or image puzzles under EU data protection rules."
+      ],
+      "Zur Anmeldung": [
+        "Go to registration"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "There are no archived events."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "There are currently no scheduled events."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filter events by title or location..."
+      ],
+      "Kostenfrei": [
+        "Free"
+      ],
+      "In Kalender eintragen": [
+        "Add to calendar"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Live conference and agenda ticker"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "LIVE AGENDA TELEMETRY"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "View and filter controls"
+      ],
+      "Kalenderansichten": [
+        "Calendar views"
+      ],
+      "Monat": [
+        "Month"
+      ],
+      "Woche": [
+        "Week"
+      ],
+      "Tag / Agenda": [
+        "Day / agenda"
+      ],
+      "Liste": [
+        "List"
+      ],
+      "Karten": [
+        "Cards"
+      ],
+      "Räume & Ort": [
+        "Rooms & venue"
+      ],
+      "Summit Tracks": [
+        "Summit tracks"
+      ],
+      "Vorheriger Zeitraum": [
+        "Previous period"
+      ],
+      "Nächster Zeitraum": [
+        "Next period"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Search event, topic or speaker..."
+      ],
+      "Suchbegriff eingeben": [
+        "Enter search term"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filter track or category"
+      ],
+      "Alle Fach-Tracks": [
+        "All specialist tracks"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Track 01: Post-Quantum Cryptography"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Track 02: Zero Trust & DORA Resilience"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Track 03: Autonomous AI & Secrecy Rules"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Track 04: Software Supply Chain & CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filter conference hall"
+      ],
+      "Alle Säle & Räume": [
+        "All halls & rooms"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenary Hall Alpha (Keynotes)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Month calendar view"
+      ],
+      "Mo": [
+        "Mon"
+      ],
+      "Di": [
+        "Tue"
+      ],
+      "Mi": [
+        "Wed"
+      ],
+      "Do": [
+        "Thu"
+      ],
+      "Fr": [
+        "Fri"
+      ],
+      "Sa": [
+        "Sat"
+      ],
+      "So": [
+        "Sun"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Week schedule and timetable view"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Daily agenda and timeline view"
+      ],
+      "Chronologische Listenansicht": [
+        "Chronological list view"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Visual photo cards view"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Venue and room navigator view"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Summit multi-track matrix"
+      ],
+      "Dialog schließen": [
+        "Close dialog"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Invalid session or registration ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "The booking could not be processed due to a database error."
+      ],
+      "Session %d existiert nicht.": [
+        "Session %d does not exist."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" is fully booked (%2$d of %2$d seats taken)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "The booking could not be saved. The seat has been released again."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "The cancellation could not be processed due to a database error."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "No valid file uploaded."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "File upload error."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "The profile image may not exceed 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Invalid file format. Allowed formats are JPG, PNG and WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Invalid file extension. Allowed extensions are .jpg, .jpeg, .png and .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Error saving profile image."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "The audit log is empty even though %d entries were previously recorded."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "An unsigned entry was inserted into the chain."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Chain break at entry #%d: an entry was deleted, inserted or reordered."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "The signature of entry #%d does not match its content digest."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Entry #%d is marked as pseudonymized without valid proof: its content may have been altered."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "The content of entry #%d was modified after creation."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "The end of the log does not match the last recorded tip. The newest entries were removed."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Events"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Event"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Event"
+      ],
+      "event\u0004Neu erstellen": [
+        "Add new"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Edit event"
+      ],
+      "Veranstaltung ansehen": [
+        "View event"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Search events"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "No events found in trash."
+      ],
+      "Veranstaltungsdaten": [
+        "Event details"
+      ],
+      "Veranstaltungsort:": [
+        "Venue:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Manage venues ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Select saved venue —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manual venue / room / address..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Choose a saved venue from the list or customize the location/room description."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Start (date & time):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "End (date & time):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Paid event"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "No conference schedules are currently available."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Search topic, speaker or room..."
+      ],
+      "Konferenz-Agenda": [
+        "Conference agenda"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Detailed program will be announced shortly."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents attendee data"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Company / organization"
+      ],
+      "Profilbild": [
+        "Profile image"
+      ],
+      "Einwilligung Datenschutz": [
+        "Privacy consent"
+      ],
+      "ja": [
+        "yes"
+      ],
+      "nein": [
+        "no"
+      ],
+      "Einwilligung Fotos": [
+        "Photo consent"
+      ],
+      "Bestätigung angefordert": [
+        "Confirmation requested"
+      ],
+      "Bestätigt am": [
+        "Confirmed at"
+      ],
+      "Eingecheckt am": [
+        "Checked in at"
+      ],
+      "Gebuchte Sessions": [
+        "Booked sessions"
+      ],
+      "Rechnungsnummer": [
+        "Invoice number"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents registrations"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents invoices"
+      ],
+      "Empfänger": [
+        "Recipient"
+      ],
+      "Adresse": [
+        "Address"
+      ],
+      "Bruttobetrag": [
+        "Gross amount"
+      ],
+      "Ausgestellt am": [
+        "Issued at"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Registration #%d could not be deleted."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Registration #%d could not be anonymized; the data remains unchanged."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Registration #%1$d was anonymized. Invoice %2$s with name, address and e-mail remains stored unchanged; the plugin does not delete invoices."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "The Brevo webhook is disabled without a shared secret (returns 401). Bounces and unsubscriptions will not be processed until a secret is configured."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "No Brevo API key configured: confirmation e-mails will not be sent; new registrations stay unconfirmed and are deleted after 14 days."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha is enabled but has no effect: the plugin ships no captcha widget, so the form is processed without bot protection."
+      ],
+      "Einstellungen öffnen": [
+        "Open settings"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Too many requests. Please try again in one minute."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Selection was not saved: %s Your previous bookings remain unchanged."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "New sessions were booked, but not every deselected session could be released: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Invalid security token (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Invalid form token (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Attendee unauthorized or not found."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "No image file submitted."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profile image updated successfully."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Confirmation token missing."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Invalid or unconfirmed ticket."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "No sessions are configured for this event."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Seat map: taken and free seats per session"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d of %3$d seats taken"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "No event specified for the seat map."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "The seat map's event does not exist."
+      ],
+      "frei": [
+        "free"
+      ],
+      "belegt": [
+        "taken"
+      ],
+      "von Ihnen gebucht": [
+        "booked by you"
+      ],
+      "Belegung je Session": [
+        "Occupancy per session"
+      ],
+      "Session": [
+        "Session"
+      ],
+      "Belegt": [
+        "Taken"
+      ],
+      "Frei": [
+        "Free"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Occupancy updates automatically."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Snapshot at page load; occupancy does not update live."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demo data: booking for %1$s declined — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demo data: participation cancelled"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessions & tracks"
+      ],
+      "post type singular name\u0004Session": [
+        "Session"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessions"
+      ],
+      "Alle Sessions": [
+        "All sessions"
+      ],
+      "Session bearbeiten": [
+        "Edit session"
+      ],
+      "Session ansehen": [
+        "View session"
+      ],
+      "Sessions durchsuchen": [
+        "Search sessions"
+      ],
+      "Keine Sessions gefunden.": [
+        "No sessions found."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "No sessions found in trash."
+      ],
+      "Session-Daten": [
+        "Session details"
+      ],
+      "Zugehörige Konferenz:": [
+        "Parent conference:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— No conference selected —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Speaker & institution:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "e.g. Jane Doe (Example Ltd)"
+      ],
+      "Raum / Saal / Track:": [
+        "Room / hall / track:"
+      ],
+      "Workshop-Kapazität:": [
+        "Workshop capacity:"
+      ],
+      "Speaker": [
+        "Speaker"
+      ],
+      "Raum / Track": [
+        "Room / track"
+      ],
+      "Zeitfenster": [
+        "Time slot"
+      ],
+      "Belegung": [
+        "Occupancy"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Welcome, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Choose your sessions. A seat is allocated on save as long as the session is not fully booked."
+      ],
+      "Anmeldung bestätigt": [
+        "Registration confirmed"
+      ],
+      "Für diese Session eingetragen": [
+        "Registered for this session"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Select this session"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "The seat is allocated on save as long as the session is not fully booked."
+      ],
+      "Sessions ausgewählt": [
+        "Sessions selected"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Save selection"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress theme default (inherited automatically)"
+      ],
+      "Empfohlen": [
+        "Recommended"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Inherits typography, colors, buttons and spacing directly from the active WordPress theme (GeneratePress, Astra, Twenty Twenty-Four, etc.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violet & Rosé (dark lilac, violet, rosé accent)"
+      ],
+      "Farbstark": [
+        "Vivid"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Dark lilac (#482683), bright violet (#7D40E7), rosé accent (#DF0079), Noto Sans if the theme loads it, and a subtle gradient."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (navy & cyan)"
+      ],
+      "High-Tech Dark": [
+        "High-Tech Dark"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Bespoke dark & cobalt look with glow accents tailored for cybersecurity conferences."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (Slate & Monochrome)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Clean, understated SaaS design with neutral greys, crisp borders and generous whitespace."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (Classic & Warm Tones)"
+      ],
+      "Klassik": [
+        "Classic"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Warm ivory and burgundy tones for academic symposia and executive congresses."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "High Contrast (Black on White)"
+      ],
+      "Hochkontrast": [
+        "High contrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Black text on white (21:1 contrast) with yellow accent and reinforced focus outlines."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Custom Theme (Own Colors & CSS)"
+      ],
+      "Individuell": [
+        "Custom"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Custom color pickers and support for uploaded custom CSS stylesheets."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "No valid upload file provided."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Security error: only plain .css files may be uploaded."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "The CSS file exceeds the 2 MB limit."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Could not save the theme file on the server."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Custom theme CSS uploaded and activated."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Venues"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Venue"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Search venues"
+      ],
+      "Häufige Tagungsorte": [
+        "Popular venues"
+      ],
+      "Alle Veranstaltungsorte": [
+        "All venues"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Edit venue"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Update venue"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Add new venue"
+      ],
+      "Name des neuen Tagungsorts": [
+        "New venue name"
+      ],
+      "Orte mit Kommas trennen": [
+        "Separate venues with commas"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Add or remove venues"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Choose from most used venues"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "No venues found."
+      ],
+      "Stadt / Ort:": [
+        "City / town:"
+      ],
+      "z. B. Musterstadt": [
+        "e.g. Sample City"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Municipality or city of the venue."
+      ],
+      "Straße & Hausnummer:": [
+        "Street & house number:"
+      ],
+      "z. B. Musterstraße 1": [
+        "e.g. 1 Sample Street"
+      ],
+      "Postleitzahl (PLZ):": [
+        "ZIP code (ZIP):"
+      ],
+      "Land:": [
+        "Country:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maximum room capacity (people):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Wheelchair accessible"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Tick only when verified. Shown in the venue list and in the /venues REST route."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Map / directions URL:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Venue website:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maximum room capacity:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Seating capacity of the conference area."
+      ],
+      "Zugänglichkeit:": [
+        "Accessibility:"
+      ],
+      "Google Maps Link:": [
+        "Map link:"
+      ],
+      "Stadt & Adresse": [
+        "City & address"
+      ],
+      "Kapazität": [
+        "Capacity"
+      ],
+      "Rollstuhlgerecht": [
+        "Wheelchair accessible"
+      ],
+      "Ja": [
+        "Yes"
+      ],
+      "Nicht angegeben": [
+        "Not specified"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Very high request volume right now. Please try again in %d seconds. No seat has been reserved."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Without a persistent object cache (Redis, Memcached), the waiting room counts in the database: refused requests skip booking queries, yet still cost one read and one write on the options table."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Metrics"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Metric"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Outputs live metrics for active conferences, confirmed registrations and free seats."
+      ],
+      "Kennzahl": [
+        "Metric"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Event ID (optional)"
+      ],
+      "Dokumentation": [
+        "Documentation"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Please specify a valid event ID: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "No valid confirmation token found. Please use the link from your e-mail."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Newest active event (automatic) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatic (current conference)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Event selection"
+      ],
+      "Ziel-Konferenz": [
+        "Target conference"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Select the conference whose details are shown in the hero banner."
+      ],
+      "Design & Layout-Presets": [
+        "Design & layout presets"
+      ],
+      "Theme-Preset": [
+        "Theme preset"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (default)"
+      ],
+      "Federal Blue": [
+        "Federal Blue"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Cyan Glow"
+      ],
+      "Clean White & Modern": [
+        "Clean White & Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Glassmorphism Blur"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Corner rounding (border radius)"
+      ],
+      "Ohne (0px)": [
+        "None (0px)"
+      ],
+      "Mittel (8px)": [
+        "Medium (8px)"
+      ],
+      "Groß (16px)": [
+        "Large (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Extra large (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Enable glow effect"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Text & call-to-action buttons"
+      ],
+      "Badge / Dachzeile": [
+        "Badge / eyebrow"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Custom main heading (optional)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Default: event title"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Custom lead text"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Default: event description"
+      ],
+      "Primärer CTA-Button Text": [
+        "Primary CTA button label"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Primary CTA target URL / anchor"
+      ],
+      "Sekundären Button anzeigen": [
+        "Show secondary button"
+      ],
+      "Sekundärer Button Text": [
+        "Secondary button label"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Secondary button target URL"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Element visibility"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Show live countdown timer"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Show free seats / capacity pill"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Show status pill (open/full)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Show venue"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Show date & time"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Show ticket price / free badge"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Show calendar export button (.ics)"
+      ],
+      "Kopfbereich": [
+        "Hero header"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Default: event description plus date, venue, price, free seats, countdown and registration button."
+      ],
+      "Countdown": [
+        "Countdown"
+      ],
+      "Freie Plätze": [
+        "Free seats"
+      ],
+      "Stil: %s": [
+        "Style: %s"
+      ],
+      "Button: %s": [
+        "Button: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Conference selection"
+      ],
+      "Ziel-Veranstaltung": [
+        "Target event"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Select the event visitors register for."
+      ],
+      "Formular-Design & Theme": [
+        "Form design & theme"
+      ],
+      "Formular-Stil": [
+        "Form style"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (default)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Corner rounding"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Form fields & capture options"
+      ],
+      "Individueller Formulartitel": [
+        "Custom form title"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Custom subtitle / note"
+      ],
+      "Standard: kein Untertitel": [
+        "Default: no subtitle"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Show organization / company field"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Show photo & video consent checkbox"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Show key facts header in form"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Button label & privacy links"
+      ],
+      "Absende-Button Beschriftung": [
+        "Submit button label"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Custom privacy policy URL (optional)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Default: privacy page under Settings > Privacy"
+      ],
+      "Anmeldeformular": [
+        "Registration form"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Double opt-in registration: Brevo sends the confirmation link, and registration takes effect once confirmed."
+      ],
+      "Standard nach Ticketpreis": [
+        "Default based on ticket price"
+      ],
+      "Überschrift & Untertitel": [
+        "Heading & subtitle"
+      ],
+      "Überschrift": [
+        "Heading"
+      ],
+      "Untertitel / Beschreibung": [
+        "Subtitle / description"
+      ],
+      "Suche, Angaben & Export": [
+        "Search, metadata & export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Show live session search field"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Show room and venue details"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Show speaker avatars"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Show full calendar export (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessions in chronological order with room, speaker, description, search and .ics export."
+      ],
+      "Suche": [
+        "Search"
+      ],
+      ".ics-Download": [
+        ".ics download"
+      ],
+      "Layout & Spalten": [
+        "Layout & columns"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Columns (desktop)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Text & detail display"
+      ],
+      "Untertitel": [
+        "Subtitle"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Show session talk topic"
+      ],
+      "Raumangabe anzeigen": [
+        "Show room label"
+      ],
+      "Uhrzeit anzeigen": [
+        "Show start time"
+      ],
+      "Konferenz: ": [
+        "Conference: "
+      ],
+      "%d Spalten": [
+        "%d columns"
+      ],
+      "Vortragsthemen": [
+        "Talk topics"
+      ],
+      "Titel": [
+        "Title"
+      ],
+      "Individueller Titel": [
+        "Custom title"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Calendar services & options"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Show Apple / Outlook (.ics file)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Show Google Calendar direct link"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Show Outlook Web direct link"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Show Microsoft 365 direct link"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Show timezone notice"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Show .ics reminder note"
+      ],
+      "Kalender": [
+        "Calendar"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics file with a reminder one day before the start plus links to Google Calendar, Outlook Web and Microsoft 365."
+      ],
+      ".ics-Datei": [
+        ".ics file"
+      ],
+      "Session-Auswahl": [
+        "Session selector"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "This block has no settings. It displays sessions for the token in the confirmation link; without a token, a notice is shown."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "A seat is allocated on save as long as the session is not fully booked."
+      ],
+      "Ticketpass-Optionen": [
+        "Ticket pass options"
+      ],
+      "Pass-Überschrift": [
+        "Pass title"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Header line (default: event title)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Show print button (print badge)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Show ticket number"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Show invoice number / reference"
+      ],
+      "Check-In Status anzeigen": [
+        "Show check-in status"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pass for confirmed registrations accessed via the token from the confirmation e-mail: name, company, status, invoice number, ticket number and print button."
+      ],
+      "Ticketnummer": [
+        "Ticket number"
+      ],
+      "Druckfunktion": [
+        "Print button"
+      ],
+      "Titel der Veranstaltung": [
+        "Event title"
+      ],
+      "Layout & Farbschema": [
+        "Layout & color scheme"
+      ],
+      "Raster-Layout": [
+        "Grid layout"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4-column grid (default)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2-column grid (wide)"
+      ],
+      "Farbthema": [
+        "Color theme"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (default)"
+      ],
+      "Angezeigte Karten": [
+        "Displayed cards"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Cards describing what the plugin does. The block makes no legal conformity claim."
+      ],
+      "Double Opt-in": [
+        "Double opt-in"
+      ],
+      "Formulare": [
+        "Forms"
+      ],
+      "Eigene Assets": [
+        "Self-hosted assets"
+      ],
+      "Abfrage & Filterung": [
+        "Query & filtering"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maximum number of conferences"
+      ],
+      "Status-Filter": [
+        "Status filter"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Active events only"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Active and archived events"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Archived events only"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Visible metadata & buttons"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Show live search bar"
+      ],
+      "Preisschild anzeigen": [
+        "Show price tag"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Show venue / location"
+      ],
+      "Datums-Badge anzeigen": [
+        "Show date badge"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Show direct .ics calendar link"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Show description excerpt"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA button label"
+      ],
+      "Veranstaltungsübersicht": [
+        "Events overview"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Grid of events with date, price, location, summary, registration button and .ics link."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max. %d events"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Seat Map"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Seat map settings"
+      ],
+      "Überschrift (optional)": [
+        "Heading (optional)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Description (optional)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Enable live updates"
+      ],
+      "Sitzplan": [
+        "Seat map"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Graphical occupancy overview of all sessions of an event with an accessible data table."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Multi-View Calendar"
+      ],
+      "Ansichten & Datenquelle": [
+        "Views & data source"
+      ],
+      "Standardansicht": [
+        "Default view"
+      ],
+      "Monatskalender": [
+        "Month calendar"
+      ],
+      "Wochenplan": [
+        "Week schedule"
+      ],
+      "Tagesagenda": [
+        "Daily agenda"
+      ],
+      "Listenansicht": [
+        "List view"
+      ],
+      "Kartenansicht": [
+        "Card view"
+      ],
+      "Raumübersicht": [
+        "Room overview"
+      ],
+      "Track-Matrix": [
+        "Track matrix"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maximum number of entries"
+      ],
+      "Bedienleiste & Filter": [
+        "Toolbar & filters"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Show view switcher"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Show track and room filters"
+      ],
+      "Suchfeld anzeigen": [
+        "Show search field"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Show ticker bar"
+      ],
+      "Kalender-Ansichten": [
+        "Calendar views"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Multi-view calendar & agenda"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Switchable month, week, day, list, card, room and track views."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Conference Agenda"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interactive multi-track conference schedule with timeline, speaker details, room info and iCal (.ics) download."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (Calendar, Agenda & Tracks)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Extended calendar & agenda suite with 7 interactive frontend views: month calendar, week schedule, daily agenda, list view, photo cards, room map and summit multi-track matrix."
+      ],
+      "block keyword\u0004event": [
+        "event"
+      ],
+      "block keyword\u0004calendar": [
+        "calendar"
+      ],
+      "block keyword\u0004agenda": [
+        "agenda"
+      ],
+      "block keyword\u0004schedule": [
+        "schedule"
+      ],
+      "block keyword\u0004summit": [
+        "summit"
+      ],
+      "block keyword\u0004timetable": [
+        "timetable"
+      ],
+      "block keyword\u0004matrix": [
+        "matrix"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Calendar & .ics Widget"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Calendar widget with .ics download and links to Google Calendar, Outlook Web and Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Hero & Countdown Banner"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Event hero banner with countdown, key facts, status pill and registration buttons."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Overview & Archive Grid"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamic card overview of upcoming conferences, symposia and workshops with search bar and status filters."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Registration Form"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Registration form with Brevo double opt-in, optional profile photo and photo consent."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Seat Map"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Occupancy of all sessions of an event as SVG, kept up to date via Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Security & Trust Badges"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Overview of the plugin's privacy and security features: double opt-in, retention periods, audit log, invoice XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Session & Workshop Selector"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Session selector for confirmed registrations: seats are allocated on save while capacity remains."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Speakers & Experts Grid"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatically generated overview of keynote speakers, session talks, rooms and speaker details."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digital Ticket Pass"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Attendee pass for confirmed registrations with ticket number, event, venue and print button."
+      ]
+    }
+  }
+}

@@ -1,0 +1,2825 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "pl_PL",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Wydarzenia, sesje i rejestracje z podwójnym potwierdzeniem (Double Opt-in) przez Brevo, odprawą uczestników, fakturami XML (EN 16931) oraz eksportem DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Nie znaleziono wydarzenia lub nie jest już aktywne."
+      ],
+      "Verbindlich anmelden": [
+        "Zarejestruj się z obowiązkiem zapłaty"
+      ],
+      "Kostenfrei anmelden": [
+        "Zarejestruj się bezpłatnie"
+      ],
+      "Datum": [
+        "Data"
+      ],
+      "Veranstaltungsort": [
+        "Miejsce wydarzenia"
+      ],
+      "Einlass": [
+        "Wejście"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Po potwierdzeniu linkiem w wiadomości e-mail"
+      ],
+      "Kontaktdaten": [
+        "Dane kontaktowe"
+      ],
+      "Einwilligung": [
+        "Zgoda"
+      ],
+      "Bestätigung": [
+        "Potwierdzenie"
+      ],
+      "Vorname": [
+        "Imię"
+      ],
+      "z. B. Erika": [
+        "np. Anna"
+      ],
+      "Nachname": [
+        "Nazwisko"
+      ],
+      "z. B. Mustermann": [
+        "np. Kowalska"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Służbowy adres e-mail"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Instytucja / urząd / firma"
+      ],
+      "z. B. Beispiel GmbH": [
+        "np. Przykładowa Sp. z o.o."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Zdjęcie profilowe do identyfikatora uczestnika (opcjonalnie)"
+      ],
+      "Profilbild Vorschau": [
+        "Podgląd zdjęcia profilowego"
+      ],
+      "Foto auswählen": [
+        "Wybierz zdjęcie"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG lub WebP · maks. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Ochrona danych i zgoda Double Opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Wyrażam zgodę na przetwarzanie moich danych w celu udziału w konferencji zgodnie z RODO. W celu weryfikacji otrzymam link potwierdzający na adres e-mail."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Przeczytaj politykę prywatności"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Nagrania foto i wideo (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Wyrażam zgodę na wykonywanie w ramach wydarzenia zdjęć i nagrań wideo z moim wizerunkiem na potrzeby działań informacyjnych i promocyjnych organizatora."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Centrum sterowania i obłożenie"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Silnik CyberEvents Enterprise aktywny"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Zarządzanie pojemnością, eksport DATEV i odprawa uczestników"
+      ],
+      "Events": [
+        "Wydarzenia"
+      ],
+      "Bestätigte Gäste": [
+        "Potwierdzeni goście"
+      ],
+      "Ausstehende DOI": [
+        "Oczekujące DOI"
+      ],
+      "Mission Control öffnen": [
+        "Otwórz Centrum sterowania"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Wymagana zgoda RODO"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Ten eksport zawiera chronione dane osobowe zgodnie z art. 4 pkt 1 RODO. Przed pobraniem pliku musisz potwierdzić, że będziesz traktować dane jako poufne, przetwarzać je wyłącznie zgodnie z przeznaczeniem oraz usuniesz je po zakończeniu wydarzenia zgodnie z przepisami o ochronie danych."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Powrót do zarządzania rezerwacjami"
+      ],
+      "DSGVO-Schutz": [
+        "Ochrona RODO"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Eksport danych finansowych i danych dłużników wymaga potwierdzenia, że dane będą traktowane jako poufne i wykorzystywane wyłącznie na potrzeby księgowości."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Powrót do DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "Eksport DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Niewystarczające uprawnienia."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Kokpit i wskaźniki KPI"
+      ],
+      "Dashboard": [
+        "Kokpit"
+      ],
+      "Alle Veranstaltungen": [
+        "Wszystkie wydarzenia"
+      ],
+      "Veranstaltungen": [
+        "Wydarzenia"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Utwórz nowe wydarzenie"
+      ],
+      "Neue Veranstaltung": [
+        "Nowe wydarzenie"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Miejsca wydarzeń i obiekty konferencyjne"
+      ],
+      "Veranstaltungsorte": [
+        "Miejsca wydarzeń"
+      ],
+      "Sessions & Agenda": [
+        "Sesje i program"
+      ],
+      "Neue Session erstellen": [
+        "Utwórz nową sesję"
+      ],
+      "Neue Session": [
+        "Nowa sesja"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Uczestnicy i rezerwacje"
+      ],
+      "CSV-Import & Onboarding": [
+        "Import CSV i wdrożenie uczestników"
+      ],
+      "CSV-Import": [
+        "Import CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finanse i eksport DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Finanse i DATEV"
+      ],
+      "Audit-Log": [
+        "Dziennik audytu"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Ustawienia i studio motywów"
+      ],
+      "Einstellungen": [
+        "Ustawienia"
+      ],
+      "Handbuch & Dokumentation": [
+        "Podręcznik i dokumentacja"
+      ],
+      "Handbuch": [
+        "Podręcznik"
+      ],
+      "Events & Konferenzen": [
+        "Wydarzenia i konferencje"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Uprawnienia do zarządzania wydarzeniami i konferencjami."
+      ],
+      "Teilnehmer verwalten": [
+        "Zarządzaj uczestnikami"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Pozwala na przeglądanie i eksportowanie rejestracji na wydarzenia bez pełnego dostępu administratora WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Ustawienia i motyw"
+      ],
+      "Handbuch & Doku": [
+        "Podręcznik i dok."
+      ],
+      "Plugin-Navigation": [
+        "Nawigacja wtyczki"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Wydarzenie zostało pomyślnie zapisane!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Dane zostały synchronicznie zaktualizowane w bazie danych oraz w systemie WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Wydarzenie zostało usunięte!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Rekord został usunięty, a wpis przeniesiony do kosza."
+      ],
+      "Demodaten angelegt.": [
+        "Utworzono dane demonstracyjne."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Utworzono przykładowe wydarzenie, sesje i przykładowych uczestników; faktury powstają tylko wtedy, gdy skonfigurowano dane wystawcy faktur."
+      ],
+      "CyberEvents Command Console": [
+        "Konsola poleceń CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Edycja Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Wydarzenia, sesje i rejestracje z podwójnym potwierdzeniem (Double Opt-in) przez Brevo, odprawą uczestników, fakturami XML oraz eksportem DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Część rodziny wtyczek WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Tryb Hub"
+      ],
+      "Standalone": [
+        "Samodzielny"
+      ],
+      "Demo-Daten auffrischen": [
+        "Odśwież dane demonstracyjne"
+      ],
+      "Springen zu:": [
+        "Przejdź do:"
+      ],
+      "Kurzanleitung": [
+        "Skrócona instrukcja"
+      ],
+      "Kennzahlen": [
+        "Wskaźniki"
+      ],
+      "Rechnungen": [
+        "Faktury"
+      ],
+      "Audit-Protokoll": [
+        "Dziennik audytu"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Co robi CyberEvents i co znajdziesz na tym ekranie?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Wtyczka zarządza wydarzeniami, sesjami i rejestracjami. Uczestnicy potwierdzają rejestrację przez link Double Opt-in wysyłany przez Brevo (wymagany klucz API), następnie wybierają sesje zabezpieczone przed nadkompletem rezerwacji, a przy wejściu są odprawiani za pomocą swojego tokenu. Faktury są generowane jako CII-XML (EN 16931) i mogą być eksportowane jako paczka księgowa DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Szybki dostęp:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Uczestnicy i rejestracje"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Eksportuj faktury jako paczkę DATEV"
+      ],
+      "Event Auslastung": [
+        "Obłożenie wydarzeń"
+      ],
+      "Kritisch": [
+        "Krytyczny"
+      ],
+      "Optimal": [
+        "Optymalny"
+      ],
+      "Max. Kapazität:": [
+        "Maks. pojemność:"
+      ],
+      "Gebucht:": [
+        "Zarezerwowano:"
+      ],
+      "Live Check-In Counter": [
+        "Licznik odpraw na żywo"
+      ],
+      "Anwesend": [
+        "Obecni"
+      ],
+      "Registriert:": [
+        "Zarejestrowani:"
+      ],
+      "Eingecheckt:": [
+        "Odprawieni:"
+      ],
+      "Wartend:": [
+        "Oczekujący:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nowe rejestracje (24 godz.)"
+      ],
+      "Sessions": [
+        "Sesje"
+      ],
+      "in 24 h": [
+        "w ciągu 24 godz."
+      ],
+      "Ausstehende DOI:": [
+        "Oczekujące DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Telemetria kolejki Brevo CRM"
+      ],
+      "Jobs": [
+        "Zadania"
+      ],
+      "Verarbeitung": [
+        "Przetwarzanie"
+      ],
+      "Verarbeitet:": [
+        "Przetworzono:"
+      ],
+      "Schnellaktionen": [
+        "Szybkie akcje"
+      ],
+      "Neue Konferenz anlegen": [
+        "Utwórz nową konferencję"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Lista uczestników i odprawa"
+      ],
+      "CSV-Batch Import": [
+        "Wsadowy import CSV"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Przegląd wydarzeń i monitorowanie obłożenia"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Potwierdzone rejestracje na każde wydarzenie w stosunku do ustawionej pojemności."
+      ],
+      "Event suchen...": [
+        "Szukaj wydarzenia..."
+      ],
+      "Neue Konferenz": [
+        "Nowa konferencja"
+      ],
+      "Konferenz / Event": [
+        "Konferencja / wydarzenie"
+      ],
+      "Zeitraum": [
+        "Termin"
+      ],
+      "Ort": [
+        "Miejscowość"
+      ],
+      "Kapazität & Belegung": [
+        "Pojemność i obłożenie"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Aktionen": [
+        "Działania"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Nie znaleziono żadnych wydarzeń."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Edytuj w edytorze blokowym Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Edytuj"
+      ],
+      "Schnellbearbeitung": [
+        "Szybka edycja"
+      ],
+      "Vorschau": [
+        "Podgląd"
+      ],
+      "Teilnehmer (%d)": [
+        "Uczestnicy (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Czy na pewno chcesz bezpowrotnie usunąć to wydarzenie?"
+      ],
+      "Löschen": [
+        "Usuń"
+      ],
+      "%d Sessions": [
+        "%d sesji"
+      ],
+      "/ %d Plätze": [
+        "/ %d miejsc"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(bez limitu miejsc)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Edytuj w edytorze Gutenberg"
+      ],
+      "Editor": [
+        "Edytor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Otwórz szybką edycję"
+      ],
+      "Quick": [
+        "Szybka"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Wyświetl stronę na witrynie"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Ważne i anulowane faktury oraz niepotwierdzone rejestracje."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brutto, ważne faktury"
+      ],
+      "Gültige Rechnungen": [
+        "Ważne faktury"
+      ],
+      "Storniert": [
+        "Anulowane"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Niepotwierdzone zapisy"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Eksport DATEV i dziennik audytu"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Paczka księgowa faktur i faktur korygujących z wybranego okresu; konta i kody podatkowe należy uzgodnić z doradcą podatkowym."
+      ],
+      "DATEV Format": [
+        "Format DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategoria 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Łańcuch HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonimizacja po 90 dniach"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Otwórz DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Zobacz dziennik audytu"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Ciągle powiązany dziennik audytu: każdy wpis współpodpisuje poprzedni, dzięki czemu późniejsze zmiany, usunięcia i wstrzyknięcia są wykrywane. Jest to dowód manipulacji, a nie niezmienność — kto odczyta plik wp-config.php, ma dostęp do klucza."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Otwórz pełny dziennik audytu"
+      ],
+      "Zeitstempel": [
+        "Znacznik czasu"
+      ],
+      "Ereignis-Typ": [
+        "Typ zdarzenia"
+      ],
+      "Benutzer / System": [
+        "Użytkownik / system"
+      ],
+      "Objekt-ID": [
+        "ID obiektu"
+      ],
+      "Audit-Details & Nachweis": [
+        "Szczegóły audytu i dowód"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Dotychczas nie zarejestrowano żadnych wpisów audytu."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Edytuj wydarzenie / szybka konfiguracja"
+      ],
+      "Schließen": [
+        "Zamknij"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Tytuł konferencji / wydarzenia:"
+      ],
+      "URL-Slug:": [
+        "Uproszczona nazwa URL (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Miejsce konferencji / lokalizacja:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Początek (data i godzina):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Koniec (data i godzina):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Maks. pojemność uczestników:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Cena biletu (netto w €):"
+      ],
+      "Status:": [
+        "Status:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktywne (opublikowane)"
+      ],
+      "Entwurf (Draft)": [
+        "Szkic (wersja robocza)"
+      ],
+      "Archiviert": [
+        "Zarchiwizowane"
+      ],
+      "Kostenpflichtig": [
+        "Płatne"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Otwórz w edytorze blokowym Gutenberg"
+      ],
+      "Abbrechen": [
+        "Anuluj"
+      ],
+      "Änderungen speichern": [
+        "Zapisz zmiany"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Dane uczestnika zostały pomyślnie zaktualizowane!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Dane rejestracyjne oraz status zostały zapisane w bazie danych."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Uczestnik został usunięty!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Rejestracja i wszystkie powiązane rezerwacje sesji zostały usunięte."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Status odprawy został zaktualizowany!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Status obecności uczestnika został przełączony."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Potwierdzono Double Opt-in!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Rejestracja została ręcznie oznaczona jako potwierdzona."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Zarządzanie uczestnikami i rezerwacjami"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Wszystkie rejestracje ze statusem Double Opt-in, rezerwacjami sesji i fakturami."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Identyfikatory / lista uczestników (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrowanie według konferencji: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Wyczyść filtr"
+      ],
+      "Alle Teilnehmer": [
+        "Wszyscy uczestnicy"
+      ],
+      "Bestätigt": [
+        "Potwierdzono"
+      ],
+      "Ausstehend DOI": [
+        "Oczekujące DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Szukaj imienia, nazwiska, e-maila lub firmy..."
+      ],
+      "Teilnehmer": [
+        "Uczestnik"
+      ],
+      "Organisation / Firma": [
+        "Organizacja / firma"
+      ],
+      "Check-In": [
+        "Odprawa"
+      ],
+      "Rechnung": [
+        "Faktura"
+      ],
+      "Anmeldedatum": [
+        "Data rejestracji"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Brak jakichkolwiek rejestracji."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Edytuj dane uczestnika"
+      ],
+      "Auschecken": [
+        "Wypisz obecność"
+      ],
+      "Einchecken": [
+        "Potwierdź obecność"
+      ],
+      "DOI bestätigen": [
+        "Potwierdź DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Czy na pewno chcesz bezpowrotnie usunąć tego uczestnika?"
+      ],
+      "Status umschalten": [
+        "Przełącz status"
+      ],
+      "Eingecheckt": [
+        "Odprawiony"
+      ],
+      "Nicht vor Ort": [
+        "Nieobecny na miejscu"
+      ],
+      "Rechnungs-XML": [
+        "Faktura XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Bezpłatnie / brak"
+      ],
+      "Edit": [
+        "Edytuj"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Czy na pewno chcesz usunąć tego uczestnika?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Edycja danych uczestnika / zarządzanie uczestnikami"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Zdjęcie profilowe / zdjęcie do identyfikatora uczestnika (JPG, PNG, WebP · maks. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Usuń zdjęcie"
+      ],
+      "Vorname:": [
+        "Imię:"
+      ],
+      "Nachname:": [
+        "Nazwisko:"
+      ],
+      "E-Mail-Adresse:": [
+        "Adres e-mail:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizacja / firma / urząd:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Przypisana konferencja:"
+      ],
+      "Anmeldestatus:": [
+        "Status rejestracji:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Potwierdzona"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Oczekująca (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Anulowana"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Niedostarczalna (zwrot e-mail)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Status odprawy (na miejscu):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nie / nieobecny na miejscu"
+      ],
+      "Ja / Eingecheckt": [
+        "Tak / odprawiony"
+      ],
+      "Rechnungsnummer:": [
+        "Numer faktury:"
+      ],
+      "Zahlungsstatus:": [
+        "Status płatności:"
+      ],
+      "Kostenfrei (Free)": [
+        "Bezpłatna"
+      ],
+      "Ausstehend (Pending)": [
+        "Oczekująca"
+      ],
+      "Bezahlt (Paid)": [
+        "Opłacona"
+      ],
+      "Erstattet (Refunded)": [
+        "Zwrócona"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Udzielono zgody na ochronę danych RODO"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Udzielono zgody na zdjęcia i nagrania wideo"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Ochrona danych RODO i zgoda na eksport"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Ochrona danych osobowych (art. 4 i 5 RODO)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Ten eksport generuje plik CSV zawierający chronione dane osobowe uczestników (pełne imiona i nazwiska, firmy, służbowe adresy e-mail, numery faktur oraz status odprawy)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Ograniczenie celu (art. 5 ust. 1 lit. b RODO):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Dane mogą być wykorzystywane wyłącznie do operacyjnej realizacji wydarzenia (np. druku identyfikatorów, akredytacji przy wejściu)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Poufność i ochrona (art. 5 ust. 1 lit. f RODO):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Przekazywanie nieuprawnionym osobom trzecim lub przechowywanie na niezaszyfrowanych urządzeniach mobilnych jest zabronione."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Obowiązek usunięcia (art. 17 RODO):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Po zakończeniu konferencji wyeksportowany plik lokalny należy niezwłocznie usunąć zgodnie z przepisami o ochronie danych."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Potwierdzam zgodę RODO:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Przyjmuję do wiadomości, że ten eksport zawiera poufne dane osobowe. Zobowiązuję się do starannego przetwarzania ich wyłącznie zgodnie z przeznaczeniem oraz do ścisłego przestrzegania ustawowych wymogów ochrony danych."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Pobierz bezpiecznie eksport CSV teraz"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Faktura XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopiuj XML do schowka"
+      ],
+      "Keine Berechtigung.": [
+        "Brak uprawnień."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Błąd bezpieczeństwa: dozwolone są wyłącznie prawidłowe pliki CSV."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Plik jest zbyt duży (maksymalnie dozwolone 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Wybierz wydarzenie i podaj dane CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Wsadowy import uczestników CSV (ochrona przed duplikatami TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatyczny import list uczestników z systemów zewnętrznych ze ścisłym zapobieganiem podwójnym rejestracjom."
+      ],
+      "Import-Zusammenfassung": [
+        "Podsumowanie importu"
+      ],
+      "Gesamtzeilen": [
+        "Łączna liczba wierszy"
+      ],
+      "Neu Importiert": [
+        "Nowo zaimportowano"
+      ],
+      "Dubletten abgewiesen": [
+        "Odrzucone duplikaty"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Zaimportuj nową listę uczestników"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Wydarzenie docelowe *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Wybierz wydarzenie —"
+      ],
+      "CSV-Datei auswählen": [
+        "Wybierz plik CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Imię;Nazwisko;E-mail;Firma (rozdzielane średnikiem lub przecinkiem, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Lub wklej tekst CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Uruchom import CSV teraz"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "Studio paczek księgowych DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Ustandaryzowany eksport finansowy (kategoria 21, wersja formatu 700 / 125 pól) dla doradców podatkowych i księgowości DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Wybierz okres eksportu"
+      ],
+      "Laufender Monat": [
+        "Bieżący miesiąc"
+      ],
+      "Vormonat": [
+        "Poprzedni miesiąc"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Cały rok 2026"
+      ],
+      "Datum von *": [
+        "Data od *"
+      ],
+      "Datum bis *": [
+        "Data do *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Potwierdzenie eksportu danych dłużników:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Potwierdzam, że eksport danych finansowych i odbiorców faktur obejmuje dane osobowe i zostanie przekazany wyłącznie uprawnionej kancelarii podatkowej w celu prowadzenia ustawowej księgowości i rozliczeń podatkowych."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Pobierz paczkę księgową DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Powiązana ścieżka audytu wszystkich operacji istotnych dla bezpieczeństwa, potwierdzeń Double Opt-in, anulowań i kontroli dostępu."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Łańcuch audytu nienaruszony — %1$d wpisów zweryfikowanych merytorycznie, %2$d spseudonimizowanych (zweryfikowano pozycję w łańcuchu)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Łańcuch audytu NARUSZONY"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d wpis/wpisów pochodzi z okresu sprzed wdrożenia łańcucha i nie posiada weryfikowalnego podpisu. Są one traktowane jako niezweryfikowane, a nie integralne."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "Stała AUTH_KEY nie jest zdefiniowana: klucz łańcucha pochodzi z bazy danych — czyli z tego samego miejsca, w którym atakujący z prawem zapisu mógłby wprowadzić zmiany. Zdefiniuj AUTH_KEY w pliku wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Czas wykonania"
+      ],
+      "Ereignistyp": [
+        "Typ zdarzenia"
+      ],
+      "Referenz-ID": [
+        "ID referencyjne"
+      ],
+      "IP-Adresse": [
+        "Adres IP"
+      ],
+      "Audit-Details (JSON)": [
+        "Szczegóły audytu (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Brak wpisów w dzienniku."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Utworzono wydarzenie \"%1$s\" z %2$d sesjami i %3$d uczestnikami."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Dane demonstracyjne zostały pomyślnie zaimportowane!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Usunięto %1$d wydarzeń, %2$d sesji, %3$d rejestracji oraz %4$d faktur."
+      ],
+      "Demodaten bereinigt!": [
+        "Dane demonstracyjne zostały oczyszczone!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Przywrócono ustawienia fabryczne!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Wszystkie tabele zostały opróżnione, a ustawienia zresetowane."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Przesłany plik motywu został usunięty."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Ustawienia zostały bezpiecznie zapisane."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Konfiguracja i bezpieczeństwo Enterprise"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Wygląd, Brevo, faktury i DATEV, ochrona przed botami oraz dane demonstracyjne."
+      ],
+      "Design & Theme Studio": [
+        "Wygląd i studio motywów"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM i webhooki"
+      ],
+      "Rechnungen & DATEV": [
+        "Faktury i DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Ochrona przed botami (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Dane demonstracyjne i reset"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "System wyglądu na witrynie i dziedziczenie motywu"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Wybierz sposób prezentacji wydarzeń i formularzy rezerwacji na stronie. Domyślnie wtyczka płynnie dziedziczy wszystkie czcionki, kolory i przyciski z aktywnego motywu WordPress."
+      ],
+      "Primärfarbe": [
+        "Kolor główny"
+      ],
+      "Akzentfarbe": [
+        "Kolor akcentu"
+      ],
+      "Kartenhintergrund": [
+        "Tło karty"
+      ],
+      "Textfarbe": [
+        "Kolor tekstu"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Własne kolory i obramowania motywu (konfigurator własnego motywu)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Kolor główny (przyciski i akcenty):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Kolor akcentu (odznaki i poświata):"
+      ],
+      "Seitenhintergrund:": [
+        "Tło strony:"
+      ],
+      "Kartenhintergrund:": [
+        "Tło karty:"
+      ],
+      "Haupttextfarbe:": [
+        "Główny kolor tekstu:"
+      ],
+      "Eckenabrundung (px):": [
+        "Zaokrąglenie narożników (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Prześlij własny motyw CSS (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Prześlij dostosowany arkusz stylów .css (np. motyw-agencji.css). Jest on ładowany w izolacji i automatycznie walidowany."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktywny własny motyw jest obecny"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Czy na pewno chcesz usunąć przesłany plik motywu CSS?"
+      ],
+      "Theme löschen": [
+        "Usuń motyw"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Dodatkowy własny kod CSS (edytor wbudowany)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Wprowadź tutaj własne reguły CSS, np.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 i uwierzytelnianie webhooków"
+      ],
+      "Brevo API Key (v3)": [
+        "Klucz API Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Używany do asynchronicznej wysyłki wiadomości e-mail Double Opt-in oraz synchronizacji atrybutów kontaktów."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Współdzielony sekret webhooka / token podpisu"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Odporny na ataki czasowe token używany do walidacji przychodzących ładunków webhooków Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Klucz API skanera obsługi (kontrola wejścia)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Token uwierzytelniający dla mobilnych skanerów używanych przez obsługę na wejściu."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Poczekalnia: przepustowość na minutę"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Liczba żądań rejestracji i rezerwacji sesji przepuszczanych na minutę i na wydarzenie. Wartość 0 wyłącza poczekalnię (domyślnie). Powyżej tego limitu trasa zwraca kod HTTP 503 z nagłówkiem Retry-After przed wykonaniem zapytania do bazy danych — miejsce nie zostaje zarezerwowane."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Mechanizm licznika w tej instalacji: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "trwała pamięć podręczna obiektów"
+      ],
+      "Datenbank (Transients)": [
+        "baza danych (transients)"
+      ],
+      "DOI Template ID": [
+        "ID szablonu DOI"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID listy kontaktów Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Faktury (CII-XML) i DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Prefiks numeru faktury"
+      ],
+      "Rechnungssteller": [
+        "Wystawca faktury"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Bez poniższych danych faktury ani faktury korygujące nie będą wystawiane: %s."
+      ],
+      "Name / Firma": [
+        "Imię i nazwisko / firma"
+      ],
+      "Straße und Hausnummer": [
+        "Ulica i numer budynku"
+      ],
+      "PLZ": [
+        "Kod pocztowy"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Kraj (kod ISO, np. DE)"
+      ],
+      "USt-IdNr.": [
+        "NIP/VAT"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Numer podatkowy (w przypadku braku numeru VAT UE)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Adres e-mail do faktur"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN do przelewów bankowych (opcjonalnie)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Numer doradcy DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Numer klienta DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Konto przychodów (np. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Konto należności (np. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Wtyczka nie zawiera jeszcze widżetu captcha: ustawienie zostanie zapisane, jednak formularz będzie przetwarzany bez weryfikacji captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Włącz Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Klucz witryny (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Klucz API / sekret"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Zarządzanie danymi demonstracyjnymi i przywracanie ustawień fabrycznych"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Zaimportuj przykładowe dane, usuń je ponownie lub przywróć wtyczkę do ustawień fabrycznych."
+      ],
+      "1. Demodaten importieren": [
+        "1. Zaimportuj dane demonstracyjne"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Tworzy przykładową konferencję z sesjami i przykładowymi uczestnikami. Faktury powstają tylko wtedy, gdy skonfigurowano dane wystawcy faktur."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Czy chcesz teraz zaimportować przykładowe dane?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Zaimportuj dane demonstracyjne (konferencje, sesje, uczestnicy, faktury)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Oczyść dane demonstracyjne (usuń tylko dane testowe)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Usuwa wyłącznie wygenerowane konferencje, sesje, uczestników i faktury demonstracyjne. Rzeczywiste wydarzenia i rezerwacje pozostają całkowicie nienaruszone."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Czy chcesz bezpiecznie usunąć wszystkie dane demonstracyjne? Rzeczywiste dane zostaną zachowane."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Oczyść dane demonstracyjne (tylko dane testowe)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Przywróć ustawienia fabryczne (pełny reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Uwaga (operacja nieodwracalna):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Opróżnia wszystkie tabele wydarzeń, sesji, rejestracji, faktur i dziennika audytu, usuwa wszystkie wpisy cybevent i cybsession oraz przywraca wszystkie ustawienia do stanu domyślnego."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "OSTRZEŻENIE: Czy masz całkowitą pewność? Spowoduje to usunięcie WSZYSTKICH wydarzeń, rejestracji i faktur oraz zresetowanie ustawień!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Pełny reset fabryczny (usuń wszystko i przywróć ustawienia domyślne)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Zachowanie podczas odinstalowywania wtyczki"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Usuń wszystkie tabele i ustawienia podczas odinstalowywania"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Domyślnie wszystkie dane wydarzeń, rejestracji, faktur i audytu są zachowywane po usunięciu wtyczki (ustawowe okresy przechowywania). Włącz tę opcję tylko wtedy, gdy przy usuwaniu wtyczki wszystkie tabele mają zostać trwale usunięte."
+      ],
+      "Alle Einstellungen speichern": [
+        "Zapisz wszystkie ustawienia"
+      ],
+      "Platzbuchung": [
+        "Rezerwacja miejsc"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Miejsce jest rezerwowane pojedynczą warunkową instrukcją UPDATE (belegt = belegt + 1, tylko dopóki belegt < kapazitaet). Spośród dwóch równoczesnych żądań dotyczących ostatniego miejsca tylko jedno modyfikuje wiersz; drugie otrzymuje komunikat „brak wolnych miejsc”."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Faktury i faktury korygujące są generowane w formacie CII-XML zgodnie z profilem EN 16931 i sprawdzane w testach walidatorem Mustang. Plik PDF nie jest generowany, więc XML nie stanowi pliku hybrydowego ZUGFeRD. Zgodność faktur z wymogami prawnymi w konkretnym przypadku weryfikuje doradca podatkowy."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF i księgowość"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Eksportuje faktury i faktury korygujące z wybranego okresu jako paczkę księgową w formacie DATEV (EXTF 700, kategoria 21) w kodowaniu Windows-1252. Konta należności i przychodów pochodzą z ustawień; każdy wiersz ma przypisany kod podatkowy 3. Konta i kody należy uzgodnić z doradcą podatkowym."
+      ],
+      "Handbuch & API:": [
+        "Podręcznik i API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Pełny podręcznik"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Stworzone przez WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Podręcznik administratora i programisty"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Rezerwacja miejsc, faktury XML, eksport DATEV, Brevo Double Opt-in, krótkie kody (shortcodes) oraz presety motywów."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Rezerwacja miejsc bez nadkompletu"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Licznik obłożenia jest zwiększany w pojedynczej instrukcji warunkowej; spośród dwóch równoczesnych żądań dotyczących ostatniego miejsca tylko jedno aktualizuje wiersz:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Faktury XML i DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Faktury i faktury korygujące z danymi wystawcy z ustawień, datą świadczenia usługi i kolejną numeracją. Brak pliku PDF, brak identyfikatora Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Faktury korygujące:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Własny kolejny numer, typ dokumentu 381 z odniesieniem do faktury pierwotnej."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Paczka księgowa za okres w obrębie jednego roku kalendarzowego, kodowanie Windows-1252. Konta i kody podatkowe należy uzgodnić z doradcą podatkowym."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-in i kolejka w tle"
+      ],
+      "Double Opt-In (DOI):": [
+        "Podwójne potwierdzenie (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo wysyła wiadomość e-mail z osobistym linkiem potwierdzającym; link jednorazowo potwierdza rejestrację. Niepotwierdzone rejestracje są usuwane po 14 dniach."
+      ],
+      "Warteschlange:": [
+        "Kolejka:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Wywołania do Brevo przechodzą przez kolejkę w bazie danych, przetwarzaną co minutę przez WP-Cron (lub polecenie wp cybevents queue-run), maksymalnie w pięciu próbach."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Krótkie kody (shortcodes) i integracja z edytorem Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Dostępny cyfrowo formularz rejestracji."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktywny program konferencji i przegląd ścieżek tematycznych."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Wybór sesji oparty na tokenie po potwierdzeniu DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. Polecenia WP-CLI dla administratorów"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Presety motywów i tokeny projektowe"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Warstwa wizualna elastycznie dopasowuje się do dowolnego motywu WordPress lub korzysta z wbudowanych presetów wyglądu:"
+      ],
+      "Presets:": [
+        "Presety:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Kilka presetów kolorystycznych, w tym wariant w głębokim fiolecie, fiolecie i różu (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Dziedziczenie motywu (domyślnie):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Płynnie dziedziczy czcionki, promienie zaokrągleń i kolory główne z aktywnego motywu (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Zmienne CSS (Custom Properties):"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Ważne uwagi i dobre praktyki"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tabele są tworzone z parametrem ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Okresy przechowywania danych:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Niepotwierdzone rejestracje są usuwane po 14 dniach, a wpisy w dzienniku audytu są pseudonimizowane po 90 dniach (z wyjątkiem zdarzeń dotyczących faktur). Wtyczka nie usuwa automatycznie potwierdzonych rejestracji ani faktur; nie ma do tego żadnego ustawienia."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Obsługa kolejki i okresów przechowywania działa przez WP-Cron; na witrynach bez regularnego ruchu wymagane jest prawdziwe zadanie systemowe cron."
+      ],
+      "Cyber Events Suite": [
+        "Pakiet Cyber Events"
+      ],
+      "Veranstaltung auswählen": [
+        "Wybierz wydarzenie"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Wybierz docelowe wydarzenie dla tego bloku."
+      ],
+      "Key Facts Header anzeigen": [
+        "Pokaż nagłówek kluczowych informacji"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Pokaż wskaźnik kroków"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Pokaż przycisk eksportu do kalendarza (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Pokaż licznik odliczania"
+      ],
+      "Freie Plätze anzeigen": [
+        "Pokaż wolne miejsca"
+      ],
+      "Spaltenanzahl": [
+        "Liczba kolumn"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Wybierz prawidłowe wydarzenie w ustawieniach bloku."
+      ],
+      "Vorschau im Editor": [
+        "Podgląd w edytorze"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Wybór sesji dla potwierdzonych rejestracji"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Na witrynie ten blok renderuje się dynamicznie dla każdego uczestnika na podstawie jego indywidualnego tokenu."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Nie znaleziono tokenu potwierdzającego."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Otwórz tę stronę za pomocą spersonalizowanego linku z wiadomości e-mail z potwierdzeniem."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Nieprawidłowy lub wygasły token uczestnika."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Plan miejsc wydarzenia"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Na witrynie ten blok pokazuje obłożenie każdej sesji jako grafikę SVG i aktualizuje je na bieżąco za pomocą Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Nie znaleziono wydarzenia."
+      ],
+      "Jetzt anmelden": [
+        "Zarejestruj się teraz"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Zarejestruj się teraz bezpłatnie"
+      ],
+      "Programm ansehen": [
+        "Zobacz program"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Bezpłatny udział"
+      ],
+      "Anmeldung geöffnet": [
+        "Rejestracja otwarta"
+      ],
+      "Ausgebucht": [
+        "Brak wolnych miejsc"
+      ],
+      "Preis": [
+        "Cena"
+      ],
+      "%d freier Platz": [
+        "%d wolne miejsce",
+        "%d wolne miejsca",
+        "%d wolnych miejsc"
+      ],
+      "von max. %d": [
+        "z maks. %d"
+      ],
+      "Beginn in:": [
+        "Początek za:"
+      ],
+      "Tage": [
+        "Dni"
+      ],
+      "Std.": [
+        "Godz."
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Eksportuj do kalendarza (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (plik .ics)"
+      ],
+      "Google Kalender": [
+        "Kalendarz Google"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Plik .ics zawiera przypomnienie na dzień przed rozpoczęciem wydarzenia."
+      ],
+      "Referenten & Fachexperten": [
+        "Prelegenci i eksperci branżowi"
+      ],
+      "Referenten": [
+        "Prelegenci"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Lista prelegentów zostanie ogłoszona wkrótce."
+      ],
+      "TEILNEHMERPASS": [
+        "IDENTYFIKATOR UCZESTNIKA"
+      ],
+      "Teilnehmerpass": [
+        "Identyfikator uczestnika"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Otwórz bilet i akredytację"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Wprowadź swój 64-znakowy token bezpieczeństwa z wiadomości e-mail z potwierdzeniem:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Wprowadź token (np. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Pokaż identyfikator"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Nieprawidłowy lub nieznany token rezerwacji."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Dla tej rejestracji identyfikator uczestnika nie jest dostępny: nie została ona potwierdzona lub została anulowana."
+      ],
+      "Max Mustermann": [
+        "Jan Kowalski"
+      ],
+      "Beispiel GmbH": [
+        "Przykładowa Sp. z o.o."
+      ],
+      "Veranstaltung": [
+        "Wydarzenie"
+      ],
+      "Rechnungs-Nr.": [
+        "Nr faktury"
+      ],
+      "Keine": [
+        "Brak"
+      ],
+      "Ticket-Nummer": [
+        "Numer biletu"
+      ],
+      "Pass drucken": [
+        "Drukuj identyfikator"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Ochrona danych i bezpieczeństwo"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double Opt-in i okresy przechowywania"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Rejestracja staje się ważna dopiero po potwierdzeniu kliknięciem linku w wiadomości e-mail. Niepotwierdzone rejestracje są usuwane po 14 dniach, a wpisy w dzienniku audytu są pseudonimizowane po 90 dniach."
+      ],
+      "Beschriftete Formulare": [
+        "Opisane formularze"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Pola formularzy z widocznymi etykietami, oznaczonymi polami wymaganymi oraz komunikatami statusu odczytywanymi przez czytniki ekranu."
+      ],
+      "Eigene Skripte und Styles": [
+        "Własne skrypty i arkusze stylów"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Wtyczka ładuje swoje skrypty, arkusze stylów i ikony z własnego serwera, a nie z sieci CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Dziennik audytu i tokeny"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Dziennik audytu powiązany algorytmem HMAC-SHA256 umożliwia wykrycie późniejszych manipulacji. Tokeny uczestników są przechowywane wyłącznie jako skróty SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Faktury XML i DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Faktury jako CII-XML zgodnie z profilem EN 16931 oraz eksport jako paczka księgowa DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Przyjazna dla prywatności ochrona przed botami bez śledzenia użytkowników ani zagadek obrazkowych, zgodna z unijnym prawem ochrony danych."
+      ],
+      "Zur Anmeldung": [
+        "Przejdź do logowania"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Brak zarchiwizowanych wydarzeń."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Obecnie nie ma żadnych zaplanowanych wydarzeń."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtruj wydarzenia według tytułu lub miejsca..."
+      ],
+      "Kostenfrei": [
+        "Bezpłatnie"
+      ],
+      "In Kalender eintragen": [
+        "Dodaj do kalendarza"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Pasek informacyjny konferencji i programu na żywo"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TELEMETRIA PROGRAMU NA ŻYWO"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Sterowanie widokami i filtrami"
+      ],
+      "Kalenderansichten": [
+        "Widoki kalendarza"
+      ],
+      "Monat": [
+        "Miesiąc"
+      ],
+      "Woche": [
+        "Tydzień"
+      ],
+      "Tag / Agenda": [
+        "Dzień / program"
+      ],
+      "Liste": [
+        "Lista"
+      ],
+      "Karten": [
+        "Karty"
+      ],
+      "Räume & Ort": [
+        "Sale i miejsce"
+      ],
+      "Summit Tracks": [
+        "Ścieżki szczytu"
+      ],
+      "Vorheriger Zeitraum": [
+        "Poprzedni okres"
+      ],
+      "Nächster Zeitraum": [
+        "Następny okres"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Szukaj wydarzenia, tematu lub prelegenta..."
+      ],
+      "Suchbegriff eingeben": [
+        "Wpisz szukaną frazę"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtruj ścieżkę lub kategorię"
+      ],
+      "Alle Fach-Tracks": [
+        "Wszystkie ścieżki specjalistyczne"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Ścieżka 01: Kryptografia postkwantowa"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Ścieżka 02: Zero Trust i odporność DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Ścieżka 03: Autonomiczna SI i ochrona tajemnicy zawodowej"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Ścieżka 04: Łańcuch dostaw oprogramowania i CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtruj salę konferencyjną"
+      ],
+      "Alle Säle & Räume": [
+        "Wszystkie sale i pomieszczenia"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Sala plenarna Alpha (prelekcje główne)"
+      ],
+      "Security Lab Beta": [
+        "Laboratorium bezpieczeństwa Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Studio warsztatowe Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Wirtualne centrum transmisji AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Widok kalendarza miesięcznego"
+      ],
+      "Mo": [
+        "Pn"
+      ],
+      "Di": [
+        "Wt"
+      ],
+      "Mi": [
+        "Śr"
+      ],
+      "Do": [
+        "Cz"
+      ],
+      "Fr": [
+        "Pt"
+      ],
+      "Sa": [
+        "So"
+      ],
+      "So": [
+        "Nd"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Widok harmonogramu tygodniowego i siatki godzinowej"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Widok programu dziennego i osi czasu"
+      ],
+      "Chronologische Listenansicht": [
+        "Chronologiczny widok listy"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Wizualny widok kart ze zdjęciami"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Widok nawigatora miejsca i sal"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Wielościeżkowa matryca szczytu"
+      ],
+      "Dialog schließen": [
+        "Zamknij okno dialogowe"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Nieprawidłowy identyfikator sesji lub rejestracji."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Rezerwacja nie mogła zostać przetworzona z powodu błędu bazy danych."
+      ],
+      "Session %d existiert nicht.": [
+        "Sesja %d nie istnieje."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "Sesja „%1$s” jest w pełni zarezerwowana (zajęto %2$d z %2$d miejsc)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Nie udało się zapisać rezerwacji. Miejsce zostało ponownie zwolnione."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Anulowanie nie mogło zostać przetworzone z powodu błędu bazy danych."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Nie przesłano prawidłowego pliku."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Błąd podczas przesyłania pliku."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Zdjęcie profilowe może mieć maksymalnie 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Nieprawidłowy format pliku. Dozwolone formaty to JPG, PNG i WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Nieprawidłowe rozszerzenie pliku. Dozwolone rozszerzenia to .jpg, .jpeg, .png i .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Błąd podczas zapisywania zdjęcia profilowego."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Dziennik audytu jest pusty, mimo że wcześniej odnotowano %d wpisów."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Niepodpisany wpis został później wstrzyknięty do łańcucha."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Przerwanie łańcucha przy wpisie #%d: wpis usunięto, wstawiono lub zmieniono kolejność."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Podpis wpisu #%d nie zgadza się z jego sumą kontrolną."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Wpis #%d jest oznaczony jako spseudonimizowany, ale bez ważnego dowodu: jego treść mogła zostać zmieniona."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Treść wpisu #%d została zmieniona po jego utworzeniu."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Koniec dziennika nie zgadza się z ostatnim zapisanym wpisem. Usunięto najnowsze wpisy."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Wydarzenia"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Wydarzenie"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Wydarzenie"
+      ],
+      "event\u0004Neu erstellen": [
+        "Dodaj nowe"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Edytuj wydarzenie"
+      ],
+      "Veranstaltung ansehen": [
+        "Zobacz wydarzenie"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Przeszukaj wydarzenia"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Brak wydarzeń w koszu."
+      ],
+      "Veranstaltungsdaten": [
+        "Dane wydarzenia"
+      ],
+      "Veranstaltungsort:": [
+        "Miejsce wydarzenia:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Zarządzaj miejscami wydarzeń ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Wybierz zapisane miejsce konferencji —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Ręcznie wpisane miejsce / sala / adres..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Wybierz zapisane miejsce z listy lub indywidualnie dostosuj nazwę miejsca albo oznaczenie sali."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Początek (data i godzina):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Koniec (data i godzina):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Wydarzenie płatne"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Obecnie nie ma dostępnych harmonogramów konferencji."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Szukaj tematu, prelegenta lub sali..."
+      ],
+      "Konferenz-Agenda": [
+        "Program konferencji"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Szczegółowy program zostanie ogłoszony wkrótce."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Dane uczestników CyberEvents"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Firma / organizacja"
+      ],
+      "Profilbild": [
+        "Zdjęcie profilowe"
+      ],
+      "Einwilligung Datenschutz": [
+        "Zgoda na ochronę danych"
+      ],
+      "ja": [
+        "tak"
+      ],
+      "nein": [
+        "nie"
+      ],
+      "Einwilligung Fotos": [
+        "Zgoda na zdjęcia"
+      ],
+      "Bestätigung angefordert": [
+        "Wysłano prośbę o potwierdzenie"
+      ],
+      "Bestätigt am": [
+        "Potwierdzono dnia"
+      ],
+      "Eingecheckt am": [
+        "Odprawiono dnia"
+      ],
+      "Gebuchte Sessions": [
+        "Zarezerwowane sesje"
+      ],
+      "Rechnungsnummer": [
+        "Numer faktury"
+      ],
+      "CyberEvents Registrierungen": [
+        "Rejestracje CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Faktury CyberEvents"
+      ],
+      "Empfänger": [
+        "Odbiorca"
+      ],
+      "Adresse": [
+        "Adres"
+      ],
+      "Bruttobetrag": [
+        "Kwota brutto"
+      ],
+      "Ausgestellt am": [
+        "Wystawiono dnia"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Nie udało się usunąć rejestracji #%d."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Nie udało się zanonimizować rejestracji #%d; dane pozostały bez zmian."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Rejestracja #%1$d została zanonimizowana. Faktura %2$s zawierająca imię i nazwisko, adres oraz e-mail pozostaje zapisana bez zmian; wtyczka nie usuwa faktur."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Webhook Brevo bez współdzielonego sekretu jest wyłączony (zwraca kod 401). Zwroty i wypisania z subskrypcji nie będą przetwarzane do czasu skonfigurowania sekretu."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nie skonfigurowano klucza API Brevo: wiadomości e-mail z potwierdzeniem nie będą wysyłane, a nowe rejestracje pozostaną niepotwierdzone i zostaną usunięte po 14 dniach."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Funkcja Friendly Captcha jest włączona, ale nie działa: wtyczka nie zawiera widżetu captcha, dlatego formularz jest przetwarzany bez ochrony przed botami."
+      ],
+      "Einstellungen öffnen": [
+        "Otwórz ustawienia"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Zbyt wiele żądań. Spróbuj ponownie za minutę."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Wybór nie został zapisany: %s Twoje dotychczasowe rezerwacje pozostają bez zmian."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Nowe sesje zostały zarezerwowane, ale nie każdą odznaczoną sesję udało się zwolnić: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Nieprawidłowy token bezpieczeństwa (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Nieprawidłowy token formularza (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Uczestnik nieautoryzowany lub nieznaleziony."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nie przesłano pliku obrazu."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Zdjęcie profilowe zostało pomyślnie zaktualizowane."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Brak tokenu potwierdzającego."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Nieprawidłowy lub jeszcze niepotwierdzony bilet."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Dla tego wydarzenia nie skonfigurowano żadnych sesji."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Plan miejsc: zajęte i wolne miejsca w poszczególnych sesjach"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — zajęto %2$d z %3$d miejsc"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Nie określono wydarzenia dla planu miejsc."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Wydarzenie przypisane do planu miejsc nie istnieje."
+      ],
+      "frei": [
+        "wolne"
+      ],
+      "belegt": [
+        "zajęte"
+      ],
+      "von Ihnen gebucht": [
+        "zarezerwowane przez Ciebie"
+      ],
+      "Belegung je Session": [
+        "Obłożenie poszczególnych sesji"
+      ],
+      "Session": [
+        "Sesja"
+      ],
+      "Belegt": [
+        "Zajęte"
+      ],
+      "Frei": [
+        "Wolne"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Obłożenie aktualizuje się automatycznie."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stan z chwili załadowania strony; obłożenie nie aktualizuje się na żywo."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Dane demonstracyjne: rezerwacja dla %1$s odrzucona — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Dane demonstracyjne: udział anulowany"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sesje i ścieżki"
+      ],
+      "post type singular name\u0004Session": [
+        "Sesja"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sesje"
+      ],
+      "Alle Sessions": [
+        "Wszystkie sesje"
+      ],
+      "Session bearbeiten": [
+        "Edytuj sesję"
+      ],
+      "Session ansehen": [
+        "Zobacz sesję"
+      ],
+      "Sessions durchsuchen": [
+        "Przeszukaj sesje"
+      ],
+      "Keine Sessions gefunden.": [
+        "Nie znaleziono żadnych sesji."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Brak sesji w koszu."
+      ],
+      "Session-Daten": [
+        "Dane sesji"
+      ],
+      "Zugehörige Konferenz:": [
+        "Powiązana konferencja:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Nie wybrano konferencji —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Prelegent i instytucja:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "np. Anna Kowalska (Przykładowa Sp. z o.o.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Sala / aula / ścieżka:"
+      ],
+      "Workshop-Kapazität:": [
+        "Pojemność warsztatu:"
+      ],
+      "Speaker": [
+        "Prelegent"
+      ],
+      "Raum / Track": [
+        "Sala / ścieżka"
+      ],
+      "Zeitfenster": [
+        "Przedział czasowy"
+      ],
+      "Belegung": [
+        "Obłożenie"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Witamy, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Wybierz swoje sesje. Miejsce zostaje przydzielone przy zapisie, dopóki w sesji są wolne miejsca."
+      ],
+      "Anmeldung bestätigt": [
+        "Rejestracja potwierdzona"
+      ],
+      "Für diese Session eingetragen": [
+        "Zapisano na tę sesję"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Wybierz ten punkt programu"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Miejsce zostaje przydzielone przy zapisie, dopóki w sesji są wolne miejsca."
+      ],
+      "Sessions ausgewählt": [
+        "Wybrane sesje"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Zapisz wybór"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Standard motywu WordPress (dziedziczony automatycznie)"
+      ],
+      "Empfohlen": [
+        "Zalecane"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Przejmuje typografię, kolory, przyciski i odstępy 1:1 z aktywnego motywu WordPress (GeneratePress, Astra, Twenty Twenty-Four itp.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Fiolet i róż (ciemny liliowy, fiolet, różowy akcent)"
+      ],
+      "Farbstark": [
+        "Wyrazisty"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Ciemny liliowy (#482683), jasny fiolet (#7D40E7), różowy akcent (#DF0079), Noto Sans, jeśli motyw go wczytuje, i subtelny gradient."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (granat i cyjan)"
+      ],
+      "High-Tech Dark": [
+        "Ciemny styl High-Tech"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Dedykowany ciemny i kobaltowy wygląd z efektami poświaty, dopasowany do konferencji o cyberbezpieczeństwie."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalistyczny nowoczesny (łupek i monochromia)"
+      ],
+      "Modern": [
+        "Nowoczesny"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Przejrzysty, stonowany wygląd SaaS z neutralnymi odcieniami szarości, subtelnymi krawędziami i dużą ilością białej przestrzeni."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Redakcyjny ciepły (klasyczny i ciepłe barwy)"
+      ],
+      "Klassik": [
+        "Klasyczny"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Ciepłe odcienie kości słoniowej i burgundu stworzone z myślą o sympozjach akademickich i prestiżowych kongresach branżowych."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Wysoki kontrast (czarny na białym)"
+      ],
+      "Hochkontrast": [
+        "Wysoki kontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Czarny tekst na białym tle (kontrast 21:1) z żółtym akcentem i wzmocnionymi obrysami fokusu."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Własny motyw (własne kolory i CSS)"
+      ],
+      "Individuell": [
+        "Własny"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Dowolny dobór kolorów i obsługa przesłanych arkuszy stylów CSS."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nie przekazano prawidłowego pliku do przesłania."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Błąd bezpieczeństwa: dozwolone jest przesyłanie wyłącznie czystych plików .css."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Plik CSS przekracza limit 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Nie udało się zapisać pliku motywu na serwerze."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Własny motyw CSS został pomyślnie przesłany i aktywowany."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Miejsca wydarzeń"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Miejsce wydarzenia"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Przeszukaj miejsca wydarzeń"
+      ],
+      "Häufige Tagungsorte": [
+        "Popularne miejsca konferencji"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Wszystkie miejsca wydarzeń"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Edytuj miejsce wydarzenia"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Zaktualizuj miejsce wydarzenia"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Dodaj nowe miejsce wydarzenia"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Nazwa nowego miejsca konferencji"
+      ],
+      "Orte mit Kommas trennen": [
+        "Rozdziel miejsca przecinkami"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Dodaj lub usuń miejsca"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Wybierz z najczęściej używanych miejsc"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Nie znaleziono miejsc wydarzeń."
+      ],
+      "Stadt / Ort:": [
+        "Miasto / miejscowość:"
+      ],
+      "z. B. Musterstadt": [
+        "np. Warszawa"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Miasto lub gmina miejsca konferencji."
+      ],
+      "Straße & Hausnummer:": [
+        "Ulica i numer budynku:"
+      ],
+      "z. B. Musterstraße 1": [
+        "np. ul. Przykładowa 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Kod pocztowy:"
+      ],
+      "Land:": [
+        "Kraj:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maksymalna pojemność sali (osoby):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Dostępne dla wózków inwalidzkich"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Zaznacz tylko po zweryfikowaniu. Informacja ta pojawia się na liście miejsc wydarzeń oraz w trasie REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Adres URL mapy / wskazówek dojazdu:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Strona internetowa miejsca konferencji:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maksymalna pojemność sali:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Pojemność osobowa części konferencyjnej."
+      ],
+      "Zugänglichkeit:": [
+        "Dostępność:"
+      ],
+      "Google Maps Link:": [
+        "Link do mapy:"
+      ],
+      "Stadt & Adresse": [
+        "Miasto i adres"
+      ],
+      "Kapazität": [
+        "Pojemność"
+      ],
+      "Rollstuhlgerecht": [
+        "Dla wózków inwalidzkich"
+      ],
+      "Ja": [
+        "Tak"
+      ],
+      "Nicht angegeben": [
+        "Nie podano"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Bardzo dużo równoczesnych żądań. Spróbuj ponownie za %d sekund. Miejsce nie zostało jeszcze zarezerwowane."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Bez trwałej pamięci podręcznej obiektów (Redis, Memcached) poczekalnia zlicza wywołania w bazie danych: odrzucone żądania oszczędzają zapytań rezerwacyjnych, ale same kosztują jeden odczyt i jeden zapis w tabeli opcji."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Wskaźniki Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Wskaźnik Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Wyświetla wskaźniki na żywo dotyczące aktywnych konferencji, potwierdzeń i wolnych miejsc."
+      ],
+      "Kennzahl": [
+        "Wskaźnik"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "ID wydarzenia (opcjonalnie)"
+      ],
+      "Dokumentation": [
+        "Dokumentacja"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Podaj prawidłowy identyfikator wydarzenia: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Nie znaleziono prawidłowego tokenu potwierdzającego. Skorzystaj z linku w wiadomości e-mail."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Najnowsze aktywne wydarzenie (automatycznie) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatycznie (bieżąca konferencja)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Wybór wydarzenia"
+      ],
+      "Ziel-Konferenz": [
+        "Konferencja docelowa"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Wybierz konferencję, której dane mają zostać załadowane w sekcji wyróżnionej (Hero)."
+      ],
+      "Design & Layout-Presets": [
+        "Presety wyglądu i układu"
+      ],
+      "Theme-Preset": [
+        "Preset motywu"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (domyślny)"
+      ],
+      "Federal Blue": [
+        "Federalny błękit"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunkowa poświata cyjanowa"
+      ],
+      "Clean White & Modern": [
+        "Czysta biel i nowoczesność"
+      ],
+      "Glassmorphism Blur": [
+        "Rozmycie szklistości (Glassmorphism)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Zaokrąglenie narożników (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Brak (0px)"
+      ],
+      "Mittel (8px)": [
+        "Średnie (8px)"
+      ],
+      "Groß (16px)": [
+        "Duże (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Bardzo duże (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Włącz efekt poświaty"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Teksty i przyciski wezwania do działania (CTA)"
+      ],
+      "Badge / Dachzeile": [
+        "Odznaka / nadtytuł"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Własny nagłówek główny (opcjonalnie)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Domyślnie: tytuł wydarzenia"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Własny tekst wprowadzający (lead)"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Domyślnie: opis wydarzenia"
+      ],
+      "Primärer CTA-Button Text": [
+        "Tekst głównego przycisku CTA"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Docelowy link / kotwica głównego przycisku CTA"
+      ],
+      "Sekundären Button anzeigen": [
+        "Pokaż przycisk dodatkowy"
+      ],
+      "Sekundärer Button Text": [
+        "Tekst przycisku dodatkowego"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Docelowy link przycisku dodatkowego"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Widoczność elementów"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Pokaż licznik odliczania na żywo"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Pokaż pigułkę wolnych miejsc / pojemności"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Pokaż pigułkę statusu (otwarte / brak miejsc)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Pokaż miejsce wydarzenia"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Pokaż datę i godzinę"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Pokaż cenę biletu / odznakę bezpłatnego udziału"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Pokaż przycisk eksportu do kalendarza (.ics)"
+      ],
+      "Kopfbereich": [
+        "Sekcja nagłówkowa (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Domyślnie: opis wydarzenia oraz data, miejsce, cena, wolne miejsca, odliczanie i przycisk rejestracji."
+      ],
+      "Countdown": [
+        "Odliczanie"
+      ],
+      "Freie Plätze": [
+        "Wolne miejsca"
+      ],
+      "Stil: %s": [
+        "Styl: %s"
+      ],
+      "Button: %s": [
+        "Przycisk: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Wybór konferencji"
+      ],
+      "Ziel-Veranstaltung": [
+        "Wydarzenie docelowe"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Wybierz wydarzenie, na które rejestrują się odwiedzający."
+      ],
+      "Formular-Design & Theme": [
+        "Wygląd i motyw formularza"
+      ],
+      "Formular-Stil": [
+        "Styl formularza"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (domyślny)"
+      ],
+      "Clean White Studio": [
+        "Jasne białe studio"
+      ],
+      "Eckenabrundung": [
+        "Zaokrąglenie narożników"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Pola formularza i opcje zbierania danych"
+      ],
+      "Individueller Formulartitel": [
+        "Własny tytuł formularza"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Własny podtytuł / wskazówka"
+      ],
+      "Standard: kein Untertitel": [
+        "Domyślnie: brak podtytułu"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Pokaż pole organizacji / firmy"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Pokaż pole zgody na zdjęcia i nagrania wideo"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Pokaż nagłówek kluczowych informacji w formularzu"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Etykieta przycisku i linki ochrony danych"
+      ],
+      "Absende-Button Beschriftung": [
+        "Etykieta przycisku wysyłania"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Własny adres URL polityki prywatności (opcjonalnie)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Domyślnie: strona polityki prywatności z Ustawienia > Prywatność"
+      ],
+      "Anmeldeformular": [
+        "Formularz rejestracji"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Rejestracja z Double Opt-in: Brevo wysyła link potwierdzający i dopiero po potwierdzeniu rejestracja staje się ważna."
+      ],
+      "Standard nach Ticketpreis": [
+        "Domyślnie na podstawie ceny biletu"
+      ],
+      "Überschrift & Untertitel": [
+        "Nagłówek i podtytuł"
+      ],
+      "Überschrift": [
+        "Nagłówek"
+      ],
+      "Untertitel / Beschreibung": [
+        "Podtytuł / opis"
+      ],
+      "Suche, Angaben & Export": [
+        "Wyszukiwanie, metadane i eksport"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Pokaż pole wyszukiwania sesji na żywo"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Pokaż informacje o sali i miejscu"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Pokaż awatary prelegentów"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Pokaż pełny eksport kalendarza (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sesje w porządku chronologicznym z salą, prelegentem, opisem, wyszukiwaniem i eksportem .ics."
+      ],
+      "Suche": [
+        "Wyszukiwanie"
+      ],
+      ".ics-Download": [
+        "Pobieranie .ics"
+      ],
+      "Layout & Spalten": [
+        "Układ i kolumny"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Liczba kolumn (komputer)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Teksty i wyświetlane szczegóły"
+      ],
+      "Untertitel": [
+        "Podtytuł"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Pokaż temat wystąpienia w sesji"
+      ],
+      "Raumangabe anzeigen": [
+        "Pokaż oznaczenie sali"
+      ],
+      "Uhrzeit anzeigen": [
+        "Pokaż godzinę rozpoczęcia"
+      ],
+      "Konferenz: ": [
+        "Konferencja: "
+      ],
+      "%d Spalten": [
+        "%d kolumn"
+      ],
+      "Vortragsthemen": [
+        "Tematy wystąpień"
+      ],
+      "Titel": [
+        "Tytuł"
+      ],
+      "Individueller Titel": [
+        "Własny tytuł"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Usługi i opcje kalendarza"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Pokaż Apple / Outlook (plik .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Pokaż bezpośredni link do Kalendarza Google"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Pokaż bezpośredni link do Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Pokaż bezpośredni link do Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Pokaż informację o strefie czasowej"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Pokaż informację o przypomnieniu w pliku .ics"
+      ],
+      "Kalender": [
+        "Kalendarz"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Plik .ics z przypomnieniem na dzień przed rozpoczęciem oraz linkami do Kalendarza Google, Outlook Web i Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Plik .ics"
+      ],
+      "Session-Auswahl": [
+        "Wybór sesji"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Ten blok nie ma żadnych ustawień. Wyświetla sesje przypisane do tokenu z linku potwierdzającego; w przypadku braku tokenu pojawia się stosowny komunikat."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Miejsce zostaje przydzielone przy zapisie, dopóki w sesji są wolne miejsca."
+      ],
+      "Ticketpass-Optionen": [
+        "Opcje identyfikatora biletowego"
+      ],
+      "Pass-Überschrift": [
+        "Nagłówek identyfikatora"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Wiersz nagłówka (domyślnie: tytuł wydarzenia)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Pokaż przycisk drukowania (drukuj identyfikator)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Pokaż numer biletu"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Pokaż numer faktury / referencję"
+      ],
+      "Check-In Status anzeigen": [
+        "Pokaż status odprawy"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Identyfikator dla potwierdzonych rejestracji otwierany za pomocą tokenu z wiadomości e-mail z potwierdzeniem: imię i nazwisko, firma, status, numer faktury, numer biletu oraz funkcja drukowania."
+      ],
+      "Ticketnummer": [
+        "Numer biletu"
+      ],
+      "Druckfunktion": [
+        "Funkcja drukowania"
+      ],
+      "Titel der Veranstaltung": [
+        "Tytuł wydarzenia"
+      ],
+      "Layout & Farbschema": [
+        "Układ i schemat kolorów"
+      ],
+      "Raster-Layout": [
+        "Układ siatki"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Siatka 4-kolumnowa (domyślnie)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Siatka 2-kolumnowa (duża)"
+      ],
+      "Farbthema": [
+        "Motyw kolorystyczny"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (domyślny)"
+      ],
+      "Angezeigte Karten": [
+        "Wyświetlane karty"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Karty opisujące funkcje wtyczki. Blok nie ocenia, czy witryna spełnia wymogi prawne."
+      ],
+      "Double Opt-in": [
+        "Double Opt-in"
+      ],
+      "Formulare": [
+        "Formularze"
+      ],
+      "Eigene Assets": [
+        "Własne zasoby"
+      ],
+      "Abfrage & Filterung": [
+        "Zapytanie i filtrowanie"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maksymalna liczba konferencji"
+      ],
+      "Status-Filter": [
+        "Filtr statusu"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Tylko aktywne wydarzenia"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktywne i zarchiwizowane wydarzenia"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Tylko zarchiwizowane wydarzenia"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Widoczne metadane i przyciski"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Pokaż pasek wyszukiwania na żywo"
+      ],
+      "Preisschild anzeigen": [
+        "Pokaż etykietę ceny"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Pokaż lokalizację / miejsce konferencji"
+      ],
+      "Datums-Badge anzeigen": [
+        "Pokaż odznakę daty"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Pokaż bezpośredni link kalendarza .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Pokaż tekst opisu"
+      ],
+      "CTA-Button Beschriftung": [
+        "Etykieta przycisku CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Przegląd wydarzeń"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Siatka wydarzeń z datą, ceną, miejscem, krótkim opisem, przyciskiem rejestracji i linkiem .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Maks. %d wydarzeń"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events — Plan miejsc"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Ustawienia planu miejsc"
+      ],
+      "Überschrift (optional)": [
+        "Nagłówek (opcjonalnie)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Tekst opisu (opcjonalnie)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Włącz aktualizację na żywo"
+      ],
+      "Sitzplan": [
+        "Plan miejsc"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Graficzny przegląd obłożenia wszystkich sesji wydarzenia z dostępną cyfrowo tabelą danych."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events — Kalendarz wielowidokowy"
+      ],
+      "Ansichten & Datenquelle": [
+        "Widoki i źródło danych"
+      ],
+      "Standardansicht": [
+        "Widok domyślny"
+      ],
+      "Monatskalender": [
+        "Kalendarz miesięczny"
+      ],
+      "Wochenplan": [
+        "Harmonogram tygodniowy"
+      ],
+      "Tagesagenda": [
+        "Program dzienny"
+      ],
+      "Listenansicht": [
+        "Widok listy"
+      ],
+      "Kartenansicht": [
+        "Widok kart"
+      ],
+      "Raumübersicht": [
+        "Przegląd sal"
+      ],
+      "Track-Matrix": [
+        "Matryca ścieżek"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maksymalna liczba wpisów"
+      ],
+      "Bedienleiste & Filter": [
+        "Pasek narzędzi i filtry"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Pokaż przełącznik widoków"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Pokaż filtry ścieżek i sal"
+      ],
+      "Suchfeld anzeigen": [
+        "Pokaż pole wyszukiwania"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Pokaż pasek komunikatów"
+      ],
+      "Kalender-Ansichten": [
+        "Widoki kalendarza"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Kalendarz wielowidokowy i program"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Przełączalne widoki miesiąca, tygodnia, dnia, listy, kart, sal i ścieżek."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events — Program konferencji"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktywny wielościeżkowy plan konferencji z osią czasu, szczegółami prelegentów, filtrami sal i pobieraniem pliku iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalendarz, program i ścieżki)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Rozszerzony pakiet kalendarza i programu z 7 interaktywnymi widokami: kalendarz miesięczny, harmonogram tygodniowy, program dzienny, widok listy, karty ze zdjęciami, mapa sal oraz wielościeżkowa matryca szczytu."
+      ],
+      "block keyword\u0004event": [
+        "wydarzenie"
+      ],
+      "block keyword\u0004calendar": [
+        "kalendarz"
+      ],
+      "block keyword\u0004agenda": [
+        "program"
+      ],
+      "block keyword\u0004schedule": [
+        "harmonogram"
+      ],
+      "block keyword\u0004summit": [
+        "konferencja"
+      ],
+      "block keyword\u0004timetable": [
+        "plan"
+      ],
+      "block keyword\u0004matrix": [
+        "matryca"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events — Widżet kalendarza i .ics"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Widżet kalendarza z pobieraniem pliku .ics oraz linkami do Kalendarza Google, Outlook Web i Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event — Baner Hero i licznik odliczania"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Sekcja nagłówkowa wydarzenia z odliczaniem, kluczowymi danymi, statusem i przyciskami rejestracji."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events — Siatka przeglądu i archiwum"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamiczny przegląd kart nadchodzących konferencji, sympozjów i warsztatów z paskiem wyszukiwania i filtrami statusu."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events — Formularz rejestracji"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Formularz rejestracji z podwójnym potwierdzeniem (Double Opt-in) przez Brevo, opcjonalnym zdjęciem profilowym oraz zgodą na wykonywanie zdjęć."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events — Plan miejsc"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Obłożenie wszystkich sesji wydarzenia jako grafika SVG, aktualizowane na bieżąco za pomocą Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events — Odznaki bezpieczeństwa i zaufania"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Przegląd funkcji ochrony danych i bezpieczeństwa wtyczki: Double Opt-in, okresy przechowywania, dziennik audytu, faktury XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events — Selektor sesji i warsztatów"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Wybór sesji dla potwierdzonych rejestracji: miejsca są przydzielane przy zapisie, dopóki w sesji są wolne miejsca."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events — Siatka prelegentów i ekspertów"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatycznie generowany przegląd wszystkich głównych mówców, prelegentów, podziału sal i biogramów."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events — Cyfrowy identyfikator biletowy"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Identyfikator uczestnika dla potwierdzonych rejestracji z numerem biletu, wydarzeniem, miejscem i funkcją drukowania."
+      ]
+    }
+  }
+}

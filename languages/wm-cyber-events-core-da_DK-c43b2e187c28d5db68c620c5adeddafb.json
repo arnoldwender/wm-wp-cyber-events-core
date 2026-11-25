@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "da_DK",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Begivenheder, sessioner og tilmeldinger med dobbelt opt-in via Brevo, tjek ind, faktura-XML (EN 16931) og DATEV-eksport."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Begivenheden blev ikke fundet eller ikke længere aktiv."
+      ],
+      "Verbindlich anmelden": [
+        "Bindende tilmelding"
+      ],
+      "Kostenfrei anmelden": [
+        "Gratis tilmelding"
+      ],
+      "Datum": [
+        "Dato"
+      ],
+      "Veranstaltungsort": [
+        "Mødested"
+      ],
+      "Einlass": [
+        "Indgang"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Efter bekræftelse via link i e-mail"
+      ],
+      "Kontaktdaten": [
+        "Kontaktoplysninger"
+      ],
+      "Einwilligung": [
+        "Samtykke"
+      ],
+      "Bestätigung": [
+        "Bekræftelse"
+      ],
+      "Vorname": [
+        "Fornavn"
+      ],
+      "z. B. Erika": [
+        "f.eks. Mette"
+      ],
+      "Nachname": [
+        "Efternavn"
+      ],
+      "z. B. Mustermann": [
+        "f.eks. Jensen"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Arbejds-e-mailadresse"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institution / myndighed / virksomhed"
+      ],
+      "z. B. Beispiel GmbH": [
+        "f.eks. Eksempel ApS"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilbillede til deltagerpas (valgfrit)"
+      ],
+      "Profilbild Vorschau": [
+        "Forhåndsvisning af profilbillede"
+      ],
+      "Foto auswählen": [
+        "Vælg foto"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG eller WebP · maks. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Databeskyttelse og dobbelt opt-in samtykke *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Jeg giver samtykke til behandling af mine oplysninger i forbindelse med konferencedeltagelse i henhold til GDPR. Til verifikation modtager jeg et bekræftelseslink pr. e-mail."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Læs privatlivspolitik"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Foto- og videooptagelser"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Jeg giver samtykke til, at der under arrangementet må tages foto- og videooptagelser af mig til arrangørens presse- og kommunikationsarbejde."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Mission Control og belægning"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine aktiv"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Kapacitetsstyring, DATEV-eksport og tjek ind"
+      ],
+      "Events": [
+        "Begivenheder"
+      ],
+      "Bestätigte Gäste": [
+        "Bekræftede gæster"
+      ],
+      "Ausstehende DOI": [
+        "Afventende DOI"
+      ],
+      "Mission Control öffnen": [
+        "Åbn Mission Control"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "GDPR-samtykke påkrævet"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Denne eksport indeholder beskyttelsesværdige personoplysninger i henhold til art. 4, nr. 1 i GDPR. Før download skal du bekræfte, at du behandler oplysningerne fortroligt, udelukkende anvender dem til det fastsatte formål og sletter dem i overensstemmelse med databeskyttelsesreglerne efter arrangementet."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Tilbage til bookingadministration"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR beskyttelse"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Eksport af finans- og debitoroplysninger kræver bekræftelse på, at oplysningerne behandles fortroligt og udelukkende anvendes til bogføring."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Tilbage til DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV-eksport"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Utilstrækkelige rettigheder."
+      ],
+      "Cyber Events": [
+        "Cyberbegivenheder"
+      ],
+      "Dashboard & KPIs": [
+        "Dashboard & KPI'er"
+      ],
+      "Dashboard": [
+        "Kontrolpanel"
+      ],
+      "Alle Veranstaltungen": [
+        "Alle arrangementer"
+      ],
+      "Veranstaltungen": [
+        "Begivenheder"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Opret ny begivenhed"
+      ],
+      "Neue Veranstaltung": [
+        "Ny begivenhed"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Mødesteder og konferencecentre"
+      ],
+      "Veranstaltungsorte": [
+        "Spillesteder"
+      ],
+      "Sessions & Agenda": [
+        "Sessioner og dagsorden"
+      ],
+      "Neue Session erstellen": [
+        "Opret ny session"
+      ],
+      "Neue Session": [
+        "Ny session"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Deltagere og bookinger"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-import og onboarding"
+      ],
+      "CSV-Import": [
+        "CSV-import"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finans & DATEV eksport"
+      ],
+      "Finanzen & DATEV": [
+        "Finans & DATEV"
+      ],
+      "Audit-Log": [
+        "Revisionslog"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Indstillinger og temastudie"
+      ],
+      "Einstellungen": [
+        "Indstillinger"
+      ],
+      "Handbuch & Dokumentation": [
+        "Manual og dokumentation"
+      ],
+      "Handbuch": [
+        "Håndbog"
+      ],
+      "Events & Konferenzen": [
+        "Begivenheder og konferencer"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Rettigheder til administration af begivenheder og konferencer."
+      ],
+      "Teilnehmer verwalten": [
+        "Administrer deltagere"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Tillader visning og eksport af begivenhedsregistreringer uden fuld WordPress-adgang."
+      ],
+      "Einstellungen & Theme": [
+        "Indstillinger og tema"
+      ],
+      "Handbuch & Doku": [
+        "Håndbog og dokumentation"
+      ],
+      "Plugin-Navigation": [
+        "Plugin-navigation"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Begivenheden blev gemt!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Dataene blev opdateret synkront i databasen og i WordPress-systemet."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Begivenhed slettet!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Posten er blevet fjernet, og indlægget er blevet flyttet til papirkurven."
+      ],
+      "Demodaten angelegt.": [
+        "Demodata oprettet."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Eksempelbegivenhed, sessioner og eksempeldeltagere er oprettet; fakturaer oprettes kun, når oplysninger om fakturaudsteder er konfigureret."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents kommandokonsol"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Begivenheder, sessioner og tilmeldinger med dobbelt opt-in via Brevo, tjek ind, faktura-XML og DATEV-eksport."
+      ],
+      "Part of the WM Suite plugin family": [
+        "En del af WM Suite-pluginfamilien"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub-tilstand"
+      ],
+      "Standalone": [
+        "Selvstændig"
+      ],
+      "Demo-Daten auffrischen": [
+        "Opdater demodata"
+      ],
+      "Springen zu:": [
+        "Spring til:"
+      ],
+      "Kurzanleitung": [
+        "Lynvejledning"
+      ],
+      "Kennzahlen": [
+        "Nøgletal"
+      ],
+      "Rechnungen": [
+        "Fakturaer"
+      ],
+      "Audit-Protokoll": [
+        "Auditlog"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Hvad gør CyberEvents, og hvad finder du på denne skærm?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Pluginet administrerer begivenheder med sessioner og tilmeldinger. Deltagere bekræfter deres tilmelding via et dobbelt opt-in-link sendt af Brevo (API-nøgle påkrævet), vælger derefter sessioner, hvis pladser ikke kan overbookes, og tjekkes ind ved indgangen via deres token. Fakturaer oprettes som CII-XML (EN 16931) og kan eksporteres som en DATEV-bogføringsbunke."
+      ],
+      "Schnellzugriff:": [
+        "Hurtig adgang:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Deltagere og tilmeldinger"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Eksportér fakturaer som DATEV-bunke"
+      ],
+      "Event Auslastung": [
+        "Begivenhedsudnyttelse"
+      ],
+      "Kritisch": [
+        "Kritisk"
+      ],
+      "Optimal": [
+        "Bedst"
+      ],
+      "Max. Kapazität:": [
+        "Maks. kapacitet:"
+      ],
+      "Gebucht:": [
+        "Reserverede:"
+      ],
+      "Live Check-In Counter": [
+        "Live check-in skranke"
+      ],
+      "Anwesend": [
+        "Nuværende"
+      ],
+      "Registriert:": [
+        "Registreret:"
+      ],
+      "Eingecheckt:": [
+        "Tjekkede ind:"
+      ],
+      "Wartend:": [
+        "Venter:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nye tilmeldinger (24 t)"
+      ],
+      "Sessions": [
+        "Sessioner"
+      ],
+      "in 24 h": [
+        "på 24 t"
+      ],
+      "Ausstehende DOI:": [
+        "Afventende DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM Queue Telemetri"
+      ],
+      "Jobs": [
+        "Opgaver"
+      ],
+      "Verarbeitung": [
+        "forarbejdning"
+      ],
+      "Verarbeitet:": [
+        "Behandlet:"
+      ],
+      "Schnellaktionen": [
+        "Hurtige handlinger"
+      ],
+      "Neue Konferenz anlegen": [
+        "Opret ny konference"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Deltagerliste og tjek ind"
+      ],
+      "CSV-Batch Import": [
+        "CSV-batchimport"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Begivenhedsoversigt og belægningsovervågning"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Bekræftede tilmeldinger pr. begivenhed i forhold til den indtastede kapacitet."
+      ],
+      "Event suchen...": [
+        "Søg efter begivenhed..."
+      ],
+      "Neue Konferenz": [
+        "Ny konference"
+      ],
+      "Konferenz / Event": [
+        "Konference/arrangement"
+      ],
+      "Zeitraum": [
+        "Periode"
+      ],
+      "Ort": [
+        "By"
+      ],
+      "Kapazität & Belegung": [
+        "Kapacitet og belægning"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Aktionen": [
+        "Handlinger"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Ingen begivenheder fundet."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Rediger i Gutenberg-blokeditoren"
+      ],
+      "Bearbeiten": [
+        "Rediger"
+      ],
+      "Schnellbearbeitung": [
+        "Hurtig redigering"
+      ],
+      "Vorschau": [
+        "Forhåndsvisning"
+      ],
+      "Teilnehmer (%d)": [
+        "Deltagere (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Vil du virkelig slette denne begivenhed permanent?"
+      ],
+      "Löschen": [
+        "Slet"
+      ],
+      "%d Sessions": [
+        "%d sessioner"
+      ],
+      "/ %d Plätze": [
+        "/ %d pladser"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(uden kapacitetsgrænse)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Rediger i Gutenberg Editor"
+      ],
+      "Editor": [
+        "Redaktør"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Åbn hurtig redigering"
+      ],
+      "Quick": [
+        "Hurtigt"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Vis frontend-side"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Gyldige og annullerede fakturaer samt ubekræftede tilmeldinger."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brutto, gyldige fakturaer"
+      ],
+      "Gültige Rechnungen": [
+        "Gyldige fakturaer"
+      ],
+      "Storniert": [
+        "Annulleret"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Ubekræftede tilmeldinger"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV-eksport og revisionslog"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Bogføringsbunke med fakturaer og kreditnotaer for en periode; afstem konti og momskoder med din revisor."
+      ],
+      "DATEV Format": [
+        "DATEV-format"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategori 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256-kæde"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonymisering efter 90 dage"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Åbn DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Se revisionslog"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Fortløbende kædet revisionslog: hver post medsignerer sin forgænger, så efterfølgende ændringer, sletninger og indsættelser opdages. Manipulationsspor, ikke uforanderlighed — den, der kan læse wp-config.php, har nøglen."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Åbn fuld revisionslog"
+      ],
+      "Zeitstempel": [
+        "Tidsstempel"
+      ],
+      "Ereignis-Typ": [
+        "Begivenhedstype"
+      ],
+      "Benutzer / System": [
+        "Bruger/System"
+      ],
+      "Objekt-ID": [
+        "Objekt ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Revisionsdetaljer og beviser"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Ingen revisionsposter registreret endnu."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Rediger begivenhed / hurtig konfiguration"
+      ],
+      "Schließen": [
+        "Luk"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Titel på konferencen/begivenheden:"
+      ],
+      "URL-Slug:": [
+        "URL slug:"
+      ],
+      "Tagungsort / Location:": [
+        "Konferencested/sted:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Startdato og -tidspunkt:"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Slut (dato og klokkeslæt):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Maks. deltagerkapacitet:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Billetpris (netto i €):"
+      ],
+      "Status:": [
+        "Status:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktiv (udgivet)"
+      ],
+      "Entwurf (Draft)": [
+        "udkast"
+      ],
+      "Archiviert": [
+        "Arkiveret"
+      ],
+      "Kostenpflichtig": [
+        "Betalt"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Åbn i Gutenberg-blokeditoren"
+      ],
+      "Abbrechen": [
+        "Annuller"
+      ],
+      "Änderungen speichern": [
+        "Gem ændringer"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Deltagerdata blev opdateret!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Registreringsoplysningerne og status er blevet gemt i databasen."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Deltager slettet!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Tilmeldingen og alle tilknyttede sessionsbookinger er blevet fjernet."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Check-in status opdateret!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Deltagerens tilstedeværelsesstatus er blevet til/fra."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Dobbelt opt-in bekræftet!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Tilmeldingen er manuelt markeret som bekræftet."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Deltagere & bookingstyring"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Alle tilmeldinger med dobbelt opt-in-status, sessionsbookinger og fakturaer."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Navnemærker / deltagerliste (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtreret efter konference: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Annuller filter"
+      ],
+      "Alle Teilnehmer": [
+        "Alle deltagere"
+      ],
+      "Bestätigt": [
+        "Bekræftet"
+      ],
+      "Ausstehend DOI": [
+        "Afventende DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Søg navn, e-mail eller virksomhed..."
+      ],
+      "Teilnehmer": [
+        "Deltager"
+      ],
+      "Organisation / Firma": [
+        "Organisation"
+      ],
+      "Check-In": [
+        "Indtjekning"
+      ],
+      "Rechnung": [
+        "Faktura"
+      ],
+      "Anmeldedatum": [
+        "Registreringsdato"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Ingen tilmeldinger tilgængelige."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Rediger deltagerdata"
+      ],
+      "Auschecken": [
+        "Tjek ud"
+      ],
+      "Einchecken": [
+        "Tjek ind"
+      ],
+      "DOI bestätigen": [
+        "Bekræft DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Vil du virkelig slette denne deltager permanent?"
+      ],
+      "Status umschalten": [
+        "Skift status"
+      ],
+      "Eingecheckt": [
+        "Tjekket ind"
+      ],
+      "Nicht vor Ort": [
+        "Ikke på stedet"
+      ],
+      "Rechnungs-XML": [
+        "Faktura-XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Gratis / Ingen"
+      ],
+      "Edit": [
+        "Redigere"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Vil du virkelig slette denne deltager?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Rediger deltagerdata / deltagerstyring"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilbillede / deltagerpasfoto (JPG, PNG, WebP · maks. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Fjern foto"
+      ],
+      "Vorname:": [
+        "Fornavn:"
+      ],
+      "Nachname:": [
+        "Efternavn:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-mail-adresse:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organisation / virksomhed / myndighed:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Tildelt konference:"
+      ],
+      "Anmeldestatus:": [
+        "Loginstatus:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Bekræftet"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Afventer (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Annulleret"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Kunne ikke leveres (bounced)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Check-in status (på stedet):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nej/ikke på stedet"
+      ],
+      "Ja / Eingecheckt": [
+        "Ja / tjekket ind"
+      ],
+      "Rechnungsnummer:": [
+        "Fakturanummer:"
+      ],
+      "Zahlungsstatus:": [
+        "Betalingsstatus:"
+      ],
+      "Kostenfrei (Free)": [
+        "Gratis"
+      ],
+      "Ausstehend (Pending)": [
+        "Indtil"
+      ],
+      "Bezahlt (Paid)": [
+        "Betalt"
+      ],
+      "Erstattet (Refunded)": [
+        "Refunderet"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR databeskyttelse aftalt"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Foto- og videooptagelser aftalt"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR-privatliv og eksportsamtykke"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Beskyttelse af personoplysninger (Art. 4 & 5 GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Denne eksport opretter en CSV-fil med følsomme personoplysninger om deltagere (fulde navne, virksomheder, arbejds-e-mailadresser, fakturareferencer og tjek-ind-status)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Formålsbegrænsning (Art. 5, stk. 1 lit. b GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Oplysningerne må udelukkende anvendes til den praktiske afvikling af arrangementet (f.eks. udskrivning af navneskilte og akkreditering ved indgangen)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Fortrolighed og beskyttelse (Art. 5, stk. 1 lit. f GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Videregivelse til uvedkommende tredjeparter eller lagring på ukrypterede mobile enheder er forbudt."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Slettepligt (art. 17 i GDPR):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Efter konferencens afslutning skal den eksporterede lokale fil straks slettes i overensstemmelse med databeskyttelsesreglerne."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Jeg bekræfter GDPR-samtykket:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Jeg anerkender, at denne eksport indeholder fortrolige personoplysninger. Jeg forpligter mig til formålsbestemt og omhyggelig behandling samt streng overholdelse af lovgivningens databeskyttelseskrav."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Download CSV-eksport sikkert nu"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Faktura-XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopier XML til udklipsholder"
+      ],
+      "Keine Berechtigung.": [
+        "Ingen adgang."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Sikkerhedsfejl: kun ægte CSV-filer er tilladt."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Filen er for stor (højst 5 MB tilladt)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Vælg venligst en begivenhed, og angiv CSV-data."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Deltager-CSV-batchimport (duplikatforebyggelse TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatisk import af deltagerlister fra eksterne systemer med streng undgåelse af dobbeltregistreringer."
+      ],
+      "Import-Zusammenfassung": [
+        "Importoversigt"
+      ],
+      "Gesamtzeilen": [
+        "samlede rækker"
+      ],
+      "Neu Importiert": [
+        "Nyimporteret"
+      ],
+      "Dubletten abgewiesen": [
+        "Dubletter afvist"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importer ny deltagerliste"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Målhændelse *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Vælg begivenhed —"
+      ],
+      "CSV-Datei auswählen": [
+        "Vælg CSV-fil"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Fornavn; Efternavn; E-mail; Virksomhed (semikolon eller kommasepareret, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Eller indsæt CSV-tekst"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Kør CSV-import nu"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF booking stack studie"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standardiseret finanseksport (kategori 21, formatversion 700 / 125 felter) til revisorer og DATEV-bogføring."
+      ],
+      "Exportzeitraum festlegen": [
+        "Indstil eksportperiode"
+      ],
+      "Laufender Monat": [
+        "Nuværende måned"
+      ],
+      "Vormonat": [
+        "forrige måned"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Hele året 2026"
+      ],
+      "Datum von *": [
+        "Dato fra *"
+      ],
+      "Datum bis *": [
+        "Dato til *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Bekræftelse ved eksport af debitoroplysninger:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Jeg bekræfter, at eksporten af finans- og fakturamodtageroplysninger indeholder personoplysninger og udelukkende videregives til det autoriserede revisionsfirma til lovpligtig bogføring og regnskabsmæssig registrering."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Download DATEV EXTF booking batch (.csv)."
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Kædet revisionsspor for alle sikkerhedsrelevante hændelser, dobbelt opt-in, annulleringer og adgangskontroller."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Revisionskæde intakt — %1$d poster indholdskontrolleret, %2$d pseudonymiseret (kædeposition verificeret)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Revisionskæde IKKE integritet"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d post(er) stammer fra tiden før kædningen og har ingen verificerbar signatur. De betragtes som ukontrollerede, ikke som intakte."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY er ikke defineret: kædenøglen stammer fra databasen — altså netop dér, hvor en angriber med skriveadgang ville foretage ændringer. Definér AUTH_KEY i wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Tidspunkt"
+      ],
+      "Ereignistyp": [
+        "Begivenhedstype"
+      ],
+      "Referenz-ID": [
+        "Reference ID"
+      ],
+      "IP-Adresse": [
+        "IP-adresse"
+      ],
+      "Audit-Details (JSON)": [
+        "Revisionsdetaljer (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Ingen logposter fundet."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Begivenheden \"%1$s\" oprettet med %2$d sessioner og %3$d deltagere."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demodata blev importeret!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d begivenheder, %2$d sessioner, %3$d tilmeldinger og %4$d fakturaer blev slettet."
+      ],
+      "Demodaten bereinigt!": [
+        "Demodata ryddet op!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Fabriksindstillinger gendannet!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Alle tabeller er tømt, og indstillingerne er nulstillet."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Uploadet temafil er blevet fjernet."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Indstillinger gemt sikkert."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise konfiguration og sikkerhed"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Design, Brevo, fakturaer og DATEV, botbeskyttelse og demodata."
+      ],
+      "Design & Theme Studio": [
+        "Design & Temastudie"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM og webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Fakturaer og DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Bot-Schutz (venlig Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demoderer og nulstil"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Frontend designsystem & temaarv"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Vælg, hvordan begivenheder og tilmeldingsformularer udformes på frontenden. Som standard arver pluginet skrifttyper, farver og knapper fra det aktive WordPress-tema."
+      ],
+      "Primärfarbe": [
+        "Primærfarve"
+      ],
+      "Akzentfarbe": [
+        "Accent farve"
+      ],
+      "Kartenhintergrund": [
+        "Kort baggrund"
+      ],
+      "Textfarbe": [
+        "Tekstfarve"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Egne temafarver og rammer (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primærfarve (knapper og accenter):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Accentfarve (badges og glød):"
+      ],
+      "Seitenhintergrund:": [
+        "Sidebaggrund:"
+      ],
+      "Kartenhintergrund:": [
+        "Kort baggrund:"
+      ],
+      "Haupttextfarbe:": [
+        "Hovedtekstfarve:"
+      ],
+      "Eckenabrundung (px):": [
+        "Hjørneafrunding (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Brugerdefineret CSS-tema hochladen (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Upload et skræddersyet .css-stilark (f.eks. bureau-tema.css). Det indlæses isoleret og valideres automatisk."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktivt brugerdefineret tema tilgængeligt"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Vil du virkelig slette den uploadede CSS-temafil?"
+      ],
+      "Theme löschen": [
+        "Slet tema"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Yderligere brugerdefineret CSS (inline-editor)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Indtast dine egne CSS-regler her, f.eks.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 & Webhook-godkendelse"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API-nøgle (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Bruges til asynkron udsendelse af dobbelt opt-in-e-mails og synkronisering af kontaktattributter."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Webhook Shared Secret / Signatur-token"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Timing angreb sikker token til at validere indgående Brevo webhook nyttelast."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Staff Scanner API Key (indgangskontrol)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Autentificeringstoken til indgangspersonalets mobile scanningsenheder."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Venterum: adgange pr. minut"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Forespørgsler til tilmelding og sessionsbooking, der lukkes igennem pr. minut og pr. begivenhed. 0 slår venterummet fra (standard). Derover svarer ruten med HTTP 503 og Retry-After, før der køres en databaseforespørgsel — der er dermed ikke reserveret nogen plads."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Tæller-backend på denne installation: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "persistent objektcache"
+      ],
+      "Datenbank (Transients)": [
+        "database (transients)"
+      ],
+      "DOI Template ID": [
+        "TO skabelon-id'er"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo kontaktliste-id"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Fakturaer (CII-XML) og DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Præfiks for fakturanummer"
+      ],
+      "Rechnungssteller": [
+        "Fakturaudsteder"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Uden disse oplysninger oprettes der ingen fakturaer eller kreditnotaer: %s."
+      ],
+      "Name / Firma": [
+        "Navn / virksomhed"
+      ],
+      "Straße und Hausnummer": [
+        "Gade og husnummer"
+      ],
+      "PLZ": [
+        "Postnr."
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Land (ISO-kode, f.eks. DK eller DE)"
+      ],
+      "USt-IdNr.": [
+        "Momsnummer"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Skattenummer / CVR-nr. (hvis intet momsnummer)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-mail til fakturering"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN til bankoverførsler (valgfrit)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV konsulentnummer"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV kundenummer"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Omsætningskonto (f.eks. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Debitorkonto (f.eks. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Pluginet indeholder endnu ingen captcha-widget: indstillingen gemmes, men formularen behandles uden captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Aktiver venlig captcha"
+      ],
+      "Sitekey": [
+        "Webstedsnøgle (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API nøgle/hemmelighed"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demodatastyring og fabriksindstillinger (nulstil)"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importér eksempeldata, fjern dem igen, eller nulstil pluginet til fabriksindstillingerne."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importer demodata"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Opretter en eksempelkonference med sessioner og eksempeldeltagere. Fakturaer oprettes kun, når oplysninger om fakturaudsteder er sat."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Vil du importere eksempeldata nu?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importer demodata (konferencer, sessioner, deltagere, fakturaer)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Ryd op i demodata (slet kun testdata)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Sletter udelukkende genererede demokonferencer, demosessioner, demodeltagere og demofakturaer. Rigtige begivenheder og bookinger berøres ikke."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Vil du fjerne alle demodata? Rigtige data bevares."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Rengør demodata (kun testdata)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Nulstil til fabriksindstillinger (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Opmærksomhed (irreversibel):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Tømmer alle tabeller for begivenheder, sessioner, tilmeldinger, fakturaer og revisionslog, sletter alle cybevent- og cybsession-indlæg og nulstiller samtlige indstillinger til leveringstilstanden."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "ADVARSEL: Er du helt sikker? Dette sletter ALLE begivenheder, tilmeldinger og fakturaer og nulstiller indstillingerne!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Fuld fabriksnulstilling (slet alt og gendan standardindstillinger)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Adfærd ved afinstallation af plugin"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Slet alle tabeller og indstillinger ved afinstallation"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Som standard bevares alle begivenheds-, tilmeldings-, faktura- og revisionsdata, når pluginet slettes (lovpligtig opbevaring). Aktivér kun denne indstilling, hvis samtlige tabeller skal slettes permanent ved afinstallation."
+      ],
+      "Alle Einstellungen speichern": [
+        "Gem alle indstillinger"
+      ],
+      "Platzbuchung": [
+        "Pladsbooking"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "En plads bookes med én enkelt betinget UPDATE (belegt = belegt + 1, kun så længe belegt < kapazitaet). Af to samtidige forespørgsler på den sidste plads ændrer kun den ene rækken; den anden får beskeden 'fuldt booket'."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Fakturaer og kreditnotaer genereres som CII-XML efter profilen EN 16931 og kontrolleres i test med Mustang-validatoren. Der genereres ingen PDF, så XML-filen er ikke en ZUGFeRD-hybridfil. Om fakturaerne opfylder lovkravene i det enkelte tilfælde, vurderes af din revisor."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF & Regnskab"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Eksporterer fakturaer og kreditnotaer for en periode som bogføringsbunke i DATEV-format (EXTF 700, kategori 21) i Windows-1252. Debitor- og omsætningskonto hentes fra indstillingerne; hver linje har momskode 3. Afstem konti og koder med din revisor."
+      ],
+      "Handbuch & API:": [
+        "Manuel og API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Komplet håndbog"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Udviklet af WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Administrator- og udviklerhåndbog"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Pladsbooking, faktura-XML, DATEV-eksport, Brevo dobbelt opt-in, shortcodes og temaforudindstillinger."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Pladsbooking uden overbooking"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Belægningstælleren forøges i én enkelt betinget sætning; af to samtidige forespørgsler på den sidste plads opdaterer kun den ene rækken:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Faktura-XML og DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Fakturaer og kreditnotaer med udstederoplysninger fra indstillingerne, leveringsdato og fortløbende nummer. Ingen PDF, intet Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Kreditnotaer:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Eget fortløbende nummer, type 381 med henvisning til den oprindelige faktura."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Bogføringsbunke for en periode inden for ét kalenderår, Windows-1252. Afstem konti og momskoder med din revisor."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-In & baggrundskø"
+      ],
+      "Double Opt-In (DOI):": [
+        "Dobbelt opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo sender bekræftelses-e-mailen med et personligt link; linket bekræfter tilmeldingen én gang. Ubekræftede tilmeldinger slettes efter 14 dage."
+      ],
+      "Warteschlange:": [
+        "Kø:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Kald til Brevo afvikles via en databasekø, som WP-Cron behandler hvert minut (eller wp cybevents queue-run), med op til fem forsøg."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcodes & Gutenberg-integration"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Tilgængelig registreringsformular."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktivt konferenceprogram og sporoversigt."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Tokenbaseret sessionsvalg efter DOI-bekræftelse."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI for administratorer"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Temaforudindstillinger og designtokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Frontenden tilpasser sig fleksibelt til ethvert WordPress-tema eller bruger færdige designforudindstillinger:"
+      ],
+      "Presets:": [
+        "Forudindstillinger:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Flere farveforudindstillinger, herunder én i dyblilla, violet og rosa (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Temaarv (standard):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Arver skrifttyper, hjørneradier og primærfarver direkte fra det aktive tema (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS brugerdefinerede egenskaber:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Gotchas og bedste praksis"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tabellerne oprettes med ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Opbevaringsfrister:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Ubekræftede tilmeldinger slettes efter 14 dage, og poster i revisionsloggen pseudonymiseres efter 90 dage (undtagen fakturahændelser). Bekræftede tilmeldinger og fakturaer slettes ikke automatisk af pluginet; der findes ingen indstilling til det."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Købehandling og oprydning efter opbevaringsfrister kører via WP-Cron; på websteder uden regelmæssig trafik kræves et rigtigt system-cronjob."
+      ],
+      "Cyber Events Suite": [
+        "Cyber ​​Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Vælg begivenhed"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Vælg målbegivenheden for denne blok."
+      ],
+      "Key Facts Header anzeigen": [
+        "Nøglefakta Header anzeigen"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Vis trinvisning (stepper)."
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Vis kalendereksport (.ics) knap"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Vis nedtællingsur"
+      ],
+      "Freie Plätze anzeigen": [
+        "Vis ledige pladser"
+      ],
+      "Spaltenanzahl": [
+        "Antal kolonner"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Vælg venligst en gyldig begivenhed i blokindstillingerne."
+      ],
+      "Vorschau im Editor": [
+        "Forhåndsvisning i editor"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Sessionsvalg for bekræftede tilmeldinger"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "På frontenden gengives denne blok dynamisk for hver deltager med vedkommendes personlige token."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Intet bekræftelsestoken fundet."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Åbn venligst denne side via det personlige link i din bekræftelses-e-mail."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Ugyldigt eller udløbet deltagertoken."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Pladsoversigt for begivenheden"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "På frontenden viser denne blok belægningen for hver session som SVG og holder den opdateret via Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Begivenheden blev ikke fundet."
+      ],
+      "Jetzt anmelden": [
+        "Tilmeld nu"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Tilmeld dig nu gratis"
+      ],
+      "Programm ansehen": [
+        "Se program"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Gratis deltagelse"
+      ],
+      "Anmeldung geöffnet": [
+        "Tilmelding åben"
+      ],
+      "Ausgebucht": [
+        "Fuldt booket"
+      ],
+      "Preis": [
+        "Pris"
+      ],
+      "%d freier Platz": [
+        "%d ledig plads",
+        "%d ledige pladser"
+      ],
+      "von max. %d": [
+        "på max. %d"
+      ],
+      "Beginn in:": [
+        "Starter om:"
+      ],
+      "Tage": [
+        "Dap."
+      ],
+      "Std.": [
+        "Timer"
+      ],
+      "Min.": [
+        "Min. "
+      ],
+      "Sek.": [
+        "sek"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Eksporter til kalender (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics-fil)"
+      ],
+      "Google Kalender": [
+        "Google- kalender"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        ".ics-filen indeholder en påmindelse én dag før start."
+      ],
+      "Referenten & Fachexperten": [
+        "Foredragsholdere og fageksperter"
+      ],
+      "Referenten": [
+        "Oplægsholdere"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Listen over oplægsholdere offentliggøres snarest."
+      ],
+      "TEILNEHMERPASS": [
+        "DELTAGERPAS"
+      ],
+      "Teilnehmerpass": [
+        "Deltagerpas"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Se billet og akkreditering"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Indtast dit 64-tegns sikkerhedstoken fra bekræftelses-e-mailen:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Indtast token (f.eks. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Vis pas"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Ugyldigt eller ukendt bookingtoken."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Der findes intet deltagerpas til denne tilmelding: den er ikke bekræftet eller er blevet annulleret."
+      ],
+      "Max Mustermann": [
+        "Jens Jensen"
+      ],
+      "Beispiel GmbH": [
+        "Eksempel ApS"
+      ],
+      "Veranstaltung": [
+        "Tilfælde"
+      ],
+      "Rechnungs-Nr.": [
+        "Fakturanummer"
+      ],
+      "Keine": [
+        "Ingen"
+      ],
+      "Ticket-Nummer": [
+        "Billetnummer"
+      ],
+      "Pass drucken": [
+        "Udskriv pas"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Databeskyttelse og sikkerhed"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Dobbelt opt-in og slettefrister"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "En tilmelding gælder først efter bekræftelse via linket i e-mailen. Ubekræftede tilmeldinger slettes efter 14 dage, og poster i revisionsloggen pseudonymiseres efter 90 dage."
+      ],
+      "Beschriftete Formulare": [
+        "Opmærkede formularer"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Formularfelter med synlige etiketter, markerede obligatoriske felter og statusbeskeder, der læses op af skærmlæsere."
+      ],
+      "Eigene Skripte und Styles": [
+        "Selvhostede scripts og typografiark"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Pluginet indlæser sine scripts, typografiark og ikoner fra din egen server frem for et CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Revisionslog og tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "En HMAC-SHA256-kædet revisionslog gør efterfølgende manipulation synlig. Deltagertokens gemmes udelukkende som SHA-256-hash."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Faktura-XML og DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Fakturaer som CII-XML efter profilen EN 16931 og eksport som DATEV-bogføringsbunke."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Venlig Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Privatlivsvenlig botbeskyttelse uden brugersporing eller billedgåder i henhold til EU's databeskyttelsesregler."
+      ],
+      "Zur Anmeldung": [
+        "Gå til login"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Der er ingen arkiverede begivenheder."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Der er i øjeblikket ingen planlagte begivenheder."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtrer begivenhed efter titel eller placering..."
+      ],
+      "Kostenfrei": [
+        "Gratis"
+      ],
+      "In Kalender eintragen": [
+        "Tilføj til kalender"
+      ],
+      ".ics": [
+        "*. ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Live konference- og programticker"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "LIVE PROGRAMTELEMETRI"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Visnings- og filterstyring"
+      ],
+      "Kalenderansichten": [
+        "Kalendervisninger"
+      ],
+      "Monat": [
+        "Måned"
+      ],
+      "Woche": [
+        "Uge"
+      ],
+      "Tag / Agenda": [
+        "Dag / program"
+      ],
+      "Liste": [
+        "Liste"
+      ],
+      "Karten": [
+        "Kort"
+      ],
+      "Räume & Ort": [
+        "Lokaler og sted"
+      ],
+      "Summit Tracks": [
+        "Konferencespor"
+      ],
+      "Vorheriger Zeitraum": [
+        "Forrige periode"
+      ],
+      "Nächster Zeitraum": [
+        "Næste periode"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Søg efter begivenhed, emne eller oplægsholder..."
+      ],
+      "Suchbegriff eingeben": [
+        "Indtast søgeord"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtrér spor eller kategori"
+      ],
+      "Alle Fach-Tracks": [
+        "Alle fagspor"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Spor 01: Post-kvantekryptografi"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Spor 02: Zero Trust og DORA-robusthed"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Spor 03: Autonom AI og tavshedspligt"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Spor 04: Softwareforsyningskæde og CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtrér konferencesal"
+      ],
+      "Alle Säle & Räume": [
+        "Alle sale og lokaler"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenarsal Alpha (keynotes)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Månedskalendervisning"
+      ],
+      "Mo": [
+        "Ma"
+      ],
+      "Di": [
+        "Ti"
+      ],
+      "Mi": [
+        "On"
+      ],
+      "Do": [
+        "To"
+      ],
+      "Fr": [
+        "Fr"
+      ],
+      "Sa": [
+        "Lø"
+      ],
+      "So": [
+        "Sø"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Ugeskema- og tidsgittervisning"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Dagsprogram- og tidslinjevisning"
+      ],
+      "Chronologische Listenansicht": [
+        "Kronologisk listevisning"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Visuel fotokortvisning"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Sted- og lokalenavigatorvisning"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Multispor-konferencematrix"
+      ],
+      "Dialog schließen": [
+        "Luk dialogboks"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Ugyldigt sessions- eller tilmeldings-ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Bookingen kunne ikke behandles på grund af en databasefejl."
+      ],
+      "Session %d existiert nicht.": [
+        "Session %d eksisterer ikke."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" er fuldt booket (%2$d af %2$d pladser optaget)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Reservationen kunne ikke gemmes. Stedet blev frigivet igen."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Annulleringen kunne ikke behandles på grund af en databasefejl."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Ingen gyldig fil uploadet."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Fil upload fejl."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profilbilledet må højst fylde 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Ugyldigt filformat. Tilladte formater er JPG, PNG og WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Ugyldig filendelse. Tilladte filendelser er .jpg, .jpeg, .png og .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Fejl ved lagring af profilbillede."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Revisionsloggen er tom, selvom der tidligere var registreret %d poster."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "En usigneret post er efterfølgende indsat i kæden."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kædebrud ved post #%d: en post er slettet, indsat eller flyttet."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Signaturen for post #%d stemmer ikke overens med dens kontrolsum."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Post #%d er markeret som pseudonymiseret uden gyldigt bevis: dens indhold kan være blevet ændret."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Indholdet af post #%d er blevet ændret efter oprettelsen."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Slutningen af loggen passer ikke til senest registrerede post. De nyeste poster er fjernet."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Begivenheder"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Tilfælde"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyberbegivenheder"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Tilfælde"
+      ],
+      "event\u0004Neu erstellen": [
+        "Tilføj ny"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Rediger begivenhed"
+      ],
+      "Veranstaltung ansehen": [
+        "Se begivenhed"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Gennemse begivenheder"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Ingen begivenheder i skraldespanden."
+      ],
+      "Veranstaltungsdaten": [
+        "Begivenhedsdetaljer"
+      ],
+      "Veranstaltungsort:": [
+        "Mødested:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Administrer mødesteder ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Vælg gemt mødested —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manuel placering/rum/adresse..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Vælg et gemt mødested fra listen, eller tilpas sted- og lokaleangivelsen individuelt."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Startdato og -tidspunkt:"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Slut (dato og tid):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Betalt begivenhed"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Der er i øjeblikket ingen tilgængelige konferenceprogrammer."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Søg efter et emne, taler eller rum..."
+      ],
+      "Konferenz-Agenda": [
+        "Konference dagsorden"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Detaljeret program offentliggøres snarest."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents deltagerdata"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Virksomhed/Organisation"
+      ],
+      "Profilbild": [
+        "Profilbillede"
+      ],
+      "Einwilligung Datenschutz": [
+        "Samtykke til databeskyttelse"
+      ],
+      "ja": [
+        "ja"
+      ],
+      "nein": [
+        "nej"
+      ],
+      "Einwilligung Fotos": [
+        "Fotosamtykke"
+      ],
+      "Bestätigung angefordert": [
+        "Bekræftelse anmodet"
+      ],
+      "Bestätigt am": [
+        "Bekræftet den"
+      ],
+      "Eingecheckt am": [
+        "Tjekket ind den"
+      ],
+      "Gebuchte Sessions": [
+        "Bookede sessioner"
+      ],
+      "Rechnungsnummer": [
+        "Fakturanummer"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents registreringer"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents-fakturaer"
+      ],
+      "Empfänger": [
+        "Modtager"
+      ],
+      "Adresse": [
+        "Adresse"
+      ],
+      "Bruttobetrag": [
+        "Bruttobeløb"
+      ],
+      "Ausgestellt am": [
+        "Udstedt den"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Tilmelding #%d kunne ikke slettes."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Tilmelding #%d kunne ikke anonymiseres; oplysningerne er uændrede."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Tilmelding #%1$d er blevet anonymiseret. Faktura %2$s med navn, adresse og e-mail forbliver gemt uændret; pluginet sletter ikke fakturaer."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Brevo-webhooken er deaktiveret uden en delt hemmelighed (svarer 401). Afvisninger (bounces) og afmeldinger behandles først, når en hemmelighed er konfigureret."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Ingen Brevo API-nøgle konfigureret: bekræftelses-e-mails sendes ikke, og nye tilmeldinger forbliver ubekræftede og slettes efter 14 dage."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha er aktiveret, men har ingen virkning: pluginet indeholder ingen captcha-widget, så formularen behandles uden botbeskyttelse."
+      ],
+      "Einstellungen öffnen": [
+        "Åbn indstillinger"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "For mange forespørgsler. Prøv igen om et minut."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Valget blev ikke gemt: %s Dine tidligere bookinger bevares."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Nye sessioner blev booket, men ikke alle fravalgte sessioner kunne frigives: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Ugyldigt sikkerhedstoken (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Ugyldigt formulartoken (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Abonnenten er ikke autoriseret eller ikke fundet."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Ingen billedfil sendt."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profilbilledet blev opdateret."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Bekræftelsestoken mangler."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Ugyldig eller endnu ikke bekræftet billet."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Der er ikke konfigureret nogen sessioner til denne begivenhed."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Pladsoversigt: optagne og ledige pladser pr. session"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d af %3$d pladser optaget"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Begivenheden mangler til pladsoversigten."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Pladsoversigtens begivenhed findes ikke."
+      ],
+      "frei": [
+        "ledig"
+      ],
+      "belegt": [
+        "optaget"
+      ],
+      "von Ihnen gebucht": [
+        "booket af dig"
+      ],
+      "Belegung je Session": [
+        "Belægning pr. session"
+      ],
+      "Session": [
+        "Session"
+      ],
+      "Belegt": [
+        "Optaget"
+      ],
+      "Frei": [
+        "Ledig"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Belægningen opdateres løbende."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Øjebliksbillede ved sideindlæsning; belægningen opdateres ikke løbende."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demodata: booking til %1$s afvist — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demodatoer: Deltagelse aflyst"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessioner og spor"
+      ],
+      "post type singular name\u0004Session": [
+        "Session"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessioner"
+      ],
+      "Alle Sessions": [
+        "Alle sessioner"
+      ],
+      "Session bearbeiten": [
+        "Rediger session"
+      ],
+      "Session ansehen": [
+        "Se session"
+      ],
+      "Sessions durchsuchen": [
+        "Gennemse sessioner"
+      ],
+      "Keine Sessions gefunden.": [
+        "Ingen sessioner fundet."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Ingen sessioner i skraldespanden."
+      ],
+      "Session-Daten": [
+        "Sessionsoplysninger"
+      ],
+      "Zugehörige Konferenz:": [
+        "Tilhørende konference:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Ingen konference valgt —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Referent/taler og institution:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "f.eks. Mette Jensen (Eksempel ApS)"
+      ],
+      "Raum / Saal / Track:": [
+        "Rum/hal/bane:"
+      ],
+      "Workshop-Kapazität:": [
+        "Workshopkapacitet:"
+      ],
+      "Speaker": [
+        "Højttaler"
+      ],
+      "Raum / Track": [
+        "Rum/Spor"
+      ],
+      "Zeitfenster": [
+        "tidsvindue"
+      ],
+      "Belegung": [
+        "Belægning"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Velkommen, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Vælg dine sessioner. En plads tildeles ved lagring, så længe sessionen ikke er fuldt booket."
+      ],
+      "Anmeldung bestätigt": [
+        "Tilmelding bekræftet"
+      ],
+      "Für diese Session eingetragen": [
+        "Tilmeldt denne session"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Vælg dette programpunkt"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Pladsen tildeles ved lagring, så længe sessionen ikke er fuldt booket."
+      ],
+      "Sessions ausgewählt": [
+        "Sessioner valgt"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Gem valget bindende"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress Theme Standard (automatisk nedarvet)"
+      ],
+      "Empfohlen": [
+        "Anbefales"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Overtager typografi, farver, knapper og afstande direkte fra det aktive WordPress-tema (GeneratePress, Astra, Twenty Twenty-Four osv.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violet og rosé (mørk lilla, violet, rosé accent)"
+      ],
+      "Farbstark": [
+        "Farverig"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Mørk lilla (#482683), lysende violet (#7D40E7), rosé accent (#DF0079), Noto Sans, hvis temaet indlæser den, og en diskret farveovergang."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (marineblå og cyan)"
+      ],
+      "High-Tech Dark": [
+        "Højteknologisk mørk"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Skræddersyet Dark & ​​​​Cobalt højteknologisk look med glødeffekter, skræddersyet til cybersikkerhed og konferencer."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalistisk moderne (skifer og monokrom)"
+      ],
+      "Modern": [
+        "Moderne"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Rent, afdæmpet SaaS-design med neutrale gråtoner, skarpe kanter og generøs luft omkring elementerne."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Redaktionel varm (klassisk og varm tone)"
+      ],
+      "Klassik": [
+        "Klassisk"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Varme elfenbens- og bordeauxnuancer til akademiske symposier og faglige topkongresser."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Høj kontrast (sort på hvid)"
+      ],
+      "Hochkontrast": [
+        "Høj kontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Sort tekst på hvid baggrund (kontrast 21:1) med gul accent og forstærkede fokusrammer."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Brugerdefineret tema (tilpassede farver og CSS)"
+      ],
+      "Individuell": [
+        "Individuelt"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Frie farvevælgere og understøttelse af uploadede brugerdefinerede CSS-stilark."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Ingen gyldig uploadfil angivet."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Sikkerhedsfejl: kun rene .css-filer må uploades."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS-filen overskrider grænsen på 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Kunne ikke gemme temafilen på serveren."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Tilpasset tema CSS blev uploadet og aktiveret."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Spillesteder"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Mødested"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Gennemse spillesteder"
+      ],
+      "Häufige Tagungsorte": [
+        "Hyppigt brugte mødesteder"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Alle spillesteder"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Rediger mødested"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Opdater mødested"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Tilføj nyt mødested"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Navn på det nye mødested"
+      ],
+      "Orte mit Kommas trennen": [
+        "Adskil steder med kommaer"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Tilføj eller fjern mødesteder"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Vælg blandt mest brugte mødesteder"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Ingen spillesteder fundet."
+      ],
+      "Stadt / Ort:": [
+        "By/sted:"
+      ],
+      "z. B. Musterstadt": [
+        "f.eks. Odense"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Hovedstad eller kommune for konferencestedet."
+      ],
+      "Straße & Hausnummer:": [
+        "Gade og husnummer:"
+      ],
+      "z. B. Musterstraße 1": [
+        "f.eks. Eksempelvej 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Postnummer (postnummer):"
+      ],
+      "Land:": [
+        "Jord:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maksimal lokalekapacitet (personer):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Kørestolsvenlig adgang"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Afkryds kun, når det er verificeret. Vises på listen over mødesteder og i REST-ruten /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Google Maps / Rutevejledning URL:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Konferencestedets hjemmeside:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maksimal lokalekapacitet:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Personkapacitet i møde- og konferenceområdet."
+      ],
+      "Zugänglichkeit:": [
+        "Tilgængelighed:"
+      ],
+      "Google Maps Link:": [
+        "Link til Google Maps:"
+      ],
+      "Stadt & Adresse": [
+        "By og adresse"
+      ],
+      "Kapazität": [
+        "Kapacitet"
+      ],
+      "Rollstuhlgerecht": [
+        "Kørestolsvenlig"
+      ],
+      "Ja": [
+        "Ja"
+      ],
+      "Nicht angegeben": [
+        "Ikke angivet"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Meget høj belastning lige nu. Prøv igen om %d sekunder. Der er ikke reserveret nogen plads."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Uden en persistent objektcache (Redis, Memcached) tæller venterummet i databasen: afviste forespørgsler sparer bookingopslagene, men koster stadig én læsning og én skrivning i indstillingstabellen."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Nøgletal"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Nøgletal"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Viser live nøgletal for aktive konferencer, bekræftede tilmeldinger og ledige pladser."
+      ],
+      "Kennzahl": [
+        "Nøgletal"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Begivenheds-ID (valgfrit)"
+      ],
+      "Dokumentation": [
+        "Dokumentation"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Angiv venligst et gyldigt begivenheds-ID: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Intet gyldigt bekræftelsestoken fundet. Brug venligst linket fra din e-mail."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Nyeste aktive begivenhed (automatisk) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatisk (aktuel konference)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Valg af begivenhed"
+      ],
+      "Ziel-Konferenz": [
+        "Målkonference"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Vælg den konference, hvis oplysninger vises i hero-banneret."
+      ],
+      "Design & Layout-Presets": [
+        "Design- og layoutforudindstillinger"
+      ],
+      "Theme-Preset": [
+        "Temaforudindstilling"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (standard)"
+      ],
+      "Federal Blue": [
+        "Federal Blue"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Cyan Glow"
+      ],
+      "Clean White & Modern": [
+        "Ren hvid og moderne"
+      ],
+      "Glassmorphism Blur": [
+        "Glasmorfisme-sløring"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Hjørneafrunding (border radius)"
+      ],
+      "Ohne (0px)": [
+        "Ingen (0px)"
+      ],
+      "Mittel (8px)": [
+        "Mellem (8px)"
+      ],
+      "Groß (16px)": [
+        "Stor (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Ekstra stor (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Aktivér lys- og glødeffekt"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Tekster og call-to-action-knapper"
+      ],
+      "Badge / Dachzeile": [
+        "Badge / overlinje"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Brugerdefineret hovedoverskrift (valgfrit)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Standard: begivenhedens titel"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Brugerdefineret indledning / manchet"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Standard: begivenhedens beskrivelse"
+      ],
+      "Primärer CTA-Button Text": [
+        "Tekst på primær CTA-knap"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Mållink / anker for primær CTA-knap"
+      ],
+      "Sekundären Button anzeigen": [
+        "Vis sekundær knap"
+      ],
+      "Sekundärer Button Text": [
+        "Tekst på sekundær knap"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Mållink for sekundær knap"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Synlighed af elementer"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Vis live nedtællingsur"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Vis mærkat for ledige pladser / kapacitet"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Vis statusmærkat (åben/fuldt booket)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Vis mødested"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Vis dato og klokkeslæt"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Vis billetpris / gratis-mærkat"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Vis knap til kalendereksport (.ics)"
+      ],
+      "Kopfbereich": [
+        "Topsektion (hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Standard: begivenhedens beskrivelse samt dato, mødested, pris, ledige pladser, nedtælling og tilmeldingsknap."
+      ],
+      "Countdown": [
+        "Nedtælling"
+      ],
+      "Freie Plätze": [
+        "Ledige pladser"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Knap: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Valg af konference"
+      ],
+      "Ziel-Veranstaltung": [
+        "Målbegivenhed"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Vælg den begivenhed, som besøgende tilmelder sig."
+      ],
+      "Formular-Design & Theme": [
+        "Formulardesign og tema"
+      ],
+      "Formular-Stil": [
+        "Formularstil"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (standard)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Hjørneafrunding"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Formularfelter og indtastningsvalg"
+      ],
+      "Individueller Formulartitel": [
+        "Brugerdefineret formulartitel"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Brugerdefineret undertitel / bemærkning"
+      ],
+      "Standard: kein Untertitel": [
+        "Standard: ingen undertitel"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Vis felt for organisation / virksomhed"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Vis samtykkefelt for foto- og videooptagelser"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Vis nøglefakta-topfelt i formularen"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Knaptekst og privatlivslinks"
+      ],
+      "Absende-Button Beschriftung": [
+        "Tekst på send-knap"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Brugerdefineret URL til privatlivspolitik (valgfrit)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Standard: privatlivsside under Indstillinger > Privatliv"
+      ],
+      "Anmeldeformular": [
+        "Tilmeldingsformular"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Tilmelding med dobbelt opt-in: Brevo sender bekræftelseslinket, og først efter bekræftelse gælder tilmeldingen."
+      ],
+      "Standard nach Ticketpreis": [
+        "Standard ud fra billetpris"
+      ],
+      "Überschrift & Untertitel": [
+        "Overskrift og undertitel"
+      ],
+      "Überschrift": [
+        "Overskrift"
+      ],
+      "Untertitel / Beschreibung": [
+        "Undertitel / beskrivelse"
+      ],
+      "Suche, Angaben & Export": [
+        "Søgning, metadata og eksport"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Vis live søgefelt til sessioner"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Vis lokale- og stedsoplysninger"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Vis profilbilleder for oplægsholdere"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Vis samlet kalendereksport (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessioner i kronologisk rækkefølge med lokale, oplægsholder, beskrivelse, søgning og .ics-eksport."
+      ],
+      "Suche": [
+        "Søg"
+      ],
+      ".ics-Download": [
+        ".ics-download"
+      ],
+      "Layout & Spalten": [
+        "Layout og kolonner"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Antal kolonner (computer)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Tekst- og detaljevisning"
+      ],
+      "Untertitel": [
+        "Undertitel"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Vis sessionens oplægsemne"
+      ],
+      "Raumangabe anzeigen": [
+        "Vis lokaleangivelse"
+      ],
+      "Uhrzeit anzeigen": [
+        "Vis starttidspunkt"
+      ],
+      "Konferenz: ": [
+        "Konference: "
+      ],
+      "%d Spalten": [
+        "%d kolonner"
+      ],
+      "Vortragsthemen": [
+        "Oplægsemner"
+      ],
+      "Titel": [
+        "Titel"
+      ],
+      "Individueller Titel": [
+        "Brugerdefineret titel"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalendertjenester og indstillinger"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Vis Apple / Outlook (.ics-fil)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Vis direkte link til Google Kalender"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Vis direkte link til Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Vis direkte link til Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Vis tidszonebemærkning"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Vis bemærkning om påmindelse i .ics-filen"
+      ],
+      "Kalender": [
+        "Kalender"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics-fil med påmindelse én dag før start samt links til Google Kalender, Outlook Web og Microsoft 365."
+      ],
+      ".ics-Datei": [
+        ".ics-fil"
+      ],
+      "Session-Auswahl": [
+        "Sessionsvælger"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Denne blok har ingen indstillinger. Den viser sessionerne for tokenet i bekræftelseslinket; uden token vises en vejledning."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "En plads tildeles ved lagring, så længe sessionen ikke er fuldt booket."
+      ],
+      "Ticketpass-Optionen": [
+        "Indstillinger for billetpas"
+      ],
+      "Pass-Überschrift": [
+        "Pasoverskrift"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Toplinje (standard: begivenhedens titel)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Vis udskriv-knap (udskriv navneskilt)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Vis billetnummer"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Vis fakturanummer / reference"
+      ],
+      "Check-In Status anzeigen": [
+        "Vis tjek-ind-status"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pas til bekræftede tilmeldinger, åbnet med tokenet fra bekræftelses-e-mailen: navn, virksomhed, status, fakturanummer, billetnummer og udskriftsfunktion."
+      ],
+      "Ticketnummer": [
+        "Billetnummer"
+      ],
+      "Druckfunktion": [
+        "Udskriftsfunktion"
+      ],
+      "Titel der Veranstaltung": [
+        "Begivenhedens titel"
+      ],
+      "Layout & Farbschema": [
+        "Layout og farveskema"
+      ],
+      "Raster-Layout": [
+        "Gitterlayout"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4-kolonners gitter (standard)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2-kolonners gitter (bredt)"
+      ],
+      "Farbthema": [
+        "Farvetema"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (standard)"
+      ],
+      "Angezeigte Karten": [
+        "Viste kort"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kort der beskriver, hvad pluginet gør. Blokken vurderer ikke, om webstedet opfylder juridiske krav."
+      ],
+      "Double Opt-in": [
+        "Dobbelt opt-in"
+      ],
+      "Formulare": [
+        "Formularer"
+      ],
+      "Eigene Assets": [
+        "Egne ressourcer"
+      ],
+      "Abfrage & Filterung": [
+        "Forespørgsel og filtrering"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maksimalt antal konferencer"
+      ],
+      "Status-Filter": [
+        "Statusfilter"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Kun aktive begivenheder"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktive og arkiverede begivenheder"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Kun arkiverede begivenheder"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Synlige metadata og knapper"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Vis live søgelinje"
+      ],
+      "Preisschild anzeigen": [
+        "Vis prismærkat"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Vis sted / mødested"
+      ],
+      "Datums-Badge anzeigen": [
+        "Vis datomærkat"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Vis direkte .ics-kalenderlink"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Vis uddrag af beskrivelse"
+      ],
+      "CTA-Button Beschriftung": [
+        "Tekst på CTA-knap"
+      ],
+      "Veranstaltungsübersicht": [
+        "Begivenhedsoversigt"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Gitter med begivenheder inklusive dato, pris, sted, kort beskrivelse, tilmeldingsknap og .ics-link."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Maks. %d begivenheder"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Pladsoversigt"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Indstillinger for pladsoversigt"
+      ],
+      "Überschrift (optional)": [
+        "Overskrift (valgfrit)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Beskrivelsestekst (valgfrit)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Aktivér løbende opdatering"
+      ],
+      "Sitzplan": [
+        "Pladsoversigt"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafisk belægningsoversigt over alle sessioner på en begivenhed med en tilgængelig datatabel."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Multivisningskalender"
+      ],
+      "Ansichten & Datenquelle": [
+        "Visninger og datakilde"
+      ],
+      "Standardansicht": [
+        "Standardvisning"
+      ],
+      "Monatskalender": [
+        "Månedskalender"
+      ],
+      "Wochenplan": [
+        "Ugeskema"
+      ],
+      "Tagesagenda": [
+        "Dagsprogram"
+      ],
+      "Listenansicht": [
+        "Listevisning"
+      ],
+      "Kartenansicht": [
+        "Kortvisning"
+      ],
+      "Raumübersicht": [
+        "Lokaleoversigt"
+      ],
+      "Track-Matrix": [
+        "Spormatrix"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maksimalt antal poster"
+      ],
+      "Bedienleiste & Filter": [
+        "Værktøjslinje og filtre"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Vis visningsskifter"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Vis spor- og lokalefiltre"
+      ],
+      "Suchfeld anzeigen": [
+        "Vis søgefelt"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Vis nyhedsbjælke"
+      ],
+      "Kalender-Ansichten": [
+        "Kalendervisninger"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Multivisningskalender og program"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Skift mellem måneds-, uge-, dags-, liste-, kort-, lokale- og sporvisning."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Konferenceprogram"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktivt multispor-konferenceprogram med tidslinje, oplægsholderdetaljer, lokalefiltre og iCal-download (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalender, program og spor)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Udvidet kalender- og programpakke med 7 interaktive frontendvisninger: månedskalender, ugeskema, dagsprogram, listevisning, fotokort, lokaleoversigt og multispor-konferencematrix."
+      ],
+      "block keyword\u0004event": [
+        "begivenhed"
+      ],
+      "block keyword\u0004calendar": [
+        "kalender"
+      ],
+      "block keyword\u0004agenda": [
+        "program"
+      ],
+      "block keyword\u0004schedule": [
+        "tidsplan"
+      ],
+      "block keyword\u0004summit": [
+        "konference"
+      ],
+      "block keyword\u0004timetable": [
+        "skema"
+      ],
+      "block keyword\u0004matrix": [
+        "matrix"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Kalender- og .ics-widget"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalenderwidget med .ics-download og links til Google Kalender, Outlook Web og Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Hero- og nedtællingsbanner"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Topsektion til begivenheder med nedtælling, nøglefakta, statusmærkat og tilmeldingsknapper."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Oversigts- og arkivgitter"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamisk kortoversigt over kommende konferencer, symposier og workshops med søgelinje og statusfiltre."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Tilmeldingsformular"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Tilmeldingsformular med dobbelt opt-in via Brevo, valgfrit profilbillede og samtykke til fotooptagelser."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Pladsoversigt"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Belægning for alle sessioner på en begivenhed som SVG, løbende opdateret via Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Sikkerheds- og tillidsmærkater"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Oversigt over pluginets databeskyttelses- og sikkerhedsfunktioner: dobbelt opt-in, slettefrister, revisionslog og faktura-XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Sessions- og workshopvælger"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Sessionsvalg for bekræftede tilmeldinger: pladser tildeles ved lagring, så længe der er ledig kapacitet."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Oplægsholder- og ekspertgitter"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatisk genereret oversigt over keynote-talere, sessionsoplæg, lokalefordeling og talerprofiler."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digitalt billetpas"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Deltagerpas til bekræftede tilmeldinger med billetnummer, begivenhed, mødested og udskriftsknap."
+      ]
+    }
+  }
+}

@@ -1,0 +1,2825 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "hr_HR",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Događaji, sesije i prijave uz dvostruku potvrdu putem sustava Brevo, prijavu na ulazu, XML račune (EN 16931) i DATEV izvoz."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Događaj nije pronađen ili više nije aktivan."
+      ],
+      "Verbindlich anmelden": [
+        "Prijavi se uz obvezu plaćanja"
+      ],
+      "Kostenfrei anmelden": [
+        "Prijavi se besplatno"
+      ],
+      "Datum": [
+        "Datum"
+      ],
+      "Veranstaltungsort": [
+        "Mjesto održavanja"
+      ],
+      "Einlass": [
+        "Ulaz"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Nakon potvrde putem poveznice u e-pošti"
+      ],
+      "Kontaktdaten": [
+        "Kontakt podaci"
+      ],
+      "Einwilligung": [
+        "Privola"
+      ],
+      "Bestätigung": [
+        "Potvrda"
+      ],
+      "Vorname": [
+        "Ime"
+      ],
+      "z. B. Erika": [
+        "npr. Ana"
+      ],
+      "Nachname": [
+        "Prezime"
+      ],
+      "z. B. Mustermann": [
+        "npr. Horvat"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Poslovna adresa e-pošte"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institucija / tijelo / tvrtka"
+      ],
+      "z. B. Beispiel GmbH": [
+        "npr. Primjer d.o.o."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilna fotografija za propusnicu sudionika (neobavezno)"
+      ],
+      "Profilbild Vorschau": [
+        "Pretpregled profilne fotografije"
+      ],
+      "Foto auswählen": [
+        "Odaberi fotografiju"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG ili WebP · maks. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Zaštita podataka i privola za dvostruku potvrdu *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Dajem privolu za obradu svojih osobnih podataka radi sudjelovanja na konferenciji u skladu s GDPR-om. Za provjeru ću primiti poveznicu za potvrdu putem e-pošte."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Pročitajte pravila privatnosti"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Fotografiranje i videosnimanje (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Dajem privolu da se tijekom događaja smiju izrađivati fotografije i videosnimke mene za potrebe odnosa s javnošću organizatora."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Nadzorni centar i popunjenost"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Pogon CyberEvents Enterprise je aktivan"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Upravljanje kapacitetom, DATEV izvoz i prijava na ulazu"
+      ],
+      "Events": [
+        "Događaji"
+      ],
+      "Bestätigte Gäste": [
+        "Potvrđeni gosti"
+      ],
+      "Ausstehende DOI": [
+        "DOI na čekanju"
+      ],
+      "Mission Control öffnen": [
+        "Otvori Nadzorni centar"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Potrebna je GDPR privola"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Ovaj izvoz sadrži osobne podatke zaštićene člankom 4. stavkom 1. GDPR-a. Prije preuzimanja morate potvrditi da ćete s podacima postupati povjerljivo, obrađivati ih isključivo u predviđenu svrhu te ih nakon događaja izbrisati u skladu s propisima o zaštiti podataka."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Povratak na upravljanje rezervacijama"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR zaštita"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Izvoz financijskih podataka i podataka o dužnicima zahtijeva potvrdu da će se podaci čuvati kao povjerljivi i koristiti isključivo za računovodstvo."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Povratak u DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV izvoz"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Nedovoljne ovlasti."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Nadzorna ploča i KPI pokazatelji"
+      ],
+      "Dashboard": [
+        "Nadzorna ploča"
+      ],
+      "Alle Veranstaltungen": [
+        "Svi događaji"
+      ],
+      "Veranstaltungen": [
+        "Događaji"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Stvori novi događaj"
+      ],
+      "Neue Veranstaltung": [
+        "Novi događaj"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Mjesta održavanja i konferencijski prostori"
+      ],
+      "Veranstaltungsorte": [
+        "Mjesta održavanja"
+      ],
+      "Sessions & Agenda": [
+        "Sesije i program"
+      ],
+      "Neue Session erstellen": [
+        "Stvori novu sesiju"
+      ],
+      "Neue Session": [
+        "Nova sesija"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Sudionici i rezervacije"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV uvoz i uključivanje sudionika"
+      ],
+      "CSV-Import": [
+        "CSV uvoz"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Financije i DATEV izvoz"
+      ],
+      "Finanzen & DATEV": [
+        "Financije i DATEV"
+      ],
+      "Audit-Log": [
+        "Revizijski zapisnik"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Postavke i studio tema"
+      ],
+      "Einstellungen": [
+        "Postavke"
+      ],
+      "Handbuch & Dokumentation": [
+        "Priručnik i dokumentacija"
+      ],
+      "Handbuch": [
+        "Priručnik"
+      ],
+      "Events & Konferenzen": [
+        "Događaji i konferencije"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Ovlasti za upravljanje događajima i konferencijama."
+      ],
+      "Teilnehmer verwalten": [
+        "Upravljaj sudionicima"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Omogućuje pregled i izvoz prijava na događaje bez punog administratorskog pristupa WordPressu."
+      ],
+      "Einstellungen & Theme": [
+        "Postavke i tema"
+      ],
+      "Handbuch & Doku": [
+        "Priručnik i dok."
+      ],
+      "Plugin-Navigation": [
+        "Navigacija dodatka"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Događaj je uspješno spremljen!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Podaci su sinkrono ažurirani u bazi podataka i u WordPress sustavu."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Događaj je izbrisan!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Zapis je uklonjen, a objava premještena u smeće."
+      ],
+      "Demodaten angelegt.": [
+        "Demonstracijski podaci su stvoreni."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Stvoreni su ogledni događaj, sesije i ogledni sudionici; računi se generiraju samo ako su postavljeni podaci izdavatelja računa."
+      ],
+      "CyberEvents Command Console": [
+        "Upravljačka konzola CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Izdanje Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Događaji, sesije i prijave uz dvostruku potvrdu putem sustava Brevo, prijavu na ulazu, XML račune i DATEV izvoz."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Dio WM Suite obitelji dodataka"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub način"
+      ],
+      "Standalone": [
+        "Samostalno"
+      ],
+      "Demo-Daten auffrischen": [
+        "Osvježi demonstracijske podatke"
+      ],
+      "Springen zu:": [
+        "Skoči na:"
+      ],
+      "Kurzanleitung": [
+        "Kratke upute"
+      ],
+      "Kennzahlen": [
+        "Pokazatelji"
+      ],
+      "Rechnungen": [
+        "Računi"
+      ],
+      "Audit-Protokoll": [
+        "Revizijski zapisnik"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Što radi CyberEvents i što možete pronaći ovdje?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Dodatak upravlja događajima sa sesijama i prijavama. Sudionici potvrđuju svoju prijavu putem poveznice za dvostruku potvrdu koju šalje Brevo (potreban je API ključ), zatim biraju sesije čija se mjesta ne mogu prebukirati te se pri ulazu prijavljuju putem svojeg tokena. Računi se generiraju u formatu CII-XML (EN 16931) i mogu se izvesti kao paket knjiženja za DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Brzi pristup:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Sudionici i prijave"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Izvezi račune kao DATEV paket"
+      ],
+      "Event Auslastung": [
+        "Popunjenost događaja"
+      ],
+      "Kritisch": [
+        "Kritično"
+      ],
+      "Optimal": [
+        "Optimalno"
+      ],
+      "Max. Kapazität:": [
+        "Maks. kapacitet:"
+      ],
+      "Gebucht:": [
+        "Rezervirano:"
+      ],
+      "Live Check-In Counter": [
+        "Brojač prijava na ulazu uživo"
+      ],
+      "Anwesend": [
+        "Prisutni"
+      ],
+      "Registriert:": [
+        "Prijavljeno:"
+      ],
+      "Eingecheckt:": [
+        "Stigli:"
+      ],
+      "Wartend:": [
+        "U iščekivanju:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nove prijave (24 h)"
+      ],
+      "Sessions": [
+        "Sesije"
+      ],
+      "in 24 h": [
+        "u 24 h"
+      ],
+      "Ausstehende DOI:": [
+        "DOI na čekanju:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Telemetrija Brevo CRM reda čekanja"
+      ],
+      "Jobs": [
+        "Zadaci"
+      ],
+      "Verarbeitung": [
+        "Obrada"
+      ],
+      "Verarbeitet:": [
+        "Obrađeno:"
+      ],
+      "Schnellaktionen": [
+        "Brze radnje"
+      ],
+      "Neue Konferenz anlegen": [
+        "Stvori novu konferenciju"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Popis sudionika i prijava na ulazu"
+      ],
+      "CSV-Batch Import": [
+        "Skupni CSV uvoz"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Pregled događaja i praćenje popunjenosti"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Potvrđene prijave po događaju u odnosu na zadani kapacitet."
+      ],
+      "Event suchen...": [
+        "Pretraži događaj..."
+      ],
+      "Neue Konferenz": [
+        "Nova konferencija"
+      ],
+      "Konferenz / Event": [
+        "Konferencija / događaj"
+      ],
+      "Zeitraum": [
+        "Razdoblje"
+      ],
+      "Ort": [
+        "Grad"
+      ],
+      "Kapazität & Belegung": [
+        "Kapacitet i popunjenost"
+      ],
+      "Status": [
+        "Stanje"
+      ],
+      "Aktionen": [
+        "Radnje"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Nije pronađen nijedan događaj."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Uredi u Gutenberg uređivaču blokova"
+      ],
+      "Bearbeiten": [
+        "Uredi"
+      ],
+      "Schnellbearbeitung": [
+        "Brzo uređivanje"
+      ],
+      "Vorschau": [
+        "Pretpregled"
+      ],
+      "Teilnehmer (%d)": [
+        "Sudionici (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Želite li zaista trajno izbrisati ovaj događaj?"
+      ],
+      "Löschen": [
+        "Izbriši"
+      ],
+      "%d Sessions": [
+        "%d sesija"
+      ],
+      "/ %d Plätze": [
+        "/ %d mjesta"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(bez ograničenja kapaciteta)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Uredi u Gutenberg uređivaču"
+      ],
+      "Editor": [
+        "Uređivač"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Otvori brzo uređivanje"
+      ],
+      "Quick": [
+        "Brzo"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Prikaži javnu stranicu"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Važeći i stornirani računi te nepotvrđene prijave."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Bruto, važeći računi"
+      ],
+      "Gültige Rechnungen": [
+        "Važeći računi"
+      ],
+      "Storniert": [
+        "Stornirano"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Nepotvrđene prijave"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV izvoz i revizijski zapisnik"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Paket knjiženja računa i odobrenja za odabrano razdoblje; konta i porezne ključeve uskladite s poreznim savjetnikom."
+      ],
+      "DATEV Format": [
+        "DATEV format"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategorija 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256 lanac"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonimizacija nakon 90 dana"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Otvori DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Pregledaj revizijski zapisnik"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Kontinuirano ulančani revizijski zapisnik: svaki unos supotpisuje prethodni tako da se naknadne izmjene, brisanja i umetanja odmah uočavaju. Riječ je o dokazu neovlaštene izmjene, a ne o nepromjenjivosti — tko može čitati wp-config.php posjeduje ključ."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Otvori cijeli revizijski zapisnik"
+      ],
+      "Zeitstempel": [
+        "Vremenska oznaka"
+      ],
+      "Ereignis-Typ": [
+        "Vrsta događaja"
+      ],
+      "Benutzer / System": [
+        "Korisnik / sustav"
+      ],
+      "Objekt-ID": [
+        "ID objekta"
+      ],
+      "Audit-Details & Nachweis": [
+        "Detalji revizije i dokaz"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Zasad nema zabilježenih revizijskih unosa."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Uredi događaj / brza konfiguracija"
+      ],
+      "Schließen": [
+        "Zatvori"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Naslov konferencije / događaja:"
+      ],
+      "URL-Slug:": [
+        "URL oznaka (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Mjesto održavanja / lokacija:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Početak (datum i vrijeme):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Završetak (datum i vrijeme):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Maks. kapacitet sudionika:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Cijena ulaznice (neto u €):"
+      ],
+      "Status:": [
+        "Stanje:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktivno (objavljeno)"
+      ],
+      "Entwurf (Draft)": [
+        "Skica (nacrt)"
+      ],
+      "Archiviert": [
+        "Arhivirano"
+      ],
+      "Kostenpflichtig": [
+        "Uz naplatu"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Otvori u Gutenberg uređivaču blokova"
+      ],
+      "Abbrechen": [
+        "Odustani"
+      ],
+      "Änderungen speichern": [
+        "Spremi promjene"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Podaci sudionika su uspješno ažurirani!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Podaci o prijavi i stanje spremljeni su u bazu podataka."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Sudionik je izbrisan!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Prijava i sve povezane rezervacije sesija su uklonjene."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Stanje prijave na ulazu je ažurirano!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Stanje prisutnosti sudionika je promijenjeno."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Dvostruka potvrda je odobrena!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Prijava je ručno označena kao potvrđena."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Upravljanje sudionicima i rezervacijama"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Sve prijave sa stanjem dvostruke potvrde, rezervacijama sesija i računima."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Akreditacije / popis sudionika (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrirano prema konferenciji: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Ukloni filtar"
+      ],
+      "Alle Teilnehmer": [
+        "Svi sudionici"
+      ],
+      "Bestätigt": [
+        "Potvrđeno"
+      ],
+      "Ausstehend DOI": [
+        "DOI na čekanju"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Pretraži ime, e-poštu ili tvrtku..."
+      ],
+      "Teilnehmer": [
+        "Sudionik"
+      ],
+      "Organisation / Firma": [
+        "Organizacija / tvrtka"
+      ],
+      "Check-In": [
+        "Prijava na ulazu"
+      ],
+      "Rechnung": [
+        "Račun"
+      ],
+      "Anmeldedatum": [
+        "Datum prijave"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Nema pronađenih prijava."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Uredi podatke sudionika"
+      ],
+      "Auschecken": [
+        "Odjavi prisutnost"
+      ],
+      "Einchecken": [
+        "Potvrdi dolazak"
+      ],
+      "DOI bestätigen": [
+        "Potvrdi DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Želite li zaista trajno izbrisati ovog sudionika?"
+      ],
+      "Status umschalten": [
+        "Promijeni stanje"
+      ],
+      "Eingecheckt": [
+        "Prijavljen na ulazu"
+      ],
+      "Nicht vor Ort": [
+        "Nije na lokaciji"
+      ],
+      "Rechnungs-XML": [
+        "XML račun"
+      ],
+      "Kostenfrei / Keine": [
+        "Besplatno / nema"
+      ],
+      "Edit": [
+        "Uredi"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Želite li zaista izbrisati ovog sudionika?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Uređivanje podataka sudionika / upravljanje sudionicima"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilna fotografija / fotografija za akreditaciju sudionika (JPG, PNG, WebP · maks. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Ukloni fotografiju"
+      ],
+      "Vorname:": [
+        "Ime:"
+      ],
+      "Nachname:": [
+        "Prezime:"
+      ],
+      "E-Mail-Adresse:": [
+        "Adresa e-pošte:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizacija / tvrtka / tijelo:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Dodijeljena konferencija:"
+      ],
+      "Anmeldestatus:": [
+        "Stanje prijave:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Potvrđeno"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Na čekanju (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Stornirano"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Neisporučivo (vraćena poruka)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Stanje prijave na ulazu (na lokaciji):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Ne / nije na lokaciji"
+      ],
+      "Ja / Eingecheckt": [
+        "Da / prijavljen na ulazu"
+      ],
+      "Rechnungsnummer:": [
+        "Broj računa:"
+      ],
+      "Zahlungsstatus:": [
+        "Stanje plaćanja:"
+      ],
+      "Kostenfrei (Free)": [
+        "Besplatno"
+      ],
+      "Ausstehend (Pending)": [
+        "Na čekanju"
+      ],
+      "Bezahlt (Paid)": [
+        "Plaćeno"
+      ],
+      "Erstattet (Refunded)": [
+        "Refundirano"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Dana je GDPR privola za zaštitu podataka"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Dana je privola za fotografiranje i snimanje"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR zaštita podataka i privola za izvoz"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Zaštita osobnih podataka (čl. 4. i 5. GDPR-a)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Ovaj izvoz generira CSV datoteku s osjetljivim osobnim podacima sudionika (puna imena, tvrtke, poslovne adrese e-pošte, reference računa i stanje prijave na ulazu)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Ograničenje svrhe (čl. 5. st. 1. toč. (b) GDPR-a):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Podaci se smiju koristiti isključivo za operativnu provedbu događaja (npr. ispis akreditacija i provjeru na ulazu)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Povjerljivost i zaštita (čl. 5. st. 1. toč. (f) GDPR-a):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Zabranjeno je otkrivanje neovlaštenim trećim stranama ili pohrana na nešifriranim mobilnim uređajima."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Obveza brisanja (čl. 17. GDPR-a):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Nakon završetka konferencije izvezena lokalna datoteka mora se bez odgode izbrisati u skladu s propisima o zaštiti podataka."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Potvrđujem GDPR privolu:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Primam na znanje da ovaj izvoz sadrži povjerljive osobne podatke. Obvezujem se na njihovu pažljivu obradu isključivo u predviđenu svrhu te na strogo poštivanje zakonskih zahtjeva o zaštiti podataka."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Sigurno preuzmi CSV izvoz sada"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML račun (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopiraj XML u međuspremnik"
+      ],
+      "Keine Berechtigung.": [
+        "Nema dopuštenja."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Sigurnosna pogreška: dopuštene su samo izvorne CSV datoteke."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Datoteka je prevelika (dopušteno je najviše 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Odaberite događaj i unesite CSV podatke."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Skupni CSV uvoz sudionika (zaštita od duplikata TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatizirani uvoz popisa sudionika iz vanjskih sustava uz strogo sprječavanje dvostrukih prijava."
+      ],
+      "Import-Zusammenfassung": [
+        "Sažetak uvoza"
+      ],
+      "Gesamtzeilen": [
+        "Ukupno redaka"
+      ],
+      "Neu Importiert": [
+        "Novo uvezeno"
+      ],
+      "Dubletten abgewiesen": [
+        "Odbijeni duplikati"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Uvezi novi popis sudionika"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Ciljni događaj *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Odaberite događaj —"
+      ],
+      "CSV-Datei auswählen": [
+        "Odaberi CSV datoteku"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Ime;Prezime;E-pošta;Tvrtka (odvojeno točkom sa zarezom ili zarezom, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Ili zalijepite CSV tekst"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Pokreni CSV uvoz sada"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "Studio paketa knjiženja DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standardizirani financijski izvoz (kategorija 21, verzija formata 700 / 125 polja) za porezne savjetnike i DATEV računovodstvo."
+      ],
+      "Exportzeitraum festlegen": [
+        "Odaberite razdoblje izvoza"
+      ],
+      "Laufender Monat": [
+        "Tekući mjesec"
+      ],
+      "Vormonat": [
+        "Prethodni mjesec"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Cijela 2026. godina"
+      ],
+      "Datum von *": [
+        "Datum od *"
+      ],
+      "Datum bis *": [
+        "Datum do *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Potvrda za izvoz podataka o dužnicima:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Potvrđujem da izvoz financijskih zapisa i podataka o primateljima računa uključuje osobne podatke te se prosljeđuje isključivo ovlaštenom poreznom uredu radi zakonskog knjigovodstva i porezne evidencije."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Preuzmi DATEV EXTF paket knjiženja (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Ulančani revizijski trag svih sigurnosno važnih radnji, dvostrukih potvrda, storniranja i provjera pristupa."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Revizijski lanac netaknut — %1$d unosa provjereno po sadržaju, %2$d pseudonimizirano (provjeren položaj u lancu)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Revizijski lanac NIJE cjelovit"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d unos/unosa potječe iz razdoblja prije ulančavanja i nema provjerljiv potpis. Smatraju se neprovjerenima, a ne cjelovitima."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "Konstanta AUTH_KEY nije definirana: ključ lanca potječe iz baze podataka — s istog mjesta koje bi napadač s ovlastima pisanja mogao izmijeniti. Definirajte AUTH_KEY u datoteci wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Vrijeme"
+      ],
+      "Ereignistyp": [
+        "Vrsta događaja"
+      ],
+      "Referenz-ID": [
+        "Referentni ID"
+      ],
+      "IP-Adresse": [
+        "IP adresa"
+      ],
+      "Audit-Details (JSON)": [
+        "Detalji revizije (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Nema zabilježenih unosa u zapisniku."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Događaj \"%1$s\" stvoren je s %2$d sesija i %3$d sudionika."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demonstracijski podaci su uspješno uvezeni!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Izbrisano je %1$d događaja, %2$d sesija, %3$d prijava i %4$d računa."
+      ],
+      "Demodaten bereinigt!": [
+        "Demonstracijski podaci su očišćeni!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Tvorničke postavke su vraćene!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Sve tablice su ispražnjene, a postavke poništene."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Prenesena datoteka teme je uklonjena."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Postavke su sigurno spremljene."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise konfiguracija i sigurnost"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Dizajn, Brevo, računi i DATEV, zaštita od botova i demonstracijski podaci."
+      ],
+      "Design & Theme Studio": [
+        "Dizajn i studio tema"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM i webhookovi"
+      ],
+      "Rechnungen & DATEV": [
+        "Računi i DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Zaštita od botova (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demonstracijski podaci i poništavanje"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Sustav dizajna na sučelju i nasljeđivanje teme"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Odaberite kako će se događaji i obrasci za prijavu oblikovati na javnom sučelju. Prema zadanim postavkama dodatak preuzima fontove, boje i gumbe iz aktivne WordPress teme."
+      ],
+      "Primärfarbe": [
+        "Primarna boja"
+      ],
+      "Akzentfarbe": [
+        "Naglasna boja"
+      ],
+      "Kartenhintergrund": [
+        "Pozadina kartice"
+      ],
+      "Textfarbe": [
+        "Boja teksta"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Prilagođene boje i obrubi teme (prilagodba vlastite teme)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primarna boja (gumbi i naglasci):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Naglasna boja (oznake i sjaj):"
+      ],
+      "Seitenhintergrund:": [
+        "Pozadina stranice:"
+      ],
+      "Kartenhintergrund:": [
+        "Pozadina kartice:"
+      ],
+      "Haupttextfarbe:": [
+        "Glavna boja teksta:"
+      ],
+      "Eckenabrundung (px):": [
+        "Zaobljenost kutova (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Prenesi prilagođenu CSS temu (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Prenesite prilagođenu .css datoteku stilova (npr. agencija-tema.css). Učitava se izolirano i automatski provjerava."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktivna prilagođena tema je prisutna"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Želite li zaista izbrisati prenesenu CSS datoteku teme?"
+      ],
+      "Theme löschen": [
+        "Izbriši temu"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Dodatni prilagođeni CSS (ugrađeni uređivač)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Ovdje unesite vlastita CSS pravila, npr.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 i autentifikacija webhookova"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API ključ (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Koristi se za asinkrono slanje e-pošte dvostruke potvrde i sinkronizaciju atributa kontakata."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Dijeljena tajna webhooka / token potpisa"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Token otporan na vremenske napade za provjeru dolaznih podataka Brevo webhookova."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "API ključ skenera osoblja (kontrola ulaza)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Autentifikacijski token za mobilne skenere osoblja na ulazu."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Čekaonica: broj propuštanja u minuti"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Broj zahtjeva za prijavu i rezervaciju sesija propuštenih po minuti i po događaju. Vrijednost 0 isključuje čekaonicu (zadano). Iznad tog ograničenja ruta vraća HTTP 503 uz Retry-After prije bilo kakvog upita u bazu podataka — time nijedno mjesto nije rezervirano."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Pozadinski sustav brojača na ovoj instalaciji: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "trajna objektna predmemorija"
+      ],
+      "Datenbank (Transients)": [
+        "baza podataka (transients)"
+      ],
+      "DOI Template ID": [
+        "ID DOI predloška"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID popisa kontakata u sustavu Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Računi (CII-XML) i DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Prefiks broja računa"
+      ],
+      "Rechnungssteller": [
+        "Izdavatelj računa"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Bez ovih podataka neće se generirati računi ni odobrenja: %s."
+      ],
+      "Name / Firma": [
+        "Ime / tvrtka"
+      ],
+      "Straße und Hausnummer": [
+        "Ulica i kućni broj"
+      ],
+      "PLZ": [
+        "Poštanski broj"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Država (ISO kod, npr. DE)"
+      ],
+      "USt-IdNr.": [
+        "PDV ID"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Porezni broj (ako nema PDV ID broja)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-pošta za račune"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN za bankovne prijenose (neobavezno)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV broj savjetnika"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV broj klijenta"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Konto prihoda (npr. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Konto potraživanja (npr. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Dodatak još ne sadrži captcha widget: postavka se sprema, ali obrazac se obrađuje bez captcha provjere."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Omogući Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Ključ web-mjesta (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API ključ / tajna"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Upravljanje demonstracijskim podacima i vraćanje na tvorničke postavke"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Uvezite ogledne podatke, ponovno ih uklonite ili vratite dodatak na tvorničke postavke."
+      ],
+      "1. Demodaten importieren": [
+        "1. Uvezi demonstracijske podatke"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Stvara oglednu konferenciju sa sesijama i oglednim sudionicima. Računi se stvaraju samo ako su postavljeni podaci izdavatelja."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Želite li sada uvesti ogledne podatke?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Uvezi demonstracijske podatke (konferencije, sesije, sudionici, računi)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Očisti demonstracijske podatke (izbriši samo testne podatke)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Briše isključivo generirane demonstracijske konferencije, sesije, sudionike i račune. Stvarni događaji i rezervacije ostaju potpuno netaknuti."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Želite li ukloniti sve demonstracijske podatke? Stvarni podaci ostat će sačuvani."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Očisti demonstracijske podatke (samo testni podaci)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Vrati na tvorničke postavke (potpuno poništavanje)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Upozorenje (nepovratno):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Prazni sve tablice događaja, sesija, prijava, računa i revizijskog zapisnika, briše sve objave tipa cybevent i cybsession te vraća sve postavke na početne vrijednosti."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "UPOZORENJE: Jeste li potpuno sigurni? Time se brišu SVI događaji, prijave i računi te se poništavaju postavke!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Potpuno vraćanje na tvorničke postavke (izbriši sve i vrati zadane postavke)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Ponašanje pri deinstalaciji dodatka"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Izbriši sve tablice i postavke pri deinstalaciji"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Prema zadanim postavkama svi zapisi o događajima, prijavama, računima i reviziji ostaju sačuvani pri brisanju dodatka (zakonski rokovi čuvanja). Omogućite ovu opciju samo ako želite trajno ukloniti sve tablice prilikom deinstalacije dodatka."
+      ],
+      "Alle Einstellungen speichern": [
+        "Spremi sve postavke"
+      ],
+      "Platzbuchung": [
+        "Rezervacija mjesta"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Mjesto se rezervira jednom uvjetnom naredbom UPDATE (belegt = belegt + 1, samo dok je belegt < kapazitaet). Od dva istodobna zahtjeva za posljednje mjesto samo jedan mijenja redak, dok drugi dobiva poruku „popunjeno”."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Računi i odobrenja generiraju se kao CII-XML prema profilu EN 16931 te se u testovima provjeravaju validatorom Mustang. PDF se ne izrađuje, stoga XML nije hibridna ZUGFeRD datoteka. Ispunjavaju li računi zakonske uvjete u pojedinom slučaju provjerava porezni savjetnik."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF i računovodstvo"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Izvozi račune i odobrenja za odabrano razdoblje kao paket knjiženja u DATEV formatu (EXTF 700, kategorija 21) u kodiranju Windows-1252. Konta potraživanja i prihoda preuzimaju se iz postavki; svaki redak nosi porezni ključ 3. Konta i ključeve uskladite s poreznim savjetnikom."
+      ],
+      "Handbuch & API:": [
+        "Priručnik i API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Cjeloviti priručnik"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Razvio WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Priručnik za administratore i razvojne inženjere"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Rezervacija mjesta, XML računi, DATEV izvoz, Brevo dvostruka potvrda, kratki kodovi i predlošci tema."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Rezervacija mjesta bez prebukiranja"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Brojač popunjenosti povećava se u jednoj uvjetnoj naredbi; od dva istodobna zahtjeva za posljednje mjesto samo jedan ažurira redak:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML računi i DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Računi i odobrenja s podacima izdavatelja iz postavki, datumom isporuke i slijednim brojem. Bez PDF-a i bez Leitweg-ID oznake."
+      ],
+      "Gutschriften:": [
+        "Odobrenja:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Vlastiti slijedni broj, tip 381 s referencom na izvorni račun."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Paket knjiženja za razdoblje unutar jedne kalendarske godine, kodiranje Windows-1252. Konta i porezne ključeve uskladite s poreznim savjetnikom."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM dvostruka potvrda i pozadinski red čekanja"
+      ],
+      "Double Opt-In (DOI):": [
+        "Dvostruka potvrda (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo šalje poruku e-pošte za potvrdu s osobnom poveznicom; poveznica jednokratno potvrđuje prijavu. Nepotvrđene prijave brišu se nakon 14 dana."
+      ],
+      "Warteschlange:": [
+        "Red čekanja:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Pozivi prema sustavu Brevo prolaze kroz red čekanja u bazi podataka koji WP-Cron obrađuje svake minute (ili naredba wp cybevents queue-run), uz najviše pet pokušaja."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Kratki kodovi i Gutenberg integracija"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Pristupačan obrazac za prijavu."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktivni program konferencije i pregled tematskih smjerova."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Odabir sesija temeljen na tokenu nakon DOI potvrde."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI naredbe za administratore"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Predlošci tema i dizajnerski tokeni"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Javno sučelje prilagođava se bilo kojoj WordPress temi ili koristi ugrađene predloške dizajna:"
+      ],
+      "Presets:": [
+        "Predlošci:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Nekoliko predložaka boja, uključujući kombinaciju tamnoljubičaste, ljubičaste i ružičaste (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Nasljeđivanje teme (zadano):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Besprijekorno preuzima fontove, zaobljenost rubova i primarne boje iz aktivne teme (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Prilagođena CSS svojstva (Custom Properties):"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Važne napomene i dobre prakse"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tablice se stvaraju uz ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Rokovi čuvanja podataka:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Nepotvrđene prijave brišu se nakon 14 dana, a unosi u revizijskom zapisniku pseudonimiziraju se nakon 90 dana (osim događaja vezanih uz račune). Potvrđene prijave i račune dodatak ne briše automatski; za to ne postoji postavka."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Obrada reda čekanja i rokova čuvanja izvršava se putem WP-Crona; na stranicama bez redovitog prometa potreban je sistemski cron zadatak."
+      ],
+      "Cyber Events Suite": [
+        "Paket Cyber Events"
+      ],
+      "Veranstaltung auswählen": [
+        "Odaberi događaj"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Odaberite ciljni događaj za ovaj blok."
+      ],
+      "Key Facts Header anzeigen": [
+        "Prikaži zaglavlje ključnih podataka"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Prikaži pokazatelj koraka"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Prikaži gumb za izvoz u kalendar (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Prikaži odbrojavanje"
+      ],
+      "Freie Plätze anzeigen": [
+        "Prikaži slobodna mjesta"
+      ],
+      "Spaltenanzahl": [
+        "Broj stupaca"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Odaberite valjani događaj u postavkama bloka."
+      ],
+      "Vorschau im Editor": [
+        "Pretpregled u uređivaču"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Odabir sesija za potvrđene prijave"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Na javnom sučelju ovaj se blok dinamički prikazuje za svakog sudionika pomoću njegova pojedinačnog tokena."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Token potvrde nije pronađen."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Otvorite ovu stranicu putem personalizirane poveznice iz e-pošte s potvrdom."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Nevažeći ili istekli token sudionika."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Plan mjesta događaja"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Na javnom sučelju ovaj blok prikazuje popunjenost svake sesije kao SVG i ažurira je putem tehnologije Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Događaj nije pronađen."
+      ],
+      "Jetzt anmelden": [
+        "Prijavi se sada"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Prijavi se sada besplatno"
+      ],
+      "Programm ansehen": [
+        "Pogledaj program"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Besplatno sudjelovanje"
+      ],
+      "Anmeldung geöffnet": [
+        "Prijave otvorene"
+      ],
+      "Ausgebucht": [
+        "Popunjeno"
+      ],
+      "Preis": [
+        "Cijena"
+      ],
+      "%d freier Platz": [
+        "%d slobodno mjesto",
+        "%d slobodna mjesta",
+        "%d slobodnih mjesta"
+      ],
+      "von max. %d": [
+        "od maks. %d"
+      ],
+      "Beginn in:": [
+        "Počinje za:"
+      ],
+      "Tage": [
+        "Dana"
+      ],
+      "Std.": [
+        "Sati"
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Izvezi u kalendar (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics datoteka)"
+      ],
+      "Google Kalender": [
+        "Google kalendar"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Datoteka .ics uključuje podsjetnik jedan dan prije početka."
+      ],
+      "Referenten & Fachexperten": [
+        "Predavači i stručnjaci"
+      ],
+      "Referenten": [
+        "Predavači"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Popis predavača bit će uskoro objavljen."
+      ],
+      "TEILNEHMERPASS": [
+        "PROPUSNICA SUDIONIKA"
+      ],
+      "Teilnehmerpass": [
+        "Propusnica sudionika"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Otvori ulaznicu i akreditaciju"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Unesite svoj 64-znakovni sigurnosni token iz e-pošte s potvrdom:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Unesite token (npr. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Prikaži propusnicu"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Nevažeći ili nepoznati token rezervacije."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Za ovu prijavu nije dostupna propusnica sudionika: prijava nije potvrđena ili je stornirana."
+      ],
+      "Max Mustermann": [
+        "Ivan Horvat"
+      ],
+      "Beispiel GmbH": [
+        "Primjer d.o.o."
+      ],
+      "Veranstaltung": [
+        "Događaj"
+      ],
+      "Rechnungs-Nr.": [
+        "Br. računa"
+      ],
+      "Keine": [
+        "Nema"
+      ],
+      "Ticket-Nummer": [
+        "Broj ulaznice"
+      ],
+      "Pass drucken": [
+        "Ispiši propusnicu"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Zaštita podataka i sigurnost"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Dvostruka potvrda i rokovi čuvanja"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Prijava postaje važeća tek nakon potvrde putem poveznice u e-pošti. Nepotvrđene prijave brišu se nakon 14 dana, a unosi u revizijskom zapisniku pseudonimiziraju se nakon 90 dana."
+      ],
+      "Beschriftete Formulare": [
+        "Označeni obrasci"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Polja obrasca s vidljivim oznakama, istaknutim obveznim poljima i povratnim porukama za čitače zaslona."
+      ],
+      "Eigene Skripte und Styles": [
+        "Lokalne skripte i stilovi"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Dodatak poslužuje svoje skripte, stilove i ikone s vašeg vlastitog poslužitelja umjesto s CDN-a."
+      ],
+      "Audit-Log und Tokens": [
+        "Revizijski zapisnik i tokeni"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Revizijski zapisnik ulančan pomoću HMAC-SHA256 čini naknadne izmjene uočljivima. Tokeni sudionika pohranjuju se isključivo kao SHA-256 sažeci."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML računi i DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Računi u formatu CII-XML prema profilu EN 16931 i izvoz kao DATEV paket knjiženja."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Zaštita od botova koja poštuje privatnost bez praćenja korisnika ili slikovnih zagonetki u skladu s propisima EU-a o zaštiti podataka."
+      ],
+      "Zur Anmeldung": [
+        "Na prijavu"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Nema arhiviranih događaja."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Trenutačno nema planiranih događaja."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtriraj događaje prema naslovu ili lokaciji..."
+      ],
+      "Kostenfrei": [
+        "Besplatno"
+      ],
+      "In Kalender eintragen": [
+        "Dodaj u kalendar"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Informacijska traka konferencije i programa uživo"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TELEMETRIJA PROGRAMA UŽIVO"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Upravljanje prikazima i filtrima"
+      ],
+      "Kalenderansichten": [
+        "Prikazi kalendara"
+      ],
+      "Monat": [
+        "Mjesec"
+      ],
+      "Woche": [
+        "Tjedan"
+      ],
+      "Tag / Agenda": [
+        "Dan / program"
+      ],
+      "Liste": [
+        "Popis"
+      ],
+      "Karten": [
+        "Kartice"
+      ],
+      "Räume & Ort": [
+        "Dvorane i lokacija"
+      ],
+      "Summit Tracks": [
+        "Tematski smjerovi summita"
+      ],
+      "Vorheriger Zeitraum": [
+        "Prethodno razdoblje"
+      ],
+      "Nächster Zeitraum": [
+        "Sljedeće razdoblje"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Pretraži događaj, temu ili predavača..."
+      ],
+      "Suchbegriff eingeben": [
+        "Unesite pojam za pretraživanje"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtriraj smjer ili kategoriju"
+      ],
+      "Alle Fach-Tracks": [
+        "Svi stručni smjerovi"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Smjer 01: Postkvantna kriptografija"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Smjer 02: Zero Trust i DORA otpornost"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Smjer 03: Autonomni AI i zaštita tajnosti (§ 203 StGB)"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Smjer 04: Lanac opskrbe softvera i CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtriraj konferencijsku dvoranu"
+      ],
+      "Alle Säle & Räume": [
+        "Sve dvorane i prostorije"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenarna dvorana Alpha (glavna predavanja)"
+      ],
+      "Security Lab Beta": [
+        "Sigurnosni laboratorij Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Radionički studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtualno AS4 središte za prijenos"
+      ],
+      "Monatskalenderansicht": [
+        "Mjesečni prikaz kalendara"
+      ],
+      "Mo": [
+        "Pon"
+      ],
+      "Di": [
+        "Uto"
+      ],
+      "Mi": [
+        "Sri"
+      ],
+      "Do": [
+        "Čet"
+      ],
+      "Fr": [
+        "Pet"
+      ],
+      "Sa": [
+        "Sub"
+      ],
+      "So": [
+        "Ned"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Prikaz tjednog rasporeda i vremenske mreže"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Prikaz dnevnog programa i vremenske crte"
+      ],
+      "Chronologische Listenansicht": [
+        "Kronološki prikaz popisa"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vizualni prikaz foto-kartica"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Prikaz navigatora lokacije i dvorana"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Višesmjerna matrica summita"
+      ],
+      "Dialog schließen": [
+        "Zatvori dijaloški okvir"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Nevažeći ID sesije ili prijave."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Rezervaciju nije bilo moguće obraditi zbog pogreške baze podataka."
+      ],
+      "Session %d existiert nicht.": [
+        "Sesija %d ne postoji."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "„%1$s” je popunjeno (zauzeto %2$d od %2$d mjesta)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Rezervaciju nije bilo moguće spremiti. Mjesto je ponovno oslobođeno."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Storniranje nije bilo moguće obraditi zbog pogreške baze podataka."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Nije prenesena valjana datoteka."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Pogreška pri prijenosu datoteke."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profilna slika smije biti veličine najviše 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Nevažeći format datoteke. Dopušteni formati su JPG, PNG i WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Nevažeći nastavak datoteke. Dopušteni nastavci su .jpg, .jpeg, .png i .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Pogreška pri spremanju profilne slike."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Revizijski zapisnik je prazan iako je prethodno zabilježeno %d unosa."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Nepotpisani unos naknadno je umetnut u lanac."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Prekid lanca na unosu #%d: unos je izbrisan, umetnut ili premješten."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Potpis unosa #%d ne podudara se s njegovim kontrolnim zbrojem."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Unos #%d označen je kao pseudonimiziran bez valjanog dokaza: njegov je sadržaj možda izmijenjen."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Sadržaj unosa #%d naknadno je izmijenjen."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Kraj zapisnika ne odgovara zadnjem zabilježenom unosu. Najnoviji unosi su uklonjeni."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Događaji"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Događaj"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Događaj"
+      ],
+      "event\u0004Neu erstellen": [
+        "Dodaj novi"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Uredi događaj"
+      ],
+      "Veranstaltung ansehen": [
+        "Pogledaj događaj"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Pretraži događaje"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "U smeću nema događaja."
+      ],
+      "Veranstaltungsdaten": [
+        "Podaci o događaju"
+      ],
+      "Veranstaltungsort:": [
+        "Mjesto održavanja:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Upravljaj mjestima održavanja ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Odaberite spremljeno mjesto održavanja —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Ručni unos mjesta / dvorane / adrese..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Odaberite spremljeno mjesto s popisa ili prilagodite naziv lokacije odnosno dvorane."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Početak (datum i vrijeme):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Završetak (datum i vrijeme):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Događaj uz naplatu"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Trenutačno nema dostupnih rasporeda konferencija."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Pretraži temu, predavača ili dvoranu..."
+      ],
+      "Konferenz-Agenda": [
+        "Program konferencije"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Detaljan program bit će uskoro objavljen."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Podaci sudionika CyberEvents"
+      ],
+      "E-Mail": [
+        "E-pošta"
+      ],
+      "Unternehmen / Organisation": [
+        "Tvrtka / organizacija"
+      ],
+      "Profilbild": [
+        "Profilna slika"
+      ],
+      "Einwilligung Datenschutz": [
+        "Privola za zaštitu podataka"
+      ],
+      "ja": [
+        "da"
+      ],
+      "nein": [
+        "ne"
+      ],
+      "Einwilligung Fotos": [
+        "Privola za fotografije"
+      ],
+      "Bestätigung angefordert": [
+        "Zatražena potvrda"
+      ],
+      "Bestätigt am": [
+        "Potvrđeno dana"
+      ],
+      "Eingecheckt am": [
+        "Prijava na ulazu dana"
+      ],
+      "Gebuchte Sessions": [
+        "Rezervirane sesije"
+      ],
+      "Rechnungsnummer": [
+        "Broj računa"
+      ],
+      "CyberEvents Registrierungen": [
+        "Prijave CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Računi CyberEvents"
+      ],
+      "Empfänger": [
+        "Primatelj"
+      ],
+      "Adresse": [
+        "Adresa"
+      ],
+      "Bruttobetrag": [
+        "Bruto iznos"
+      ],
+      "Ausgestellt am": [
+        "Izdano dana"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Prijavu #%d nije bilo moguće izbrisati."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Prijavu #%d nije bilo moguće anonimizirati; podaci su ostali nepromijenjeni."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Prijava #%1$d je anonimizirana. Račun %2$s s imenom, adresom i e-poštom ostaje nepromijenjen; dodatak ne briše račune."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Brevo webhook onemogućen je bez dijeljene tajne (vraća 401). Neisporučene poruke i odjave neće se obrađivati dok se tajna ne postavi."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nije postavljen Brevo API ključ: poruke e-pošte za potvrdu neće se slati, a nove prijave ostaju nepotvrđene i brišu se nakon 14 dana."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha je omogućen, ali nema učinka: dodatak ne sadrži captcha widget pa se obrazac obrađuje bez zaštite od botova."
+      ],
+      "Einstellungen öffnen": [
+        "Otvori postavke"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Previše zahtjeva. Pokušajte ponovno za jednu minutu."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Odabir nije spremljen: %s Vaše dosadašnje rezervacije ostaju nepromijenjene."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Nove sesije su rezervirane, ali nije bilo moguće osloboditi svaku odjavljenu sesiju: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Nevažeći sigurnosni token (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Nevažeći token obrasca (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Sudionik nije ovlašten ili nije pronađen."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nije poslana slikovna datoteka."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profilna slika je uspješno ažurirana."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Nedostaje token potvrde."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Nevažeća ili još nepotvrđena ulaznica."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Za ovaj događaj nema konfiguriranih sesija."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Plan mjesta: zauzeta i slobodna mjesta po sesiji"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — zauzeto %2$d od %3$d mjesta"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Nije naveden događaj za plan mjesta."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Događaj plana mjesta ne postoji."
+      ],
+      "frei": [
+        "slobodno"
+      ],
+      "belegt": [
+        "zauzeto"
+      ],
+      "von Ihnen gebucht": [
+        "vaša rezervacija"
+      ],
+      "Belegung je Session": [
+        "Popunjenost po sesiji"
+      ],
+      "Session": [
+        "Sesija"
+      ],
+      "Belegt": [
+        "Zauzeto"
+      ],
+      "Frei": [
+        "Slobodno"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Popunjenost se automatski ažurira."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stanje pri učitavanju stranice; popunjenost se ne ažurira uživo."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demonstracijski podaci: rezervacija za %1$s odbijena — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demonstracijski podaci: sudjelovanje otkazano"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sesije i smjerovi"
+      ],
+      "post type singular name\u0004Session": [
+        "Sesija"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sesije"
+      ],
+      "Alle Sessions": [
+        "Sve sesije"
+      ],
+      "Session bearbeiten": [
+        "Uredi sesiju"
+      ],
+      "Session ansehen": [
+        "Pogledaj sesiju"
+      ],
+      "Sessions durchsuchen": [
+        "Pretraži sesije"
+      ],
+      "Keine Sessions gefunden.": [
+        "Nije pronađena nijedna sesija."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "U smeću nema sesija."
+      ],
+      "Session-Daten": [
+        "Podaci o sesiji"
+      ],
+      "Zugehörige Konferenz:": [
+        "Pripadajuća konferencija:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Nije odabrana konferencija —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Predavač i institucija:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "npr. Ana Horvat (Primjer d.o.o.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Prostorija / dvorana / smjer:"
+      ],
+      "Workshop-Kapazität:": [
+        "Kapacitet radionice:"
+      ],
+      "Speaker": [
+        "Predavač"
+      ],
+      "Raum / Track": [
+        "Dvorana / smjer"
+      ],
+      "Zeitfenster": [
+        "Vremenski termin"
+      ],
+      "Belegung": [
+        "Popunjenost"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Dobro došli, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Odaberite svoje sesije. Mjesto se dodjeljuje pri spremanju sve dok sesija nije popunjena."
+      ],
+      "Anmeldung bestätigt": [
+        "Prijava potvrđena"
+      ],
+      "Für diese Session eingetragen": [
+        "Prijavljen na ovu sesiju"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Odaberi ovu sesiju"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Mjesto se dodjeljuje pri spremanju sve dok sesija nije popunjena."
+      ],
+      "Sessions ausgewählt": [
+        "Odabrane sesije"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Spremi odabir"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Zadana WordPress tema (automatski naslijeđeno)"
+      ],
+      "Empfohlen": [
+        "Preporučeno"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Izravno preuzima tipografiju, boje, gumbe i razmake iz aktivne WordPress teme (GeneratePress, Astra, Twenty Twenty-Four itd.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Ljubičasta i rozeta (tamnoljubičasta, ljubičasta, ružičasti naglasak)"
+      ],
+      "Farbstark": [
+        "Živopisan"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Tamnoljubičasta (#482683), jarko ljubičasta (#7D40E7), ružičasti naglasak (#DF0079), Noto Sans ako ga tema učitava, i diskretan prijelaz boja."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (mornarsko plava i cijan)"
+      ],
+      "High-Tech Dark": [
+        "Tamni High-Tech izgled"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Prilagođeni tamni i kobaltni izgled sa svjetlosnim naglascima namijenjen konferencijama o kibernetičkoj sigurnosti."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalistički moderan (škriljevac i monokromatski)"
+      ],
+      "Modern": [
+        "Moderan"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Čist i nenametljiv SaaS dizajn s neutralnim sivim tonovima, preciznim rubovima i obiljem bijelog prostora."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Urednički topli (klasični i topli tonovi)"
+      ],
+      "Klassik": [
+        "Klasični"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Topli tonovi bjelokosti i bordo boje za akademske simpozije i vrhunske stručne kongrese."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Visoki kontrast (crno na bijelom)"
+      ],
+      "Hochkontrast": [
+        "Visoki kontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Crni tekst na bijeloj podlozi (kontrast 21:1) sa žutim naglaskom i pojačanim obrubima fokusa."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Prilagođena tema (vlastite boje i CSS)"
+      ],
+      "Individuell": [
+        "Prilagođeno"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Slobodan odabir boja i podrška za prenesene prilagođene CSS datoteke stilova."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nije predana valjana datoteka za prijenos."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Sigurnosna pogreška: dopušten je prijenos isključivo čistih .css datoteka."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS datoteka premašuje ograničenje od 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Datoteku teme nije bilo moguće spremiti na poslužitelj."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Prilagođeni CSS teme uspješno je prenesen i aktiviran."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Mjesta održavanja"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Mjesto održavanja"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Pretraži mjesta održavanja"
+      ],
+      "Häufige Tagungsorte": [
+        "Popularna mjesta održavanja"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Sva mjesta održavanja"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Uredi mjesto održavanja"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Ažuriraj mjesto održavanja"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Dodaj novo mjesto održavanja"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Naziv novog mjesta održavanja"
+      ],
+      "Orte mit Kommas trennen": [
+        "Odvojite mjesta zarezima"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Dodaj ili ukloni mjesta"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Odaberi među najčešće korištenim mjestima"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Nije pronađeno nijedno mjesto održavanja."
+      ],
+      "Stadt / Ort:": [
+        "Grad / mjesto:"
+      ],
+      "z. B. Musterstadt": [
+        "npr. Zagreb"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Grad ili općina mjesta održavanja."
+      ],
+      "Straße & Hausnummer:": [
+        "Ulica i kućni broj:"
+      ],
+      "z. B. Musterstraße 1": [
+        "npr. Primjerna ulica 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Poštanski broj:"
+      ],
+      "Land:": [
+        "Država:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maksimalni kapacitet dvorane (osoba):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Pristupačno za invalidska kolica"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Označite samo ako je provjereno. Podatak se prikazuje na popisu mjesta održavanja i na REST ruti /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL karte / uputa za dolazak:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Web-stranica mjesta održavanja:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maksimalni kapacitet dvorane:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Kapacitet sjedećih mjesta konferencijskog prostora."
+      ],
+      "Zugänglichkeit:": [
+        "Pristupačnost:"
+      ],
+      "Google Maps Link:": [
+        "Poveznica na kartu:"
+      ],
+      "Stadt & Adresse": [
+        "Grad i adresa"
+      ],
+      "Kapazität": [
+        "Kapacitet"
+      ],
+      "Rollstuhlgerecht": [
+        "Pristupačno za kolica"
+      ],
+      "Ja": [
+        "Da"
+      ],
+      "Nicht angegeben": [
+        "Nije navedeno"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Trenutačno je vrlo velik broj zahtjeva. Pokušajte ponovno za %d sekundi. Nijedno mjesto time nije rezervirano."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Bez trajne objektne predmemorije (Redis, Memcached) čekaonica broji u bazi podataka: odbijeni zahtjevi preskaču upite rezervacija, ali ipak troše jedno čitanje i jedno pisanje u tablici opcija."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Pokazatelji Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Pokazatelj Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Prikazuje pokazatelje uživo za aktivne konferencije, potvrđene prijave i slobodna mjesta."
+      ],
+      "Kennzahl": [
+        "Pokazatelj"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "ID događaja (neobavezno)"
+      ],
+      "Dokumentation": [
+        "Dokumentacija"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Navedite valjani ID događaja: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Nije pronađen valjani token potvrde. Iskoristite poveznicu iz svoje e-pošte."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Najnoviji aktivni događaj (automatski) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatski (trenutačna konferencija)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Odabir događaja"
+      ],
+      "Ziel-Konferenz": [
+        "Ciljna konferencija"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Odaberite konferenciju čiji se podaci prikazuju u glavnom zaglavlju (Hero)."
+      ],
+      "Design & Layout-Presets": [
+        "Predlošci dizajna i rasporeda"
+      ],
+      "Theme-Preset": [
+        "Predložak teme"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (zadano)"
+      ],
+      "Federal Blue": [
+        "Federalno plava"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk cijan sjaj"
+      ],
+      "Clean White & Modern": [
+        "Čista bijela i moderna"
+      ],
+      "Glassmorphism Blur": [
+        "Efekt mutnog stakla (Glassmorphism)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Zaobljenost kutova (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Bez (0px)"
+      ],
+      "Mittel (8px)": [
+        "Srednje (8px)"
+      ],
+      "Groß (16px)": [
+        "Veliko (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Vrlo veliko (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Omogući efekt sjaja"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Tekstovi i gumbi poziva na akciju (CTA)"
+      ],
+      "Badge / Dachzeile": [
+        "Oznaka / nadnaslov"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Prilagođeni glavni naslov (neobavezno)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Zadano: naslov događaja"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Prilagođeni uvodni tekst"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Zadano: opis događaja"
+      ],
+      "Primärer CTA-Button Text": [
+        "Tekst glavnog CTA gumba"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Ciljni URL / sidro glavnog CTA gumba"
+      ],
+      "Sekundären Button anzeigen": [
+        "Prikaži sekundarni gumb"
+      ],
+      "Sekundärer Button Text": [
+        "Tekst sekundarnog gumba"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Ciljni URL sekundarnog gumba"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Vidljivost elemenata"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Prikaži odbrojavanje uživo"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Prikaži oznaku slobodnih mjesta / kapaciteta"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Prikaži oznaku stanja (otvoreno / popunjeno)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Prikaži mjesto održavanja"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Prikaži datum i vrijeme"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Prikaži cijenu ulaznice / oznaku besplatnog ulaza"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Prikaži gumb za izvoz u kalendar (.ics)"
+      ],
+      "Kopfbereich": [
+        "Glavno zaglavlje (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Zadano: opis događaja uz datum, mjesto održavanja, cijenu, slobodna mjesta, odbrojavanje i gumb za prijavu."
+      ],
+      "Countdown": [
+        "Odbrojavanje"
+      ],
+      "Freie Plätze": [
+        "Slobodna mjesta"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Gumb: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Odabir konferencije"
+      ],
+      "Ziel-Veranstaltung": [
+        "Ciljni događaj"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Odaberite događaj na koji se posjetitelji prijavljuju."
+      ],
+      "Formular-Design & Theme": [
+        "Dizajn i tema obrasca"
+      ],
+      "Formular-Stil": [
+        "Stil obrasca"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (zadano)"
+      ],
+      "Clean White Studio": [
+        "Čisti bijeli studio"
+      ],
+      "Eckenabrundung": [
+        "Zaobljenost kutova"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Polja obrasca i opcije prikupljanja podataka"
+      ],
+      "Individueller Formulartitel": [
+        "Prilagođeni naslov obrasca"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Prilagođeni podnaslov / napomena"
+      ],
+      "Standard: kein Untertitel": [
+        "Zadano: bez podnaslova"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Prikaži polje organizacije / tvrtke"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Prikaži privolu za fotografiranje i snimanje"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Prikaži zaglavlje ključnih podataka u obrascu"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Natpis gumba i poveznice o privatnosti"
+      ],
+      "Absende-Button Beschriftung": [
+        "Natpis gumba za slanje"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Prilagođeni URL pravila privatnosti (neobavezno)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Zadano: stranica privatnosti iz Postavke > Privatnost"
+      ],
+      "Anmeldeformular": [
+        "Obrazac za prijavu"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Prijava s dvostrukom potvrdom: Brevo šalje poveznicu za potvrdu, a tek nakon potvrde prijava postaje važeća."
+      ],
+      "Standard nach Ticketpreis": [
+        "Zadano prema cijeni ulaznice"
+      ],
+      "Überschrift & Untertitel": [
+        "Naslov i podnaslov"
+      ],
+      "Überschrift": [
+        "Naslov"
+      ],
+      "Untertitel / Beschreibung": [
+        "Podnaslov / opis"
+      ],
+      "Suche, Angaben & Export": [
+        "Pretraživanje, podaci i izvoz"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Prikaži polje za pretraživanje sesija uživo"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Prikaži podatke o dvorani i lokaciji"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Prikaži avatare predavača"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Prikaži cjeloviti izvoz kalendara (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sesije u kronološkom redoslijedu s dvoranom, predavačem, opisom, pretraživanjem i .ics izvozom."
+      ],
+      "Suche": [
+        "Pretraživanje"
+      ],
+      ".ics-Download": [
+        "Preuzimanje .ics datoteke"
+      ],
+      "Layout & Spalten": [
+        "Raspored i stupci"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Broj stupaca (računalo)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Tekstovi i prikaz detalja"
+      ],
+      "Untertitel": [
+        "Podnaslov"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Prikaži temu predavanja sesije"
+      ],
+      "Raumangabe anzeigen": [
+        "Prikaži oznaku dvorane"
+      ],
+      "Uhrzeit anzeigen": [
+        "Prikaži vrijeme početka"
+      ],
+      "Konferenz: ": [
+        "Konferencija: "
+      ],
+      "%d Spalten": [
+        "%d stupaca"
+      ],
+      "Vortragsthemen": [
+        "Teme predavanja"
+      ],
+      "Titel": [
+        "Naslov"
+      ],
+      "Individueller Titel": [
+        "Prilagođeni naslov"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalendarske usluge i opcije"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Prikaži Apple / Outlook (.ics datoteka)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Prikaži izravnu poveznicu za Google kalendar"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Prikaži izravnu poveznicu za Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Prikaži izravnu poveznicu za Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Prikaži obavijest o vremenskoj zoni"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Prikaži napomenu o podsjetniku u .ics datoteci"
+      ],
+      "Kalender": [
+        "Kalendar"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Datoteka .ics s podsjetnikom jedan dan prije početka te poveznicama za Google kalendar, Outlook Web i Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Datoteka .ics"
+      ],
+      "Session-Auswahl": [
+        "Odabir sesija"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Ovaj blok nema postavki. Prikazuje sesije za token iz poveznice za potvrdu; bez tokena prikazuje se obavijest."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Mjesto se dodjeljuje pri spremanju sve dok sesija nije popunjena."
+      ],
+      "Ticketpass-Optionen": [
+        "Opcije propusnice"
+      ],
+      "Pass-Überschrift": [
+        "Naslov propusnice"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Redak zaglavlja (zadano: naslov događaja)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Prikaži gumb za ispis (ispiši akreditaciju)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Prikaži broj ulaznice"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Prikaži broj računa / referencu"
+      ],
+      "Check-In Status anzeigen": [
+        "Prikaži stanje prijave na ulazu"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Propusnica za potvrđene prijave kojoj se pristupa putem tokena iz e-pošte s potvrdom: ime, tvrtka, stanje, broj računa, broj ulaznice i gumb za ispis."
+      ],
+      "Ticketnummer": [
+        "Broj ulaznice"
+      ],
+      "Druckfunktion": [
+        "Funkcija ispisa"
+      ],
+      "Titel der Veranstaltung": [
+        "Naslov događaja"
+      ],
+      "Layout & Farbschema": [
+        "Raspored i shema boja"
+      ],
+      "Raster-Layout": [
+        "Mrežni raspored"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Mreža s 4 stupca (zadano)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Mreža s 2 stupca (široka)"
+      ],
+      "Farbthema": [
+        "Tema boja"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (zadano)"
+      ],
+      "Angezeigte Karten": [
+        "Prikazane kartice"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kartice koje opisuju funkcije dodatka. Blok ne procjenjuje usklađenost web-stranice sa zakonskim propisima."
+      ],
+      "Double Opt-in": [
+        "Dvostruka potvrda"
+      ],
+      "Formulare": [
+        "Obrasci"
+      ],
+      "Eigene Assets": [
+        "Lokalni resursi"
+      ],
+      "Abfrage & Filterung": [
+        "Upiti i filtriranje"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maksimalan broj konferencija"
+      ],
+      "Status-Filter": [
+        "Filtar stanja"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Samo aktivni događaji"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktivni i arhivirani događaji"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Samo arhivirani događaji"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Vidljivi metapodaci i gumbi"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Prikaži traku za pretraživanje uživo"
+      ],
+      "Preisschild anzeigen": [
+        "Prikaži oznaku cijene"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Prikaži lokaciju / mjesto održavanja"
+      ],
+      "Datums-Badge anzeigen": [
+        "Prikaži oznaku datuma"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Prikaži izravnu .ics poveznicu kalendara"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Prikaži sažetak opisa"
+      ],
+      "CTA-Button Beschriftung": [
+        "Natpis CTA gumba"
+      ],
+      "Veranstaltungsübersicht": [
+        "Pregled događaja"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Mreža događaja s datumom, cijenom, lokacijom, kratkim opisom, gumbom za prijavu i .ics poveznicom."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Maks. %d događaja"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events — Plan mjesta"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Postavke plana mjesta"
+      ],
+      "Überschrift (optional)": [
+        "Naslov (neobavezno)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Tekst opisa (neobavezno)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Omogući ažuriranje uživo"
+      ],
+      "Sitzplan": [
+        "Plan mjesta"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafički pregled popunjenosti svih sesija događaja s pristupačnom podatkovnom tablicom."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events — Višeprikazni kalendar"
+      ],
+      "Ansichten & Datenquelle": [
+        "Prikazi i izvor podataka"
+      ],
+      "Standardansicht": [
+        "Zadani prikaz"
+      ],
+      "Monatskalender": [
+        "Mjesečni kalendar"
+      ],
+      "Wochenplan": [
+        "Tjedni raspored"
+      ],
+      "Tagesagenda": [
+        "Dnevni program"
+      ],
+      "Listenansicht": [
+        "Prikaz popisa"
+      ],
+      "Kartenansicht": [
+        "Prikaz kartica"
+      ],
+      "Raumübersicht": [
+        "Pregled dvorana"
+      ],
+      "Track-Matrix": [
+        "Matrica smjerova"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maksimalan broj unosa"
+      ],
+      "Bedienleiste & Filter": [
+        "Alatna traka i filtri"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Prikaži preklopnik prikaza"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Prikaži filtre smjerova i dvorana"
+      ],
+      "Suchfeld anzeigen": [
+        "Prikaži polje za pretraživanje"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Prikaži traku obavijesti"
+      ],
+      "Kalender-Ansichten": [
+        "Prikazi kalendara"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Višeprikazni kalendar i program"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Preklopivi prikazi mjeseca, tjedna, dana, popisa, kartica, dvorana i smjerova."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events — Program konferencije"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktivni višesmjerni raspored konferencije s vremenskom crtom, detaljima predavača, filtrima dvorana i preuzimanjem iCal (.ics) datoteke."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalendar, program i smjerovi)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Prošireni paket kalendara i programa sa 7 interaktivnih prikaza: mjesečni kalendar, tjedni raspored, dnevni program, prikaz popisa, foto-kartice, karta dvorana i višesmjerna matrica summita."
+      ],
+      "block keyword\u0004event": [
+        "događaj"
+      ],
+      "block keyword\u0004calendar": [
+        "kalendar"
+      ],
+      "block keyword\u0004agenda": [
+        "program"
+      ],
+      "block keyword\u0004schedule": [
+        "raspored"
+      ],
+      "block keyword\u0004summit": [
+        "konferencija"
+      ],
+      "block keyword\u0004timetable": [
+        "satnica"
+      ],
+      "block keyword\u0004matrix": [
+        "matrica"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events — Kalendar i .ics widget"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalendarski widget s preuzimanjem .ics datoteke i poveznicama za Google kalendar, Outlook Web i Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event — Glavni baner i odbrojavanje"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Zaglavlje događaja s odbrojavanjem, ključnim podacima, oznakom stanja i gumbima za prijavu."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events — Mreža pregleda i arhive"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dinamični kartični pregled nadolazećih konferencija, simpozija i radionica s trakom za pretraživanje i filtrima stanja."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events — Obrazac za prijavu"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Obrazac za prijavu uz dvostruku potvrdu putem sustava Brevo, neobaveznu profilnu fotografiju i privolu za fotografiranje."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events — Plan mjesta"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Popunjenost svih sesija događaja kao SVG grafika, ažurirana u stvarnom vremenu putem Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events — Značke sigurnosti i povjerenja"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Pregled značajki privatnosti i sigurnosti dodatka: dvostruka potvrda, rokovi čuvanja, revizijski zapisnik, XML računi."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events — Odabir sesija i radionica"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Odabir sesija za potvrđene prijave: mjesta se dodjeljuju pri spremanju sve dok ima slobodnog kapaciteta."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events — Mreža predavača i stručnjaka"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatski generirani pregled svih glavnih govornika, predavača, rasporeda dvorana i biografija."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events — Digitalna propusnica"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Propusnica sudionika za potvrđene prijave s brojem ulaznice, događajem, mjestom održavanja i gumbom za ispis."
+      ]
+    }
+  }
+}

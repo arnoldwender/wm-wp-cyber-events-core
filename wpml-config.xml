@@ -1,0 +1,53 @@
+<wpml-config>
+    <!-- Custom Post Types -->
+    <custom-types>
+        <custom-type translate="1">cybevent</custom-type>
+        <custom-type translate="1">cybsession</custom-type>
+    </custom-types>
+
+    <!-- Custom Fields Synchronisation & Translation -->
+    <custom-fields>
+        <!-- Translatable Text Fields -->
+        <custom-field action="translate">_cybevents_location</custom-field>
+        <custom-field action="translate">_cybevents_speaker</custom-field>
+        <custom-field action="translate">_cybevents_raum</custom-field>
+
+        <!-- Fixed Functional & Numerical Fields (Synchronized / Copy) -->
+        <custom-field action="copy">_cybevents_start_date</custom-field>
+        <custom-field action="copy">_cybevents_end_date</custom-field>
+        <custom-field action="copy">_cybevents_max_capacity</custom-field>
+        <custom-field action="copy">_cybevents_ticket_price</custom-field>
+        <custom-field action="copy">_cybevents_event_id</custom-field>
+        <custom-field action="copy">_cybevents_start_time</custom-field>
+        <custom-field action="copy">_cybevents_end_time</custom-field>
+        <custom-field action="copy">_cybevents_kapazitaet</custom-field>
+    </custom-fields>
+
+    <!-- Shortcodes Configuration -->
+    <shortcodes>
+        <shortcode>
+            <tag>cybevents_agenda</tag>
+            <attributes>
+                <attribute type="post-ids">event_id</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cybevents_registration</tag>
+            <attributes>
+                <attribute type="post-ids">event_id</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+
+    <!-- Admin Settings Texts -->
+    <admin-texts>
+        <key name="cybevents_settings">
+            <key name="invoice_prefix" />
+            <key name="datev_beraternummer" />
+            <key name="datev_mandantennummer" />
+            <key name="datev_sachkontenlaenge" />
+            <key name="datev_erloeskonto" />
+            <key name="datev_forderungen" />
+        </key>
+    </admin-texts>
+</wpml-config>

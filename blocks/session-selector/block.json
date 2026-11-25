@@ -1,0 +1,47 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/session-selector",
+	"version": "1.1.0",
+	"title": "Cyber Events Session- & Workshop-Selektor",
+	"category": "cyber-events",
+	"icon": "grid-view",
+	"description": "Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"style": {
+			"type": "string",
+			"default": "stepper-flow"
+		},
+		"heading": {
+			"type": "string",
+			"default": ""
+		},
+		"description": {
+			"type": "string",
+			"default": ""
+		},
+		"showConflictAlerts": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCapacityCounter": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

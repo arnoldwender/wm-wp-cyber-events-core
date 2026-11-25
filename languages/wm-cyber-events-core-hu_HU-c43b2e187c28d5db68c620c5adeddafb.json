@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "hu_HU",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Események, szekciók és regisztrációk Brevo kettős megerősítéssel, beléptetéssel, számla-XML-lel (EN 16931) és DATEV-exporttal."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Az esemény nem található, vagy már nem aktív."
+      ],
+      "Verbindlich anmelden": [
+        "Regisztráció fizetési kötelezettséggel"
+      ],
+      "Kostenfrei anmelden": [
+        "Ingyenes regisztráció"
+      ],
+      "Datum": [
+        "Dátum"
+      ],
+      "Veranstaltungsort": [
+        "Helyszín"
+      ],
+      "Einlass": [
+        "Kapunyitás"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Az e-mailben kapott hivatkozással történő megerősítés után"
+      ],
+      "Kontaktdaten": [
+        "Kapcsolattartási adatok"
+      ],
+      "Einwilligung": [
+        "Hozzájárulás"
+      ],
+      "Bestätigung": [
+        "Megerősítés"
+      ],
+      "Vorname": [
+        "Keresztnév"
+      ],
+      "z. B. Erika": [
+        "pl. Anna"
+      ],
+      "Nachname": [
+        "Vezetéknév"
+      ],
+      "z. B. Mustermann": [
+        "pl. Kovács"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Üzleti e-mail-cím"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Intézmény / hatóság / vállalat"
+      ],
+      "z. B. Beispiel GmbH": [
+        "pl. Példa Kft."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilfotó a résztvevői belépőhöz (opcionális)"
+      ],
+      "Profilbild Vorschau": [
+        "Profilfotó előnézete"
+      ],
+      "Foto auswählen": [
+        "Fotó kiválasztása"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG vagy WebP · legfeljebb 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Adatvédelmi és kettős megerősítési hozzájárulás *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Hozzájárulok személyes adataim kezeléséhez a konferencián való részvétel céljából a GDPR előírásai szerint. Az ellenőrzéshez megerősítő hivatkozást kapok e-mailben."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Adatkezelési tájékoztató elolvasása"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Fénykép- és videófelvételek"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Hozzájárulok ahhoz, hogy az esemény keretében fénykép- és videófelvételek készüljenek rólam a szervező kommunikációs tevékenysége céljából."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Irányítóközpont és telítettség"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine aktív"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Kapacitáskezelés, DATEV-export és beléptetés"
+      ],
+      "Events": [
+        "Események"
+      ],
+      "Bestätigte Gäste": [
+        "Visszaigazolt vendégek"
+      ],
+      "Ausstehende DOI": [
+        "Függőben lévő DOI"
+      ],
+      "Mission Control öffnen": [
+        "Irányítóközpont megnyitása"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "GDPR-hozzájárulás szükséges"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Ez az export a GDPR 4. cikk 1. pontja szerinti védett személyes adatokat tartalmaz. A letöltés előtt meg kell erősítenie, hogy az adatokat bizalmasan kezeli, kizárólag a meghatározott célra használja fel, és az esemény lezárulta után az adatvédelmi előírásoknak megfelelően törli."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Vissza a foglaláskezeléshez"
+      ],
+      "DSGVO-Schutz": [
+        "GDPR-védelem"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "A pénzügyi és vevőadatok exportálásához meg kell erősíteni, hogy az adatokat bizalmasan és kizárólag könyvelési célra használják fel."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Vissza a DATEV Studióhoz"
+      ],
+      "DATEV-Export": [
+        "DATEV-export"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Nincs megfelelő jogosultság."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Vezérlőpult és mutatók"
+      ],
+      "Dashboard": [
+        "Vezérlőpult"
+      ],
+      "Alle Veranstaltungen": [
+        "Összes esemény"
+      ],
+      "Veranstaltungen": [
+        "Események"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Új esemény létrehozása"
+      ],
+      "Neue Veranstaltung": [
+        "Új esemény"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Helyszínek és konferenciaközpontok"
+      ],
+      "Veranstaltungsorte": [
+        "Helyszínek"
+      ],
+      "Sessions & Agenda": [
+        "Szekciók és program"
+      ],
+      "Neue Session erstellen": [
+        "Új szekció létrehozása"
+      ],
+      "Neue Session": [
+        "Új szekció"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Résztvevők és foglalások"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-import és beléptetési előkészítés"
+      ],
+      "CSV-Import": [
+        "CSV-import"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Pénzügyek és DATEV-export"
+      ],
+      "Finanzen & DATEV": [
+        "Pénzügyek és DATEV"
+      ],
+      "Audit-Log": [
+        "Auditnapló"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Beállítások és Theme Studio"
+      ],
+      "Einstellungen": [
+        "Beállítások"
+      ],
+      "Handbuch & Dokumentation": [
+        "Kézikönyv és dokumentáció"
+      ],
+      "Handbuch": [
+        "Kézikönyv"
+      ],
+      "Events & Konferenzen": [
+        "Események és konferenciák"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Jogosultságok esemény- és konferenciakezeléshez."
+      ],
+      "Teilnehmer verwalten": [
+        "Résztvevők kezelése"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Lehetővé teszi az eseményregisztrációk megtekintését és exportálását teljes WordPress-adminisztrátori hozzáférés nélkül."
+      ],
+      "Einstellungen & Theme": [
+        "Beállítások és sablon"
+      ],
+      "Handbuch & Doku": [
+        "Kézikönyv és leírás"
+      ],
+      "Plugin-Navigation": [
+        "Bővítménynavigáció"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Az esemény sikeresen mentve!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Az adatok szinkronban frissültek az adatbázisban és a WordPress rendszerben."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Az esemény törölve!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "A rekord eltávolításra került, a bejegyzés pedig a lombtárba lett helyezve."
+      ],
+      "Demodaten angelegt.": [
+        "Demóadatok létrehozva."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "A mintaesemény, a szekciók és a mintarésztvevők létrejöttek; számlák csak akkor készülnek, ha a számlakiállító adatai be vannak állítva."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents parancskonzol"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Események, szekciók és regisztrációk Brevo kettős megerősítéssel, beléptetéssel, számla-XML-lel és DATEV-exporttal."
+      ],
+      "Part of the WM Suite plugin family": [
+        "A WM Suite bővítménycsalád része"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub mód"
+      ],
+      "Standalone": [
+        "Önálló"
+      ],
+      "Demo-Daten auffrischen": [
+        "Demóadatok frissítése"
+      ],
+      "Springen zu:": [
+        "Ugrás ide:"
+      ],
+      "Kurzanleitung": [
+        "Gyorsútmutató"
+      ],
+      "Kennzahlen": [
+        "Mutatók"
+      ],
+      "Rechnungen": [
+        "Számlák"
+      ],
+      "Audit-Protokoll": [
+        "Auditnapló"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Mit tud a CyberEvents, és mit talál ezen a képernyőn?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "A bővítmény eseményeket, azok szekcióit és regisztrációit kezeli. A résztvevők a Brevo által küldött kettős megerősítő hivatkozással igazolják vissza regisztrációjukat (API-kulcs szükséges), ezután kiválasztják a túlfoglalás ellen védett szekciókat, a bejáratnál pedig egyedi tokenjükkel jelentkeznek be. A számlák CII-XML (EN 16931) formátumban készülnek, és DATEV könyvelési kötegként exportálhatók."
+      ],
+      "Schnellzugriff:": [
+        "Gyorselérés:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Résztvevők és regisztrációk"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Számlák exportálása DATEV-kötegként"
+      ],
+      "Event Auslastung": [
+        "Események telítettsége"
+      ],
+      "Kritisch": [
+        "Kritikus"
+      ],
+      "Optimal": [
+        "Optimális"
+      ],
+      "Max. Kapazität:": [
+        "Max. kapacitás:"
+      ],
+      "Gebucht:": [
+        "Foglalt:"
+      ],
+      "Live Check-In Counter": [
+        "Élő beléptetési számláló"
+      ],
+      "Anwesend": [
+        "Jelen van"
+      ],
+      "Registriert:": [
+        "Regisztrált:"
+      ],
+      "Eingecheckt:": [
+        "Beléptetve:"
+      ],
+      "Wartend:": [
+        "Várakozik:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Új regisztrációk (24 óra)"
+      ],
+      "Sessions": [
+        "Szekciók"
+      ],
+      "in 24 h": [
+        "24 óra alatt"
+      ],
+      "Ausstehende DOI:": [
+        "Függőben lévő DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM várólista-telemetria"
+      ],
+      "Jobs": [
+        "Feladatok"
+      ],
+      "Verarbeitung": [
+        "Feldolgozás"
+      ],
+      "Verarbeitet:": [
+        "Feldolgozva:"
+      ],
+      "Schnellaktionen": [
+        "Gyorsműveletek"
+      ],
+      "Neue Konferenz anlegen": [
+        "Új konferencia létrehozása"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Résztvevői lista és beléptetés"
+      ],
+      "CSV-Batch Import": [
+        "Kötegelt CSV-import"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Eseményáttekintés és telítettségfigyelés"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Visszaigazolt regisztrációk eseményenként a beállított kapacitáshoz viszonyítva."
+      ],
+      "Event suchen...": [
+        "Esemény keresése..."
+      ],
+      "Neue Konferenz": [
+        "Új konferencia"
+      ],
+      "Konferenz / Event": [
+        "Konferencia / esemény"
+      ],
+      "Zeitraum": [
+        "Időszak"
+      ],
+      "Ort": [
+        "Város"
+      ],
+      "Kapazität & Belegung": [
+        "Kapacitás és telítettség"
+      ],
+      "Status": [
+        "Állapot"
+      ],
+      "Aktionen": [
+        "Műveletek"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Nem találhatók események."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Szerkesztés a Gutenberg blokkszerkesztőben"
+      ],
+      "Bearbeiten": [
+        "Szerkesztés"
+      ],
+      "Schnellbearbeitung": [
+        "Gyorsszerkesztés"
+      ],
+      "Vorschau": [
+        "Előnézet"
+      ],
+      "Teilnehmer (%d)": [
+        "Résztvevők (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Valóban véglegesen törölni szeretné ezt az eseményt?"
+      ],
+      "Löschen": [
+        "Törlés"
+      ],
+      "%d Sessions": [
+        "%d szekció"
+      ],
+      "/ %d Plätze": [
+        "/ %d férőhely"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(kapacitáskorlát nélkül)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Szerkesztés a Gutenberg szerkesztőben"
+      ],
+      "Editor": [
+        "Szerkesztő"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Gyorsszerkesztés megnyitása"
+      ],
+      "Quick": [
+        "Gyors"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Nyilvános oldal megtekintése"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Érvényes és sztornózott számlák, valamint vissza nem igazolt regisztrációk."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Bruttó, érvényes számlák"
+      ],
+      "Gültige Rechnungen": [
+        "Érvényes számlák"
+      ],
+      "Storniert": [
+        "Sztornózva"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Megerősítetlen feliratkozások"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV-export és auditnapló"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Egy adott időszak számláinak és jóváíró számláinak könyvelési kötege; a főkönyvi számlákat és adókódokat egyeztesse könyvelőjével."
+      ],
+      "DATEV Format": [
+        "DATEV-formátum"
+      ],
+      "Kategorie 21 (v13)": [
+        "21. kategória (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256-lánc"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Álnevesítés 90 nap után"
+      ],
+      "DATEV Export Studio öffnen": [
+        "DATEV Export Studio megnyitása"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Auditnapló megtekintése"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Folyamatosan láncolt auditnapló: minden bejegyzés aláírja az elődjét is, így az utólagos módosítások, törlések és beszúrások észlelhetők. Manipuláció bizonyítása, nem pedig megváltoztathatatlanság — aki olvashatja a wp-config.php fájlt, birtokolja a kulcsot."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Teljes auditnapló megnyitása"
+      ],
+      "Zeitstempel": [
+        "Időbélyeg"
+      ],
+      "Ereignis-Typ": [
+        "Eseménytípus"
+      ],
+      "Benutzer / System": [
+        "Felhasználó / rendszer"
+      ],
+      "Objekt-ID": [
+        "Objektumazonosító"
+      ],
+      "Audit-Details & Nachweis": [
+        "Auditrészletek és igazolás"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Eddig nem került rögzítésre auditbejegyzés."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Esemény szerkesztése / gyorsbeállítás"
+      ],
+      "Schließen": [
+        "Bezárás"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Konferencia / esemény címe:"
+      ],
+      "URL-Slug:": [
+        "URL-keresőbarát név (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Helyszín / épület:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Kezdés (dátum és időpont):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Befejezés (dátum és időpont):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Max. résztvevői kapacitás:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Jegyár (nettó €):"
+      ],
+      "Status:": [
+        "Állapot:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktív (közzétéve)"
+      ],
+      "Entwurf (Draft)": [
+        "Vázlat"
+      ],
+      "Archiviert": [
+        "Archivált"
+      ],
+      "Kostenpflichtig": [
+        "Fizetős"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Megnyitás a Gutenberg blokkszerkesztőben"
+      ],
+      "Abbrechen": [
+        "Mégse"
+      ],
+      "Änderungen speichern": [
+        "Módosítások mentése"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "A résztvevő adatai sikeresen frissítve!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "A regisztrációs adatok és az állapot mentésre került az adatbázisban."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Résztvevő törölve!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "A regisztráció és az összes kapcsolódó szekciófoglalás eltávolításra került."
+      ],
+      "Check-In Status aktualisiert!": [
+        "A beléptetési állapot frissítve!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "A résztvevő jelenléti állapota átváltásra került."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Kettős megerősítés visszaigazolva!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "A regisztráció kézzel visszaigazoltként lett megjelölve."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Résztvevő- és foglaláskezelés"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Minden regisztráció kettős megerősítési állapottal, szekciófoglalásokkal és számlákkal."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Névtáblák / résztvevői lista (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Konferencia szerint szűrve: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Szűrő törlése"
+      ],
+      "Alle Teilnehmer": [
+        "Összes résztvevő"
+      ],
+      "Bestätigt": [
+        "Megerősítve"
+      ],
+      "Ausstehend DOI": [
+        "Függőben lévő DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Keresés név, e-mail vagy vállalat alapján..."
+      ],
+      "Teilnehmer": [
+        "Résztvevő"
+      ],
+      "Organisation / Firma": [
+        "Szervezet / vállalat"
+      ],
+      "Check-In": [
+        "Beléptetés"
+      ],
+      "Rechnung": [
+        "Számla"
+      ],
+      "Anmeldedatum": [
+        "Regisztráció dátuma"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Nem találhatók regisztrációk."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Résztvevő adatainak szerkesztése"
+      ],
+      "Auschecken": [
+        "Kijelentkeztetés"
+      ],
+      "Einchecken": [
+        "Beléptetés"
+      ],
+      "DOI bestätigen": [
+        "DOI megerősítése"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Valóban véglegesen törölni szeretné ezt a résztvevőt?"
+      ],
+      "Status umschalten": [
+        "Állapot átváltása"
+      ],
+      "Eingecheckt": [
+        "Beléptetve"
+      ],
+      "Nicht vor Ort": [
+        "Nincs a helyszínen"
+      ],
+      "Rechnungs-XML": [
+        "Számla-XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Ingyenes / nincs"
+      ],
+      "Edit": [
+        "Szerkesztés"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Valóban törölni szeretné ezt a résztvevőt?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Résztvevő adatainak szerkesztése / résztvevőkezelés"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilfotó / belépőkártya-fénykép (JPG, PNG, WebP · legfeljebb 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Fotó eltávolítása"
+      ],
+      "Vorname:": [
+        "Keresztnév:"
+      ],
+      "Nachname:": [
+        "Vezetéknév:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-mail-cím:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Szervezet / vállalat / hatóság:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Hozzárendelt konferencia:"
+      ],
+      "Anmeldestatus:": [
+        "Regisztrációs állapot:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Visszaigazolva"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Függőben (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Sztornózva"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Kézbesíthetetlen (visszapattant)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Beléptetési állapot (helyszínen):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nem / nincs a helyszínen"
+      ],
+      "Ja / Eingecheckt": [
+        "Igen / beléptetve"
+      ],
+      "Rechnungsnummer:": [
+        "Számlaszám:"
+      ],
+      "Zahlungsstatus:": [
+        "Fizetési állapot:"
+      ],
+      "Kostenfrei (Free)": [
+        "Ingyenes"
+      ],
+      "Ausstehend (Pending)": [
+        "Függőben"
+      ],
+      "Bezahlt (Paid)": [
+        "Kifizetve"
+      ],
+      "Erstattet (Refunded)": [
+        "Visszatérítve"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "GDPR adatvédelmi hozzájárulás megadva"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Fotó- és videóhozzájárulás megadva"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "GDPR-adatvédelem és exporthozzájárulás"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Személyes adatok védelme (GDPR 4. és 5. cikk)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Ez az export olyan CSV-fájlt hoz létre, amely a résztvevők bizalmas személyes adatait tartalmazza (teljes nevek, vállalatok, üzleti e-mail-címek, számlahivatkozások és beléptetési állapot)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Célhoz kötöttség (GDPR 5. cikk (1) bekezdés b) pont):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Az adatok kizárólag az esemény operatív lebonyolítására használhatók fel (pl. névtáblák nyomtatása és beléptetési akkreditáció)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Bizalmas kezelés és adatbiztonság (GDPR 5. cikk (1) bekezdés f) pont):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Az adatok jogosulatlan harmadik fél részére történő továbbítása, illetve titkosítatlan mobileszközökön való tárolása tilos."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Törlési kötelezettség (GDPR 17. cikk):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "A konferencia lezárulta után az exportált helyi fájlt haladéktalanul, az adatvédelmi szabályoknak megfelelően törölni kell."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Megerősítem a GDPR-hozzájárulást:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Tudomásul veszem, hogy ez az export bizalmas személyes adatokat tartalmaz. Kötelezettséget vállalok a célhoz kötött, gondos adatkezelésre és a törvényes adatvédelmi előírások szigorú betartására."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "CSV-export biztonságos letöltése most"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Számla-XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "XML másolása a vágólapra"
+      ],
+      "Keine Berechtigung.": [
+        "Nincs jogosultság."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Biztonsági hiba: kizárólag valódi CSV-fájlok engedélyezettek."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "A fájl túl nagy (legfeljebb 5 MB engedélyezett)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Kérjük, válasszon ki egy eseményt, és adjon meg CSV-adatokat."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Kötegelt résztvevői CSV-import (duplikációvédelem TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Résztvevői listák automatizált importálása külső rendszerekből a többszörös regisztrációk szigorú megelőzésével."
+      ],
+      "Import-Zusammenfassung": [
+        "Importálás összesítése"
+      ],
+      "Gesamtzeilen": [
+        "Összes sor"
+      ],
+      "Neu Importiert": [
+        "Újonnan importálva"
+      ],
+      "Dubletten abgewiesen": [
+        "Elutasított duplikátumok"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Új résztvevői lista importálása"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Célesemény *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Esemény kiválasztása —"
+      ],
+      "CSV-Datei auswählen": [
+        "CSV-fájl kiválasztása"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Formátum: Keresztnév;Vezetéknév;E-mail;Vállalat (pontosvesszővel vagy vesszővel elválasztva, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Vagy illessze be a CSV-szöveget"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "CSV-import indítása most"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Könyvelési Köteg Stúdió"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Szabványosított pénzügyi export (21. kategória, 700-as formátumverzió / 125 mező) könyvelők és a DATEV számviteli rendszer számára."
+      ],
+      "Exportzeitraum festlegen": [
+        "Exportálási időszak kijelölése"
+      ],
+      "Laufender Monat": [
+        "Aktuális hónap"
+      ],
+      "Vormonat": [
+        "Előző hónap"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Teljes 2026-os év"
+      ],
+      "Datum von *": [
+        "Kezdő dátum *"
+      ],
+      "Datum bis *": [
+        "Záró dátum *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Megerősítés a vevőadatok exportálásához:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Megerősítem, hogy a pénzügyi és számlafogadói adatok exportja személyes adatokat tartalmaz, és kizárólag a felhatalmazott könyvelő- vagy adótanácsadó iroda részére kerül továbbításra a jogszabályban előírt könyvvezetés és adónyilvántartás céljából."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "DATEV EXTF könyvelési köteg (.csv) letöltése"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Láncolt ellenőrzési nyomvonal valamennyi biztonsági szempontból lényeges műveletről, kettős megerősítésről, sztornózásról és jogosultság-ellenőrzésről."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Az auditlánc sértetlen — %1$d bejegyzés tartalmilag ellenőrizve, %2$d álnevesítve (láncpozíció ellenőrizve)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Az auditlánc NEM sértetlen"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d bejegyzés a láncolás előtti időszakból származik, és nem rendelkezik ellenőrizhető aláírással. Ezek ellenőrizetlennek minősülnek, nem sértetlennek."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "Az AUTH_KEY nincs definiálva: a lánckulcs az adatbázisból származik — pontosan onnan, ahová egy írási jogosultsággal rendelkező támadó is írna. Állítsa be az AUTH_KEY értéket a wp-config.php fájlban."
+      ],
+      "Zeitpunkt": [
+        "Időpont"
+      ],
+      "Ereignistyp": [
+        "Eseménytípus"
+      ],
+      "Referenz-ID": [
+        "Hivatkozási azonosító"
+      ],
+      "IP-Adresse": [
+        "IP-cím"
+      ],
+      "Audit-Details (JSON)": [
+        "Auditrészletek (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Nem találhatók naplóbejegyzések."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "A(z) \"%1$s\" esemény létrehozva %2$d szekcióval és %3$d résztvevővel."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demóadatok sikeresen importálva!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d esemény, %2$d szekció, %3$d regisztráció és %4$d számla törölve lett."
+      ],
+      "Demodaten bereinigt!": [
+        "Demóadatok megtisztítva!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Gyári alapbeállítások visszaállítva!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Minden tábla kiürítésre került, és a beállítások alaphelyzetbe álltak."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "A feltöltött sablonfájl eltávolításra került."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "A beállítások biztonságosan mentve."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Vállalati konfiguráció és biztonság"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Megjelenés, Brevo, számlák és DATEV, robotvédelem és demóadatok."
+      ],
+      "Design & Theme Studio": [
+        "Megjelenés és Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM és webhookok"
+      ],
+      "Rechnungen & DATEV": [
+        "Számlák és DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Robotvédelem (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demóadatok és visszaállítás"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Előtér-arculati rendszer és sablonöröklés"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Válassza ki, hogyan jelenjenek meg az események és a regisztrációs űrlapok a nyilvános felületen. Alapértelmezés szerint a bővítmény zökkenőmentesen örökli az aktív WordPress-sablon betűtípusait, színeit és gombjait."
+      ],
+      "Primärfarbe": [
+        "Elsődleges szín"
+      ],
+      "Akzentfarbe": [
+        "Kiemelőszín"
+      ],
+      "Kartenhintergrund": [
+        "Kártya háttere"
+      ],
+      "Textfarbe": [
+        "Szövegszín"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Egyéni sablonszínek és szegélyek (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Elsődleges szín (gombok és kiemelések):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Kiemelőszín (jelvények és fényhatás):"
+      ],
+      "Seitenhintergrund:": [
+        "Oldal háttere:"
+      ],
+      "Kartenhintergrund:": [
+        "Kártya háttere:"
+      ],
+      "Haupttextfarbe:": [
+        "Fő szövegszín:"
+      ],
+      "Eckenabrundung (px):": [
+        "Saroklekerekítés (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Egyéni CSS-sablon feltöltése (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Töltsön fel egy személyre szabott .css stíluslapot (pl. ugynokseg-sablon.css). A rendszer elszigetelten tölti be és automatikusan ellenőrzi."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktív egyéni sablon érhető el"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Valóban törölni szeretné a feltöltött CSS-sablonfájlt?"
+      ],
+      "Theme löschen": [
+        "Sablon törlése"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "További egyéni CSS (beágyazott szerkesztő)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Írja be ide az egyéni CSS-szabályokat, pl.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 és webhook-hitelesítés"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API-kulcs (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Az aszinkron kettős megerősítő e-mailek kézbesítéséhez és a kapcsolatattribútumok szinkronizálásához használatos."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Megosztott webhook-titok / aláírástoken"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Időzítéses támadások ellen védett token a beérkező Brevo webhook-küldemények ellenőrzéséhez."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Beléptető szkenner API-kulcs (helyszíni ellenőrzés)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Hitelesítési token a beléptető személyzet mobil szkennerkészülékeihez."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Várószoba: beengedések száma percenként"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "A regisztrációhoz és szekciófoglaláshoz percenként és eseményenként átengedett kérések száma. A 0 kikapcsolja a várószobát (alapértelmezett). E határ felett az útvonal adatbázis-lekérdezés előtt HTTP 503 kóddal és Retry-After fejléccel válaszol — ezzel még nem történik helyfoglalás."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Számláló háttérrendszere ezen a telepítésen: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "állandó objektum-gyorsítótár"
+      ],
+      "Datenbank (Transients)": [
+        "adatbázis (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI-sablonazonosító"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo címlista-azonosító"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Számlák (CII-XML) és DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Számlaszám előtagja"
+      ],
+      "Rechnungssteller": [
+        "Számlakiállító"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Ezen adatok hiányában nem készülnek számlák vagy jóváíró számlák: %s."
+      ],
+      "Name / Firma": [
+        "Név / vállalat"
+      ],
+      "Straße und Hausnummer": [
+        "Utca és házszám"
+      ],
+      "PLZ": [
+        "Irányítószám"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Ország (ISO-kód, pl. HU vagy DE)"
+      ],
+      "USt-IdNr.": [
+        "Közösségi adószám"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Adószám (ha nincs közösségi adószám)"
+      ],
+      "E-Mail für Rechnungen": [
+        "Számlázási e-mail-cím"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN banki átutaláshoz (opcionális)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV tanácsadói szám"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV ügyfélszám"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Árbevételi számla (pl. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Követelésszámla (pl. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "A bővítmény még nem tartalmaz captcha-modult: a beállítás mentésre kerül, de az űrlap captcha nélkül kerül feldolgozásra."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Friendly Captcha engedélyezése"
+      ],
+      "Sitekey": [
+        "Webhelykulcs (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API-kulcs / titok"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demóadatok kezelése és gyári alaphelyzet (Reset)"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Mintaadatok betöltése, eltávolítása vagy a bővítmény visszaállítása a gyári alapbeállításokra."
+      ],
+      "1. Demodaten importieren": [
+        "1. Demóadatok importálása"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Mintakonferenciát hoz létre szekciókkal és mintarésztvevőkkel. Számlák csak akkor készülnek, ha a számlakiállító adatai meg vannak adva."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Szeretne most mintaadatokat importálni?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Demóadatok importálása (konferenciák, szekciók, résztvevők, számlák)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Demóadatok tisztítása (csak a tesztadatok törlése)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Kizárólag a generált demókonferenciákat, demószekciókat, demórésztvevőket és demószámlákat törli. A valós események és foglalások teljesen érintetlenek maradnak."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Biztosan eltávolítja az összes demóadatot? A valós adatok megmaradnak."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Demóadatok tisztítása (csak tesztadatok)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Visszaállítás gyári alapbeállításokra (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Figyelem (visszavonhatatlan):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Kiüríti az összes esemény-, szekció-, regisztrációs, számla- és auditnapló-táblát, törli az összes cybevent és cybsession bejegyzést, és minden beállítást visszaállít az alapértelmezett állapotra."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "FIGYELMEZTETÉS: Teljesen biztos benne? Ez törli az ÖSSZES eseményt, regisztrációt és számlát, valamint alaphelyzetbe állítja a beállításokat!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Teljes gyári visszaállítás (minden törlése és alapértékek visszaállítása)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Működés a bővítmény eltávolításakor"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Minden tábla és beállítás törlése eltávolításkor"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Alapértelmezés szerint a bővítmény törlésekor minden esemény-, regisztrációs, számla- és auditadat megmarad (jogszabályi megőrzési kötelezettség). Csak akkor kapcsolja be ezt a lehetőséget, ha az eltávolításkor valamennyi táblát véglegesen törölni kell."
+      ],
+      "Alle Einstellungen speichern": [
+        "Összes beállítás mentése"
+      ],
+      "Platzbuchung": [
+        "Helyfoglalás"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Egy férőhely egyetlen feltételes UPDATE utasítással kerül lefoglalásra (belegt = belegt + 1, kizárólag amíg belegt < kapazitaet). Az utolsó helyre érkező két egyidejű kérés közül csak az egyik módosítja a sort; a másik a 'betelt' üzenetet kapja."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "A számlák és jóváíró számlák az EN 16931 profil szerinti CII-XML-ként készülnek, és a tesztek során a Mustang validátor ellenőrzi őket. PDF nem készül, így az XML nem ZUGFeRD hibridfájl. Azt, hogy a számlák az adott esetben megfelelnek-e a jogszabályi előírásoknak, az adótanácsadója bírálja el."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF és könyvelés"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Egy időszak számláit és jóváíró számláit DATEV formátumú könyvelési kötegként (EXTF 700, 21. kategória) exportálja Windows-1252 kódolással. A követelés- és árbevételi számlák a beállításokból származnak; minden sor a 3-as adókódot viseli. A számlákat és kódokat egyeztesse adótanácsadójával."
+      ],
+      "Handbuch & API:": [
+        "Kézikönyv és API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Teljes kézikönyv"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Fejlesztette: WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Adminisztrátori és fejlesztői kézikönyv"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Helyfoglalás, számla-XML, DATEV-export, Brevo kettős megerősítés, rövidkódok és sablon-előbeállítások."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Helyfoglalás túlfoglalás nélkül"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "A foglaltságszámlálót egyetlen feltételes utasítás növeli; az utolsó férőhelyre érkező két egyidejű kérés közül csak az egyik frissíti a sort:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Számla-XML és DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Számlák és jóváíró számlák a beállításokból származó kiállítói adatokkal, teljesítési dátummal és folyamatos sorszámmal. Nincs PDF, nincs Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Jóváíró számlák:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Saját sorszám, 381-es típus az eredeti számlára való hivatkozással."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Könyvelési köteg egy naptári éven belüli időszakra, Windows-1252 kódolással. A főkönyvi számlákat és adókódokat egyeztesse adótanácsadójával."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM kettős megerősítés és háttér-várólista"
+      ],
+      "Double Opt-In (DOI):": [
+        "Kettős megerősítés (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "A Brevo elküldi a visszaigazoló e-mailt egy személyes hivatkozással; a hivatkozás egyszeri alkalommal igazolja vissza a regisztrációt. A meg nem erősített regisztrációk 14 nap után törlődnek."
+      ],
+      "Warteschlange:": [
+        "Várólista:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "A Brevo felé irányuló hívások adatbázis-alapú várólistán futnak keresztül, amelyet a WP-Cron percenként dolgoz fel (vagy a wp cybevents queue-run parancs), legfeljebb öt próbálkozással."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Rövidkódok és Gutenberg-integráció"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Akadálymentes regisztrációs űrlap."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktív konferenciaprogram és szekciósáv-áttekintés."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Tokenalapú szekcióválasztás a DOI visszaigazolása után."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI rendszergazdáknak"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Sablon-előbeállítások és dizájntokenek"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "A nyilvános felület rugalmasan illeszkedik bármely WordPress-sablonhoz, vagy beépített megjelenési profilokat használ:"
+      ],
+      "Presets:": [
+        "Előbeállítások:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Több színpaletta, köztük egy mélylila, ibolya és rózsaszín összeállítás (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Sablonöröklés (alapértelmezett):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Zökkenőmentesen örökli a betűtípusokat, a saroklekerekítéseket és az elsődleges színeket az aktív sablonból (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Egyéni CSS-változók:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Fontos tudnivalók és bevált gyakorlatok"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "A táblák ENGINE=InnoDB tárolómotorral jönnek létre."
+      ],
+      "Löschfristen:": [
+        "Megőrzési idők:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "A vissza nem igazolt regisztrációk 14 nap után törlődnek, az auditnapló bejegyzései 90 nap után álnevesítésre kerülnek (a számlaesemények kivételével). A visszaigazolt regisztrációkat és számlákat a bővítmény nem törli automatikusan; erre nincs beállítás."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "A várólista-feldolgozás és a megőrzési idők tisztítása WP-Cronon keresztül fut; rendszeres látogatóforgalom nélküli oldalakon valódi rendszerszintű cron-feladat szükséges."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Esemény kiválasztása"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Válassza ki a blokkhoz tartozó céleseményt."
+      ],
+      "Key Facts Header anzeigen": [
+        "Főbb adatok fejlécének megjelenítése"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Lépésjelző (stepper) megjelenítése"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Naptárexport (.ics) gomb megjelenítése"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Visszaszámláló megjelenítése"
+      ],
+      "Freie Plätze anzeigen": [
+        "Szabad férőhelyek megjelenítése"
+      ],
+      "Spaltenanzahl": [
+        "Oszlopok száma"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Kérjük, válasszon ki egy érvényes eseményt a blokk beállításaiban."
+      ],
+      "Vorschau im Editor": [
+        "Szerkesztői előnézet"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Szekcióválasztás visszaigazolt regisztrációkhoz"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "A nyilvános felületen ez a blokk dinamikusan jelenik meg minden résztvevő számára a saját egyedi tokenje alapján."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Nem található visszaigazoló token."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Kérjük, nyissa meg ezt az oldalt a visszaigazoló e-mailben kapott személyre szabott hivatkozással."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Érvénytelen vagy lejárt résztvevői token."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Esemény helyfoglaltsági térképe"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "A nyilvános felületen ez a blokk SVG formában jeleníti meg az egyes szekciók telítettségét, és Server-Sent Events segítségével naprakészen tartja azt."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Az esemény nem található."
+      ],
+      "Jetzt anmelden": [
+        "Regisztráció most"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Ingyenes regisztráció most"
+      ],
+      "Programm ansehen": [
+        "Program megtekintése"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Ingyenes részvétel"
+      ],
+      "Anmeldung geöffnet": [
+        "A regisztráció nyitva áll"
+      ],
+      "Ausgebucht": [
+        "Betelt"
+      ],
+      "Preis": [
+        "Ár"
+      ],
+      "%d freier Platz": [
+        "%d szabad hely",
+        "%d szabad hely"
+      ],
+      "von max. %d": [
+        "/ max. %d"
+      ],
+      "Beginn in:": [
+        "Kezdésig:"
+      ],
+      "Tage": [
+        "Nap"
+      ],
+      "Std.": [
+        "Óra"
+      ],
+      "Min.": [
+        "Perc"
+      ],
+      "Sek.": [
+        "Mp"
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Exportálás naptárba (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics-fájl)"
+      ],
+      "Google Kalender": [
+        "Google Naptár"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Az .ics-fájl emlékeztetőt tartalmaz a kezdés előtti napra."
+      ],
+      "Referenten & Fachexperten": [
+        "Előadók és szakértők"
+      ],
+      "Referenten": [
+        "Előadók"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Az előadók névsorát hamarosan közzétesszük."
+      ],
+      "TEILNEHMERPASS": [
+        "RÉSZTVEVŐI BELÉPŐ"
+      ],
+      "Teilnehmerpass": [
+        "Résztvevői belépő"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Jegy és akkreditáció megnyitása"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Adja meg a visszaigazoló e-mailben kapott 64 karakteres biztonsági tokenjét:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Token megadása (pl. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Belépő megjelenítése"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Érvénytelen vagy ismeretlen foglalási token."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Ehhez a regisztrációhoz nem érhető el résztvevői belépő: még nincs visszaigazolva, vagy sztornózták."
+      ],
+      "Max Mustermann": [
+        "Kovács János"
+      ],
+      "Beispiel GmbH": [
+        "Példa Kft."
+      ],
+      "Veranstaltung": [
+        "Esemény"
+      ],
+      "Rechnungs-Nr.": [
+        "Számlaszám"
+      ],
+      "Keine": [
+        "Nincs"
+      ],
+      "Ticket-Nummer": [
+        "Jegyszám"
+      ],
+      "Pass drucken": [
+        "Belépő nyomtatása"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Adatvédelem és biztonság"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Kettős megerősítés és megőrzési idők"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "A regisztráció csak az e-mailben küldött hivatkozáson történő visszaigazolás után lép érvénybe. A vissza nem igazolt regisztrációk 14 nap után törlődnek, az auditnapló bejegyzései pedig 90 nap után álnevesítésre kerülnek."
+      ],
+      "Beschriftete Formulare": [
+        "Feliratozott űrlapok"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Látható címkékkel, megjelölt kötelező mezőkkel és a képernyőolvasók által felolvasott állapotüzenetekkel ellátott űrlapmezők."
+      ],
+      "Eigene Skripte und Styles": [
+        "Saját szerverről kiszolgált szkriptek és stílusok"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "A bővítmény a szkriptjeit, stíluslapjait és ikonjait a saját szerveréről tölti be CDN helyett."
+      ],
+      "Audit-Log und Tokens": [
+        "Auditnapló és tokenek"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "A HMAC-SHA256 láncolású auditnapló észlelhetővé teszi az utólagos módosításokat. A résztvevői tokenek kizárólag SHA-256 lenyomatként kerülnek tárolásra."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Számla-XML és DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Számlák CII-XML formátumban az EN 16931 profil szerint, valamint exportálás DATEV könyvelési kötegként."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Adatvédelem-barát robotvédelem felhasználói követés és képes fejtörők nélkül, az uniós adatvédelmi szabályoknak megfelelően."
+      ],
+      "Zur Anmeldung": [
+        "Bejelentkezés"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Nincsenek archivált események."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Jelenleg nincsenek meghirdetett események."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Események szűrése cím vagy helyszín szerint..."
+      ],
+      "Kostenfrei": [
+        "Ingyenes"
+      ],
+      "In Kalender eintragen": [
+        "Hozzáadás a naptárhoz"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Élő konferencia- és programhírsáv"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "ÉLŐ PROGRAMTELEMETRIA"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Nézet- és szűrővezérlők"
+      ],
+      "Kalenderansichten": [
+        "Naptárnézetek"
+      ],
+      "Monat": [
+        "Hónap"
+      ],
+      "Woche": [
+        "Hét"
+      ],
+      "Tag / Agenda": [
+        "Nap / program"
+      ],
+      "Liste": [
+        "Lista"
+      ],
+      "Karten": [
+        "Kártyák"
+      ],
+      "Räume & Ort": [
+        "Termek és helyszín"
+      ],
+      "Summit Tracks": [
+        "Konferenciasávok"
+      ],
+      "Vorheriger Zeitraum": [
+        "Előző időszak"
+      ],
+      "Nächster Zeitraum": [
+        "Következő időszak"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Esemény, téma vagy előadó keresése..."
+      ],
+      "Suchbegriff eingeben": [
+        "Keresőkifejezés megadása"
+      ],
+      "Track oder Kategorie filtern": [
+        "Szekciósáv vagy kategória szűrése"
+      ],
+      "Alle Fach-Tracks": [
+        "Összes szakmai sáv"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "01. sáv: Posztkvantum-kriptográfia"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "02. sáv: Zero Trust és DORA-ellenállóképesség"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "03. sáv: Autonóm MI és titoktartási szabályok"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "04. sáv: Szoftverellátási lánc és CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Konferenciaterem szűrése"
+      ],
+      "Alle Säle & Räume": [
+        "Összes terem és helyiség"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenáris terem Alpha (nyitóelőadások)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Havi naptárnézet"
+      ],
+      "Mo": [
+        "H"
+      ],
+      "Di": [
+        "K"
+      ],
+      "Mi": [
+        "Sze"
+      ],
+      "Do": [
+        "Cs"
+      ],
+      "Fr": [
+        "P"
+      ],
+      "Sa": [
+        "Szo"
+      ],
+      "So": [
+        "V"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Heti beosztás és időrácsnézet"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Napi program- és idővonalnézet"
+      ],
+      "Chronologische Listenansicht": [
+        "Időrendi listanézet"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vizuális fotókártyás nézet"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Helyszín- és teremnavigátor nézet"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Többsávos konferenciamátrix"
+      ],
+      "Dialog schließen": [
+        "Párbeszédablak bezárása"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Érvénytelen szekció- vagy regisztrációazonosító."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "A foglalást adatbázishiba miatt nem sikerült feldolgozni."
+      ],
+      "Session %d existiert nicht.": [
+        "A(z) %d. szekció nem létezik."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "A(z) \"%1$s\" betelt (%2$d / %2$d hely foglalt)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "A foglalást nem sikerült menteni. A férőhely felszabadításra került."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "A lemondást adatbázishiba miatt nem sikerült feldolgozni."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Nem lett érvényes fájl feltöltve."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Fájlfeltöltési hiba."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "A profilkép mérete legfeljebb 5 MB lehet."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Érvénytelen fájlformátum. Engedélyezett formátumok: JPG, PNG és WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Érvénytelen fájlkiterjesztés. Engedélyezett kiterjesztések: .jpg, .jpeg, .png és .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Hiba a profilkép mentésekor."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Az auditnapló üres, noha korábban %d bejegyzés volt rögzítve."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Utólag egy aláíratlan bejegyzés került beszúrásra a láncba."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Lánctörés a(z) #%d bejegyzésnél: egy bejegyzést töröltek, beszúrtak vagy átrendeztek."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "A(z) #%d bejegyzés aláírása nem egyezik a tartalmi ellenőrzőösszegével."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "A(z) #%d bejegyzés érvényes igazolás nélkül van álnevesítettként megjelölve: a tartalma módosulhatott."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "A(z) #%d bejegyzés tartalmát a létrehozás után módosították."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "A napló vége nem egyezik a legutóbb rögzített bejegyzéssel. A legújabb bejegyzéseket eltávolították."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Események"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Esemény"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Esemény"
+      ],
+      "event\u0004Neu erstellen": [
+        "Új hozzáadása"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Esemény szerkesztése"
+      ],
+      "Veranstaltung ansehen": [
+        "Esemény megtekintése"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Események keresése"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Nem találhatók események a lombtárban."
+      ],
+      "Veranstaltungsdaten": [
+        "Esemény adatai"
+      ],
+      "Veranstaltungsort:": [
+        "Helyszín:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Helyszínek kezelése ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Mentett helyszín kiválasztása —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Egyéni helyszín / terem / cím..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Válasszon egy mentett helyszínt a listából, vagy adja meg egyedileg a helyszín és a terem megnevezését."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Kezdés (dátum és időpont):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Befejezés (dátum és időpont):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Fizetős esemény"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Jelenleg nem érhetők el konferenciaprogramok."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Téma, előadó vagy terem keresése..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferenciaprogram"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "A részletes programot hamarosan közzétesszük."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents résztvevői adatok"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Vállalat / szervezet"
+      ],
+      "Profilbild": [
+        "Profilkép"
+      ],
+      "Einwilligung Datenschutz": [
+        "Adatvédelmi hozzájárulás"
+      ],
+      "ja": [
+        "igen"
+      ],
+      "nein": [
+        "nem"
+      ],
+      "Einwilligung Fotos": [
+        "Fotóhozzájárulás"
+      ],
+      "Bestätigung angefordert": [
+        "Megerősítés kérve"
+      ],
+      "Bestätigt am": [
+        "Visszaigazolva:"
+      ],
+      "Eingecheckt am": [
+        "Beléptetve:"
+      ],
+      "Gebuchte Sessions": [
+        "Lefoglalt szekciók"
+      ],
+      "Rechnungsnummer": [
+        "Számlaszám"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents regisztrációk"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents számlák"
+      ],
+      "Empfänger": [
+        "Címzett"
+      ],
+      "Adresse": [
+        "Cím"
+      ],
+      "Bruttobetrag": [
+        "Bruttó összeg"
+      ],
+      "Ausgestellt am": [
+        "Kiállítás dátuma"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "A(z) #%d regisztrációt nem sikerült törölni."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "A(z) #%d regisztrációt nem sikerült anonimizálni; az adatok változatlanok maradtak."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "A(z) #%1$d regisztráció anonimizálásra került. A névvel, címmel és e-mail-címmel ellátott %2$s számla változatlanul megőrzésre kerül; a bővítmény nem töröl számlákat."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "A Brevo webhook megosztott titok nélkül le van tiltva (401-es kóddal válaszol). A visszapattanó üzenetek és leiratkozások feldolgozására csak a titok beállítása után kerül sor."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nincs Brevo API-kulcs beállítva: a visszaigazoló e-mailek nem kerülnek kiküldésre, az új regisztrációk visszaigazolatlanok maradnak, és 14 nap után törlődnek."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "A Friendly Captcha be van kapcsolva, de nincs hatása: a bővítmény nem tartalmaz captcha-modult, így az űrlap robotvédelem nélkül kerül feldolgozásra."
+      ],
+      "Einstellungen öffnen": [
+        "Beállítások megnyitása"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Túl sok kérés. Kérjük, próbálja újra egy perc múlva."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "A kiválasztást nem sikerült menteni: %s Korábbi foglalásai változatlanul érvényben maradnak."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Az új szekciók lefoglalása megtörtént, de nem minden kijelölésből kivett szekciót sikerült felszabadítani: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Érvénytelen biztonsági token (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Érvénytelen űrlaptoken (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "A résztvevő nem jogosult, vagy nem található."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nem érkezett képfájl."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "A profilkép sikeresen frissítve."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Hiányzik a visszaigazoló token."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Érvénytelen vagy még vissza nem igazolt jegy."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Ehhez az eseményhez nincsenek szekciók beállítva."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Helyfoglaltsági térkép: foglalt és szabad helyek szekciónként"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d / %3$d hely foglalt"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "A helyfoglaltsági térképhez nincs esemény megadva."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "A helyfoglaltsági térképhez tartozó esemény nem létezik."
+      ],
+      "frei": [
+        "szabad"
+      ],
+      "belegt": [
+        "foglalt"
+      ],
+      "von Ihnen gebucht": [
+        "Ön által lefoglalva"
+      ],
+      "Belegung je Session": [
+        "Telítettség szekciónként"
+      ],
+      "Session": [
+        "Szekció"
+      ],
+      "Belegt": [
+        "Foglalt"
+      ],
+      "Frei": [
+        "Szabad"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "A telítettség automatikusan frissül."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Pillanatkép az oldal betöltésekor; a telítettség nem frissül élőben."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demóadatok: a(z) %1$s foglalása elutasítva — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demóadatok: részvétel lemondva"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Szekciók és sávok"
+      ],
+      "post type singular name\u0004Session": [
+        "Szekció"
+      ],
+      "admin menu\u0004Sessions": [
+        "Szekciók"
+      ],
+      "Alle Sessions": [
+        "Összes szekció"
+      ],
+      "Session bearbeiten": [
+        "Szekció szerkesztése"
+      ],
+      "Session ansehen": [
+        "Szekció megtekintése"
+      ],
+      "Sessions durchsuchen": [
+        "Szekciók keresése"
+      ],
+      "Keine Sessions gefunden.": [
+        "Nem találhatók szekciók."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Nem találhatók szekciók a lombtárban."
+      ],
+      "Session-Daten": [
+        "Szekció adatai"
+      ],
+      "Zugehörige Konferenz:": [
+        "Kapcsolódó konferencia:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Nincs kiválasztott konferencia —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Előadó és intézmény:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "pl. Kovács Anna (Példa Kft.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Terem / csarnok / sáv:"
+      ],
+      "Workshop-Kapazität:": [
+        "Műhelykapacitás:"
+      ],
+      "Speaker": [
+        "Előadó"
+      ],
+      "Raum / Track": [
+        "Terem / sáv"
+      ],
+      "Zeitfenster": [
+        "Idősáv"
+      ],
+      "Belegung": [
+        "Telítettség"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Üdvözöljük, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Válassza ki szekcióit. A rendszer mentéskor oszt ki férőhelyet, amíg az adott szekció be nem telt."
+      ],
+      "Anmeldung bestätigt": [
+        "Regisztráció visszaigazolva"
+      ],
+      "Für diese Session eingetragen": [
+        "Regisztrálva erre a szekcióra"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Programpont kiválasztása"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "A férőhely mentéskor kerül kiosztásra, amíg a szekció be nem telt."
+      ],
+      "Sessions ausgewählt": [
+        "Kiválasztott szekciók"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Kiválasztás mentése"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress-sablon alapértelmezése (automatikusan örökölt)"
+      ],
+      "Empfohlen": [
+        "Ajánlott"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Közvetlenül átveszi az aktív WordPress-sablon (GeneratePress, Astra, Twenty Twenty-Four stb.) tipográfiáját, színeit, gombjait és térközeit."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Ibolya és rozé (sötétlila, ibolya, rozé kiemelés)"
+      ],
+      "Farbstark": [
+        "Élénk"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Sötétlila (#482683), élénk ibolya (#7D40E7), rozé kiemelés (#DF0079), Noto Sans, ha a téma betölti, és egy visszafogott színátmenet."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (tengerészkék és cián)"
+      ],
+      "High-Tech Dark": [
+        "Csúcstechnológiás sötét"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Egyedi sötét és kobaltkék csúcstechnológiás megjelenés fénykiemelésekkel, kiberbiztonsági konferenciákra hangolva."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (pala és monokróm)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Letisztult, visszafogott SaaS-megjelenés semleges szürkeárnyalatokkal, határozott szegélyekkel és tágas térközökkel."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (klasszikus és meleg tónusok)"
+      ],
+      "Klassik": [
+        "Klasszikus"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Meleg elefántcsont- és bordó árnyalatok tudományos szimpóziumokhoz és kiemelt szakmai kongresszusokhoz."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Magas kontraszt (fekete-fehér)"
+      ],
+      "Hochkontrast": [
+        "Magas kontraszt"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Fekete szöveg fehér alapon (21:1 kontraszt) sárga kiemeléssel és megerősített fókuszkeretekkel."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Egyéni sablon (saját színek és CSS)"
+      ],
+      "Individuell": [
+        "Egyéni"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Szabad színválasztók és feltöltött egyéni CSS-stíluslapok támogatása."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nem lett érvényes feltöltendő fájl megadva."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Biztonsági hiba: kizárólag tiszta .css fájlok tölthetők fel."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "A CSS-fájl meghaladja a 2 MB-os korlátot."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Nem sikerült menteni a sablonfájlt a szerveren."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Az egyéni sablon-CSS feltöltése és aktiválása megtörtént."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Helyszínek"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Helyszín"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Helyszínek keresése"
+      ],
+      "Häufige Tagungsorte": [
+        "Gyakori helyszínek"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Összes helyszín"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Helyszín szerkesztése"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Helyszín frissítése"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Új helyszín hozzáadása"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Új helyszín neve"
+      ],
+      "Orte mit Kommas trennen": [
+        "Helyszínek elválasztása vesszővel"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Helyszínek hozzáadása vagy eltávolítása"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Választás a leggyakrabban használt helyszínek közül"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Nem találhatók helyszínek."
+      ],
+      "Stadt / Ort:": [
+        "Város / település:"
+      ],
+      "z. B. Musterstadt": [
+        "pl. Mintaváros"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "A rendezvényhelyszín városa vagy települése."
+      ],
+      "Straße & Hausnummer:": [
+        "Utca és házszám:"
+      ],
+      "z. B. Musterstraße 1": [
+        "pl. Minta utca 1."
+      ],
+      "Postleitzahl (PLZ):": [
+        "Irányítószám:"
+      ],
+      "Land:": [
+        "Ország:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Terem maximális befogadóképessége (fő):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Kerekesszékkel megközelíthető"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Csak ellenőrzött adat esetén jelölje be. Megjelenik a helyszínlistában és a /venues REST-útvonalon."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Térkép / útvonalterv URL-címe:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "A helyszín weboldala:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Terem maximális befogadóképessége:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "A konferenciaterület ülőhely-kapacitása."
+      ],
+      "Zugänglichkeit:": [
+        "Akadálymentesség:"
+      ],
+      "Google Maps Link:": [
+        "Térképhivatkozás:"
+      ],
+      "Stadt & Adresse": [
+        "Város és cím"
+      ],
+      "Kapazität": [
+        "Kapacitás"
+      ],
+      "Rollstuhlgerecht": [
+        "Kerekesszékkel megközelíthető"
+      ],
+      "Ja": [
+        "Igen"
+      ],
+      "Nicht angegeben": [
+        "Nincs megadva"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Jelenleg rendkívül sok egyidejű kérés érkezik. Kérjük, próbálja újra %d másodperc múlva. Férőhely még nem került lefoglalásra."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Állandó objektum-gyorsítótár (Redis, Memcached) nélkül a várószoba az adatbázisban számol: az elutasított kérések megspórolják a foglalási lekérdezéseket, de így is egy olvasási és egy írási műveletbe kerülnek az opciótáblán."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Mutatók"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Mutató"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Élő mutatókat jelenít meg az aktív konferenciákról, a visszaigazolt regisztrációkról és a szabad helyekről."
+      ],
+      "Kennzahl": [
+        "Mutató"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Eseményazonosító (opcionális)"
+      ],
+      "Dokumentation": [
+        "Dokumentáció"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Kérjük, adjon meg egy érvényes eseményazonosítót: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Nem található érvényes visszaigazoló token. Kérjük, használja az e-mailben kapott hivatkozást."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Legújabb aktív esemény (automatikus) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatikus (aktuális konferencia)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Esemény kiválasztása"
+      ],
+      "Ziel-Konferenz": [
+        "Célkonferencia"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Válassza ki azt a konferenciát, amelynek adatai megjelennek a nyitóbannerben."
+      ],
+      "Design & Layout-Presets": [
+        "Megjelenési és elrendezési előbeállítások"
+      ],
+      "Theme-Preset": [
+        "Sablon-előbeállítás"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (alapértelmezett)"
+      ],
+      "Federal Blue": [
+        "Federal Blue"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Cyan Glow"
+      ],
+      "Clean White & Modern": [
+        "Clean White & Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Glassmorphism Blur"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Saroklekerekítés (border-radius)"
+      ],
+      "Ohne (0px)": [
+        "Nincs (0px)"
+      ],
+      "Mittel (8px)": [
+        "Közepes (8px)"
+      ],
+      "Groß (16px)": [
+        "Nagy (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Extra nagy (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Fény- és ragyogáshatás engedélyezése"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Szövegek és cselekvésre ösztönző gombok"
+      ],
+      "Badge / Dachzeile": [
+        "Jelvény / felülcím"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Egyéni főcím (opcionális)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Alapértelmezett: az esemény címe"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Egyéni bevezető szöveg / felvezető"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Alapértelmezett: az esemény leírása"
+      ],
+      "Primärer CTA-Button Text": [
+        "Elsődleges CTA-gomb felirata"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Elsődleges CTA-gomb célhivatkozása / horgonya"
+      ],
+      "Sekundären Button anzeigen": [
+        "Másodlagos gomb megjelenítése"
+      ],
+      "Sekundärer Button Text": [
+        "Másodlagos gomb felirata"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Másodlagos gomb célhivatkozása"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Elemek láthatósága"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Élő visszaszámláló megjelenítése"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Szabad helyek / kapacitás jelvény megjelenítése"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Állapotjelvény (nyitva/betelt) megjelenítése"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Helyszín megjelenítése"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Dátum és időpont megjelenítése"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Jegyár / ingyenes jelvény megjelenítése"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Naptárexport (.ics) gomb megjelenítése"
+      ],
+      "Kopfbereich": [
+        "Fejlécsáv (hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Alapértelmezett: az esemény leírása, továbbá dátum, helyszín, ár, szabad helyek, visszaszámláló és regisztrációs gomb."
+      ],
+      "Countdown": [
+        "Visszaszámláló"
+      ],
+      "Freie Plätze": [
+        "Szabad helyek"
+      ],
+      "Stil: %s": [
+        "Stílus: %s"
+      ],
+      "Button: %s": [
+        "Gomb: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Konferencia kiválasztása"
+      ],
+      "Ziel-Veranstaltung": [
+        "Célesemény"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Válassza ki azt az eseményt, amelyre a látogatók regisztrálnak."
+      ],
+      "Formular-Design & Theme": [
+        "Űrlapmegjelenés és sablon"
+      ],
+      "Formular-Stil": [
+        "Űrlapstílus"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (alapértelmezett)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Saroklekerekítés"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Űrlapmezők és adatbekérési beállítások"
+      ],
+      "Individueller Formulartitel": [
+        "Egyéni űrlapcím"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Egyéni alcím / megjegyzés"
+      ],
+      "Standard: kein Untertitel": [
+        "Alapértelmezett: nincs alcím"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Szervezet / vállalat mező megjelenítése"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Fotó- és videóhozzájárulás jelölőnégyzetének megjelenítése"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Főbb adatok fejlécének megjelenítése az űrlapon"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Gombfelirat és adatvédelmi hivatkozások"
+      ],
+      "Absende-Button Beschriftung": [
+        "Beküldés gomb felirata"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Egyéni adatkezelési tájékoztató URL-címe (opcionális)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Alapértelmezett: a Beállítások > Adatvédelem alatt megadott oldal"
+      ],
+      "Anmeldeformular": [
+        "Regisztrációs űrlap"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Regisztráció kettős megerősítéssel: a Brevo elküldi a visszaigazoló hivatkozást, és a regisztráció csak a visszaigazolás után lép érvénybe."
+      ],
+      "Standard nach Ticketpreis": [
+        "Alapértelmezett a jegyár alapján"
+      ],
+      "Überschrift & Untertitel": [
+        "Címsor és alcím"
+      ],
+      "Überschrift": [
+        "Címsor"
+      ],
+      "Untertitel / Beschreibung": [
+        "Alcím / leírás"
+      ],
+      "Suche, Angaben & Export": [
+        "Keresés, metaadatok és export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Élő szekciókereső mező megjelenítése"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Terem- és helyszínadatok megjelenítése"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Előadói profilképek megjelenítése"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Teljes naptárexport (.ics) megjelenítése"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Szekciók időrendi sorrendben teremmel, előadóval, leírással, kereséssel és .ics-exporttal."
+      ],
+      "Suche": [
+        "Keresés"
+      ],
+      ".ics-Download": [
+        ".ics-letöltés"
+      ],
+      "Layout & Spalten": [
+        "Elrendezés és oszlopok"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Oszlopok száma (asztali nézet)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Szövegek és részletek megjelenítése"
+      ],
+      "Untertitel": [
+        "Alcím"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Szekció előadástémájának megjelenítése"
+      ],
+      "Raumangabe anzeigen": [
+        "Teremmegjelölés megjelenítése"
+      ],
+      "Uhrzeit anzeigen": [
+        "Kezdési időpont megjelenítése"
+      ],
+      "Konferenz: ": [
+        "Konferencia: "
+      ],
+      "%d Spalten": [
+        "%d oszlop"
+      ],
+      "Vortragsthemen": [
+        "Előadástémák"
+      ],
+      "Titel": [
+        "Cím"
+      ],
+      "Individueller Titel": [
+        "Egyéni cím"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Naptárszolgáltatások és beállítások"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Apple / Outlook (.ics-fájl) megjelenítése"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Közvetlen Google Naptár-hivatkozás megjelenítése"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Közvetlen Outlook Web-hivatkozás megjelenítése"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Közvetlen Microsoft 365-hivatkozás megjelenítése"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Időzóna-tájékoztató megjelenítése"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Az .ics-fájlban lévő emlékeztetőre vonatkozó megjegyzés megjelenítése"
+      ],
+      "Kalender": [
+        "Naptár"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics-fájl a kezdés előtti napra szóló emlékeztetővel, valamint Google Naptár-, Outlook Web- és Microsoft 365-hivatkozásokkal."
+      ],
+      ".ics-Datei": [
+        ".ics-fájl"
+      ],
+      "Session-Auswahl": [
+        "Szekcióválasztó"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Ennek a blokknak nincsenek beállításai. A visszaigazoló hivatkozásban szereplő tokenhez tartozó szekciókat jeleníti meg; token hiányában tájékoztató üzenet látható."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "A férőhely mentéskor kerül kiosztásra, amíg a szekció be nem telt."
+      ],
+      "Ticketpass-Optionen": [
+        "Belépőkártya beállításai"
+      ],
+      "Pass-Überschrift": [
+        "Belépő címe"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Fejlécsor (alapértelmezett: az esemény címe)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Nyomtatás gomb (névtábla nyomtatása) megjelenítése"
+      ],
+      "Ticketnummer anzeigen": [
+        "Jegyszám megjelenítése"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Számlaszám / hivatkozás megjelenítése"
+      ],
+      "Check-In Status anzeigen": [
+        "Beléptetési állapot megjelenítése"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Belépő visszaigazolt regisztrációkhoz, a visszaigazoló e-mailben kapott tokennel megnyitva: név, vállalat, állapot, számlaszám, jegyszám és nyomtatási funkció."
+      ],
+      "Ticketnummer": [
+        "Jegyszám"
+      ],
+      "Druckfunktion": [
+        "Nyomtatási funkció"
+      ],
+      "Titel der Veranstaltung": [
+        "Az esemény címe"
+      ],
+      "Layout & Farbschema": [
+        "Elrendezés és színséma"
+      ],
+      "Raster-Layout": [
+        "Rácselrendezés"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4 oszlopos rács (alapértelmezett)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2 oszlopos rács (széles)"
+      ],
+      "Farbthema": [
+        "Színtéma"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (alapértelmezett)"
+      ],
+      "Angezeigte Karten": [
+        "Megjelenített kártyák"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "A bővítmény működését bemutató kártyák. A blokk nem minősíti a weboldal jogszabályi megfelelőségét."
+      ],
+      "Double Opt-in": [
+        "Kettős megerősítés"
+      ],
+      "Formulare": [
+        "Űrlapok"
+      ],
+      "Eigene Assets": [
+        "Saját tárhelyű erőforrások"
+      ],
+      "Abfrage & Filterung": [
+        "Lekérdezés és szűrés"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Konferenciák maximális száma"
+      ],
+      "Status-Filter": [
+        "Állapotszűrő"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Csak aktív események"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktív és archivált események"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Csak archivált események"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Látható metaadatok és gombok"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Élő keresősáv megjelenítése"
+      ],
+      "Preisschild anzeigen": [
+        "Árcédula megjelenítése"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Helyszín megjelenítése"
+      ],
+      "Datums-Badge anzeigen": [
+        "Dátumjelvény megjelenítése"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Közvetlen .ics naptárhivatkozás megjelenítése"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Rövid leírás megjelenítése"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA-gomb felirata"
+      ],
+      "Veranstaltungsübersicht": [
+        "Eseményáttekintés"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Események rácsos megjelenítése dátummal, árral, helyszínnel, rövid leírással, regisztrációs gombbal és .ics-hivatkozással."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max. %d esemény"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Helyfoglaltsági térkép"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Helyfoglaltsági térkép beállításai"
+      ],
+      "Überschrift (optional)": [
+        "Címsor (opcionális)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Leíró szöveg (opcionális)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Élő frissítés engedélyezése"
+      ],
+      "Sitzplan": [
+        "Helyfoglaltsági térkép"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Egy esemény összes szekciójának grafikus telítettségi áttekintése akadálymentes adattáblázattal."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Többnézetes naptár"
+      ],
+      "Ansichten & Datenquelle": [
+        "Nézetek és adatforrás"
+      ],
+      "Standardansicht": [
+        "Alapértelmezett nézet"
+      ],
+      "Monatskalender": [
+        "Havi naptár"
+      ],
+      "Wochenplan": [
+        "Heti beosztás"
+      ],
+      "Tagesagenda": [
+        "Napi program"
+      ],
+      "Listenansicht": [
+        "Listanézet"
+      ],
+      "Kartenansicht": [
+        "Kártyanézet"
+      ],
+      "Raumübersicht": [
+        "Teremáttekintés"
+      ],
+      "Track-Matrix": [
+        "Szekciósáv-mátrix"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Bejegyzések maximális száma"
+      ],
+      "Bedienleiste & Filter": [
+        "Eszköztár és szűrők"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Nézetváltó megjelenítése"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Sáv- és teremszűrők megjelenítése"
+      ],
+      "Suchfeld anzeigen": [
+        "Keresőmező megjelenítése"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Hírsáv megjelenítése"
+      ],
+      "Kalender-Ansichten": [
+        "Naptárnézetek"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Többnézetes naptár és program"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Átkapcsolható havi, heti, napi, lista-, kártya-, terem- és sávnézet."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Konferenciaprogram"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktív, többsávos konferenciaprogram idővonallal, előadói adatokkal, teremszűrőkkel és iCal (.ics) letöltéssel."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (naptár, program és sávok)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Kibővített naptár- és programcsomag 7 interaktív előtérnézettel: havi naptár, heti beosztás, napi program, listanézet, fotókártyák, teremtérkép és többsávos konferenciamátrix."
+      ],
+      "block keyword\u0004event": [
+        "esemény"
+      ],
+      "block keyword\u0004calendar": [
+        "naptár"
+      ],
+      "block keyword\u0004agenda": [
+        "program"
+      ],
+      "block keyword\u0004schedule": [
+        "napirend"
+      ],
+      "block keyword\u0004summit": [
+        "konferencia"
+      ],
+      "block keyword\u0004timetable": [
+        "időbeosztás"
+      ],
+      "block keyword\u0004matrix": [
+        "mátrix"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Naptár és .ics modul"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Naptármodul .ics-letöltéssel, valamint Google Naptár-, Outlook Web- és Microsoft 365-hivatkozásokkal."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Nyitó- és visszaszámláló banner"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Esemény-fejlécbanner visszaszámlálóval, főbb adatokkal, állapotjelvénnyel és regisztrációs gombokkal."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Áttekintő és archív rács"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dinamikus kártyás áttekintés a közelgő konferenciákról, szimpóziumokról és műhelyfoglalkozásokról keresősávval és állapotszűrőkkel."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Regisztrációs űrlap"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Regisztrációs űrlap Brevo kettős megerősítéssel, opcionális profilfotóval és fotókészítési hozzájárulással."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Helyfoglaltsági térkép"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Egy esemény összes szekciójának telítettsége SVG formában, Server-Sent Events segítségével folyamatosan frissítve."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Biztonsági és bizalmi jelvények"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "A bővítmény adatvédelmi és biztonsági funkcióinak áttekintése: kettős megerősítés, megőrzési idők, auditnapló és számla-XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Szekció- és műhelyválasztó"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Szekcióválasztó visszaigazolt regisztrációkhoz: a férőhelyek mentéskor kerülnek kiosztásra a szabad kapacitás erejéig."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Előadói és szakértői rács"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatikusan összeállított áttekintés a kiemelt előadókról, szekció-előadásokról, teremelosztásról és előadói bemutatkozásokról."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digitális belépőkártya"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Résztvevői belépő visszaigazolt regisztrációkhoz jegyszámmal, eseménnyel, helyszínnel és nyomtatás gombbal."
+      ]
+    }
+  }
+}

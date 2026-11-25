@@ -1,0 +1,2825 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "sk_SK",
+        "plural-forms": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Podujatia, sekcie a registrácie s dvojitým potvrdením (Double Opt-in) cez Brevo, odbavením pri vstupe, fakturačným XML (EN 16931) a exportom DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Podujatie sa nenašlo alebo už nie je aktívne."
+      ],
+      "Verbindlich anmelden": [
+        "Záväzne sa zaregistrovať s povinnosťou platby"
+      ],
+      "Kostenfrei anmelden": [
+        "Zaregistrovať sa bezplatne"
+      ],
+      "Datum": [
+        "Dátum"
+      ],
+      "Veranstaltungsort": [
+        "Miesto konania"
+      ],
+      "Einlass": [
+        "Vstup"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Po potvrdení odkazom v e-maile"
+      ],
+      "Kontaktdaten": [
+        "Kontaktné údaje"
+      ],
+      "Einwilligung": [
+        "Súhlas"
+      ],
+      "Bestätigung": [
+        "Potvrdenie"
+      ],
+      "Vorname": [
+        "Meno"
+      ],
+      "z. B. Erika": [
+        "napr. Jana"
+      ],
+      "Nachname": [
+        "Priezvisko"
+      ],
+      "z. B. Mustermann": [
+        "napr. Nováková"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Pracovná e-mailová adresa"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Inštitúcia / úrad / spoločnosť"
+      ],
+      "z. B. Beispiel GmbH": [
+        "napr. Príklad s. r. o."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilová fotografia na preukaz účastníka (voliteľné)"
+      ],
+      "Profilbild Vorschau": [
+        "Náhľad profilovej fotografie"
+      ],
+      "Foto auswählen": [
+        "Vybrať fotografiu"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG alebo WebP · max. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Ochrana osobných údajov a súhlas Double Opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Súhlasím so spracovaním svojich osobných údajov na účely účasti na konferencii v súlade s GDPR. Na overenie dostanem potvrdzovací odkaz e-mailom."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Prečítať zásady ochrany osobných údajov"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Vyhotovovanie fotografií a videozáznamov (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Súhlasím s tým, aby sa v rámci podujatia vyhotovovali obrazové a zvukovo-obrazové záznamy mojej osoby na účely komunikácie organizátora s verejnosťou."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Riadiace centrum a obsadenosť"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Jadro CyberEvents Enterprise je aktívne"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Správa kapacity, export DATEV a odbavenie účastníkov"
+      ],
+      "Events": [
+        "Podujatia"
+      ],
+      "Bestätigte Gäste": [
+        "Potvrdení hostia"
+      ],
+      "Ausstehende DOI": [
+        "Čakajúce DOI"
+      ],
+      "Mission Control öffnen": [
+        "Otvoriť Riadiace centrum"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Vyžaduje sa súhlas s GDPR"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Tento export obsahuje osobné údaje chránené podľa čl. 4 bodu 1 GDPR. Pred stiahnutím musíte potvrdiť, že s údajmi budete zaobchádzať dôverne, spracúvať ich výlučne na určený účel a po skončení podujatia ich vymažete v súlade s predpismi o ochrane údajov."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Späť na správu rezervácií"
+      ],
+      "DSGVO-Schutz": [
+        "Ochrana GDPR"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Export finančných údajov a údajov odberateľov vyžaduje potvrdenie, že údaje budú uchovávané ako dôverné a použité výlučne na účtovníctvo."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Späť do DATEV Studia"
+      ],
+      "DATEV-Export": [
+        "Export DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Nedostatočné oprávnenia."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Prehľad a ukazovatele KPI"
+      ],
+      "Dashboard": [
+        "Prehľad"
+      ],
+      "Alle Veranstaltungen": [
+        "Všetky podujatia"
+      ],
+      "Veranstaltungen": [
+        "Podujatia"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Vytvoriť nové podujatie"
+      ],
+      "Neue Veranstaltung": [
+        "Nové podujatie"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Miesta konania a konferenčné priestory"
+      ],
+      "Veranstaltungsorte": [
+        "Miesta konania"
+      ],
+      "Sessions & Agenda": [
+        "Sekcie a program"
+      ],
+      "Neue Session erstellen": [
+        "Vytvoriť novú sekciu"
+      ],
+      "Neue Session": [
+        "Nová sekcia"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Účastníci a rezervácie"
+      ],
+      "CSV-Import & Onboarding": [
+        "Import CSV a registrácia účastníkov"
+      ],
+      "CSV-Import": [
+        "Import CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Financie a export DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Financie a DATEV"
+      ],
+      "Audit-Log": [
+        "Auditný protokol"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Nastavenia a štúdio tém"
+      ],
+      "Einstellungen": [
+        "Nastavenia"
+      ],
+      "Handbuch & Dokumentation": [
+        "Príručka a dokumentácia"
+      ],
+      "Handbuch": [
+        "Príručka"
+      ],
+      "Events & Konferenzen": [
+        "Podujatia a konferencie"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Oprávnenia na správu podujatí a konferencií."
+      ],
+      "Teilnehmer verwalten": [
+        "Spravovať účastníkov"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Umožňuje prezerať a exportovať registrácie na podujatia bez plného administrátorského prístupu do WordPressu."
+      ],
+      "Einstellungen & Theme": [
+        "Nastavenia a téma"
+      ],
+      "Handbuch & Doku": [
+        "Príručka a dok."
+      ],
+      "Plugin-Navigation": [
+        "Navigácia pluginu"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Podujatie bolo úspešne uložené!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Údaje boli synchrónne aktualizované v databáze aj v systéme WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Podujatie bolo odstránené!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Záznam bol odstránený a príspevok presunutý do koša."
+      ],
+      "Demodaten angelegt.": [
+        "Ukážkové údaje boli vytvorené."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Bolo vytvorené ukážkové podujatie, sekcie a ukážkoví účastníci; faktúry sa vytvoria len vtedy, keď sú nastavené údaje vystavovateľa faktúr."
+      ],
+      "CyberEvents Command Console": [
+        "Príkazová konzola CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Edícia Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Podujatia, sekcie a registrácie s dvojitým potvrdením cez Brevo, odbavením pri vstupe, fakturačným XML a exportom DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Súčasť rodiny pluginov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Režim Hub"
+      ],
+      "Standalone": [
+        "Samostatný"
+      ],
+      "Demo-Daten auffrischen": [
+        "Obnoviť ukážkové údaje"
+      ],
+      "Springen zu:": [
+        "Prejsť na:"
+      ],
+      "Kurzanleitung": [
+        "Stručný návod"
+      ],
+      "Kennzahlen": [
+        "Ukazovatele"
+      ],
+      "Rechnungen": [
+        "Faktúry"
+      ],
+      "Audit-Protokoll": [
+        "Auditný protokol"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Čo robí CyberEvents a čo nájdete na tejto obrazovke?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Plugin spravuje podujatia so sekciami a registráciami. Účastníci potvrdia svoju registráciu pomocou odkazu Double Opt-in odoslaného službou Brevo (vyžaduje sa kľúč API), následne si vyberú sekcie, ktorých kapacitu nemožno prekročiť, a pri vstupe sú odbavení pomocou svojho tokenu. Faktúry vznikajú vo formáte CII-XML (EN 16931) a dajú sa exportovať ako účtovná dávka DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Rýchly prístup:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Účastníci a registrácie"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Exportovať faktúry ako dávku DATEV"
+      ],
+      "Event Auslastung": [
+        "Obsadenosť podujatí"
+      ],
+      "Kritisch": [
+        "Kritické"
+      ],
+      "Optimal": [
+        "Optimálne"
+      ],
+      "Max. Kapazität:": [
+        "Max. kapacita:"
+      ],
+      "Gebucht:": [
+        "Rezervované:"
+      ],
+      "Live Check-In Counter": [
+        "Živé počítadlo odbavení"
+      ],
+      "Anwesend": [
+        "Prítomní"
+      ],
+      "Registriert:": [
+        "Registrovaní:"
+      ],
+      "Eingecheckt:": [
+        "Odbavení:"
+      ],
+      "Wartend:": [
+        "Čakajúci:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nové registrácie (24 h)"
+      ],
+      "Sessions": [
+        "Sekcie"
+      ],
+      "in 24 h": [
+        "za 24 h"
+      ],
+      "Ausstehende DOI:": [
+        "Čakajúce DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Telemetria frontu Brevo CRM"
+      ],
+      "Jobs": [
+        "Úlohy"
+      ],
+      "Verarbeitung": [
+        "Spracovanie"
+      ],
+      "Verarbeitet:": [
+        "Spracované:"
+      ],
+      "Schnellaktionen": [
+        "Rýchle akcie"
+      ],
+      "Neue Konferenz anlegen": [
+        "Vytvoriť novú konferenciu"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Zoznam účastníkov a odbavenie"
+      ],
+      "CSV-Batch Import": [
+        "Hromadný import CSV"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Prehľad podujatí a sledovanie obsadenosti"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Potvrdené registrácie na každé podujatie v pomere k nastavenej kapacite."
+      ],
+      "Event suchen...": [
+        "Hľadať podujatie..."
+      ],
+      "Neue Konferenz": [
+        "Nová konferencia"
+      ],
+      "Konferenz / Event": [
+        "Konferencia / podujatie"
+      ],
+      "Zeitraum": [
+        "Obdobie"
+      ],
+      "Ort": [
+        "Mesto"
+      ],
+      "Kapazität & Belegung": [
+        "Kapacita a obsadenosť"
+      ],
+      "Status": [
+        "Stav"
+      ],
+      "Aktionen": [
+        "Akcie"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Nenašli sa žiadne podujatia."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Upraviť v blokovom editore Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Upraviť"
+      ],
+      "Schnellbearbeitung": [
+        "Rýchla úprava"
+      ],
+      "Vorschau": [
+        "Náhľad"
+      ],
+      "Teilnehmer (%d)": [
+        "Účastníci (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Naozaj chcete toto podujatie natrvalo odstrániť?"
+      ],
+      "Löschen": [
+        "Odstrániť"
+      ],
+      "%d Sessions": [
+        "%d sekcií"
+      ],
+      "/ %d Plätze": [
+        "/ %d miest"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(bez obmedzenia kapacity)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Upraviť v editore Gutenberg"
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Otvoriť rýchlu úpravu"
+      ],
+      "Quick": [
+        "Rýchlo"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Zobraziť verejnú stránku"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Platné a stornované faktúry aj nepotvrdené registrácie."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Spolu s DPH, platné faktúry"
+      ],
+      "Gültige Rechnungen": [
+        "Platné faktúry"
+      ],
+      "Storniert": [
+        "Stornované"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Nepotvrdené prihlásenia"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Export DATEV a auditný protokol"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Účtovná dávka faktúr a dobropisov za zvolené obdobie; účty a daňové kľúče zosúlaďte s daňovým poradcom."
+      ],
+      "DATEV Format": [
+        "Formát DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategória 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Reťazec HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonymizácia po 90 dňoch"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Otvoriť DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Zobraziť auditný protokol"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Priebežne zreťazený auditný protokol: každý záznam spolupodpisuje svojho predchodcu, takže dodatočné úpravy, výmazy a vloženia sú odhalené. Ide o dôkaz manipulácie, nie o nemennosť — kto číta súbor wp-config.php, má kľúč."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Otvoriť úplný auditný protokol"
+      ],
+      "Zeitstempel": [
+        "Časová pečiatka"
+      ],
+      "Ereignis-Typ": [
+        "Typ udalosti"
+      ],
+      "Benutzer / System": [
+        "Používateľ / systém"
+      ],
+      "Objekt-ID": [
+        "ID objektu"
+      ],
+      "Audit-Details & Nachweis": [
+        "Podrobnosti auditu a dôkaz"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Doteraz neboli zaznamenané žiadne auditné záznamy."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Upraviť podujatie / rýchla konfigurácia"
+      ],
+      "Schließen": [
+        "Zavrieť"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Názov konferencie / podujatia:"
+      ],
+      "URL-Slug:": [
+        "URL identifikátor (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Miesto konania / lokalita:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Začiatok (dátum a čas):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Koniec (dátum a čas):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Max. kapacita účastníkov:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Cena vstupenky (bez DPH v €):"
+      ],
+      "Status:": [
+        "Stav:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktívne (publikované)"
+      ],
+      "Entwurf (Draft)": [
+        "Koncept (návrh)"
+      ],
+      "Archiviert": [
+        "Archivované"
+      ],
+      "Kostenpflichtig": [
+        "Spoplatnené"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Otvoriť v blokovom editore Gutenberg"
+      ],
+      "Abbrechen": [
+        "Zrušiť"
+      ],
+      "Änderungen speichern": [
+        "Uložiť zmeny"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Údaje účastníka boli úspešne aktualizované!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Registračné údaje a stav boli uložené do databázy."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Účastník bol odstránený!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Registrácia a všetky súvisiace rezervácie sekcií boli odstránené."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Stav odbavenia bol aktualizovaný!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Stav prítomnosti účastníka bol prepnutý."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Dvojité potvrdenie (Double Opt-in) dokončené!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Registrácia bola ručne označená ako potvrdená."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Správa účastníkov a rezervácií"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Všetky registrácie so stavom Double Opt-in, rezerváciami sekcií a faktúrami."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Menovky / zoznam účastníkov (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtrované podľa konferencie: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Zrušiť filter"
+      ],
+      "Alle Teilnehmer": [
+        "Všetci účastníci"
+      ],
+      "Bestätigt": [
+        "Potvrdené"
+      ],
+      "Ausstehend DOI": [
+        "Čakajúce DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Hľadať meno, e-mail alebo spoločnosť..."
+      ],
+      "Teilnehmer": [
+        "Účastník"
+      ],
+      "Organisation / Firma": [
+        "Organizácia / spoločnosť"
+      ],
+      "Check-In": [
+        "Odbavenie"
+      ],
+      "Rechnung": [
+        "Faktúra"
+      ],
+      "Anmeldedatum": [
+        "Dátum registrácie"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Nie sú k dispozícii žiadne registrácie."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Upraviť údaje účastníka"
+      ],
+      "Auschecken": [
+        "Zrušiť odbavenie"
+      ],
+      "Einchecken": [
+        "Odbaviť účastníka"
+      ],
+      "DOI bestätigen": [
+        "Potvrdiť DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Naozaj chcete tohto účastníka natrvalo odstrániť?"
+      ],
+      "Status umschalten": [
+        "Prepnúť stav"
+      ],
+      "Eingecheckt": [
+        "Odbavený"
+      ],
+      "Nicht vor Ort": [
+        "Neprítomný na mieste"
+      ],
+      "Rechnungs-XML": [
+        "Faktúra XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Bezplatne / žiadna"
+      ],
+      "Edit": [
+        "Upraviť"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Naozaj chcete tohto účastníka odstrániť?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Úprava údajov účastníka / správa účastníkov"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilová fotografia / fotografia na preukaz účastníka (JPG, PNG, WebP · max. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Odstrániť fotografiu"
+      ],
+      "Vorname:": [
+        "Meno:"
+      ],
+      "Nachname:": [
+        "Priezvisko:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-mailová adresa:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizácia / spoločnosť / úrad:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Priradená konferencia:"
+      ],
+      "Anmeldestatus:": [
+        "Stav registrácie:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Potvrdená"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Čakajúca (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Stornovaná"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Nedoručiteľná (vrátený e-mail)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Stav odbavenia (na mieste):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nie / neprítomný na mieste"
+      ],
+      "Ja / Eingecheckt": [
+        "Áno / odbavený"
+      ],
+      "Rechnungsnummer:": [
+        "Číslo faktúry:"
+      ],
+      "Zahlungsstatus:": [
+        "Stav platby:"
+      ],
+      "Kostenfrei (Free)": [
+        "Bezplatná"
+      ],
+      "Ausstehend (Pending)": [
+        "Čakajúca"
+      ],
+      "Bezahlt (Paid)": [
+        "Uhradená"
+      ],
+      "Erstattet (Refunded)": [
+        "Vrátená"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Súhlas s ochranou údajov podľa GDPR udelený"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Súhlas s fotografovaním a nahrávaním videa udelený"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Ochrana osobných údajov podľa GDPR a súhlas s exportom"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Ochrana osobných údajov (čl. 4 a 5 GDPR)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Tento export vygeneruje súbor CSV obsahujúci chránené osobné údaje účastníkov (celé mená, spoločnosti, pracovné e-mailové adresy, referencie faktúr a stav odbavenia)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Obmedzenie účelu (čl. 5 ods. 1 písm. b) GDPR):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Údaje sa smú použiť výlučne na prevádzkové zabezpečenie podujatia (napr. tlač menoviek, akreditácia pri vstupe)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Dôvernosť a ochrana (čl. 5 ods. 1 písm. f) GDPR):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Poskytovanie neoprávneným tretím stranám alebo ukladanie na nešifrovaných mobilných zariadeniach je zakázané."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Povinnosť vymazania (čl. 17 GDPR):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Po skončení konferencie musí byť exportovaný lokálny súbor bezodkladne vymazaný v súlade s predpismi o ochrane osobných údajov."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Potvrdzujem súhlas s GDPR:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Beriem na vedomie, že tento export obsahuje dôverné osobné údaje. Zaväzujem sa k ich starostlivému spracúvaniu výlučne na určený účel a k prísnemu dodržiavaniu zákonných požiadaviek na ochranu osobných údajov."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Bezpečne stiahnuť export CSV teraz"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Faktúra XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopírovať XML do schránky"
+      ],
+      "Keine Berechtigung.": [
+        "Nedostatočné oprávnenie."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Bezpečnostná chyba: povolené sú iba platné súbory CSV."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Súbor je príliš veľký (maximálna povolená veľkosť je 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Vyberte prosím podujatie a zadajte údaje CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Hromadný import účastníkov z CSV (ochrana pred duplicitami TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatizovaný import zoznamov účastníkov z externých systémov s prísnou prevenciou duplicitných registrácií."
+      ],
+      "Import-Zusammenfassung": [
+        "Súhrn importu"
+      ],
+      "Gesamtzeilen": [
+        "Celkový počet riadkov"
+      ],
+      "Neu Importiert": [
+        "Novo naimportované"
+      ],
+      "Dubletten abgewiesen": [
+        "Odmietnuté duplicity"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importovať nový zoznam účastníkov"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Cieľové podujatie *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Vyberte podujatie —"
+      ],
+      "CSV-Datei auswählen": [
+        "Vybrať súbor CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Formát: Meno;Priezvisko;E-mail;Spoločnosť (oddelené bodkočiarkou alebo čiarkou, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Alebo vložte text CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Spustiť import CSV teraz"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "Štúdio účtovných dávok DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Štandardizovaný finančný export (kategória 21, verzia formátu 700 / 125 polí) pre daňových poradcov a účtovníctvo DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Zvoľte obdobie exportu"
+      ],
+      "Laufender Monat": [
+        "Aktuálny mesiac"
+      ],
+      "Vormonat": [
+        "Predchádzajúci mesiac"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Celý rok 2026"
+      ],
+      "Datum von *": [
+        "Dátum od *"
+      ],
+      "Datum bis *": [
+        "Dátum do *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Potvrdenie pre export údajov odberateľov:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Potvrdzujem, že export finančných záznamov a údajov príjemcov faktúr obsahuje osobné údaje a postupuje sa výlučne oprávnenej daňovej kancelárii na účely zákonného účtovníctva a daňovej evidencie."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Stiahnuť účtovnú dávku DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Zreťazená auditná stopa všetkých bezpečnostne významných operácií, potvrdení Double Opt-in, stornovaní a kontrol prístupu."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Auditný reťazec neporušený — %1$d záznamov overených obsahovo, %2$d pseudonymizovaných (overená pozícia v reťazci)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Auditný reťazec NIE JE neporušený"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d záznam/záznamov pochádza z obdobia pred zavedením zreťazenia a nemá overiteľný podpis. Považujú sa za neoverené, nie za neporušené."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "Konštanta AUTH_KEY nie je definovaná: kľúč reťazca pochádza z databázy — teda z rovnakého miesta, kam by útočník s právom zápisu zapisoval. Definujte AUTH_KEY v súbore wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Čas"
+      ],
+      "Ereignistyp": [
+        "Typ udalosti"
+      ],
+      "Referenz-ID": [
+        "Referenčné ID"
+      ],
+      "IP-Adresse": [
+        "IP adresa"
+      ],
+      "Audit-Details (JSON)": [
+        "Podrobnosti auditu (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Nenašli sa žiadne záznamy v protokole."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Podujatie \"%1$s\" bolo vytvorené s %2$d sekciami a %3$d účastníkmi."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Ukážkové údaje boli úspešne naimportované!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Bolo odstránených %1$d podujatí, %2$d sekcií, %3$d registrácií a %4$d faktúr."
+      ],
+      "Demodaten bereinigt!": [
+        "Ukážkové údaje boli vyčistené!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Výrobné nastavenia boli obnovené!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Všetky tabuľky boli vyprázdnené a nastavenia obnovené."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Nahraný súbor témy bol odstránený."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Nastavenia boli bezpečne uložené."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Konfigurácia a zabezpečenie Enterprise"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Vzhľad, Brevo, faktúry a DATEV, ochrana proti botom a ukážkové údaje."
+      ],
+      "Design & Theme Studio": [
+        "Dizajn a štúdio tém"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM a webhooky"
+      ],
+      "Rechnungen & DATEV": [
+        "Faktúry a DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Ochrana proti botom (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Ukážkové údaje a reset"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Systém vzhľadu na webe a dedenie témy"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Zvoľte, ako sa budú podujatia a rezervačné formuláre zobrazovať na webe. Štandardne plugin plynulo preberá všetky písma, farby a tlačidlá z aktívnej témy WordPressu."
+      ],
+      "Primärfarbe": [
+        "Primárna farba"
+      ],
+      "Akzentfarbe": [
+        "Doplnková farba"
+      ],
+      "Kartenhintergrund": [
+        "Pozadie karty"
+      ],
+      "Textfarbe": [
+        "Farba textu"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Vlastné farby a okraje témy (prispôsobenie vlastnej témy)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primárna farba (tlačidlá a akcenty):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Doplnková farba (štítky a žiara):"
+      ],
+      "Seitenhintergrund:": [
+        "Pozadie stránky:"
+      ],
+      "Kartenhintergrund:": [
+        "Pozadie karty:"
+      ],
+      "Haupttextfarbe:": [
+        "Hlavná farba textu:"
+      ],
+      "Eckenabrundung (px):": [
+        "Zaoblenie rohov (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Nahrať vlastnú tému CSS (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Nahrajte vlastný súbor štýlov .css (napr. agentura-theme.css). Načítava sa izolovane a automaticky sa overuje."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktívna vlastná téma je k dispozícii"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Naozaj chcete odstrániť nahraný súbor témy CSS?"
+      ],
+      "Theme löschen": [
+        "Odstrániť tému"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Dodatočné vlastné CSS (vstavaný editor)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Sem zadajte vlastné pravidlá CSS, napr.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 a overovanie webhookov"
+      ],
+      "Brevo API Key (v3)": [
+        "Kľúč API Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Slúži na asynchrónne odosielanie e-mailov Double Opt-in a synchronizáciu atribútov kontaktov."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Zdieľané tajomstvo webhooku / podpisový token"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Token odolný voči časovým útokom na overovanie prichádzajúcich dát webhookov Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Kľúč API skenera personálu (kontrola vstupu)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Overovací token pre mobilné skenery používané personálom pri vstupe."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Čakáreň: počet vpustení za minútu"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Počet požiadaviek na registráciu a rezerváciu sekcií vpustených za minútu a na podujatie. Hodnota 0 čakáreň vypína (štandardne). Nad týmto limitom cesta vráti HTTP 503 s hlavičkou Retry-After ešte pred dopytom do databázy — žiadne miesto tým nie je rezervované."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Úložisko počítadla v tejto inštalácii: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "trvalá objektová vyrovnávacia pamäť"
+      ],
+      "Datenbank (Transients)": [
+        "databáza (transients)"
+      ],
+      "DOI Template ID": [
+        "ID šablóny DOI"
+      ],
+      "Brevo Kontaktliste ID": [
+        "ID zoznamu kontaktov Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Faktúry (CII-XML) a DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Predpona čísla faktúry"
+      ],
+      "Rechnungssteller": [
+        "Dodávateľ (vystavovateľ faktúry)"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Bez týchto údajov sa nebudú vytvárať žiadne faktúry ani dobropisy: %s."
+      ],
+      "Name / Firma": [
+        "Meno / spoločnosť"
+      ],
+      "Straße und Hausnummer": [
+        "Ulica a súpisné číslo"
+      ],
+      "PLZ": [
+        "PSČ"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Krajina (kód ISO, napr. DE)"
+      ],
+      "USt-IdNr.": [
+        "IČ DPH"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Daňové identifikačné číslo (ak nie je IČ DPH)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-mail pre fakturáciu"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN pre bankové prevody (voliteľné)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Číslo poradcu DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Číslo klienta DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Výnosový účet (napr. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Účet pohľadávok (napr. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Plugin zatiaľ neobsahuje widget captcha: nastavenie sa uloží, ale formulár sa spracúva bez overenia captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Povoliť Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Kľúč lokality (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Kľúč API / tajný kľúč"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Správa ukážkových údajov a obnovenie výrobných nastavení"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Naimportujte ukážkové údaje, znova ich odstráňte alebo obnovte plugin na výrobné nastavenia."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importovať ukážkové údaje"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Vytvorí ukážkovú konferenciu so sekciami a ukážkovými účastníkmi. Faktúry vzniknú iba vtedy, keď sú nastavené údaje dodávateľa."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Chcete teraz naimportovať ukážkové údaje?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importovať ukážkové údaje (konferencie, sekcie, účastníci, faktúry)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Vyčistiť ukážkové údaje (odstrániť iba testovacie údaje)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Odstráni výlučne vygenerované ukážkové konferencie, sekcie, účastníkov a faktúry. Skutočné podujatia a rezervácie zostanú úplne nedotknuté."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Chcete bezpečne odstrániť všetky ukážkové údaje? Skutočné údaje zostanú zachované."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Vyčistiť ukážkové údaje (iba testovacie údaje)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Obnoviť výrobné nastavenia (úplný reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Upozornenie (nezvratná akcia):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Vyprázdni všetky tabuľky podujatí, sekcií, registrácií, faktúr a auditného protokolu, odstráni všetky príspevky cybevent a cybsession a obnoví všetky nastavenia do predvoleného stavu."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "VAROVANIE: Ste si úplne istí? Týmto sa odstránia VŠETKY podujatia, registrácie aj faktúry a obnovia sa nastavenia!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Úplné obnovenie výrobných nastavení (odstrániť všetko a obnoviť predvolené hodnoty)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Správanie pri odinštalovaní pluginu"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Pri odinštalovaní odstrániť všetky tabuľky a nastavenia"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Štandardne zostávajú pri odstránení pluginu všetky údaje o podujatiach, registráciách, faktúrach a audite zachované (zákonné lehoty uchovávania). Túto možnosť zapnite iba vtedy, ak sa majú pri odinštalovaní pluginu všetky tabuľky natrvalo odstrániť."
+      ],
+      "Alle Einstellungen speichern": [
+        "Uložiť všetky nastavenia"
+      ],
+      "Platzbuchung": [
+        "Rezervácia miest"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Miesto sa rezervuje jediným podmieneným príkazom UPDATE (belegt = belegt + 1, iba kým platí belegt < kapazitaet). Z dvoch súbežných požiadaviek na posledné miesto upraví riadok iba jedna; druhá dostane hlásenie „obsadené“."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Faktúry a dobropisy sa generujú ako CII-XML podľa profilu EN 16931 a v testoch sa overujú validátorom Mustang. Súbor PDF sa nevytvára, takže XML nie je hybridným súborom ZUGFeRD. Či faktúry v konkrétnom prípade spĺňajú zákonné požiadavky, posúdi daňový poradca."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF a účtovníctvo"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exportuje faktúry a dobropisy za zvolené obdobie ako účtovnú dávku vo formáte DATEV (EXTF 700, kategória 21) v kódovaní Windows-1252. Účty pohľadávok a výnosov pochádzajú z nastavení; každý riadok nesie daňový kľúč 3. Účty a kľúče zosúlaďte s daňovým poradcom."
+      ],
+      "Handbuch & API:": [
+        "Príručka a API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Úplná príručka"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Vyvinuté spoločnosťou WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Príručka pre administrátorov a vývojárov"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Rezervácia miest, fakturačné XML, export DATEV, Brevo Double Opt-in, skrátené kódy (shortcodes) a predvoľby tém."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Rezervácia miest bez prekročenia kapacity"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Počítadlo obsadenosti sa zvyšuje v jedinom podmienenom príkaze; z dvoch súbežných požiadaviek na posledné miesto upraví riadok iba jedna:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Fakturačné XML a DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Faktúry a dobropisy s údajmi dodávateľa z nastavení, dátumom dodania a súvislou číselnou radou. Bez PDF a bez Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Dobropisy:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Vlastné poradové číslo, typ 381 s odkazom na pôvodnú faktúru."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Účtovná dávka za obdobie v rámci jedného kalendárneho roka, kódovanie Windows-1252. Účty a daňové kľúče zosúlaďte s daňovým poradcom."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-in a front na pozadí"
+      ],
+      "Double Opt-In (DOI):": [
+        "Dvojité potvrdenie (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo odošle potvrdzovací e-mail s osobným odkazom; odkaz jednorazovo potvrdí registráciu. Nepotvrdené registrácie sa po 14 dňoch vymažú."
+      ],
+      "Warteschlange:": [
+        "Front:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Volania do služby Brevo prechádzajú databázovým frontom, ktorý každú minútu spracúva WP-Cron (alebo príkaz wp cybevents queue-run), maximálne s piatimi pokusmi."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Skrátené kódy (shortcodes) a integrácia s editorom Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Prístupný registračný formulár."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktívny program konferencie a prehľad tematických okruhov."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Výber sekcií na základe tokenu po potvrdení DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. Príkazy WP-CLI pre administrátorov"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Predvoľby tém a dizajnové tokeny"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Verejné rozhranie sa flexibilne prispôsobí akejkoľvek téme WordPressu alebo využije vstavané dizajnové predvoľby:"
+      ],
+      "Presets:": [
+        "Predvoľby:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Niekoľko farebných predvolieb vrátane variantu v tmavofialovej, fialovej a ružovej (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Dedenie témy (predvolené):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Plynulo preberá písma, zaoblenia rohov a primárne farby z aktívnej témy (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Vlastné vlastnosti CSS (Custom Properties):"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Úskalia a osvedčené postupy"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Tabuľky sa vytvárajú s parametrom ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Lehoty uchovávania:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Nepotvrdené registrácie sa vymažú po 14 dňoch, záznamy v auditnom protokole sa pseudonymizujú po 90 dňoch (okrem udalostí týkajúcich sa faktúr). Potvrdené registrácie a faktúry plugin automaticky neodstraňuje; neexistuje pre to žiadne nastavenie."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Spracovanie frontu a lehôt uchovávania beží cez WP-Cron; na stránkach bez pravidelnej návštevnosti je potrebná systémová úloha cron."
+      ],
+      "Cyber Events Suite": [
+        "Balík Cyber Events"
+      ],
+      "Veranstaltung auswählen": [
+        "Vybrať podujatie"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Vyberte cieľové podujatie pre tento blok."
+      ],
+      "Key Facts Header anzeigen": [
+        "Zobraziť záhlavie kľúčových údajov"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Zobraziť indikátor krokov"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Zobraziť tlačidlo exportu do kalendára (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Zobraziť odpočítavanie"
+      ],
+      "Freie Plätze anzeigen": [
+        "Zobraziť voľné miesta"
+      ],
+      "Spaltenanzahl": [
+        "Počet stĺpcov"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Vyberte prosím platné podujatie v nastaveniach bloku."
+      ],
+      "Vorschau im Editor": [
+        "Náhľad v editore"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Výber sekcií pre potvrdené registrácie"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Na webe sa tento blok dynamicky vykresľuje pre každého účastníka pomocou jeho individuálneho tokenu."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Nenašiel sa žiadny potvrdzovací token."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Otvorte prosím túto stránku pomocou osobného odkazu z potvrdzovacieho e-mailu."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Neplatný alebo exspirovaný token účastníka."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Plán miest podujatia"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Na webe tento blok zobrazuje obsadenosť každej sekcie ako SVG a priebežne ju aktualizuje pomocou Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Podujatie sa nenašlo."
+      ],
+      "Jetzt anmelden": [
+        "Zaregistrovať sa teraz"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Zaregistrovať sa teraz bezplatne"
+      ],
+      "Programm ansehen": [
+        "Zobraziť program"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Bezplatná účasť"
+      ],
+      "Anmeldung geöffnet": [
+        "Registrácia otvorená"
+      ],
+      "Ausgebucht": [
+        "Obsadené"
+      ],
+      "Preis": [
+        "Cena"
+      ],
+      "%d freier Platz": [
+        "%d voľné miesto",
+        "%d voľné miesta",
+        "%d voľných miest"
+      ],
+      "von max. %d": [
+        "z max. %d"
+      ],
+      "Beginn in:": [
+        "Začína o:"
+      ],
+      "Tage": [
+        "Dni"
+      ],
+      "Std.": [
+        "Hod."
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Exportovať do kalendára (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (súbor .ics)"
+      ],
+      "Google Kalender": [
+        "Kalendár Google"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Súbor .ics obsahuje pripomienku jeden deň pred začiatkom."
+      ],
+      "Referenten & Fachexperten": [
+        "Rečníci a odborní experti"
+      ],
+      "Referenten": [
+        "Rečníci"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Zoznam rečníkov bude čoskoro zverejnený."
+      ],
+      "TEILNEHMERPASS": [
+        "PREUKAZ ÚČASTNÍKA"
+      ],
+      "Teilnehmerpass": [
+        "Preukaz účastníka"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Otvoriť vstupenku a akreditáciu"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Zadajte svoj 64-znakový bezpečnostný token z potvrdzovacieho e-mailu:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Zadajte token (napr. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Zobraziť preukaz"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Neplatný alebo neznámy rezervačný token."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Pre túto registráciu nie je preukaz účastníka k dispozícii: nie je potvrdená alebo bola stornovaná."
+      ],
+      "Max Mustermann": [
+        "Ján Novák"
+      ],
+      "Beispiel GmbH": [
+        "Príklad s. r. o."
+      ],
+      "Veranstaltung": [
+        "Podujatie"
+      ],
+      "Rechnungs-Nr.": [
+        "Č. faktúry"
+      ],
+      "Keine": [
+        "Žiadna"
+      ],
+      "Ticket-Nummer": [
+        "Číslo vstupenky"
+      ],
+      "Pass drucken": [
+        "Vytlačiť preukaz"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Ochrana osobných údajov a bezpečnosť"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double Opt-in a lehoty uchovávania"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Registrácia nadobúda platnosť až po potvrdení odkazom v e-maile. Nepotvrdené registrácie sa vymažú po 14 dňoch, záznamy v auditnom protokole sa pseudonymizujú po 90 dňoch."
+      ],
+      "Beschriftete Formulare": [
+        "Popísané formuláre"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Formulárové polia s viditeľnými menovkami, označenými povinnými poľami a stavovými hláseniami pre čítačky obrazovky."
+      ],
+      "Eigene Skripte und Styles": [
+        "Vlastné skripty a štýly"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Plugin načítava svoje skripty, štýly a ikony z vášho vlastného servera, nie zo siete CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Auditný protokol a tokeny"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Auditný protokol zreťazený pomocou HMAC-SHA256 umožňuje odhaliť dodatočnú manipuláciu. Tokeny účastníkov sa ukladajú výlučne ako odtlačky SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Fakturačné XML a DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Faktúry ako CII-XML podľa profilu EN 16931 a export ako účtovná dávka DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Ochrana proti botom šetrná k súkromiu bez sledovania používateľov a obrázkových hádaniek v súlade s európskymi predpismi o ochrane osobných údajov."
+      ],
+      "Zur Anmeldung": [
+        "Na prihlásenie"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Neexistujú žiadne archivované podujatia."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Aktuálne nie sú naplánované žiadne podujatia."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtrovať podujatia podľa názvu alebo miesta..."
+      ],
+      "Kostenfrei": [
+        "Bezplatne"
+      ],
+      "In Kalender eintragen": [
+        "Pridať do kalendára"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Živý informačný pás konferencie a programu"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "ŽIVÁ TELEMETRIA PROGRAMU"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Ovládanie zobrazení a filtrov"
+      ],
+      "Kalenderansichten": [
+        "Zobrazenia kalendára"
+      ],
+      "Monat": [
+        "Mesiac"
+      ],
+      "Woche": [
+        "Týždeň"
+      ],
+      "Tag / Agenda": [
+        "Deň / program"
+      ],
+      "Liste": [
+        "Zoznam"
+      ],
+      "Karten": [
+        "Karty"
+      ],
+      "Räume & Ort": [
+        "Sály a miesto"
+      ],
+      "Summit Tracks": [
+        "Okruhy summitu"
+      ],
+      "Vorheriger Zeitraum": [
+        "Predchádzajúce obdobie"
+      ],
+      "Nächster Zeitraum": [
+        "Nasledujúce obdobie"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Hľadať podujatie, tému alebo rečníka..."
+      ],
+      "Suchbegriff eingeben": [
+        "Zadajte hľadaný výraz"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtrovať okruh alebo kategóriu"
+      ],
+      "Alle Fach-Tracks": [
+        "Všetky odborné okruhy"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Okruh 01: Postkvantová kryptografia"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Okruh 02: Zero Trust a odolnosť DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Okruh 03: Autonómna AI a ochrana tajomstva (§ 203 StGB)"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Okruh 04: Softvérový dodávateľský reťazec a CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtrovať konferenčnú sálu"
+      ],
+      "Alle Säle & Räume": [
+        "Všetky sály a miestnosti"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenárna sála Alpha (hlavné prednášky)"
+      ],
+      "Security Lab Beta": [
+        "Bezpečnostné laboratórium Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshopové štúdio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtuálne streamovacie centrum AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Zobrazenie mesačného kalendára"
+      ],
+      "Mo": [
+        "Po"
+      ],
+      "Di": [
+        "Ut"
+      ],
+      "Mi": [
+        "St"
+      ],
+      "Do": [
+        "Št"
+      ],
+      "Fr": [
+        "Pi"
+      ],
+      "Sa": [
+        "So"
+      ],
+      "So": [
+        "Ne"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Zobrazenie týždenného rozvrhu a časovej mriežky"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Zobrazenie denného programu a časovej osi"
+      ],
+      "Chronologische Listenansicht": [
+        "Chronologické zobrazenie zoznamu"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vizuálne zobrazenie fotografických kariet"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Zobrazenie navigátora miesta a sál"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Viacokruhová matica summitu"
+      ],
+      "Dialog schließen": [
+        "Zavrieť dialógové okno"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Neplatné ID sekcie alebo registrácie."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Rezerváciu nebolo možné spracovať pre chybu databázy."
+      ],
+      "Session %d existiert nicht.": [
+        "Sekcia %d neexistuje."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "„%1$s“ je plne obsadená (obsadených %2$d z %2$d miest)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Rezerváciu sa nepodarilo uložiť. Miesto bolo opäť uvoľnené."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Stornovanie nebolo možné spracovať pre chybu databázy."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Nebol nahraný žiadny platný súbor."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Chyba pri nahrávaní súboru."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profilový obrázok môže mať veľkosť najviac 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Neplatný formát súboru. Povolené formáty sú JPG, PNG a WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Neplatná prípona súboru. Povolené prípony sú .jpg, .jpeg, .png a .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Chyba pri ukladaní profilového obrázka."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Auditný protokol je prázdny, hoci v ňom bolo predtým zaznamenaných %d záznamov."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Do reťazca bol dodatočne vložený nepodpísaný záznam."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Prerušenie reťazca pri zázname #%d: záznam bol zmazaný, vložený alebo presunutý."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Podpis záznamu #%d nezodpovedá jeho kontrolnému súčtu."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Záznam #%d je označený ako pseudonymizovaný bez platného dôkazu: jeho obsah mohol byť zmenený."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Obsah záznamu #%d bol dodatočne zmenený."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Koniec protokolu nesedí s posledným zaznamenaným záznamom. Najnovšie záznamy boli odstránené."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Podujatia"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Podujatie"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Podujatie"
+      ],
+      "event\u0004Neu erstellen": [
+        "Vytvoriť nové"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Upraviť podujatie"
+      ],
+      "Veranstaltung ansehen": [
+        "Zobraziť podujatie"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Prehľadať podujatia"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "V koši nie sú žiadne podujatia."
+      ],
+      "Veranstaltungsdaten": [
+        "Údaje o podujatí"
+      ],
+      "Veranstaltungsort:": [
+        "Miesto konania:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Spravovať miesta konania ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Vyberte uložené miesto konania —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Ručné zadanie miesta / sály / adresy..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Vyberte uložené miesto zo zoznamu alebo individuálne upravte označenie miesta a sály."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Začiatok (dátum a čas):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Koniec (dátum a čas):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Spoplatnené podujatie"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Aktuálne nie sú k dispozícii žiadne plány konferencií."
+      ],
+      "Programm": [
+        "Program"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Hľadať tému, rečníka alebo sálu..."
+      ],
+      "Konferenz-Agenda": [
+        "Program konferencie"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Podrobný program bude čoskoro zverejnený."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Údaje účastníkov CyberEvents"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Spoločnosť / organizácia"
+      ],
+      "Profilbild": [
+        "Profilový obrázok"
+      ],
+      "Einwilligung Datenschutz": [
+        "Súhlas s ochranou osobných údajov"
+      ],
+      "ja": [
+        "áno"
+      ],
+      "nein": [
+        "nie"
+      ],
+      "Einwilligung Fotos": [
+        "Súhlas s fotografovaním"
+      ],
+      "Bestätigung angefordert": [
+        "Potvrdenie vyžiadané"
+      ],
+      "Bestätigt am": [
+        "Potvrdené dňa"
+      ],
+      "Eingecheckt am": [
+        "Odbavené dňa"
+      ],
+      "Gebuchte Sessions": [
+        "Rezervované sekcie"
+      ],
+      "Rechnungsnummer": [
+        "Číslo faktúry"
+      ],
+      "CyberEvents Registrierungen": [
+        "Registrácie CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Faktúry CyberEvents"
+      ],
+      "Empfänger": [
+        "Príjemca"
+      ],
+      "Adresse": [
+        "Adresa"
+      ],
+      "Bruttobetrag": [
+        "Suma s DPH"
+      ],
+      "Ausgestellt am": [
+        "Vystavené dňa"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Registráciu #%d sa nepodarilo odstrániť."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Registráciu #%d sa nepodarilo anonymizovať; údaje zostali nezmenené."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Registrácia #%1$d bola anonymizovaná. Faktúra %2$s s menom, adresou a e-mailom zostáva uložená bez zmeny; plugin faktúry neodstraňuje."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Webhook Brevo je bez zdieľaného tajomstva deaktivovaný (vracia 401). Nedoručené správy a odhlásenia sa nebudú spracúvať, kým nebude tajomstvo nastavené."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nie je nastavený kľúč API Brevo: potvrdzovacie e-maily sa nebudú odosielať, nové registrácie zostanú nepotvrdené a po 14 dňoch sa vymažú."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Funkcia Friendly Captcha je zapnutá, ale nemá žiadny účinok: plugin neobsahuje widget captcha, takže sa formulár spracúva bez ochrany proti botom."
+      ],
+      "Einstellungen öffnen": [
+        "Otvoriť nastavenia"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Príliš veľa požiadaviek. Skúste to znova o minútu."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Výber nebol uložený: %s Vaše doterajšie rezervácie zostávajú zachované."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Nové sekcie boli rezervované, no nie každú odznačenú sekciu sa podarilo uvoľniť: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Neplatný bezpečnostný token (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Neplatný token formulára (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Účastník nie je autorizovaný alebo sa nenašiel."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nebol odoslaný žiadny súbor s obrázkom."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profilový obrázok bol úspešne aktualizovaný."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Chýba potvrdzovací token."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Neplatná alebo zatiaľ nepotvrdená vstupenka."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Pre toto podujatie nie sú nastavené žiadne sekcie."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Plán miest: obsadené a voľné miesta podľa sekcií"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — obsadených %2$d z %3$d miest"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Pre plán miest chýba podujatie."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Podujatie priradené k plánu miest neexistuje."
+      ],
+      "frei": [
+        "voľné"
+      ],
+      "belegt": [
+        "obsadené"
+      ],
+      "von Ihnen gebucht": [
+        "rezervované vami"
+      ],
+      "Belegung je Session": [
+        "Obsadenosť jednotlivých sekcií"
+      ],
+      "Session": [
+        "Sekcia"
+      ],
+      "Belegt": [
+        "Obsadené"
+      ],
+      "Frei": [
+        "Voľné"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Obsadenosť sa priebežne aktualizuje."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stav pri načítaní stránky; obsadenosť sa neaktualizuje naživo."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Ukážkové údaje: rezervácia pre %1$s zamietnutá — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Ukážkové údaje: účasť stornovaná"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sekcie a okruhy"
+      ],
+      "post type singular name\u0004Session": [
+        "Sekcia"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sekcie"
+      ],
+      "Alle Sessions": [
+        "Všetky sekcie"
+      ],
+      "Session bearbeiten": [
+        "Upraviť sekciu"
+      ],
+      "Session ansehen": [
+        "Zobraziť sekciu"
+      ],
+      "Sessions durchsuchen": [
+        "Prehľadať sekcie"
+      ],
+      "Keine Sessions gefunden.": [
+        "Nenašli sa žiadne sekcie."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "V koši nie sú žiadne sekcie."
+      ],
+      "Session-Daten": [
+        "Údaje o sekcii"
+      ],
+      "Zugehörige Konferenz:": [
+        "Nadradená konferencia:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Nie je vybraná žiadna konferencia —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Rečník a inštitúcia:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "napr. Jana Nováková (Príklad s. r. o.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Miestnosť / sála / okruh:"
+      ],
+      "Workshop-Kapazität:": [
+        "Kapacita workshopu:"
+      ],
+      "Speaker": [
+        "Rečník"
+      ],
+      "Raum / Track": [
+        "Sála / okruh"
+      ],
+      "Zeitfenster": [
+        "Časový úsek"
+      ],
+      "Belegung": [
+        "Obsadenosť"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Vitajte, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Vyberte si svoje sekcie. Miesto sa pridelí pri uložení, kým nie je sekcia plne obsadená."
+      ],
+      "Anmeldung bestätigt": [
+        "Registrácia potvrdená"
+      ],
+      "Für diese Session eingetragen": [
+        "Prihlásený na túto sekciu"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Vybrať túto sekciu"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Miesto sa pridelí pri uložení, kým nie je sekcia plne obsadená."
+      ],
+      "Sessions ausgewählt": [
+        "Vybrané sekcie"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Záväzne uložiť výber"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Predvolená téma WordPressu (automaticky zdedené)"
+      ],
+      "Empfohlen": [
+        "Odporúčané"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Preberá typografiu, farby, tlačidlá a rozostupy 1:1 z aktívnej témy WordPressu (GeneratePress, Astra, Twenty Twenty-Four atď.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Fialová a ružová (tmavá lila, fialová, ružový akcent)"
+      ],
+      "Farbstark": [
+        "Výrazný"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Tmavá lila (#482683), žiarivá fialová (#7D40E7), ružový akcent (#DF0079), Noto Sans, ak ju téma načítava, a jemný prechod."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (námornícka modrá a azúrová)"
+      ],
+      "High-Tech Dark": [
+        "Tmavý štýl High-Tech"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Vyladený tmavý a kobaltový vzhľad so svetelnými efektmi prispôsobený konferenciám o kybernetickej bezpečnosti."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalistický moderný (bridlicová a monochromatická)"
+      ],
+      "Modern": [
+        "Moderný"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Čistý, striedmy vzhľad SaaS s neutrálnymi odtieňmi sivej, jemnými okrajmi a veľkorysým voľným priestorom."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Redakčný teplý (klasický a teplé tóny)"
+      ],
+      "Klassik": [
+        "Klasický"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Teplé tóny slonoviny a bordovej farby pre akademické sympóziá a reprezentatívne odborné kongresy."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Vysoký kontrast (čierna na bielej)"
+      ],
+      "Hochkontrast": [
+        "Vysoký kontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Čierny text na bielom pozadí (kontrast 21:1) so žltým akcentom a zosilnenými obrysmi zamerania."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Vlastná téma (vlastné farby a CSS)"
+      ],
+      "Individuell": [
+        "Vlastná"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Voľné nastavenie farieb a podpora nahraných vlastných súborov štýlov CSS."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nebol odovzdaný žiadny platný súbor na nahranie."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Bezpečnostná chyba: nahrávať možno výlučne čisté súbory .css."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Súbor CSS prekračuje limit 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Súbor témy sa nepodarilo uložiť na server."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Vlastná téma CSS bola úspešne nahraná a aktivovaná."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Miesta konania"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Miesto konania"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Prehľadať miesta konania"
+      ],
+      "Häufige Tagungsorte": [
+        "Časté miesta konania"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Všetky miesta konania"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Upraviť miesto konania"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Aktualizovať miesto konania"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Pridať nové miesto konania"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Názov nového miesta konania"
+      ],
+      "Orte mit Kommas trennen": [
+        "Oddeľte miesta čiarkami"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Pridať alebo odstrániť miesta"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Vybrať z najčastejšie používaných miest"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Nenašli sa žiadne miesta konania."
+      ],
+      "Stadt / Ort:": [
+        "Mesto / obec:"
+      ],
+      "z. B. Musterstadt": [
+        "napr. Bratislava"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Mesto alebo obec miesta konania."
+      ],
+      "Straße & Hausnummer:": [
+        "Ulica a číslo domu:"
+      ],
+      "z. B. Musterstraße 1": [
+        "napr. Ukážková 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "PSČ:"
+      ],
+      "Land:": [
+        "Krajina:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maximálna kapacita sály (osôb):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Bezbariérovo prístupné"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Zaškrtnite iba vtedy, keď je to overené. Údaj sa zobrazí v zozname miest konania a v ceste REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL mapy / popisu trasy:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Webová stránka miesta konania:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maximálna kapacita sály:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Kapacita miest v konferenčnom priestore."
+      ],
+      "Zugänglichkeit:": [
+        "Prístupnosť:"
+      ],
+      "Google Maps Link:": [
+        "Odkaz na mapu:"
+      ],
+      "Stadt & Adresse": [
+        "Mesto a adresa"
+      ],
+      "Kapazität": [
+        "Kapacita"
+      ],
+      "Rollstuhlgerecht": [
+        "Bezbariérový prístup"
+      ],
+      "Ja": [
+        "Áno"
+      ],
+      "Nicht angegeben": [
+        "Neuvedené"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Veľmi veľa súbežných požiadaviek. Skúste to prosím znova o %d sekúnd. Miesto tým zatiaľ nie je rezervované."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Bez trvalej objektovej vyrovnávacej pamäte (Redis, Memcached) počíta čakáreň v databáze: odmietnuté požiadavky síce ušetria rezervačné dopyty, ale samy stoja jedno čítanie a jeden zápis do tabuľky volieb."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Ukazovatele Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Ukazovateľ Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Zobrazuje živé ukazovatele aktívnych konferencií, potvrdených registrácií a voľných miest."
+      ],
+      "Kennzahl": [
+        "Ukazovateľ"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "ID podujatia (voliteľné)"
+      ],
+      "Dokumentation": [
+        "Dokumentácia"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Zadajte prosím platné ID podujatia: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Nenašiel sa platný potvrdzovací token. Použite prosím odkaz zo svojho e-mailu."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Najnovšie aktívne podujatie (automaticky) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automaticky (aktuálna konferencia)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Výber podujatia"
+      ],
+      "Ziel-Konferenz": [
+        "Cieľová konferencia"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Vyberte konferenciu, ktorej údaje sa zobrazia v úvodnom baneri (Hero)."
+      ],
+      "Design & Layout-Presets": [
+        "Predvoľby vzhľadu a rozloženia"
+      ],
+      "Theme-Preset": [
+        "Predvoľba témy"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (predvolené)"
+      ],
+      "Federal Blue": [
+        "Federálna modrá"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunková azúrová žiara"
+      ],
+      "Clean White & Modern": [
+        "Čisto biela a moderná"
+      ],
+      "Glassmorphism Blur": [
+        "Sklovitý efekt rozostrenia (Glassmorphism)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Zaoblenie rohov (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Žiadne (0px)"
+      ],
+      "Mittel (8px)": [
+        "Stredné (8px)"
+      ],
+      "Groß (16px)": [
+        "Veľké (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Veľmi veľké (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Povoliť efekt žiary"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Texty a tlačidlá výzvy na akciu (CTA)"
+      ],
+      "Badge / Dachzeile": [
+        "Štítok / nadtitulok"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Vlastný hlavný nadpis (voliteľné)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Predvolené: názov podujatia"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Vlastný úvodný text (perex)"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Predvolené: popis podujatia"
+      ],
+      "Primärer CTA-Button Text": [
+        "Text primárneho tlačidla CTA"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Cieľový odkaz / kotva primárneho tlačidla CTA"
+      ],
+      "Sekundären Button anzeigen": [
+        "Zobraziť sekundárne tlačidlo"
+      ],
+      "Sekundärer Button Text": [
+        "Text sekundárneho tlačidla"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Cieľový odkaz sekundárneho tlačidla"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Viditeľnosť prvkov"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Zobraziť živé odpočítavanie"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Zobraziť štítok voľných miest / kapacity"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Zobraziť štítok stavu (otvorené / obsadené)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Zobraziť miesto konania"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Zobraziť dátum a čas"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Zobraziť cenu vstupenky / štítok bezplatnej účasti"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Zobraziť tlačidlo exportu do kalendára (.ics)"
+      ],
+      "Kopfbereich": [
+        "Úvodné záhlavie (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Predvolené: popis podujatia a ďalej dátum, miesto konania, cena, voľné miesta, odpočítavanie a registračné tlačidlo."
+      ],
+      "Countdown": [
+        "Odpočítavanie"
+      ],
+      "Freie Plätze": [
+        "Voľné miesta"
+      ],
+      "Stil: %s": [
+        "Štýl: %s"
+      ],
+      "Button: %s": [
+        "Tlačidlo: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Výber konferencie"
+      ],
+      "Ziel-Veranstaltung": [
+        "Cieľové podujatie"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Vyberte podujatie, na ktoré sa návštevníci registrujú."
+      ],
+      "Formular-Design & Theme": [
+        "Vzhľad a téma formulára"
+      ],
+      "Formular-Stil": [
+        "Štýl formulára"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (predvolené)"
+      ],
+      "Clean White Studio": [
+        "Čisté biele štúdio"
+      ],
+      "Eckenabrundung": [
+        "Zaoblenie rohov"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Polia formulára a možnosti zberu údajov"
+      ],
+      "Individueller Formulartitel": [
+        "Vlastný názov formulára"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Vlastný podtitul / poznámka"
+      ],
+      "Standard: kein Untertitel": [
+        "Predvolené: bez podtitulu"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Zobraziť pole organizácie / spoločnosti"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Zobraziť súhlas s fotografovaním a nahrávaním videa"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Zobraziť záhlavie kľúčových údajov vo formulári"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Popis tlačidla a odkazy na ochranu údajov"
+      ],
+      "Absende-Button Beschriftung": [
+        "Popis odosielacieho tlačidla"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Vlastná URL zásad ochrany osobných údajov (voliteľné)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Predvolené: stránka ochrany súkromia z Nastavenia > Súkromie"
+      ],
+      "Anmeldeformular": [
+        "Registračný formulár"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Registrácia s Double Opt-in: Brevo odošle potvrdzovací odkaz a až po potvrdení je registrácia platná."
+      ],
+      "Standard nach Ticketpreis": [
+        "Predvolené podľa ceny vstupenky"
+      ],
+      "Überschrift & Untertitel": [
+        "Nadpis a podtitul"
+      ],
+      "Überschrift": [
+        "Nadpis"
+      ],
+      "Untertitel / Beschreibung": [
+        "Podtitul / popis"
+      ],
+      "Suche, Angaben & Export": [
+        "Vyhľadávanie, údaje a export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Zobraziť živé vyhľadávacie pole pre sekcie"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Zobraziť údaje o sále a mieste konania"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Zobraziť avatary rečníkov"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Zobraziť kompletný export kalendára (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sekcie v chronologickom poradí so sálou, rečníkom, popisom, vyhľadávaním a exportom .ics."
+      ],
+      "Suche": [
+        "Vyhľadávanie"
+      ],
+      ".ics-Download": [
+        "Stiahnutie .ics"
+      ],
+      "Layout & Spalten": [
+        "Rozloženie a stĺpce"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Počet stĺpcov (počítač)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Texty a zobrazované podrobnosti"
+      ],
+      "Untertitel": [
+        "Podtitul"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Zobraziť tému prednášky sekcie"
+      ],
+      "Raumangabe anzeigen": [
+        "Zobraziť označenie sály"
+      ],
+      "Uhrzeit anzeigen": [
+        "Zobraziť čas začiatku"
+      ],
+      "Konferenz: ": [
+        "Konferencia: "
+      ],
+      "%d Spalten": [
+        "%d stĺpcov"
+      ],
+      "Vortragsthemen": [
+        "Témy prednášok"
+      ],
+      "Titel": [
+        "Názov"
+      ],
+      "Individueller Titel": [
+        "Vlastný názov"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalendárové služby a možnosti"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Zobraziť Apple / Outlook (súbor .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Zobraziť priamy odkaz do Kalendára Google"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Zobraziť priamy odkaz do Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Zobraziť priamy odkaz do Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Zobraziť upozornenie na časové pásmo"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Zobraziť poznámku o pripomienke v súbore .ics"
+      ],
+      "Kalender": [
+        "Kalendár"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Súbor .ics s pripomienkou jeden deň pred začiatkom a odkazmi do Kalendára Google, Outlook Web a Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Súbor .ics"
+      ],
+      "Session-Auswahl": [
+        "Výber sekcií"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Tento blok nemá žiadne nastavenia. Zobrazuje sekcie pre token z potvrdzovacieho odkazu; bez tokenu sa zobrazí upozornenie."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Miesto sa pridelí pri uložení, kým nie je sekcia plne obsadená."
+      ],
+      "Ticketpass-Optionen": [
+        "Možnosti preukazu účastníka"
+      ],
+      "Pass-Überschrift": [
+        "Nadpis preukazu"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Riadok záhlavia (predvolené: názov podujatia)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Zobraziť tlačidlo tlače (vytlačiť menovku)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Zobraziť číslo vstupenky"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Zobraziť číslo faktúry / referenciu"
+      ],
+      "Check-In Status anzeigen": [
+        "Zobraziť stav odbavenia"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Preukaz pre potvrdené registrácie otvorený pomocou tokenu z potvrdzovacieho e-mailu: meno, spoločnosť, stav, číslo faktúry, číslo vstupenky a funkcia tlače."
+      ],
+      "Ticketnummer": [
+        "Číslo vstupenky"
+      ],
+      "Druckfunktion": [
+        "Funkcia tlače"
+      ],
+      "Titel der Veranstaltung": [
+        "Názov podujatia"
+      ],
+      "Layout & Farbschema": [
+        "Rozloženie a farebná schéma"
+      ],
+      "Raster-Layout": [
+        "Mriežkové rozloženie"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4-stĺpcová mriežka (predvolené)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2-stĺpcová mriežka (široká)"
+      ],
+      "Farbthema": [
+        "Farebná téma"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (predvolené)"
+      ],
+      "Angezeigte Karten": [
+        "Zobrazené karty"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Karty popisujúce funkcie pluginu. Blok neposudzuje, či web spĺňa zákonné požiadavky."
+      ],
+      "Double Opt-in": [
+        "Double Opt-in"
+      ],
+      "Formulare": [
+        "Formuláre"
+      ],
+      "Eigene Assets": [
+        "Vlastné zdroje"
+      ],
+      "Abfrage & Filterung": [
+        "Dopytovanie a filtrovanie"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maximálny počet konferencií"
+      ],
+      "Status-Filter": [
+        "Filter stavu"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Iba aktívne podujatia"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktívne a archivované podujatia"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Iba archivované podujatia"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Viditeľné metadáta a tlačidlá"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Zobraziť živý vyhľadávací panel"
+      ],
+      "Preisschild anzeigen": [
+        "Zobraziť cenovku"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Zobraziť lokalitu / miesto konania"
+      ],
+      "Datums-Badge anzeigen": [
+        "Zobraziť štítok s dátumom"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Zobraziť priamy odkaz kalendára .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Zobraziť text popisu"
+      ],
+      "CTA-Button Beschriftung": [
+        "Popis tlačidla CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Prehľad podujatí"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Mriežka podujatí s dátumom, cenou, miestom, stručným popisom, registračným tlačidlom a odkazom .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max. %d podujatí"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events — Plán miest"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Nastavenia plánu miest"
+      ],
+      "Überschrift (optional)": [
+        "Nadpis (voliteľné)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Text popisu (voliteľné)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Povoliť živú aktualizáciu"
+      ],
+      "Sitzplan": [
+        "Plán miest"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafický prehľad obsadenosti všetkých sekcií podujatia s prístupnou tabuľkou údajov."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events — Viacpohľadový kalendár"
+      ],
+      "Ansichten & Datenquelle": [
+        "Zobrazenia a zdroj údajov"
+      ],
+      "Standardansicht": [
+        "Predvolené zobrazenie"
+      ],
+      "Monatskalender": [
+        "Mesačný kalendár"
+      ],
+      "Wochenplan": [
+        "Týždenný rozvrh"
+      ],
+      "Tagesagenda": [
+        "Denný program"
+      ],
+      "Listenansicht": [
+        "Zobrazenie zoznamu"
+      ],
+      "Kartenansicht": [
+        "Zobrazenie kariet"
+      ],
+      "Raumübersicht": [
+        "Prehľad sál"
+      ],
+      "Track-Matrix": [
+        "Matica okruhov"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maximálny počet položiek"
+      ],
+      "Bedienleiste & Filter": [
+        "Ovládacia lišta a filtre"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Zobraziť prepínač zobrazení"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Zobraziť filtre okruhov a sál"
+      ],
+      "Suchfeld anzeigen": [
+        "Zobraziť vyhľadávacie pole"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Zobraziť informačnú lištu"
+      ],
+      "Kalender-Ansichten": [
+        "Zobrazenia kalendára"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Viacpohľadový kalendár a program"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Prepínateľné zobrazenia mesiaca, týždňa, dňa, zoznamu, kariet, sál a okruhov."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events — Program konferencie"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktívny viacokruhový plán konferencie s časovou osou, podrobnosťami rečníkov, filtrami sál a stiahnutím súboru iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalendár, program a okruhy)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Rozšírený balík kalendára a programu so 7 interaktívnymi zobrazeniami: mesačný kalendár, týždenný rozvrh, denný program, zobrazenie zoznamu, fotografické karty, mapa sál a viacokruhová matica summitu."
+      ],
+      "block keyword\u0004event": [
+        "podujatie"
+      ],
+      "block keyword\u0004calendar": [
+        "kalendár"
+      ],
+      "block keyword\u0004agenda": [
+        "program"
+      ],
+      "block keyword\u0004schedule": [
+        "rozvrh"
+      ],
+      "block keyword\u0004summit": [
+        "konferencia"
+      ],
+      "block keyword\u0004timetable": [
+        "harmonogram"
+      ],
+      "block keyword\u0004matrix": [
+        "matica"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events — Widget kalendára a .ics"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalendárový widget so stiahnutím súboru .ics a odkazmi do Kalendára Google, Outlook Web a Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event — Úvodný baner a odpočítavanie"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Úvodná sekcia podujatia s odpočítavaním, kľúčovými údajmi, stavom a registračnými tlačidlami."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events — Mriežka prehľadu a archívu"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamický kartový prehľad nadchádzajúcich konferencií, sympózií a workshopov s vyhľadávacím panelom a filtrami stavu."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events — Registračný formulár"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Registračný formulár s dvojitým potvrdením cez Brevo, voliteľnou profilovou fotografiou a súhlasom s fotografovaním."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events — Plán miest"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Obsadenosť všetkých sekcií podujatia ako grafika SVG, priebežne aktualizovaná pomocou Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events — Odznaky bezpečnosti a dôvery"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Prehľad funkcií ochrany osobných údajov a zabezpečenia pluginu: Double Opt-in, lehoty uchovávania, auditný protokol, fakturačné XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events — Výber sekcií a workshopov"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Výber sekcií pre potvrdené registrácie: miesta sa prideľujú pri uložení, kým nie je kapacita vyčerpaná."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events — Mriežka rečníkov a expertov"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automaticky generovaný prehľad všetkých hlavných rečníkov, prednášajúcich, rozdelenia sál a medailónov."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events — Digitálny preukaz účastníka"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Preukaz účastníka pre potvrdené registrácie s číslom vstupenky, podujatím, miestom konania a funkciou tlače."
+      ]
+    }
+  }
+}

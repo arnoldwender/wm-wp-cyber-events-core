@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "de_DE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Veranstaltung nicht gefunden oder nicht mehr aktiv."
+      ],
+      "Verbindlich anmelden": [
+        "Verbindlich anmelden"
+      ],
+      "Kostenfrei anmelden": [
+        "Kostenfrei anmelden"
+      ],
+      "Datum": [
+        "Datum"
+      ],
+      "Veranstaltungsort": [
+        "Veranstaltungsort"
+      ],
+      "Einlass": [
+        "Einlass"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Nach Bestätigung per E-Mail-Link"
+      ],
+      "Kontaktdaten": [
+        "Kontaktdaten"
+      ],
+      "Einwilligung": [
+        "Einwilligung"
+      ],
+      "Bestätigung": [
+        "Bestätigung"
+      ],
+      "Vorname": [
+        "Vorname"
+      ],
+      "z. B. Erika": [
+        "z. B. Erika"
+      ],
+      "Nachname": [
+        "Nachname"
+      ],
+      "z. B. Mustermann": [
+        "z. B. Mustermann"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Geschäftliche E-Mail-Adresse"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institution / Behörde / Unternehmen"
+      ],
+      "z. B. Beispiel GmbH": [
+        "z. B. Beispiel GmbH"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilfoto für Teilnehmerpass (Optional)"
+      ],
+      "Profilbild Vorschau": [
+        "Profilbild Vorschau"
+      ],
+      "Foto auswählen": [
+        "Foto auswählen"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG oder WebP · max. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Datenschutz & Double Opt-In Einwilligung *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Datenschutzerklärung lesen"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Foto- & Videoaufnahmen (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Mission Control & Auslastung"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine aktiv"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Kapazitätsmanagement, DATEV-Export und Check-in"
+      ],
+      "Events": [
+        "Veranstaltungen"
+      ],
+      "Bestätigte Gäste": [
+        "Bestätigte Gäste"
+      ],
+      "Ausstehende DOI": [
+        "Ausstehende DOI"
+      ],
+      "Mission Control öffnen": [
+        "Mission Control öffnen"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "DSGVO-Einverständnis erforderlich"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Zurück zum Buchungsmanagement"
+      ],
+      "DSGVO-Schutz": [
+        "DSGVO-Schutz"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Zurück zum DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV-Export"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Unzureichende Berechtigungen."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Dashboard & KPIs"
+      ],
+      "Dashboard": [
+        "Dashboard"
+      ],
+      "Alle Veranstaltungen": [
+        "Alle Veranstaltungen"
+      ],
+      "Veranstaltungen": [
+        "Veranstaltungen"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Neue Veranstaltung erstellen"
+      ],
+      "Neue Veranstaltung": [
+        "Neue Veranstaltung"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Veranstaltungsorte & Tagungsstätten"
+      ],
+      "Veranstaltungsorte": [
+        "Veranstaltungsorte"
+      ],
+      "Sessions & Agenda": [
+        "Sessions & Agenda"
+      ],
+      "Neue Session erstellen": [
+        "Neue Session erstellen"
+      ],
+      "Neue Session": [
+        "Neue Session"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Teilnehmer & Buchungen"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-Import & Onboarding"
+      ],
+      "CSV-Import": [
+        "CSV-Import"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finanzen & DATEV-Export"
+      ],
+      "Finanzen & DATEV": [
+        "Finanzen & DATEV"
+      ],
+      "Audit-Log": [
+        "Audit-Log"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Einstellungen & Theme Studio"
+      ],
+      "Einstellungen": [
+        "Einstellungen"
+      ],
+      "Handbuch & Dokumentation": [
+        "Handbuch & Dokumentation"
+      ],
+      "Handbuch": [
+        "Handbuch"
+      ],
+      "Events & Konferenzen": [
+        "Events & Konferenzen"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Fähigkeiten für Event- und Konferenzmanagement."
+      ],
+      "Teilnehmer verwalten": [
+        "Teilnehmer verwalten"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff."
+      ],
+      "Einstellungen & Theme": [
+        "Einstellungen & Theme"
+      ],
+      "Handbuch & Doku": [
+        "Handbuch & Doku"
+      ],
+      "Plugin-Navigation": [
+        "Plugin-Navigation"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Veranstaltung erfolgreich gespeichert!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Veranstaltung gelöscht!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben."
+      ],
+      "Demodaten angelegt.": [
+        "Demodaten angelegt."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents Command Console"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Teil der WM-Suite-Plugin-Familie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite-Hub"
+      ],
+      "Standalone": [
+        "Einzelbetrieb"
+      ],
+      "Demo-Daten auffrischen": [
+        "Demo-Daten auffrischen"
+      ],
+      "Springen zu:": [
+        "Springen zu:"
+      ],
+      "Kurzanleitung": [
+        "Kurzanleitung"
+      ],
+      "Kennzahlen": [
+        "Kennzahlen"
+      ],
+      "Rechnungen": [
+        "Rechnungen"
+      ],
+      "Audit-Protokoll": [
+        "Audit-Protokoll"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Was macht CyberEvents, und was finden Sie hier?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren."
+      ],
+      "Schnellzugriff:": [
+        "Schnellzugriff:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Teilnehmer und Anmeldungen"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Rechnungen als DATEV-Stapel exportieren"
+      ],
+      "Event Auslastung": [
+        "Event Auslastung"
+      ],
+      "Kritisch": [
+        "Kritisch"
+      ],
+      "Optimal": [
+        "Optimal"
+      ],
+      "Max. Kapazität:": [
+        "Max. Kapazität:"
+      ],
+      "Gebucht:": [
+        "Gebucht:"
+      ],
+      "Live Check-In Counter": [
+        "Live-Check-in-Zähler"
+      ],
+      "Anwesend": [
+        "Anwesend"
+      ],
+      "Registriert:": [
+        "Registriert:"
+      ],
+      "Eingecheckt:": [
+        "Eingecheckt:"
+      ],
+      "Wartend:": [
+        "Wartend:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Neue Anmeldungen (24 h)"
+      ],
+      "Sessions": [
+        "Sessions"
+      ],
+      "in 24 h": [
+        "in 24 h"
+      ],
+      "Ausstehende DOI:": [
+        "Ausstehende DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM Queue Telemetrie"
+      ],
+      "Jobs": [
+        "Aufträge"
+      ],
+      "Verarbeitung": [
+        "Verarbeitung"
+      ],
+      "Verarbeitet:": [
+        "Verarbeitet:"
+      ],
+      "Schnellaktionen": [
+        "Schnellaktionen"
+      ],
+      "Neue Konferenz anlegen": [
+        "Neue Konferenz anlegen"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Teilnehmerliste & Check-in"
+      ],
+      "CSV-Batch Import": [
+        "CSV-Batch Import"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Veranstaltungsübersicht & Auslastungs-Monitoring"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität."
+      ],
+      "Event suchen...": [
+        "Event suchen..."
+      ],
+      "Neue Konferenz": [
+        "Neue Konferenz"
+      ],
+      "Konferenz / Event": [
+        "Konferenz / Event"
+      ],
+      "Zeitraum": [
+        "Zeitraum"
+      ],
+      "Ort": [
+        "Ort"
+      ],
+      "Kapazität & Belegung": [
+        "Kapazität & Belegung"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Aktionen": [
+        "Aktionen"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Keine Veranstaltungen gefunden."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Im Gutenberg Block-Editor bearbeiten"
+      ],
+      "Bearbeiten": [
+        "Bearbeiten"
+      ],
+      "Schnellbearbeitung": [
+        "Schnellbearbeitung"
+      ],
+      "Vorschau": [
+        "Vorschau"
+      ],
+      "Teilnehmer (%d)": [
+        "Teilnehmer (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?"
+      ],
+      "Löschen": [
+        "Löschen"
+      ],
+      "%d Sessions": [
+        "%d Sessions"
+      ],
+      "/ %d Plätze": [
+        "/ %d Plätze"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(ohne Kapazitätsgrenze)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Im Gutenberg Editor bearbeiten"
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Schnellbearbeitung öffnen"
+      ],
+      "Quick": [
+        "Schnell"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Frontend-Seite anzeigen"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Brutto, gültige Rechnungen"
+      ],
+      "Gültige Rechnungen": [
+        "Gültige Rechnungen"
+      ],
+      "Storniert": [
+        "Storniert"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Unbestätigte Anmeldungen"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV-Export & Audit-Log"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen."
+      ],
+      "DATEV Format": [
+        "DATEV Format"
+      ],
+      "Kategorie 21 (v13)": [
+        "Kategorie 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256-Kette"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonymisierung nach 90 Tagen"
+      ],
+      "DATEV Export Studio öffnen": [
+        "DATEV Export Studio öffnen"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Audit-Protokoll einsehen"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Vollständiges Audit-Log öffnen"
+      ],
+      "Zeitstempel": [
+        "Zeitstempel"
+      ],
+      "Ereignis-Typ": [
+        "Ereignis-Typ"
+      ],
+      "Benutzer / System": [
+        "Benutzer / System"
+      ],
+      "Objekt-ID": [
+        "Objekt-ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Audit-Details & Nachweis"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Bislang keine Audit-Einträge protokolliert."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Veranstaltung bearbeiten / Schnellkonfiguration"
+      ],
+      "Schließen": [
+        "Schließen"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Titel der Konferenz / Veranstaltung:"
+      ],
+      "URL-Slug:": [
+        "URL-Slug:"
+      ],
+      "Tagungsort / Location:": [
+        "Tagungsort / Location:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Beginn (Datum & Zeit):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Ende (Datum & Zeit):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Max. Teilnehmerkapazität:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Ticketpreis (Netto in €):"
+      ],
+      "Status:": [
+        "Status:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktiv (Veröffentlicht)"
+      ],
+      "Entwurf (Draft)": [
+        "Entwurf (Draft)"
+      ],
+      "Archiviert": [
+        "Archiviert"
+      ],
+      "Kostenpflichtig": [
+        "Kostenpflichtig"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Im Gutenberg Block-Editor öffnen"
+      ],
+      "Abbrechen": [
+        "Abbrechen"
+      ],
+      "Änderungen speichern": [
+        "Änderungen speichern"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Teilnehmerdaten erfolgreich aktualisiert!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Teilnehmer gelöscht!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Check-In Status aktualisiert!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Double Opt-In bestätigt!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Die Registrierung wurde manuell als bestätigt markiert."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Teilnehmer & Buchungsmanagement"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Namensschilder / Teilnehmerliste (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Filter aufheben"
+      ],
+      "Alle Teilnehmer": [
+        "Alle Teilnehmer"
+      ],
+      "Bestätigt": [
+        "Bestätigt"
+      ],
+      "Ausstehend DOI": [
+        "Ausstehend DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Name, E-Mail oder Firma suchen..."
+      ],
+      "Teilnehmer": [
+        "Teilnehmer"
+      ],
+      "Organisation / Firma": [
+        "Organisation / Firma"
+      ],
+      "Check-In": [
+        "Check-In"
+      ],
+      "Rechnung": [
+        "Rechnung"
+      ],
+      "Anmeldedatum": [
+        "Anmeldedatum"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Keine Registrierungen vorhanden."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Teilnehmerdaten bearbeiten"
+      ],
+      "Auschecken": [
+        "Auschecken"
+      ],
+      "Einchecken": [
+        "Einchecken"
+      ],
+      "DOI bestätigen": [
+        "DOI bestätigen"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?"
+      ],
+      "Status umschalten": [
+        "Status umschalten"
+      ],
+      "Eingecheckt": [
+        "Eingecheckt"
+      ],
+      "Nicht vor Ort": [
+        "Nicht vor Ort"
+      ],
+      "Rechnungs-XML": [
+        "Rechnungs-XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Kostenfrei / Keine"
+      ],
+      "Edit": [
+        "Bearbeiten"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Möchten Sie diesen Teilnehmer wirklich löschen?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Foto entfernen"
+      ],
+      "Vorname:": [
+        "Vorname:"
+      ],
+      "Nachname:": [
+        "Nachname:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-Mail-Adresse:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organisation / Firma / Behörde:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Zugewiesene Konferenz:"
+      ],
+      "Anmeldestatus:": [
+        "Anmeldestatus:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Bestätigt (Confirmed)"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Ausstehend (Pending DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Storniert (Cancelled)"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Unzustellbar (Bounced)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Check-In Status (Vor Ort):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nein / Nicht vor Ort"
+      ],
+      "Ja / Eingecheckt": [
+        "Ja / Eingecheckt"
+      ],
+      "Rechnungsnummer:": [
+        "Rechnungsnummer:"
+      ],
+      "Zahlungsstatus:": [
+        "Zahlungsstatus:"
+      ],
+      "Kostenfrei (Free)": [
+        "Kostenfrei (Free)"
+      ],
+      "Ausstehend (Pending)": [
+        "Ausstehend (Pending)"
+      ],
+      "Bezahlt (Paid)": [
+        "Bezahlt (Paid)"
+      ],
+      "Erstattet (Refunded)": [
+        "Erstattet (Refunded)"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "DSGVO-Datenschutz zugestimmt"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Foto- & Videoaufnahmen zugestimmt"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "DSGVO-Datenschutz & Export-Einverständnis"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Löschpflicht (Art. 17 DSGVO):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Ich bestätige das DSGVO-Einverständnis:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "CSV-Export jetzt sicher herunterladen"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Rechnungs-XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "XML in Zwischenablage kopieren"
+      ],
+      "Keine Berechtigung.": [
+        "Keine Berechtigung."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Die Datei ist zu groß (maximal 5 MB erlaubt)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen."
+      ],
+      "Import-Zusammenfassung": [
+        "Import-Zusammenfassung"
+      ],
+      "Gesamtzeilen": [
+        "Gesamtzeilen"
+      ],
+      "Neu Importiert": [
+        "Neu Importiert"
+      ],
+      "Dubletten abgewiesen": [
+        "Dubletten abgewiesen"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Neue Teilnehmerliste importieren"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Ziel-Veranstaltung *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Veranstaltung auswählen —"
+      ],
+      "CSV-Datei auswählen": [
+        "CSV-Datei auswählen"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Oder CSV-Text einfügen"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "CSV-Import jetzt ausführen"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Buchungsstapel Studio"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen."
+      ],
+      "Exportzeitraum festlegen": [
+        "Exportzeitraum festlegen"
+      ],
+      "Laufender Monat": [
+        "Laufender Monat"
+      ],
+      "Vormonat": [
+        "Vormonat"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Gesamtes Jahr 2026"
+      ],
+      "Datum von *": [
+        "Datum von *"
+      ],
+      "Datum bis *": [
+        "Datum bis *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Bestätigung für den Export von Debitorendaten:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "DATEV EXTF Buchungsstapel (.csv) herunterladen"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Audit-Kette NICHT integer"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Zeitpunkt"
+      ],
+      "Ereignistyp": [
+        "Ereignistyp"
+      ],
+      "Referenz-ID": [
+        "Referenz-ID"
+      ],
+      "IP-Adresse": [
+        "IP-Adresse"
+      ],
+      "Audit-Details (JSON)": [
+        "Audit-Details (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Keine Log-Einträge vorhanden."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demodaten erfolgreich importiert!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht."
+      ],
+      "Demodaten bereinigt!": [
+        "Demodaten bereinigt!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Werkseinstellungen wiederhergestellt!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Hochgeladene Theme-Datei wurde entfernt."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Einstellungen sicher gespeichert."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise Konfiguration & Sicherheit"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten."
+      ],
+      "Design & Theme Studio": [
+        "Design & Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM & Webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Rechnungen & DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Bot-Schutz (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demodaten & Reset"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Frontend Design-System & Theme-Vererbung"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme."
+      ],
+      "Primärfarbe": [
+        "Primärfarbe"
+      ],
+      "Akzentfarbe": [
+        "Akzentfarbe"
+      ],
+      "Kartenhintergrund": [
+        "Kartenhintergrund"
+      ],
+      "Textfarbe": [
+        "Textfarbe"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Eigene Theme-Farben & Ränder (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primärfarbe (Buttons & Akzente):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Akzentfarbe (Badges & Glow):"
+      ],
+      "Seitenhintergrund:": [
+        "Seitenhintergrund:"
+      ],
+      "Kartenhintergrund:": [
+        "Kartenhintergrund:"
+      ],
+      "Haupttextfarbe:": [
+        "Haupttextfarbe:"
+      ],
+      "Eckenabrundung (px):": [
+        "Eckenabrundung (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Custom CSS-Theme hochladen (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktives Custom-Theme vorhanden"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?"
+      ],
+      "Theme löschen": [
+        "Theme löschen"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 & Webhook-Authentifizierung"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API Key (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Webhook Shared Secret / Signatur-Token"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Staff Scanner API Key (Einlass-Kontrolle)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Warteraum: Zulassungen pro Minute"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Zähler-Backend dieser Installation: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "persistenter Objekt-Cache"
+      ],
+      "Datenbank (Transients)": [
+        "Datenbank (Transients)"
+      ],
+      "DOI Template ID": [
+        "DOI Template ID"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo Kontaktliste ID"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Rechnungen (CII-XML) & DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Rechnungsnummer-Präfix"
+      ],
+      "Rechnungssteller": [
+        "Rechnungssteller"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s."
+      ],
+      "Name / Firma": [
+        "Name / Firma"
+      ],
+      "Straße und Hausnummer": [
+        "Straße und Hausnummer"
+      ],
+      "PLZ": [
+        "PLZ"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Land (ISO-Code, z. B. DE)"
+      ],
+      "USt-IdNr.": [
+        "USt-IdNr."
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Steuernummer (falls keine USt-IdNr.)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-Mail für Rechnungen"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN für Überweisungen (optional)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV Beraternummer"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV Mandantennummer"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Erlöskonto (z.B. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Forderungskonto (z.B. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Friendly Captcha aktivieren"
+      ],
+      "Sitekey": [
+        "Sitekey"
+      ],
+      "API Key / Secret": [
+        "API Key / Secret"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demodaten-Management & Werkseinstellungen (Reset)"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen."
+      ],
+      "1. Demodaten importieren": [
+        "1. Demodaten importieren"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Möchten Sie Beispieldaten jetzt importieren?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Demodaten bereinigen (Nur Testdaten löschen)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Demodaten bereinigen (Nur Testdaten)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Achtung (Irreversibel):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Verhalten bei Plugin-Deinstallation"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Alle Tabellen und Einstellungen bei Deinstallation löschen"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen."
+      ],
+      "Alle Einstellungen speichern": [
+        "Alle Einstellungen speichern"
+      ],
+      "Platzbuchung": [
+        "Platzbuchung"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF & Buchhaltung"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen."
+      ],
+      "Handbuch & API:": [
+        "Handbuch & API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Vollständiges Handbuch"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Entwickelt von WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Administrator- & Entwickler-Handbuch"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Platzbuchung ohne Überbuchung"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Rechnungs-XML & DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Gutschriften:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-In & Background Queue"
+      ],
+      "Double Opt-In (DOI):": [
+        "Double Opt-In (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht."
+      ],
+      "Warteschlange:": [
+        "Warteschlange:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcodes & Gutenberg Integration"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Barrierefreies Registrierungsformular."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktive Konferenz-Agenda & Track-Übersicht."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Token-basierte Session-Auswahl nach DOI-Bestätigung."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI für Administratoren"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Theme-Presets & Design Tokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:"
+      ],
+      "Presets:": [
+        "Presets:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Theme-Vererbung (Standard):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS Custom Properties:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Gotchas & Best Practices"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Die Tabellen werden mit ENGINE=InnoDB angelegt."
+      ],
+      "Löschfristen:": [
+        "Löschfristen:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Veranstaltung auswählen"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Wählen Sie das Ziel-Event für diesen Block."
+      ],
+      "Key Facts Header anzeigen": [
+        "Key Facts Header anzeigen"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Schrittanzeige (Stepper) anzeigen"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Kalender-Export (.ics) Button anzeigen"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Countdown-Timer anzeigen"
+      ],
+      "Freie Plätze anzeigen": [
+        "Freie Plätze anzeigen"
+      ],
+      "Spaltenanzahl": [
+        "Spaltenanzahl"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen."
+      ],
+      "Vorschau im Editor": [
+        "Vorschau im Editor"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Session-Auswahl für bestätigte Anmeldungen"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Kein Bestätigungs-Token gefunden."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Ungültiger oder abgelaufener Teilnehmer-Token."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Sitzplan der Veranstaltung"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Veranstaltung nicht gefunden."
+      ],
+      "Jetzt anmelden": [
+        "Jetzt anmelden"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Jetzt kostenfrei anmelden"
+      ],
+      "Programm ansehen": [
+        "Programm ansehen"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Kostenfreie Teilnahme"
+      ],
+      "Anmeldung geöffnet": [
+        "Anmeldung geöffnet"
+      ],
+      "Ausgebucht": [
+        "Ausgebucht"
+      ],
+      "Preis": [
+        "Preis"
+      ],
+      "%d freier Platz": [
+        "%d freier Platz",
+        "%d freie Plätze"
+      ],
+      "von max. %d": [
+        "von max. %d"
+      ],
+      "Beginn in:": [
+        "Beginn in:"
+      ],
+      "Tage": [
+        "Tage"
+      ],
+      "Std.": [
+        "Std."
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "In Kalender exportieren (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics-Datei)"
+      ],
+      "Google Kalender": [
+        "Google Kalender"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn."
+      ],
+      "Referenten & Fachexperten": [
+        "Referenten & Fachexperten"
+      ],
+      "Referenten": [
+        "Referenten"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Die Referentenliste wird in Kürze bekanntgegeben."
+      ],
+      "TEILNEHMERPASS": [
+        "TEILNEHMERPASS"
+      ],
+      "Teilnehmerpass": [
+        "Teilnehmerpass"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Ticket & Akkreditierung aufrufen"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Token eingeben (z. B. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Pass anzeigen"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Ungültiger oder nicht gefundener Buchungstoken."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert."
+      ],
+      "Max Mustermann": [
+        "Max Mustermann"
+      ],
+      "Beispiel GmbH": [
+        "Beispiel GmbH"
+      ],
+      "Veranstaltung": [
+        "Veranstaltung"
+      ],
+      "Rechnungs-Nr.": [
+        "Rechnungs-Nr."
+      ],
+      "Keine": [
+        "Keine"
+      ],
+      "Ticket-Nummer": [
+        "Ticket-Nummer"
+      ],
+      "Pass drucken": [
+        "Pass drucken"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Datenschutz und Sicherheit"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double Opt-in und Löschfristen"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert."
+      ],
+      "Beschriftete Formulare": [
+        "Beschriftete Formulare"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen."
+      ],
+      "Eigene Skripte und Styles": [
+        "Eigene Skripte und Styles"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Audit-Log und Tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Rechnungs-XML und DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht."
+      ],
+      "Zur Anmeldung": [
+        "Zur Anmeldung"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Es gibt keine archivierten Veranstaltungen."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Aktuell sind keine geplanten Veranstaltungen vorhanden."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Veranstaltung nach Titel oder Ort filtern..."
+      ],
+      "Kostenfrei": [
+        "Kostenfrei"
+      ],
+      "In Kalender eintragen": [
+        "In Kalender eintragen"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Live Konferenz- und Agenda-Ticker"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "LIVE AGENDA TELEMETRIE"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Ansichten und Filtersteuerung"
+      ],
+      "Kalenderansichten": [
+        "Kalenderansichten"
+      ],
+      "Monat": [
+        "Monat"
+      ],
+      "Woche": [
+        "Woche"
+      ],
+      "Tag / Agenda": [
+        "Tag / Agenda"
+      ],
+      "Liste": [
+        "Liste"
+      ],
+      "Karten": [
+        "Karten"
+      ],
+      "Räume & Ort": [
+        "Räume & Ort"
+      ],
+      "Summit Tracks": [
+        "Summit Tracks"
+      ],
+      "Vorheriger Zeitraum": [
+        "Vorheriger Zeitraum"
+      ],
+      "Nächster Zeitraum": [
+        "Nächster Zeitraum"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Veranstaltung, Thema oder Dozent suchen..."
+      ],
+      "Suchbegriff eingeben": [
+        "Suchbegriff eingeben"
+      ],
+      "Track oder Kategorie filtern": [
+        "Track oder Kategorie filtern"
+      ],
+      "Alle Fach-Tracks": [
+        "Alle Fach-Tracks"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Track 01: Post-Quantum-Kryptografie"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Track 02: Zero-Trust & DORA Resilienz"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Track 03: Autonome KI & § 203 StGB"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Track 04: Software Supply Chain & CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Konferenzsaal filtern"
+      ],
+      "Alle Säle & Räume": [
+        "Alle Säle & Räume"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenarsaal Alpha (Keynotes)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Monatskalenderansicht"
+      ],
+      "Mo": [
+        "Mo"
+      ],
+      "Di": [
+        "Di"
+      ],
+      "Mi": [
+        "Mi"
+      ],
+      "Do": [
+        "Do"
+      ],
+      "Fr": [
+        "Fr"
+      ],
+      "Sa": [
+        "Sa"
+      ],
+      "So": [
+        "So"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Wochenplan- und Zeitrasteransicht"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Tagesagenda und Zeitstrahlansicht"
+      ],
+      "Chronologische Listenansicht": [
+        "Chronologische Listenansicht"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Visuelle Fotokarten-Ansicht"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Standort- und Raumnavigator-Ansicht"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Summit Multi-Track Matrix"
+      ],
+      "Dialog schließen": [
+        "Dialog schließen"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Ungültige Session- oder Registrierungs-ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden."
+      ],
+      "Session %d existiert nicht.": [
+        "Session %d existiert nicht."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Keine gültige Datei hochgeladen."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Fehler beim Datei-Upload."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Das Profilbild darf maximal 5 MB groß sein."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Fehler beim Speichern des Profilbildes."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Der Inhalt des Eintrags #%d wurde nachträglich verändert."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Veranstaltungen"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Veranstaltung"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Veranstaltung"
+      ],
+      "event\u0004Neu erstellen": [
+        "Neu erstellen"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Veranstaltung bearbeiten"
+      ],
+      "Veranstaltung ansehen": [
+        "Veranstaltung ansehen"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Veranstaltungen durchsuchen"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Keine Veranstaltungen im Papierkorb."
+      ],
+      "Veranstaltungsdaten": [
+        "Veranstaltungsdaten"
+      ],
+      "Veranstaltungsort:": [
+        "Veranstaltungsort:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Veranstaltungsorte verwalten ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Hinterlegten Tagungsort wählen —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Manueller Ort / Raum / Adresse..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Beginn (Datum & Uhrzeit):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Ende (Datum & Uhrzeit):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Kostenpflichtige Veranstaltung"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Aktuell sind keine Konferenzpläne verfügbar."
+      ],
+      "Programm": [
+        "Programm"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Thema, Referent oder Raum suchen..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferenz-Agenda"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Detailliertes Programm wird in Kürze bekanntgegeben."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents Teilnehmerdaten"
+      ],
+      "E-Mail": [
+        "E-Mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Unternehmen / Organisation"
+      ],
+      "Profilbild": [
+        "Profilbild"
+      ],
+      "Einwilligung Datenschutz": [
+        "Einwilligung Datenschutz"
+      ],
+      "ja": [
+        "ja"
+      ],
+      "nein": [
+        "nein"
+      ],
+      "Einwilligung Fotos": [
+        "Einwilligung Fotos"
+      ],
+      "Bestätigung angefordert": [
+        "Bestätigung angefordert"
+      ],
+      "Bestätigt am": [
+        "Bestätigt am"
+      ],
+      "Eingecheckt am": [
+        "Eingecheckt am"
+      ],
+      "Gebuchte Sessions": [
+        "Gebuchte Sessions"
+      ],
+      "Rechnungsnummer": [
+        "Rechnungsnummer"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents Registrierungen"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents Rechnungen"
+      ],
+      "Empfänger": [
+        "Empfänger"
+      ],
+      "Adresse": [
+        "Adresse"
+      ],
+      "Bruttobetrag": [
+        "Bruttobetrag"
+      ],
+      "Ausgestellt am": [
+        "Ausgestellt am"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Registrierung #%d konnte nicht gelöscht werden."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet."
+      ],
+      "Einstellungen öffnen": [
+        "Einstellungen öffnen"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Ungültiges Sicherheits-Token (Nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Ungültiges Formular-Token (Nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Teilnehmer nicht autorisiert oder nicht gefunden."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Keine Bilddatei übermittelt."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profilbild erfolgreich aktualisiert."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Bestätigungs-Token fehlt."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Ungültiges oder noch nicht bestätigtes Ticket."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Für diese Veranstaltung sind keine Sessions hinterlegt."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Sitzplan: belegte und freie Plätze je Session"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d von %3$d Plätzen belegt"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Für den Sitzplan fehlt die Veranstaltung."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Die Veranstaltung des Sitzplans existiert nicht."
+      ],
+      "frei": [
+        "frei"
+      ],
+      "belegt": [
+        "belegt"
+      ],
+      "von Ihnen gebucht": [
+        "von Ihnen gebucht"
+      ],
+      "Belegung je Session": [
+        "Belegung je Session"
+      ],
+      "Session": [
+        "Session"
+      ],
+      "Belegt": [
+        "Belegt"
+      ],
+      "Frei": [
+        "Frei"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Belegung wird laufend aktualisiert."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demodaten: Buchung für %1$s abgelehnt — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demodaten: Teilnahme storniert"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessions & Tracks"
+      ],
+      "post type singular name\u0004Session": [
+        "Session"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessions"
+      ],
+      "Alle Sessions": [
+        "Alle Sessions"
+      ],
+      "Session bearbeiten": [
+        "Session bearbeiten"
+      ],
+      "Session ansehen": [
+        "Session ansehen"
+      ],
+      "Sessions durchsuchen": [
+        "Sessions durchsuchen"
+      ],
+      "Keine Sessions gefunden.": [
+        "Keine Sessions gefunden."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Keine Sessions im Papierkorb."
+      ],
+      "Session-Daten": [
+        "Session-Daten"
+      ],
+      "Zugehörige Konferenz:": [
+        "Zugehörige Konferenz:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Keine Konferenz ausgewählt —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Referent / Speaker & Institution:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "z. B. Erika Mustermann (Beispiel GmbH)"
+      ],
+      "Raum / Saal / Track:": [
+        "Raum / Saal / Track:"
+      ],
+      "Workshop-Kapazität:": [
+        "Workshop-Kapazität:"
+      ],
+      "Speaker": [
+        "Referent"
+      ],
+      "Raum / Track": [
+        "Raum / Track"
+      ],
+      "Zeitfenster": [
+        "Zeitfenster"
+      ],
+      "Belegung": [
+        "Belegung"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Willkommen, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist."
+      ],
+      "Anmeldung bestätigt": [
+        "Anmeldung bestätigt"
+      ],
+      "Für diese Session eingetragen": [
+        "Für diese Session eingetragen"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Diesen Programmpunkt auswählen"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist."
+      ],
+      "Sessions ausgewählt": [
+        "Sessions ausgewählt"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Auswahl verbindlich speichern"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress Theme-Standard (Automatisch vererbt)"
+      ],
+      "Empfohlen": [
+        "Empfohlen"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)"
+      ],
+      "Farbstark": [
+        "Farbstark"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (Navy & Cyan)"
+      ],
+      "High-Tech Dark": [
+        "High-Tech Dark"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (Slate & Monochrome)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (Klassisch & Warmton)"
+      ],
+      "Klassik": [
+        "Klassik"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Hochkontrast (Schwarz auf Weiß)"
+      ],
+      "Hochkontrast": [
+        "Hochkontrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Benutzerdefiniertes Theme (Eigene Farben & CSS)"
+      ],
+      "Individuell": [
+        "Individuell"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Keine gültige Upload-Datei übergeben."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Die CSS-Datei überschreitet das Limit von 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Konnte die Theme-Datei nicht auf dem Server speichern."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Custom-Theme CSS erfolgreich hochgeladen und aktiviert."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Veranstaltungsorte"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Veranstaltungsort"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Veranstaltungsorte durchsuchen"
+      ],
+      "Häufige Tagungsorte": [
+        "Häufige Tagungsorte"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Alle Veranstaltungsorte"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Veranstaltungsort bearbeiten"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Veranstaltungsort aktualisieren"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Neuen Veranstaltungsort hinzufügen"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Name des neuen Tagungsorts"
+      ],
+      "Orte mit Kommas trennen": [
+        "Orte mit Kommas trennen"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Orte hinzufügen oder entfernen"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Aus häufig genutzten Orten wählen"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Keine Veranstaltungsorte gefunden."
+      ],
+      "Stadt / Ort:": [
+        "Stadt / Ort:"
+      ],
+      "z. B. Musterstadt": [
+        "z. B. Musterstadt"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Hauptstadt oder Gemeinde des Tagungsorts."
+      ],
+      "Straße & Hausnummer:": [
+        "Straße & Hausnummer:"
+      ],
+      "z. B. Musterstraße 1": [
+        "z. B. Musterstraße 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Postleitzahl (PLZ):"
+      ],
+      "Land:": [
+        "Land:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maximale Raumkapazität (Personen):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Rollstuhlgerecht zugänglich"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Google Maps / Wegbeschreibung URL:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Webseite des Tagungsorts:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maximale Raumkapazität:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Personenkapazität des Tagungs- und Konferenzbereichs."
+      ],
+      "Zugänglichkeit:": [
+        "Zugänglichkeit:"
+      ],
+      "Google Maps Link:": [
+        "Google Maps Link:"
+      ],
+      "Stadt & Adresse": [
+        "Stadt & Adresse"
+      ],
+      "Kapazität": [
+        "Kapazität"
+      ],
+      "Rollstuhlgerecht": [
+        "Rollstuhlgerecht"
+      ],
+      "Ja": [
+        "Ja"
+      ],
+      "Nicht angegeben": [
+        "Nicht angegeben"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Kennzahlen"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Kennzahl"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus."
+      ],
+      "Kennzahl": [
+        "Kennzahl"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Veranstaltungs-ID (optional)"
+      ],
+      "Dokumentation": [
+        "Dokumentation"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Neueste aktive Veranstaltung (Automatisch) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatisch (Aktuelle Konferenz)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Veranstaltungs-Auswahl"
+      ],
+      "Ziel-Konferenz": [
+        "Ziel-Konferenz"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Wählen Sie die Konferenz, deren Daten im Hero geladen werden."
+      ],
+      "Design & Layout-Presets": [
+        "Design & Layout-Presets"
+      ],
+      "Theme-Preset": [
+        "Theme-Preset"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (Standard)"
+      ],
+      "Federal Blue": [
+        "Federal Blue"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk Cyan Glow"
+      ],
+      "Clean White & Modern": [
+        "Clean White & Modern"
+      ],
+      "Glassmorphism Blur": [
+        "Glassmorphism Blur"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Eckenabrundung (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Ohne (0px)"
+      ],
+      "Mittel (8px)": [
+        "Mittel (8px)"
+      ],
+      "Groß (16px)": [
+        "Groß (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Sehr groß (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Leucht- & Glow-Effekt aktivieren"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Texte & Call-to-Action Buttons"
+      ],
+      "Badge / Dachzeile": [
+        "Badge / Dachzeile"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Individuelle Hauptüberschrift (Optional)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Standard: Titel der Veranstaltung"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Individueller Einleitungstext / Lead"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Standard: Beschreibung der Veranstaltung"
+      ],
+      "Primärer CTA-Button Text": [
+        "Primärer CTA-Button Text"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Primärer CTA-Button Ziel-Link / Anker"
+      ],
+      "Sekundären Button anzeigen": [
+        "Sekundären Button anzeigen"
+      ],
+      "Sekundärer Button Text": [
+        "Sekundärer Button Text"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Sekundärer Button Ziel-Link"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Sichtbarkeit von Elementen"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Live Countdown-Timer anzeigen"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Freie Plätze / Kapazitäts-Pill anzeigen"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Status-Pill (Geöffnet/Ausgebucht) anzeigen"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Veranstaltungsort anzeigen"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Datum & Uhrzeit anzeigen"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Ticketpreis / Kostenfrei-Badge anzeigen"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Kalender-Export Button (.ics) anzeigen"
+      ],
+      "Kopfbereich": [
+        "Kopfbereich"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button."
+      ],
+      "Countdown": [
+        "Countdown"
+      ],
+      "Freie Plätze": [
+        "Freie Plätze"
+      ],
+      "Stil: %s": [
+        "Stil: %s"
+      ],
+      "Button: %s": [
+        "Button: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Konferenz-Auswahl"
+      ],
+      "Ziel-Veranstaltung": [
+        "Ziel-Veranstaltung"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Wählen Sie das Event aus, für das sich Besucher anmelden."
+      ],
+      "Formular-Design & Theme": [
+        "Formular-Design & Theme"
+      ],
+      "Formular-Stil": [
+        "Formular-Stil"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (Standard)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Eckenabrundung"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Formularfelder & Erfassungsoptionen"
+      ],
+      "Individueller Formulartitel": [
+        "Individueller Formulartitel"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Individueller Untertitel / Hinweis"
+      ],
+      "Standard: kein Untertitel": [
+        "Standard: kein Untertitel"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Organisation / Firma Feld anzeigen"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Foto- & Videoaufnahmen Einwilligung anzeigen"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Key Facts Header im Formular anzeigen"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Button-Beschriftung & DSGVO-Links"
+      ],
+      "Absende-Button Beschriftung": [
+        "Absende-Button Beschriftung"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Individuelle Datenschutz-URL (Optional)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Standard: Datenschutzseite aus Einstellungen > Datenschutz"
+      ],
+      "Anmeldeformular": [
+        "Anmeldeformular"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung."
+      ],
+      "Standard nach Ticketpreis": [
+        "Standard nach Ticketpreis"
+      ],
+      "Überschrift & Untertitel": [
+        "Überschrift & Untertitel"
+      ],
+      "Überschrift": [
+        "Überschrift"
+      ],
+      "Untertitel / Beschreibung": [
+        "Untertitel / Beschreibung"
+      ],
+      "Suche, Angaben & Export": [
+        "Suche, Angaben & Export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Live-Suchfeld für Sessions anzeigen"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Raum- und Ortsangaben anzeigen"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Referenten-Avatare anzeigen"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Gesamten Kalender-Export (.ics) anzeigen"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export."
+      ],
+      "Suche": [
+        "Suche"
+      ],
+      ".ics-Download": [
+        ".ics-Download"
+      ],
+      "Layout & Spalten": [
+        "Layout & Spalten"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Spaltenanzahl (Desktop)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Texte & Detail-Anzeigen"
+      ],
+      "Untertitel": [
+        "Untertitel"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Vortragsthema der Session anzeigen"
+      ],
+      "Raumangabe anzeigen": [
+        "Raumangabe anzeigen"
+      ],
+      "Uhrzeit anzeigen": [
+        "Uhrzeit anzeigen"
+      ],
+      "Konferenz: ": [
+        "Konferenz: "
+      ],
+      "%d Spalten": [
+        "%d Spalten"
+      ],
+      "Vortragsthemen": [
+        "Vortragsthemen"
+      ],
+      "Titel": [
+        "Titel"
+      ],
+      "Individueller Titel": [
+        "Individueller Titel"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalender-Dienste & Optionen"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Apple / Outlook (.ics Datei) anzeigen"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Google Kalender Direkt-Link anzeigen"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Outlook Web Direkt-Link anzeigen"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Microsoft 365 Direkt-Link anzeigen"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Zeitzonen-Hinweis anzeigen"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Hinweis auf die Erinnerung in der .ics-Datei anzeigen"
+      ],
+      "Kalender": [
+        "Kalender"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365."
+      ],
+      ".ics-Datei": [
+        ".ics-Datei"
+      ],
+      "Session-Auswahl": [
+        "Session-Auswahl"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist."
+      ],
+      "Ticketpass-Optionen": [
+        "Ticketpass-Optionen"
+      ],
+      "Pass-Überschrift": [
+        "Pass-Überschrift"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Kopfzeile (Standard: Titel der Veranstaltung)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Drucken-Button (Print Badge) anzeigen"
+      ],
+      "Ticketnummer anzeigen": [
+        "Ticketnummer anzeigen"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Rechnungsnummer / Referenz anzeigen"
+      ],
+      "Check-In Status anzeigen": [
+        "Check-In Status anzeigen"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion."
+      ],
+      "Ticketnummer": [
+        "Ticketnummer"
+      ],
+      "Druckfunktion": [
+        "Druckfunktion"
+      ],
+      "Titel der Veranstaltung": [
+        "Titel der Veranstaltung"
+      ],
+      "Layout & Farbschema": [
+        "Layout & Farbschema"
+      ],
+      "Raster-Layout": [
+        "Raster-Layout"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4 Spalten Grid (Standard)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2 Spalten Grid (Groß)"
+      ],
+      "Farbthema": [
+        "Farbthema"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (Standard)"
+      ],
+      "Angezeigte Karten": [
+        "Angezeigte Karten"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht."
+      ],
+      "Double Opt-in": [
+        "Double Opt-in"
+      ],
+      "Formulare": [
+        "Formulare"
+      ],
+      "Eigene Assets": [
+        "Eigene Assets"
+      ],
+      "Abfrage & Filterung": [
+        "Abfrage & Filterung"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maximale Anzahl Konferenzen"
+      ],
+      "Status-Filter": [
+        "Status-Filter"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Nur aktive Veranstaltungen"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktive und archivierte Veranstaltungen"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Nur archivierte Veranstaltungen"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Sichtbare Metadaten & Buttons"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Live-Suchleiste anzeigen"
+      ],
+      "Preisschild anzeigen": [
+        "Preisschild anzeigen"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Standort / Tagungsort anzeigen"
+      ],
+      "Datums-Badge anzeigen": [
+        "Datums-Badge anzeigen"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Direkten .ics Kalenderlink anzeigen"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Beschreibungstext anzeigen"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA-Button Beschriftung"
+      ],
+      "Veranstaltungsübersicht": [
+        "Veranstaltungsübersicht"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max. %d Veranstaltungen"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Sitzplan"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Sitzplan-Einstellungen"
+      ],
+      "Überschrift (optional)": [
+        "Überschrift (optional)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Beschreibungstext (optional)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Live-Aktualisierung aktivieren"
+      ],
+      "Sitzplan": [
+        "Sitzplan"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Multi-View Kalender"
+      ],
+      "Ansichten & Datenquelle": [
+        "Ansichten & Datenquelle"
+      ],
+      "Standardansicht": [
+        "Standardansicht"
+      ],
+      "Monatskalender": [
+        "Monatskalender"
+      ],
+      "Wochenplan": [
+        "Wochenplan"
+      ],
+      "Tagesagenda": [
+        "Tagesagenda"
+      ],
+      "Listenansicht": [
+        "Listenansicht"
+      ],
+      "Kartenansicht": [
+        "Kartenansicht"
+      ],
+      "Raumübersicht": [
+        "Raumübersicht"
+      ],
+      "Track-Matrix": [
+        "Track-Matrix"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maximale Anzahl Einträge"
+      ],
+      "Bedienleiste & Filter": [
+        "Bedienleiste & Filter"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Ansichts-Umschalter anzeigen"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Track- und Raumfilter anzeigen"
+      ],
+      "Suchfeld anzeigen": [
+        "Suchfeld anzeigen"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Meldungsleiste anzeigen"
+      ],
+      "Kalender-Ansichten": [
+        "Kalender-Ansichten"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Multi-View Kalender & Agenda"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Konferenz-Agenda"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix."
+      ],
+      "block keyword\u0004event": [
+        "veranstaltung"
+      ],
+      "block keyword\u0004calendar": [
+        "kalender"
+      ],
+      "block keyword\u0004agenda": [
+        "programm"
+      ],
+      "block keyword\u0004schedule": [
+        "zeitplan"
+      ],
+      "block keyword\u0004summit": [
+        "kongress"
+      ],
+      "block keyword\u0004timetable": [
+        "stundenplan"
+      ],
+      "block keyword\u0004matrix": [
+        "matrix"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Kalender & .ics Widget"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Hero & Countdown Banner"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Übersicht & Archiv Grid"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Registrierungsformular"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Sitzplan"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Security & Trust Badges"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Session- & Workshop-Selektor"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Referenten & Speaker Grid"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digitaler Ticket-Pass"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion."
+      ]
+    }
+  }
+}

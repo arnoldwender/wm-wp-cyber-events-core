@@ -1,0 +1,13 @@
+# The workspace's global ignore rule `/Assets/` matches this plugin's root assets/ on a
+# case-insensitive filesystem and kept the family sheets and the README banner out of the repo
+# (measured 2026-09-14: `git ls-files assets` empty). Same negation as wm-suite-hub.
+!assets/
+!assets/**
+
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+*.log
+.remember/
+.claude/

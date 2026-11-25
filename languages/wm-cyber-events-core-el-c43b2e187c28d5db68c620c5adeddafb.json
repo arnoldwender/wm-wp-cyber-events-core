@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "el",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Εκδηλώσεις, συνεδρίες και εγγραφές με διπλή επιβεβαίωση (Double Opt-in) μέσω Brevo, έλεγχο προσέλευσης, XML τιμολογίων (EN 16931) και εξαγωγή DATEV."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Η εκδήλωση δεν βρέθηκε ή δεν είναι πλέον ενεργή."
+      ],
+      "Verbindlich anmelden": [
+        "Εγγραφή με υποχρέωση πληρωμής"
+      ],
+      "Kostenfrei anmelden": [
+        "Δωρεάν εγγραφή"
+      ],
+      "Datum": [
+        "Ημερομηνία"
+      ],
+      "Veranstaltungsort": [
+        "Χώρος διεξαγωγής"
+      ],
+      "Einlass": [
+        "Προσέλευση"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Μετά την επιβεβαίωση μέσω συνδέσμου e-mail"
+      ],
+      "Kontaktdaten": [
+        "Στοιχεία επικοινωνίας"
+      ],
+      "Einwilligung": [
+        "Συγκατάθεση"
+      ],
+      "Bestätigung": [
+        "Επιβεβαίωση"
+      ],
+      "Vorname": [
+        "Όνομα"
+      ],
+      "z. B. Erika": [
+        "π.χ. Ελένη"
+      ],
+      "Nachname": [
+        "Επώνυμο"
+      ],
+      "z. B. Mustermann": [
+        "π.χ. Παπαδοπούλου"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Επαγγελματική διεύθυνση e-mail"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Φορέας / αρχή / εταιρεία"
+      ],
+      "z. B. Beispiel GmbH": [
+        "π.χ. Παράδειγμα Α.Ε."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Φωτογραφία προφίλ για την κάρτα συμμετέχοντα (προαιρετικό)"
+      ],
+      "Profilbild Vorschau": [
+        "Προεπισκόπηση φωτογραφίας προφίλ"
+      ],
+      "Foto auswählen": [
+        "Επιλογή φωτογραφίας"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG ή WebP · μέγ. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Προστασία δεδομένων & συγκατάθεση διπλής επιβεβαίωσης *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Συναινώ στην επεξεργασία των δεδομένων μου για τη συμμετοχή στο συνέδριο σύμφωνα με τον ΓΚΠΔ (GDPR). Για την επαλήθευση θα λάβω σύνδεσμο επιβεβαίωσης μέσω e-mail."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Διαβάστε την πολιτική απορρήτου"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Φωτογραφική & βιντεοσκοπική κάλυψη (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Συναινώ στη λήψη φωτογραφιών και βίντεο με το πρόσωπό μου κατά τη διάρκεια της εκδήλωσης για σκοπούς δημοσίων σχέσεων του διοργανωτή."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Κέντρο ελέγχου & πληρότητα"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "Το CyberEvents Enterprise Engine είναι ενεργό"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Διαχείριση χωρητικότητας, εξαγωγή DATEV και έλεγχος προσέλευσης"
+      ],
+      "Events": [
+        "Εκδηλώσεις"
+      ],
+      "Bestätigte Gäste": [
+        "Επιβεβαιωμένοι προσκεκλημένοι"
+      ],
+      "Ausstehende DOI": [
+        "Εκκρεμή DOI"
+      ],
+      "Mission Control öffnen": [
+        "Άνοιγμα κέντρου ελέγχου"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Απαιτείται συγκατάθεση ΓΚΠΔ (GDPR)"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Αυτή η εξαγωγή περιέχει ευαίσθητα δεδομένα προσωπικού χαρακτήρα σύμφωνα με το άρθρο 4 στοιχ. 1 του ΓΚΠΔ. Πριν από τη λήψη πρέπει να επιβεβαιώσετε ότι θα χειριστείτε τα δεδομένα εμπιστευτικά, αποκλειστικά για τον προβλεπόμενο σκοπό, και ότι θα τα διαγράψετε μετά την εκδήλωση σύμφωνα με τους κανόνες προστασίας δεδομένων."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Επιστροφή στη διαχείριση κρατήσεων"
+      ],
+      "DSGVO-Schutz": [
+        "Προστασία ΓΚΠΔ"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Η εξαγωγή οικονομικών στοιχείων και δεδομένων οφειλετών απαιτεί επιβεβαίωση ότι τα δεδομένα θα τηρηθούν εμπιστευτικά και θα χρησιμοποιηθούν αποκλειστικά για λογιστικούς σκοπούς."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Επιστροφή στο DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "Εξαγωγή DATEV"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Ανεπαρκή δικαιώματα."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Πίνακας ελέγχου & δείκτες KPI"
+      ],
+      "Dashboard": [
+        "Πίνακας ελέγχου"
+      ],
+      "Alle Veranstaltungen": [
+        "Όλες οι εκδηλώσεις"
+      ],
+      "Veranstaltungen": [
+        "Εκδηλώσεις"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Δημιουργία νέας εκδήλωσης"
+      ],
+      "Neue Veranstaltung": [
+        "Νέα εκδήλωση"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Χώροι διεξαγωγής & συνεδριακά κέντρα"
+      ],
+      "Veranstaltungsorte": [
+        "Χώροι διεξαγωγής"
+      ],
+      "Sessions & Agenda": [
+        "Συνεδρίες & πρόγραμμα"
+      ],
+      "Neue Session erstellen": [
+        "Δημιουργία νέας συνεδρίας"
+      ],
+      "Neue Session": [
+        "Νέα συνεδρία"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Συμμετέχοντες & κρατήσεις"
+      ],
+      "CSV-Import & Onboarding": [
+        "Εισαγωγή CSV & ένταξη"
+      ],
+      "CSV-Import": [
+        "Εισαγωγή CSV"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Οικονομικά & εξαγωγή DATEV"
+      ],
+      "Finanzen & DATEV": [
+        "Οικονομικά & DATEV"
+      ],
+      "Audit-Log": [
+        "Αρχείο ελέγχου"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Ρυθμίσεις & Theme Studio"
+      ],
+      "Einstellungen": [
+        "Ρυθμίσεις"
+      ],
+      "Handbuch & Dokumentation": [
+        "Εγχειρίδιο & τεκμηρίωση"
+      ],
+      "Handbuch": [
+        "Εγχειρίδιο"
+      ],
+      "Events & Konferenzen": [
+        "Εκδηλώσεις & συνέδρια"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Δικαιώματα για τη διαχείριση εκδηλώσεων και συνεδρίων."
+      ],
+      "Teilnehmer verwalten": [
+        "Διαχείριση συμμετεχόντων"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Επιτρέπει την προβολή και εξαγωγή εγγραφών εκδηλώσεων χωρίς πλήρη δικαιώματα διαχειριστή WordPress."
+      ],
+      "Einstellungen & Theme": [
+        "Ρυθμίσεις & θέμα"
+      ],
+      "Handbuch & Doku": [
+        "Εγχειρίδιο & τεκμηρίωση"
+      ],
+      "Plugin-Navigation": [
+        "Πλοήγηση προσθέτου"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Η εκδήλωση αποθηκεύτηκε με επιτυχία!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Τα δεδομένα ενημερώθηκαν συγχρονισμένα στη βάση δεδομένων και στο WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Η εκδήλωση διαγράφηκε!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Η εγγραφή αφαιρέθηκε και η ανάρτηση μεταφέρθηκε στον κάδο απορριμμάτων."
+      ],
+      "Demodaten angelegt.": [
+        "Τα δοκιμαστικά δεδομένα δημιουργήθηκαν."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Δημιουργήθηκαν ενδεικτική εκδήλωση, συνεδρίες και ενδεικτικοί συμμετέχοντες· τιμολόγια εκδίδονται μόνο εφόσον έχουν οριστεί τα στοιχεία εκδότη τιμολογίων."
+      ],
+      "CyberEvents Command Console": [
+        "Κονσόλα εντολών CyberEvents"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Εκδηλώσεις, συνεδρίες και εγγραφές με διπλή επιβεβαίωση μέσω Brevo, έλεγχο προσέλευσης, XML τιμολογίων και εξαγωγή DATEV."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Μέλος της οικογένειας προσθέτων WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Λειτουργία Hub"
+      ],
+      "Standalone": [
+        "Αυτόνομο"
+      ],
+      "Demo-Daten auffrischen": [
+        "Ανανέωση δοκιμαστικών δεδομένων"
+      ],
+      "Springen zu:": [
+        "Μετάβαση σε:"
+      ],
+      "Kurzanleitung": [
+        "Σύντομος οδηγός"
+      ],
+      "Kennzahlen": [
+        "Μετρήσεις"
+      ],
+      "Rechnungen": [
+        "Τιμολόγια"
+      ],
+      "Audit-Protokoll": [
+        "Αρχείο ελέγχου"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Τι κάνει το CyberEvents και τι θα βρείτε σε αυτή την οθόνη;"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Το πρόσθετο διαχειρίζεται εκδηλώσεις με συνεδρίες και εγγραφές. Οι συμμετέχοντες επιβεβαιώνουν την εγγραφή τους μέσω συνδέσμου διπλής επιβεβαίωσης που αποστέλλει το Brevo (απαιτείται κλειδί API), έπειτα επιλέγουν συνεδρίες χωρίς δυνατότητα υπερκράτησης θέσεων και καταγράφονται στην είσοδο μέσω του διακριτικού τους (token). Τα τιμολόγια παράγονται ως CII-XML (EN 16931) και εξάγονται ως παρτίδα λογιστικών εγγραφών DATEV."
+      ],
+      "Schnellzugriff:": [
+        "Γρήγορη πρόσβαση:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Συμμετέχοντες και εγγραφές"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Εξαγωγή τιμολογίων ως παρτίδα DATEV"
+      ],
+      "Event Auslastung": [
+        "Πληρότητα εκδήλωσης"
+      ],
+      "Kritisch": [
+        "Κρίσιμο"
+      ],
+      "Optimal": [
+        "Βέλτιστο"
+      ],
+      "Max. Kapazität:": [
+        "Μέγ. χωρητικότητα:"
+      ],
+      "Gebucht:": [
+        "Κρατημένα:"
+      ],
+      "Live Check-In Counter": [
+        "Ζωντανός μετρητής προσέλευσης"
+      ],
+      "Anwesend": [
+        "Παρόν"
+      ],
+      "Registriert:": [
+        "Εγγεγραμμένοι:"
+      ],
+      "Eingecheckt:": [
+        "Προσελθόντες:"
+      ],
+      "Wartend:": [
+        "Σε αναμονή:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Νέες εγγραφές (24 ώρες)"
+      ],
+      "Sessions": [
+        "Συνεδρίες"
+      ],
+      "in 24 h": [
+        "σε 24 ώρες"
+      ],
+      "Ausstehende DOI:": [
+        "Εκκρεμή DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Τηλεμετρία ουράς Brevo CRM"
+      ],
+      "Jobs": [
+        "Εργασίες"
+      ],
+      "Verarbeitung": [
+        "Επεξεργασία"
+      ],
+      "Verarbeitet:": [
+        "Επεξεργάστηκαν:"
+      ],
+      "Schnellaktionen": [
+        "Γρήγορες ενέργειες"
+      ],
+      "Neue Konferenz anlegen": [
+        "Δημιουργία νέου συνεδρίου"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Λίστα συμμετεχόντων & προσέλευση"
+      ],
+      "CSV-Batch Import": [
+        "Μαζική εισαγωγή CSV"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Επισκόπηση εκδηλώσεων & παρακολούθηση πληρότητας"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Επιβεβαιωμένες εγγραφές ανά εκδήλωση σε σχέση με τη δηλωμένη χωρητικότητα."
+      ],
+      "Event suchen...": [
+        "Αναζήτηση εκδήλωσης..."
+      ],
+      "Neue Konferenz": [
+        "Νέο συνέδριο"
+      ],
+      "Konferenz / Event": [
+        "Συνέδριο / εκδήλωση"
+      ],
+      "Zeitraum": [
+        "Περίοδος"
+      ],
+      "Ort": [
+        "Πόλη"
+      ],
+      "Kapazität & Belegung": [
+        "Χωρητικότητα & πληρότητα"
+      ],
+      "Status": [
+        "Κατάσταση"
+      ],
+      "Aktionen": [
+        "Ενέργειες"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Δεν βρέθηκαν εκδηλώσεις."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Επεξεργασία στον επεξεργαστή μπλοκ Gutenberg"
+      ],
+      "Bearbeiten": [
+        "Επεξεργασία"
+      ],
+      "Schnellbearbeitung": [
+        "Γρήγορη επεξεργασία"
+      ],
+      "Vorschau": [
+        "Προεπισκόπηση"
+      ],
+      "Teilnehmer (%d)": [
+        "Συμμετέχοντες (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Θέλετε πραγματικά να διαγράψετε οριστικά αυτή την εκδήλωση;"
+      ],
+      "Löschen": [
+        "Διαγραφή"
+      ],
+      "%d Sessions": [
+        "%d συνεδρίες"
+      ],
+      "/ %d Plätze": [
+        "/ %d θέσεις"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(χωρίς όριο χωρητικότητας)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Επεξεργασία στον επεξεργαστή Gutenberg"
+      ],
+      "Editor": [
+        "Επεξεργαστής"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Άνοιγμα γρήγορης επεξεργασίας"
+      ],
+      "Quick": [
+        "Γρήγορα"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Προβολή δημόσιας σελίδας"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Έγκυρα και ακυρωμένα τιμολόγια καθώς και ανεπιβεβαίωτες εγγραφές."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Μικτά, έγκυρα τιμολόγια"
+      ],
+      "Gültige Rechnungen": [
+        "Έγκυρα τιμολόγια"
+      ],
+      "Storniert": [
+        "Ακυρωμένα"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Ανεπιβεβαίωτες εγγραφές"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "Εξαγωγή DATEV & αρχείο ελέγχου"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Παρτίδα λογιστικών εγγραφών τιμολογίων και πιστωτικών σημειωμάτων μιας περιόδου· συντονίστε τους λογαριασμούς και τους κωδικούς φόρου με τον φοροτεχνικό σας."
+      ],
+      "DATEV Format": [
+        "Μορφή DATEV"
+      ],
+      "Kategorie 21 (v13)": [
+        "Κατηγορία 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "Αλυσίδα HMAC-SHA256"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Ψευδωνυμοποίηση μετά από 90 ημέρες"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Άνοιγμα DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Προβολή αρχείου ελέγχου"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Διαδοχικά συνδεδεμένο αρχείο ελέγχου: κάθε εγγραφή συνυπογράφει την προηγούμενή της ώστε μεταγενέστερες τροποποιήσεις, διαγραφές και παρεμβολές να γίνονται αντιληπτές. Αποτελεί απόδειξη παραβίασης, όχι αμεταβλητότητα — όποιος διαβάζει το wp-config.php κατέχει το κλειδί."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Άνοιγμα πλήρους αρχείου ελέγχου"
+      ],
+      "Zeitstempel": [
+        "Χρονοσήμανση"
+      ],
+      "Ereignis-Typ": [
+        "Τύπος συμβάντος"
+      ],
+      "Benutzer / System": [
+        "Χρήστης / Σύστημα"
+      ],
+      "Objekt-ID": [
+        "Αναγνωριστικό αντικειμένου"
+      ],
+      "Audit-Details & Nachweis": [
+        "Λεπτομέρειες και αποδεικτικά στοιχεία ελέγχου"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Δεν έχουν καταγραφεί ακόμη εγγραφές ελέγχου."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Επεξεργασία εκδήλωσης / γρήγορη ρύθμιση"
+      ],
+      "Schließen": [
+        "Κλείσιμο"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Τίτλος συνεδρίου / εκδήλωσης:"
+      ],
+      "URL-Slug:": [
+        "Σύντομο URL (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Χώρος διεξαγωγής / τοποθεσία:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Ημερομηνία και ώρα έναρξης:"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Λήξη (ημερομηνία & ώρα):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Μέγ. χωρητικότητα συμμετεχόντων:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Τιμή εισιτηρίου (καθαρή σε €):"
+      ],
+      "Status:": [
+        "Κατάσταση:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Ενεργή (δημοσιευμένη)"
+      ],
+      "Entwurf (Draft)": [
+        "Προσχέδιο"
+      ],
+      "Archiviert": [
+        "Αρχειοθετήθηκε"
+      ],
+      "Kostenpflichtig": [
+        "Επί πληρωμή"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Άνοιγμα στον επεξεργαστή μπλοκ Gutenberg"
+      ],
+      "Abbrechen": [
+        "Ακύρωση"
+      ],
+      "Änderungen speichern": [
+        "Αποθήκευση αλλαγών"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Τα στοιχεία του συμμετέχοντα ενημερώθηκαν με επιτυχία!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Τα στοιχεία εγγραφής και η κατάσταση αποθηκεύτηκαν στη βάση δεδομένων."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Ο συμμετέχων διαγράφηκε!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Η εγγραφή και όλες οι σχετικές κρατήσεις συνεδριών αφαιρέθηκαν."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Η κατάσταση προσέλευσης ενημερώθηκε!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Η κατάσταση παρουσίας του συμμετέχοντα εναλλάχθηκε."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Η διπλή επιβεβαίωση (Double Opt-in) ολοκληρώθηκε!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Η εγγραφή επισημάνθηκε χειροκίνητα ως επιβεβαιωμένη."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Διαχείριση συμμετεχόντων & κρατήσεων"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Όλες οι εγγραφές με κατάσταση διπλής επιβεβαίωσης, κρατήσεις συνεδριών και τιμολόγια."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Καρτελάκια ονόματος / λίστα συμμετεχόντων (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Φιλτράρισμα κατά συνέδριο: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Καθαρισμός φίλτρου"
+      ],
+      "Alle Teilnehmer": [
+        "Όλοι οι συμμετέχοντες"
+      ],
+      "Bestätigt": [
+        "Επιβεβαιώθηκε"
+      ],
+      "Ausstehend DOI": [
+        "Εκκρεμές DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Αναζήτηση ονόματος, e-mail ή εταιρείας..."
+      ],
+      "Teilnehmer": [
+        "Συμμετέχων"
+      ],
+      "Organisation / Firma": [
+        "Οργανισμός / εταιρεία"
+      ],
+      "Check-In": [
+        "Προσέλευση"
+      ],
+      "Rechnung": [
+        "Τιμολόγιο"
+      ],
+      "Anmeldedatum": [
+        "Ημερομηνία εγγραφής"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Δεν βρέθηκαν εγγραφές."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Επεξεργασία στοιχείων συμμετέχοντα"
+      ],
+      "Auschecken": [
+        "Αναχωρώ"
+      ],
+      "Einchecken": [
+        "Καταγραφή προσέλευσης"
+      ],
+      "DOI bestätigen": [
+        "Επιβεβαίωση DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Θέλετε πραγματικά να διαγράψετε οριστικά αυτόν τον συμμετέχοντα;"
+      ],
+      "Status umschalten": [
+        "Εναλλαγή κατάστασης"
+      ],
+      "Eingecheckt": [
+        "Προσήλθε"
+      ],
+      "Nicht vor Ort": [
+        "Εκτός χώρου"
+      ],
+      "Rechnungs-XML": [
+        "XML τιμολογίου"
+      ],
+      "Kostenfrei / Keine": [
+        "Δωρεάν / κανένα"
+      ],
+      "Edit": [
+        "Επεξεργασία"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Θέλετε πραγματικά να διαγράψετε αυτόν τον συμμετέχοντα;"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Επεξεργασία στοιχείων συμμετέχοντα / διαχείριση συμμετεχόντων"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Φωτογραφία προφίλ / φωτογραφία κάρτας συμμετέχοντα (JPG, PNG, WebP · μέγ. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Αφαίρεση φωτογραφίας"
+      ],
+      "Vorname:": [
+        "Όνομα:"
+      ],
+      "Nachname:": [
+        "Επώνυμο:"
+      ],
+      "E-Mail-Adresse:": [
+        "Διεύθυνση e-mail:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Οργανισμός / εταιρεία / αρχή:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Αντιστοιχισμένο συνέδριο:"
+      ],
+      "Anmeldestatus:": [
+        "Κατάσταση αξιολόγησης:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Επιβεβαιωμένη"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Σε εκκρεμότητα (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Ακυρωμένη"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Μη παραδοτέο (επιστροφή μηνύματος)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Κατάσταση προσέλευσης (επί τόπου):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Όχι / εκτός χώρου"
+      ],
+      "Ja / Eingecheckt": [
+        "Ναι / προσήλθε"
+      ],
+      "Rechnungsnummer:": [
+        "Αριθμός τιμολογίου:"
+      ],
+      "Zahlungsstatus:": [
+        "Κατάσταση πληρωμής:"
+      ],
+      "Kostenfrei (Free)": [
+        "Δωρεάν"
+      ],
+      "Ausstehend (Pending)": [
+        "Εκκρεμής"
+      ],
+      "Bezahlt (Paid)": [
+        "Πληρώθηκε"
+      ],
+      "Erstattet (Refunded)": [
+        "Επιστράφηκε"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "Δόθηκε συγκατάθεση απορρήτου ΓΚΠΔ"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Δόθηκε συγκατάθεση φωτογραφιών & βίντεο"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "Απόρρητο ΓΚΠΔ & συγκατάθεση εξαγωγής"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Προστασία δεδομένων προσωπικού χαρακτήρα (Άρθρα 4 & 5 ΓΚΠΔ)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Αυτή η εξαγωγή δημιουργεί αρχείο CSV με ευαίσθητα προσωπικά δεδομένα συμμετεχόντων (πλήρη ονόματα, εταιρείες, επαγγελματικές διευθύνσεις e-mail, αναφορές τιμολογίων και κατάσταση προσέλευσης)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Περιορισμός του σκοπού (Άρθρο 5 παρ. 1 στοιχ. β ΓΚΠΔ):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Τα δεδομένα επιτρέπεται να χρησιμοποιούνται αποκλειστικά για τη λειτουργική διεξαγωγή της εκδήλωσης (π.χ. εκτύπωση καρτελών και διαπίστευση στην είσοδο)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Εμπιστευτικότητα & προστασία (Άρθρο 5 παρ. 1 στοιχ. στ ΓΚΠΔ):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Απαγορεύεται η κοινοποίηση σε μη εξουσιοδοτημένους τρίτους ή η αποθήκευση σε μη κρυπτογραφημένες φορητές συσκευές."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Υποχρέωση διαγραφής (Άρθρο 17 ΓΚΠΔ):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Μετά την ολοκλήρωση του συνεδρίου, το εξαχθέν τοπικό αρχείο πρέπει να διαγραφεί αμέσως σύμφωνα με τους κανόνες προστασίας δεδομένων."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Επιβεβαιώνω τη συγκατάθεση ΓΚΠΔ:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Λαμβάνω γνώση ότι αυτή η εξαγωγή περιέχει εμπιστευτικά δεδομένα προσωπικού χαρακτήρα. Δεσμεύομαι για την επιμελή επεξεργασία τους αποκλειστικά για τον προβλεπόμενο σκοπό και την αυστηρή τήρηση των νόμιμων απαιτήσεων προστασίας δεδομένων."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Ασφαλής λήψη εξαγωγής CSV τώρα"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "XML τιμολογίου (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Αντιγραφή XML στο πρόχειρο"
+      ],
+      "Keine Berechtigung.": [
+        "Δεν έχετε δικαίωμα πρόσβασης."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Σφάλμα ασφαλείας: επιτρέπονται μόνο γνήσια αρχεία CSV."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Το αρχείο είναι πολύ μεγάλο (επιτρέπονται έως 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Επιλέξτε μια εκδήλωση και καταχωρίστε δεδομένα CSV."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Μαζική εισαγωγή συμμετεχόντων CSV (προστασία διπλοεγγραφών TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Αυτόματη εισαγωγή καταλόγων συμμετεχόντων από εξωτερικά συστήματα με αυστηρή αποφυγή διπλών εγγραφών."
+      ],
+      "Import-Zusammenfassung": [
+        "Σύνοψη εισαγωγής"
+      ],
+      "Gesamtzeilen": [
+        "Σύνολο γραμμών"
+      ],
+      "Neu Importiert": [
+        "Νέες εισαγωγές"
+      ],
+      "Dubletten abgewiesen": [
+        "Διπλοεγγραφές που απορρίφθηκαν"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Εισαγωγή νέας λίστας συμμετεχόντων"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Εκδήλωση προορισμού *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Επιλέξτε εκδήλωση —"
+      ],
+      "CSV-Datei auswählen": [
+        "Επιλογή αρχείου CSV"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Μορφή: Όνομα;Επώνυμο;Email;Εταιρεία (διαχωρισμός με ερωτηματικό ; ή κόμμα, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Ή επικολλήστε κείμενο CSV"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Εκτέλεση εισαγωγής CSV τώρα"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "Στούντιο παρτίδων εγγραφών DATEV EXTF"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Τυποποιημένη οικονομική εξαγωγή (κατηγορία 21, έκδοση μορφής 700 / 125 πεδία) για φοροτεχνικούς και λογιστική DATEV."
+      ],
+      "Exportzeitraum festlegen": [
+        "Ορισμός περιόδου εξαγωγής"
+      ],
+      "Laufender Monat": [
+        "Τρέχων μήνας"
+      ],
+      "Vormonat": [
+        "Προηγούμενος μήνας"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Ολόκληρο το έτος 2026"
+      ],
+      "Datum von *": [
+        "Ημερομηνία από *"
+      ],
+      "Datum bis *": [
+        "Ημερομηνία έως *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Επιβεβαίωση για την εξαγωγή δεδομένων οφειλετών:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Επιβεβαιώνω ότι η εξαγωγή οικονομικών στοιχείων και στοιχείων ληπτών τιμολογίων περιλαμβάνει προσωπικά δεδομένα και διαβιβάζεται αποκλειστικά στο εξουσιοδοτημένο λογιστικό γραφείο για τη νόμιμη λογιστική και φορολογική καταχώριση."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Λήψη παρτίδας λογιστικών εγγραφών DATEV EXTF (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Αλυσιδωτό ίχνος ελέγχου όλων των κρίσιμων ενεργειών ασφαλείας, διπλών επιβεβαιώσεων, ακυρώσεων και ελέγχων πρόσβασης."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Η αλυσίδα ελέγχου είναι ακέραιη — %1$d εγγραφές επαληθεύτηκαν ως προς το περιεχόμενο, %2$d ψευδωνυμοποιήθηκαν (επαληθεύτηκε η θέση στην αλυσίδα)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Αλυσίδα ελέγχου ΟΧΙ ακεραιότητα"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d εγγραφή/-ές προέρχονται από την περίοδο πριν από τη σύνδεση σε αλυσίδα και δεν φέρουν επαληθεύσιμη υπογραφή. Θεωρούνται μη επαληθευμένες, όχι ακέραιες."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "Το AUTH_KEY δεν έχει οριστεί: το κλειδί της αλυσίδας προέρχεται από τη βάση δεδομένων — το ίδιο σημείο όπου θα έγραφε ένας εισβολέας με δικαιώματα εγγραφής. Ορίστε το AUTH_KEY στο wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Χρονική στιγμή"
+      ],
+      "Ereignistyp": [
+        "Τύπος συμβάντος"
+      ],
+      "Referenz-ID": [
+        "Αναγνωριστικό αναφοράς"
+      ],
+      "IP-Adresse": [
+        "Διεύθυνση IP"
+      ],
+      "Audit-Details (JSON)": [
+        "Έλεγχος-Λεπτομέρειες (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Δεν βρέθηκαν εγγραφές καταγραφής."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Η εκδήλωση \"%1$s\" δημιουργήθηκε με %2$d συνεδρίες και %3$d συμμετέχοντες."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Τα δοκιμαστικά δεδομένα εισήχθησαν με επιτυχία!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Διαγράφηκαν %1$d εκδηλώσεις, %2$d συνεδρίες, %3$d εγγραφές και %4$d τιμολόγια."
+      ],
+      "Demodaten bereinigt!": [
+        "Τα δοκιμαστικά δεδομένα εκκαθαρίστηκαν!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Έγινε επαναφορά στις εργοστασιακές ρυθμίσεις!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Όλοι οι πίνακες άδειασαν και οι ρυθμίσεις επανήλθαν."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Το μεταφορτωμένο αρχείο θέματος αφαιρέθηκε."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Οι ρυθμίσεις αποθηκεύτηκαν με ασφάλεια."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Εταιρική διαμόρφωση & ασφάλεια"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Σχεδίαση, Brevo, τιμολόγια και DATEV, προστασία από bots και δοκιμαστικά δεδομένα."
+      ],
+      "Design & Theme Studio": [
+        "Σχεδίαση & Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM και Webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Τιμολόγια & DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Προστασία Bot (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Δοκιμαστικά δεδομένα & επαναφορά"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Σύστημα σχεδίασης σελίδων & κληρονομικότητα θέματος"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Επιλέξτε πώς θα εμφανίζονται οι εκδηλώσεις και οι φόρμες κράτησης στη δημόσια σελίδα. Από προεπιλογή, το πρόσθετο κληρονομεί ομαλά τις γραμματοσειρές, τα χρώματα και τα κουμπιά του ενεργού θέματος WordPress."
+      ],
+      "Primärfarbe": [
+        "Κύριο χρώμα"
+      ],
+      "Akzentfarbe": [
+        "Χρώμα έμφασης"
+      ],
+      "Kartenhintergrund": [
+        "Φόντο κάρτας"
+      ],
+      "Textfarbe": [
+        "Χρώμα κειμένου"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Προσαρμοσμένα χρώματα & περιγράμματα θέματος (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Κύριο χρώμα (κουμπιά & εμφάσεις):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Akzentfarbe (Σήματα & Λάμψη):"
+      ],
+      "Seitenhintergrund:": [
+        "Φόντο σελίδας:"
+      ],
+      "Kartenhintergrund:": [
+        "Φόντο κάρτας:"
+      ],
+      "Haupttextfarbe:": [
+        "Χρώμα κύριου κειμένου:"
+      ],
+      "Eckenabrundung (px):": [
+        "Στρογγύλευση γωνιών (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Μεταφόρτωση προσαρμοσμένου θέματος CSS (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Μεταφορτώστε ένα προσαρμοσμένο αρχείο .css (π.χ. agency-theme.css). Φορτώνεται απομονωμένα και επικυρώνεται αυτόματα."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Διατίθεται ενεργό προσαρμοσμένο θέμα"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Θέλετε πραγματικά να διαγράψετε το μεταφορτωμένο αρχείο θέματος CSS;"
+      ],
+      "Theme löschen": [
+        "Διαγραφή θέματος"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Πρόσθετο προσαρμοσμένο CSS (ενσωματωμένος επεξεργαστής)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Εισαγάγετε τους δικούς σας κανόνες CSS εδώ, π.χ.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0,05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Έλεγχος ταυτότητας Brevo API v3 & Webhook"
+      ],
+      "Brevo API Key (v3)": [
+        "Κλειδί API Brevo (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Χρησιμοποιείται για την ασύγχρονη αποστολή e-mail διπλής επιβεβαίωσης και τον συγχρονισμό ιδιοτήτων επαφών."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Κοινόχρηστο μυστικό Webhook / διακριτικό υπογραφής"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Διακριτικό ανθεκτικό σε επιθέσεις χρονισμού για την επικύρωση εισερχόμενων ωφέλιμων φορτίων Webhook του Brevo."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Κλειδί API σαρωτή προσωπικού (έλεγχος εισόδου)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Διακριτικό ελέγχου ταυτότητας για φορητές συσκευές σάρωσης του προσωπικού υποδοχής."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Αίθουσα αναμονής: εγκρίσεις ανά λεπτό"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Αιτήματα εγγραφής και κράτησης συνεδριών που επιτρέπονται ανά λεπτό και ανά εκδήλωση. Το 0 απενεργοποιεί την αίθουσα αναμονής (προεπιλογή). Πάνω από το όριο, η διαδρομή απαντά με HTTP 503 και Retry-After πριν εκτελεστεί ερώτημα στη βάση δεδομένων — δεν δεσμεύεται θέση."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Υποσύστημα μετρητή σε αυτή την εγκατάσταση: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "μόνιμη κρυφή μνήμη αντικειμένων"
+      ],
+      "Datenbank (Transients)": [
+        "βάση δεδομένων (transients)"
+      ],
+      "DOI Template ID": [
+        "ΔΥΟ αναγνωριστικά προτύπων"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Αναγνωριστικό λίστας επαφών Brevo"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Τιμολόγια (CII-XML) & DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Πρόθεμα αριθμού τιμολογίου"
+      ],
+      "Rechnungssteller": [
+        "Εκδότης τιμολογίου"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Χωρίς αυτά τα στοιχεία δεν εκδίδονται τιμολόγια ούτε πιστωτικά σημειώματα: %s."
+      ],
+      "Name / Firma": [
+        "Ονοματεπώνυμο / επωνυμία"
+      ],
+      "Straße und Hausnummer": [
+        "Οδός και αριθμός"
+      ],
+      "PLZ": [
+        "Ταχυδρομικός κώδικας"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Χώρα (κωδικός ISO, π.χ. GR)"
+      ],
+      "USt-IdNr.": [
+        "ΑΦΜ/ΦΠΑ"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Αριθμός φορολογικού μητρώου (αν δεν υπάρχει ενδοκοινοτικό ΑΦΜ)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-mail τιμολόγησης"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN για τραπεζικές μεταφορές (προαιρετικό)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "Αριθμός συμβούλου DATEV"
+      ],
+      "DATEV Mandantennummer": [
+        "Αριθμός πελάτη DATEV"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Λογαριασμός εσόδων (π.χ. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Λογαριασμός απαιτήσεων (π.χ. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Το πρόσθετο δεν περιλαμβάνει ακόμη γραφικό στοιχείο captcha: η ρύθμιση αποθηκεύεται, αλλά η φόρμα υποβάλλεται χωρίς έλεγχο captcha."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Ενεργοποίηση Friendly Captcha"
+      ],
+      "Sitekey": [
+        "Κλειδί ιστοτόπου (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "Κλειδί API / Μυστικό"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Διαχείριση δοκιμαστικών δεδομένων & εργοστασιακή επαναφορά"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Εισαγάγετε ενδεικτικά δεδομένα, αφαιρέστε τα ξανά ή επαναφέρετε το πρόσθετο στις εργοστασιακές ρυθμίσεις."
+      ],
+      "1. Demodaten importieren": [
+        "1. Εισαγωγή δεδομένων επίδειξης"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Δημιουργεί ένα ενδεικτικό συνέδριο με συνεδρίες και ενδεικτικούς συμμετέχοντες. Τιμολόγια εκδίδονται μόνο εφόσον έχουν οριστεί τα στοιχεία εκδότη."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Θέλετε να εισαγάγετε ενδεικτικά δεδομένα τώρα;"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Εισαγωγή δοκιμαστικών δεδομένων (συνέδρια, συνεδρίες, συμμετέχοντες, τιμολόγια)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Εκκαθάριση δοκιμαστικών δεδομένων (διαγραφή μόνο δεδομένων δοκιμής)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Διαγράφει αποκλειστικά τα παραγόμενα δοκιμαστικά συνέδρια, συνεδρίες, συμμετέχοντες και τιμολόγια. Οι πραγματικές εκδηλώσεις και κρατήσεις παραμένουν ανέπαφες."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Θέλετε να αφαιρέσετε με ασφάλεια όλα τα δοκιμαστικά δεδομένα; Τα πραγματικά δεδομένα θα διατηρηθούν."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Εκκαθάριση δοκιμαστικών δεδομένων (μόνο δεδομένα δοκιμής)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Επαναφορά στις εργοστασιακές ρυθμίσεις (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Προσοχή (μη αναστρέψιμη):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Αδειάζει όλους τους πίνακες εκδηλώσεων, συνεδριών, εγγραφών, τιμολογίων και αρχείου ελέγχου, διαγράφει όλες τις αναρτήσεις cybevent και cybsession και επαναφέρει όλες τις ρυθμίσεις στις προεπιλογές."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Είστε απόλυτα βέβαιοι; Αυτό θα διαγράψει ΟΛΕΣ τις εκδηλώσεις, τις εγγραφές και τα τιμολόγια και θα επαναφέρει όλες τις ρυθμίσεις!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Πλήρης εργοστασιακή επαναφορά (διαγραφή όλων & επαναφορά προεπιλογών)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Συμπεριφορά κατά την απεγκατάσταση του προσθέτου"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Διαγραφή όλων των πινάκων και ρυθμίσεων κατά την απεγκατάσταση"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Από προεπιλογή, όλα τα δεδομένα εκδηλώσεων, εγγραφών, τιμολογίων και ελέγχου διατηρούνται κατά τη διαγραφή του προσθέτου (νόμιμες υποχρεώσεις τήρησης αρχείου). Ενεργοποιήστε αυτή την επιλογή μόνο αν όλοι οι πίνακες πρέπει να διαγραφούν οριστικά κατά την απεγκατάσταση."
+      ],
+      "Alle Einstellungen speichern": [
+        "Αποθηκεύστε όλες τις ρυθμίσεις"
+      ],
+      "Platzbuchung": [
+        "Κράτηση θέσης"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Κάθε θέση δεσμεύεται με μία ενιαία υπό όρους εντολή UPDATE (belegt = belegt + 1, μόνο εφόσον belegt < kapazitaet). Από δύο ταυτόχρονα αιτήματα για την τελευταία θέση μόνο το ένα ενημερώνει τη γραμμή· το άλλο λαμβάνει την ένδειξη «πλήρες»."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Τα τιμολόγια και τα πιστωτικά σημειώματα παράγονται ως CII-XML σύμφωνα με το προφίλ EN 16931 και ελέγχονται στις δοκιμές με τον επικυρωτή Mustang. Δεν δημιουργείται PDF, επομένως το XML δεν αποτελεί υβριδικό αρχείο ZUGFeRD. Το αν τα τιμολόγια πληρούν τις νόμιμες απαιτήσεις ανά περίπτωση εξετάζεται από τον φοροτεχνικό σας."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF & λογιστική"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Εξάγει τιμολόγια και πιστωτικά σημειώματα μιας περιόδου ως παρτίδα λογιστικών εγγραφών DATEV (EXTF 700, κατηγορία 21) σε κωδικοποίηση Windows-1252. Οι λογαριασμοί απαιτήσεων και εσόδων προέρχονται από τις ρυθμίσεις· κάθε γραμμή φέρει τον φορολογικό κωδικό 3. Συντονίστε τους λογαριασμούς και τους κωδικούς με τον φοροτεχνικό σας."
+      ],
+      "Handbuch & API:": [
+        "Εγχειρίδιο & API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Πλήρες εγχειρίδιο"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Αναπτύχθηκε από τη WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Εγχειρίδιο διαχειριστών & προγραμματιστών"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Κράτηση θέσεων, XML τιμολογίων, εξαγωγή DATEV, διπλή επιβεβαίωση Brevo, shortcodes και προεπιλογές θεμάτων."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Κράτηση θέσεων χωρίς υπερκράτηση"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Ο μετρητής πληρότητας αυξάνεται σε μία μόνο υπό όρους εντολή· από δύο ταυτόχρονα αιτήματα για την τελευταία θέση, μόνο το ένα ενημερώνει τη γραμμή:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. XML τιμολογίων & DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Τιμολόγια και πιστωτικά σημειώματα με στοιχεία εκδότη από τις ρυθμίσεις, ημερομηνία παροχής και συνεχή αρίθμηση. Χωρίς PDF, χωρίς Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Πιστωτικά σημειώματα:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Δική τους συνεχής αρίθμηση, τύπος 381 με αναφορά στο αρχικό τιμολόγιο."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Παρτίδα λογιστικών εγγραφών περιόδου εντός ενός ημερολογιακού έτους, Windows-1252. Συντονίστε τους λογαριασμούς και τους κωδικούς φόρου με τον φοροτεχνικό σας."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM Double Opt-In & Ουρά φόντου"
+      ],
+      "Double Opt-In (DOI):": [
+        "Διπλή επιβεβαίωση (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Το Brevo αποστέλλει το e-mail επιβεβαίωσης με προσωπικό σύνδεσμο· ο σύνδεσμος επιβεβαιώνει την εγγραφή μία φορά. Οι ανεπιβεβαίωτες εγγραφές διαγράφονται μετά από 14 ημέρες."
+      ],
+      "Warteschlange:": [
+        "Ουρά εργασιών:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Οι κλήσεις προς το Brevo εκτελούνται μέσω ουράς στη βάση δεδομένων την οποία επεξεργάζεται το WP-Cron κάθε λεπτό (ή με wp cybevents queue-run), με έως πέντε προσπάθειες."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Σύντομοι κωδικοί και ενσωμάτωση Gutenberg"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Προσβάσιμη φόρμα εγγραφής."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Διαδραστικό πρόγραμμα συνεδρίου & επισκόπηση θεματικών ενοτήτων."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Επιλογή συνεδριών βάσει διακριτικού μετά την επιβεβαίωση DOI."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI για διαχειριστές"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Προεπιλογές θεμάτων & Design Tokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Η δημόσια διεπαφή προσαρμόζεται ευέλικτα σε κάθε θέμα WordPress ή χρησιμοποιεί ενσωματωμένες προεπιλογές σχεδίασης:"
+      ],
+      "Presets:": [
+        "Προεπιλογές:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Πολλαπλές χρωματικές παλέτες, συμπεριλαμβανομένης μίας σε βαθύ μωβ, βιολετί και ροζ (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Κληρονομικότητα θέματος (προεπιλογή):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Κληρονομεί ομαλά γραμματοσειρές, στρογγυλεύσεις γωνιών και κύρια χρώματα από το ενεργό θέμα (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "Προσαρμοσμένες ιδιότητες CSS:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Gotchas & Βέλτιστες Πρακτικές"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Οι πίνακες δημιουργούνται με ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Χρόνοι διατήρησης & διαγραφής:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Οι ανεπιβεβαίωτες εγγραφές διαγράφονται μετά από 14 ημέρες και οι εγγραφές του αρχείου ελέγχου ψευδωνυμοποιούνται μετά από 90 ημέρες (εκτός από συμβάντα τιμολογίων). Οι επιβεβαιωμένες εγγραφές και τα τιμολόγια δεν διαγράφονται αυτόματα από το πρόσθετο· δεν υπάρχει σχετική ρύθμιση."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Η επεξεργασία της ουράς και οι διαγραφές λήξης εκτελούνται μέσω WP-Cron· ιστότοποι χωρίς τακτική επισκεψιμότητα χρειάζονται πραγματική εργασία συστήματος cron."
+      ],
+      "Cyber Events Suite": [
+        "Σουίτα Cyber Events"
+      ],
+      "Veranstaltung auswählen": [
+        "Επιλογή εκδήλωσης"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Επιλέξτε την εκδήλωση προορισμού για αυτό το μπλοκ."
+      ],
+      "Key Facts Header anzeigen": [
+        "Εμφάνιση κεφαλίδας βασικών στοιχείων"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Εμφάνιση ένδειξης βημάτων"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Εμφάνιση κουμπιού εξαγωγής ημερολογίου (.ics)"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Εμφάνιση χρονόμετρου αντίστροφης μέτρησης"
+      ],
+      "Freie Plätze anzeigen": [
+        "Εμφάνιση ελεύθερων θέσεων"
+      ],
+      "Spaltenanzahl": [
+        "Αριθμός στηλών"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Επιλέξτε μια έγκυρη εκδήλωση στις ρυθμίσεις του μπλοκ."
+      ],
+      "Vorschau im Editor": [
+        "Προεπισκόπηση στον επεξεργαστή"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Επιλογή συνεδριών για επιβεβαιωμένες εγγραφές"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Στη δημόσια σελίδα, αυτό το μπλοκ αποδίδεται δυναμικά για κάθε συμμετέχοντα με το ατομικό του διακριτικό."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Δεν βρέθηκε διακριτικό επιβεβαίωσης."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Ανοίξτε αυτή τη σελίδα μέσω του εξατομικευμένου συνδέσμου από το e-mail επιβεβαίωσης."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Μη έγκυρο ή ληγμένο διακριτικό συμμετέχοντα."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Πλάνο θέσεων εκδήλωσης"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Στη δημόσια σελίδα, αυτό το μπλοκ εμφανίζει την πληρότητα κάθε συνεδρίας ως SVG και την ενημερώνει μέσω Server-Sent Events."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Η εκδήλωση δεν βρέθηκε."
+      ],
+      "Jetzt anmelden": [
+        "Εγγραφείτε τώρα"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Δωρεάν εγγραφή τώρα"
+      ],
+      "Programm ansehen": [
+        "Προβολή προγράμματος"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Δωρεάν συμμετοχή"
+      ],
+      "Anmeldung geöffnet": [
+        "Εγγραφές ανοικτές"
+      ],
+      "Ausgebucht": [
+        "Πλήρως κρατημένο"
+      ],
+      "Preis": [
+        "Τιμή"
+      ],
+      "%d freier Platz": [
+        "%d ελεύθερη θέση",
+        "%d ελεύθερες θέσεις"
+      ],
+      "von max. %d": [
+        "από μέγ. %d"
+      ],
+      "Beginn in:": [
+        "Έναρξη σε:"
+      ],
+      "Tage": [
+        "Ημέρες"
+      ],
+      "Std.": [
+        "Ώρες"
+      ],
+      "Min.": [
+        "Λεπ."
+      ],
+      "Sek.": [
+        "Δευτ."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Εξαγωγή σε ημερολόγιο (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (αρχείο .ics)"
+      ],
+      "Google Kalender": [
+        "Ημερολόγιο Google"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Το αρχείο .ics περιλαμβάνει υπενθύμιση μία ημέρα πριν από την έναρξη."
+      ],
+      "Referenten & Fachexperten": [
+        "Ομιλητές & ειδικοί"
+      ],
+      "Referenten": [
+        "Ομιλητές"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Η λίστα των ομιλητών θα ανακοινωθεί σύντομα."
+      ],
+      "TEILNEHMERPASS": [
+        "ΚΑΡΤΑ ΣΥΜΜΕΤΕΧΟΝΤΑ"
+      ],
+      "Teilnehmerpass": [
+        "Κάρτα συμμετέχοντα"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Άνοιγμα εισιτηρίου & διαπίστευσης"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Εισαγάγετε το διακριτικό ασφαλείας 64 χαρακτήρων από το e-mail επιβεβαίωσης:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Εισαγάγετε διακριτικό (π.χ. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Εμφάνιση κάρτας"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Μη έγκυρο ή άγνωστο διακριτικό κράτησης."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Δεν υπάρχει διαθέσιμη κάρτα συμμετέχοντα για αυτή την εγγραφή: δεν έχει επιβεβαιωθεί ή έχει ακυρωθεί."
+      ],
+      "Max Mustermann": [
+        "Γιώργος Παπαδόπουλος"
+      ],
+      "Beispiel GmbH": [
+        "Παράδειγμα Α.Ε."
+      ],
+      "Veranstaltung": [
+        "Εκδήλωση"
+      ],
+      "Rechnungs-Nr.": [
+        "Αρ. τιμολογίου"
+      ],
+      "Keine": [
+        "Κανένα"
+      ],
+      "Ticket-Nummer": [
+        "Αριθμός εισιτηρίου"
+      ],
+      "Pass drucken": [
+        "Εκτύπωση κάρτας"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Προστασία δεδομένων και ασφάλεια"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Διπλή επιβεβαίωση και χρόνοι διατήρησης"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Η εγγραφή ισχύει μόνο μετά την επιβεβαίωση μέσω του συνδέσμου e-mail. Οι ανεπιβεβαίωτες εγγραφές διαγράφονται μετά από 14 ημέρες, ενώ οι εγγραφές του αρχείου ελέγχου ψευδωνυμοποιούνται μετά από 90 ημέρες."
+      ],
+      "Beschriftete Formulare": [
+        "Φόρμες με σαφείς ετικέτες"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Πεδία φόρμας με ορατές ετικέτες, επισημασμένα υποχρεωτικά πεδία και μηνύματα κατάστασης που αναγιγνώσκονται από προγράμματα ανάγνωσης οθόνης."
+      ],
+      "Eigene Skripte und Styles": [
+        "Αυτοφιλοξενούμενα σενάρια και στυλ"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Το πρόσθετο φορτώνει τα σενάρια, τα στυλ και τα εικονίδιά του από τον δικό σας διακομιστή και όχι από CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Αρχείο ελέγχου και διακριτικά"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Ένα αρχείο ελέγχου συνδεδεμένο με HMAC-SHA256 καθιστά ανιχνεύσιμες τις μεταγενέστερες αλλοιώσεις. Τα διακριτικά συμμετεχόντων αποθηκεύονται αποκλειστικά ως κατακερματισμοί SHA-256."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "XML τιμολογίων και DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Τιμολόγια ως CII-XML σύμφωνα με το προφίλ EN 16931 και εξαγωγή ως παρτίδα λογιστικών εγγραφών DATEV."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (απόδειξη εργασίας)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Προστασία από bots φιλική προς το απόρρητο, χωρίς παρακολούθηση χρηστών ή γρίφους εικόνων σύμφωνα με το ευρωπαϊκό δίκαιο προστασίας δεδομένων."
+      ],
+      "Zur Anmeldung": [
+        "Μετάβαση στη σύνδεση"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Δεν υπάρχουν αρχειοθετημένες εκδηλώσεις."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Προς το παρόν δεν υπάρχουν προγραμματισμένες εκδηλώσεις."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Φιλτράρισμα εκδηλώσεων κατά τίτλο ή τοποθεσία..."
+      ],
+      "Kostenfrei": [
+        "Δωρεάν"
+      ],
+      "In Kalender eintragen": [
+        "Προσθήκη στο ημερολόγιο"
+      ],
+      ".ics": [
+        "*. ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Ζωντανή γραμμή ενημέρωσης συνεδρίου και προγράμματος"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "ΖΩΝΤΑΝΗ ΤΗΛΕΜΕΤΡΙΑ ΠΡΟΓΡΑΜΜΑΤΟΣ"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Στοιχεία ελέγχου προβολών και φίλτρων"
+      ],
+      "Kalenderansichten": [
+        "Προβολές ημερολογίου"
+      ],
+      "Monat": [
+        "Μήνας"
+      ],
+      "Woche": [
+        "Εβδομάδα"
+      ],
+      "Tag / Agenda": [
+        "Ημέρα / πρόγραμμα"
+      ],
+      "Liste": [
+        "Λίστα"
+      ],
+      "Karten": [
+        "Κάρτες"
+      ],
+      "Räume & Ort": [
+        "Αίθουσες & χώρος"
+      ],
+      "Summit Tracks": [
+        "Θεματικές ενότητες συνεδρίου"
+      ],
+      "Vorheriger Zeitraum": [
+        "Προηγούμενη περίοδος"
+      ],
+      "Nächster Zeitraum": [
+        "Επόμενη περίοδος"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Αναζήτηση εκδήλωσης, θέματος ή ομιλητή..."
+      ],
+      "Suchbegriff eingeben": [
+        "Εισαγάγετε όρο αναζήτησης"
+      ],
+      "Track oder Kategorie filtern": [
+        "Φιλτράρισμα θεματικής ενότητας ή κατηγορίας"
+      ],
+      "Alle Fach-Tracks": [
+        "Όλες οι θεματικές ενότητες"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Ενότητα 01: Μετακβαντική κρυπτογραφία"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Ενότητα 02: Zero Trust & ανθεκτικότητα DORA"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Ενότητα 03: Αυτόνομη ΤΝ & κανόνες απορρήτου"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Ενότητα 04: Εφοδιαστική αλυσίδα λογισμικού & CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Φιλτράρισμα συνεδριακής αίθουσας"
+      ],
+      "Alle Säle & Räume": [
+        "Όλες οι αίθουσες & χώροι"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Αίθουσα Ολομέλειας Alpha (Κεντρικές ομιλίες)"
+      ],
+      "Security Lab Beta": [
+        "Εργαστήριο Ασφαλείας Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Στούντιο Εργαστηρίων Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Εικονικός κόμβος ροής AS4"
+      ],
+      "Monatskalenderansicht": [
+        "Προβολή μηνιαίου ημερολογίου"
+      ],
+      "Mo": [
+        "Δευ"
+      ],
+      "Di": [
+        "Τρί"
+      ],
+      "Mi": [
+        "Τετ"
+      ],
+      "Do": [
+        "Πέμ"
+      ],
+      "Fr": [
+        "Παρ"
+      ],
+      "Sa": [
+        "Σάβ"
+      ],
+      "So": [
+        "Κυρ"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Προβολή εβδομαδιαίου προγράμματος και ωρολογίου πλέγματος"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Προβολή ημερήσιου προγράμματος και χρονογραμμής"
+      ],
+      "Chronologische Listenansicht": [
+        "Προβολή χρονολογικής λίστας"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Οπτική προβολή καρτών φωτογραφιών"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Προβολή πλοήγησης χώρου και αιθουσών"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Πίνακας πολλαπλών θεματικών ενοτήτων"
+      ],
+      "Dialog schließen": [
+        "Κλείσιμο παραθύρου διαλόγου"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Μη έγκυρο αναγνωριστικό συνεδρίας ή εγγραφής."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Δεν ήταν δυνατή η επεξεργασία της κράτησης λόγω σφάλματος βάσης δεδομένων."
+      ],
+      "Session %d existiert nicht.": [
+        "Η συνεδρία %d δεν υπάρχει."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "Το «%1$s» είναι πλήρες (κατειλημμένες %2$d από %2$d θέσεις)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Δεν ήταν δυνατή η αποθήκευση της κράτησης. Η θέση αποδεσμεύτηκε ξανά."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Δεν ήταν δυνατή η επεξεργασία της ακύρωσης λόγω σφάλματος βάσης δεδομένων."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Δεν μεταφορτώθηκε έγκυρο αρχείο."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Σφάλμα κατά τη μεταφόρτωση του αρχείου."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Η εικόνα προφίλ δεν επιτρέπεται να υπερβαίνει τα 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Μη έγκυρη μορφή αρχείου. Επιτρέπονται τα JPG, PNG και WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Μη έγκυρη επέκταση αρχείου. Επιτρέπονται τα .jpg, .jpeg, .png και .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Σφάλμα κατά την αποθήκευση της εικόνας προφίλ."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Το αρχείο ελέγχου είναι κενό, παρόλο που προηγουμένως είχαν καταγραφεί %d εγγραφές."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Μια ανυπόγραφη εγγραφή παρεμβλήθηκε εκ των υστέρων στην αλυσίδα."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Διάσπαση αλυσίδας στην εγγραφή #%d: μια εγγραφή διαγράφηκε, παρεμβλήθηκε ή αναδιατάχθηκε."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Η υπογραφή της εγγραφής #%d δεν αντιστοιχεί στη σύνοψη περιεχομένου της."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Η εγγραφή #%d έχει επισημανθεί ως ψευδωνυμοποιημένη χωρίς έγκυρο αποδεικτικό: το περιεχόμενό της ενδέχεται να έχει αλλοιωθεί."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Το περιεχόμενο της εγγραφής #%d τροποποιήθηκε μετά τη δημιουργία της."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Το τέλος του αρχείου δεν ταιριάζει με την τελευταία καταγεγραμμένη εγγραφή. Οι νεότερες εγγραφές αφαιρέθηκαν."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Εκδηλώσεις"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Εκδήλωση"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Εκδήλωση"
+      ],
+      "event\u0004Neu erstellen": [
+        "Προσθήκη νέου"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Επεξεργασία εκδήλωσης"
+      ],
+      "Veranstaltung ansehen": [
+        "Προβολή εκδήλωσης"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Αναζήτηση εκδηλώσεων"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Δεν υπάρχουν εκδηλώσεις στον κάδο απορριμμάτων."
+      ],
+      "Veranstaltungsdaten": [
+        "Στοιχεία εκδήλωσης"
+      ],
+      "Veranstaltungsort:": [
+        "Χώρος διεξαγωγής:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Διαχείριση χώρων διεξαγωγής ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Επιλέξτε αποθηκευμένο χώρο διεξαγωγής —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Χειροκίνητη τοποθεσία / αίθουσα / διεύθυνση..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Επιλέξτε έναν αποθηκευμένο χώρο από τη λίστα ή προσαρμόστε την περιγραφή τοποθεσίας/αίθουσας."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Ημερομηνία και ώρα έναρξης:"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Λήξη (ημερομηνία & ώρα):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Εκδήλωση επί πληρωμή"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Αυτή τη στιγμή δεν υπάρχουν διαθέσιμα προγράμματα συνεδρίων."
+      ],
+      "Programm": [
+        "Πρόγραμμα"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Αναζήτηση θέματος, ομιλητή ή αίθουσας..."
+      ],
+      "Konferenz-Agenda": [
+        "Πρόγραμμα συνεδρίου"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Το αναλυτικό πρόγραμμα θα ανακοινωθεί σύντομα."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "Δεδομένα συμμετεχόντων CyberEvents"
+      ],
+      "E-Mail": [
+        "Email"
+      ],
+      "Unternehmen / Organisation": [
+        "Εταιρεία / οργανισμός"
+      ],
+      "Profilbild": [
+        "Εικόνα προφίλ"
+      ],
+      "Einwilligung Datenschutz": [
+        "Συγκατάθεση απορρήτου"
+      ],
+      "ja": [
+        "ναι"
+      ],
+      "nein": [
+        "όχι"
+      ],
+      "Einwilligung Fotos": [
+        "Συγκατάθεση φωτογραφιών"
+      ],
+      "Bestätigung angefordert": [
+        "Ζητήθηκε επιβεβαίωση"
+      ],
+      "Bestätigt am": [
+        "Επιβεβαιώθηκε στις"
+      ],
+      "Eingecheckt am": [
+        "Προσέλευση στις"
+      ],
+      "Gebuchte Sessions": [
+        "Κρατημένες συνεδρίες"
+      ],
+      "Rechnungsnummer": [
+        "Αριθμός τιμολογίου"
+      ],
+      "CyberEvents Registrierungen": [
+        "Εγγραφές CyberEvents"
+      ],
+      "CyberEvents Rechnungen": [
+        "Τιμολόγια CyberEvents"
+      ],
+      "Empfänger": [
+        "Παραλήπτης"
+      ],
+      "Adresse": [
+        "Διεύθυνση"
+      ],
+      "Bruttobetrag": [
+        "Μικτό ποσό"
+      ],
+      "Ausgestellt am": [
+        "Εκδόθηκε στις"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Δεν ήταν δυνατή η διαγραφή της εγγραφής #%d."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Δεν ήταν δυνατή η ανωνυμοποίηση της εγγραφής #%d· τα δεδομένα παραμένουν αμετάβλητα."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Η εγγραφή #%1$d ανωνυμοποιήθηκε. Το τιμολόγιο %2$s με όνομα, διεύθυνση και e-mail παραμένει αποθηκευμένο αμετάβλητο· το πρόσθετο δεν διαγράφει τιμολόγια."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "Το webhook του Brevo είναι απενεργοποιημένο χωρίς κοινόχρηστο μυστικό (απαντά 401). Οι επιστροφές e-mail και οι διαγραφές συνδρομής δεν θα επεξεργάζονται έως ότου οριστεί μυστικό."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Δεν έχει οριστεί κλειδί API Brevo: δεν αποστέλλονται e-mail επιβεβαίωσης, οι νέες εγγραφές παραμένουν ανεπιβεβαίωτες και διαγράφονται μετά από 14 ημέρες."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Το Friendly Captcha είναι ενεργοποιημένο αλλά δεν έχει αποτέλεσμα: το πρόσθετο δεν περιλαμβάνει γραφικό στοιχείο captcha, οπότε η φόρμα υποβάλλεται χωρίς προστασία από bots."
+      ],
+      "Einstellungen öffnen": [
+        "Άνοιγμα ρυθμίσεων"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Πάρα πολλά αιτήματα. Δοκιμάστε ξανά σε ένα λεπτό."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Η επιλογή δεν αποθηκεύτηκε: %s Οι προηγούμενες κρατήσεις σας παραμένουν ενεργές."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Οι νέες συνεδρίες κρατήθηκαν, αλλά δεν κατέστη δυνατή η αποδέσμευση κάθε αποεπιλεγμένης συνεδρίας: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Μη έγκυρο διακριτικό ασφαλείας (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Μη έγκυρο διακριτικό φόρμας (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Ο συμμετέχων δεν είναι εξουσιοδοτημένος ή δεν βρέθηκε."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Δεν υποβλήθηκε αρχείο εικόνας."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Η εικόνα προφίλ ενημερώθηκε με επιτυχία."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Λείπει το διακριτικό επιβεβαίωσης."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Μη έγκυρο ή μη επιβεβαιωμένο εισιτήριο."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Δεν έχουν οριστεί συνεδρίες για αυτή την εκδήλωση."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Πλάνο θέσεων: κατειλημμένες και ελεύθερες θέσεις ανά συνεδρία"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d από %3$d θέσεις κατειλημμένες"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Δεν έχει οριστεί εκδήλωση για το πλάνο θέσεων."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Η εκδήλωση του πλάνου θέσεων δεν υπάρχει."
+      ],
+      "frei": [
+        "ελεύθερη"
+      ],
+      "belegt": [
+        "κατειλημμένη"
+      ],
+      "von Ihnen gebucht": [
+        "κρατημένη από εσάς"
+      ],
+      "Belegung je Session": [
+        "Πληρότητα ανά συνεδρία"
+      ],
+      "Session": [
+        "Συνεδρία"
+      ],
+      "Belegt": [
+        "Κατειλημμένες"
+      ],
+      "Frei": [
+        "Ελεύθερες"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Η πληρότητα ενημερώνεται αυτόματα."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Στιγμιότυπο κατά τη φόρτωση της σελίδας· η πληρότητα δεν ενημερώνεται ζωντανά."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Δοκιμαστικά δεδομένα: η κράτηση για %1$s απορρίφθηκε — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Δοκιμαστικά δεδομένα: η συμμετοχή ακυρώθηκε"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Συνεδρίες & θεματικές ενότητες"
+      ],
+      "post type singular name\u0004Session": [
+        "Συνεδρία"
+      ],
+      "admin menu\u0004Sessions": [
+        "Συνεδρίες"
+      ],
+      "Alle Sessions": [
+        "Όλες οι συνεδρίες"
+      ],
+      "Session bearbeiten": [
+        "Επεξεργασία συνεδρίας"
+      ],
+      "Session ansehen": [
+        "Προβολή συνεδρίας"
+      ],
+      "Sessions durchsuchen": [
+        "Αναζήτηση συνεδριών"
+      ],
+      "Keine Sessions gefunden.": [
+        "Δεν βρέθηκαν συνεδρίες."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Δεν υπάρχουν συνεδρίες στον κάδο απορριμμάτων."
+      ],
+      "Session-Daten": [
+        "Στοιχεία συνεδρίας"
+      ],
+      "Zugehörige Konferenz:": [
+        "Αντίστοιχο συνέδριο:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Δεν έχει επιλεγεί συνέδριο —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Ομιλητής & φορέας:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "π.χ. Ελένη Παπαδοπούλου (Παράδειγμα Α.Ε.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Αίθουσα / χώρος / θεματική ενότητα:"
+      ],
+      "Workshop-Kapazität:": [
+        "Χωρητικότητα εργαστηρίου:"
+      ],
+      "Speaker": [
+        "Ομιλητής"
+      ],
+      "Raum / Track": [
+        "Αίθουσα / ενότητα"
+      ],
+      "Zeitfenster": [
+        "Χρονική ζώνη"
+      ],
+      "Belegung": [
+        "συγκέντρωση προϊόντων στον θάλαμο"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Καλώς ορίσατε, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Επιλέξτε τις συνεδρίες σας. Η θέση δεσμεύεται κατά την αποθήκευση, εφόσον η συνεδρία δεν είναι πλήρης."
+      ],
+      "Anmeldung bestätigt": [
+        "Η εγγραφή επιβεβαιώθηκε"
+      ],
+      "Für diese Session eingetragen": [
+        "Εγγεγραμμένος/-η σε αυτή τη συνεδρία"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Επιλογή αυτής της συνεδρίας"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Η θέση δεσμεύεται κατά την αποθήκευση, εφόσον η συνεδρία δεν είναι πλήρης."
+      ],
+      "Sessions ausgewählt": [
+        "Επιλεγμένες συνεδρίες"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Αποθηκεύστε την επιλογή δεσμευτικά"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "Προεπιλογή θέματος WordPress (αυτόματη κληρονομικότητα)"
+      ],
+      "Empfohlen": [
+        "Προτείνεται"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Κληρονομεί απευθείας τυπογραφία, χρώματα, κουμπιά και αποστάσεις από το ενεργό θέμα WordPress (GeneratePress, Astra, Twenty Twenty-Four κ.λπ.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Βιολετί και ροζέ (σκούρο λιλά, βιολετί, ροζέ έμφαση)"
+      ],
+      "Farbstark": [
+        "Έντονο"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Σκούρο λιλά (#482683), φωτεινό βιολετί (#7D40E7), ροζέ έμφαση (#DF0079), Noto Sans εφόσον τη φορτώνει το θέμα, και μια διακριτική διαβάθμιση."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (ναυτικό μπλε και κυανό)"
+      ],
+      "High-Tech Dark": [
+        "Σκοτεινό υψηλής τεχνολογίας"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Εξειδικευμένη εμφάνιση υψηλής τεχνολογίας Dark & Cobalt με εφέ λάμψης, προσαρμοσμένα στην ασφάλεια και τα συνέδρια στον κυβερνοχώρο."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (Σχιστόλιθος & μονοχρωμία)"
+      ],
+      "Modern": [
+        "Μοντέρνο"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Καθαρός, λιτός σχεδιασμός SaaS με ουδέτερους τόνους του γκρι, λεπτά περιγράμματα και άπλετο λευκό χώρο."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (Κλασικό & θερμοί τόνοι)"
+      ],
+      "Klassik": [
+        "Κλασικό"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Θερμοί τόνοι ελεφαντόδοντου και μπορντό για ακαδημαϊκά συμπόσια και συνέδρια υψηλού κύρους."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Υψηλή αντίθεση (Μαύρο σε λευκό)"
+      ],
+      "Hochkontrast": [
+        "Υψηλή αντίθεση"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Μαύρο κείμενο σε λευκό φόντο (αντίθεση 21:1) με κίτρινη έμφαση και ενισχυμένα περιγράμματα εστίασης."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Προσαρμοσμένο θέμα (Προσαρμοσμένα χρώματα & CSS)"
+      ],
+      "Individuell": [
+        "Προσαρμοσμένο"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Ελεύθερος ορισμός χρωμάτων και υποστήριξη μεταφορτωμένων φύλλων στυλ CSS."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Δεν παραδόθηκε έγκυρο αρχείο προς μεταφόρτωση."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Σφάλμα ασφαλείας: επιτρέπεται η μεταφόρτωση μόνο απλών αρχείων .css."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Το αρχείο CSS υπερβαίνει το όριο των 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Δεν ήταν δυνατή η αποθήκευση του αρχείου θέματος στον διακομιστή."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Το προσαρμοσμένο CSS θέματος μεταφορτώθηκε και ενεργοποιήθηκε με επιτυχία."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Χώροι διεξαγωγής"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Χώρος διεξαγωγής"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Αναζήτηση χώρων διεξαγωγής"
+      ],
+      "Häufige Tagungsorte": [
+        "Δημοφιλείς χώροι διεξαγωγής"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Όλοι οι χώροι"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Επεξεργασία χώρου διεξαγωγής"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Ενημέρωση χώρου διεξαγωγής"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Προσθήκη νέου χώρου διεξαγωγής"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Όνομα νέου χώρου διεξαγωγής"
+      ],
+      "Orte mit Kommas trennen": [
+        "Διαχωρίστε τους χώρους με κόμμα"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Προσθήκη ή αφαίρεση χώρων"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Επιλογή από τους πιο συχνούς χώρους"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Δεν βρέθηκαν χώροι διεξαγωγής."
+      ],
+      "Stadt / Ort:": [
+        "Πόλη / περιοχή:"
+      ],
+      "z. B. Musterstadt": [
+        "π.χ. Αθήνα"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Δήμος ή πόλη του χώρου διεξαγωγής."
+      ],
+      "Straße & Hausnummer:": [
+        "Οδός & αριθμός:"
+      ],
+      "z. B. Musterstraße 1": [
+        "π.χ. Οδός Παραδείγματος 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Ταχυδρομικός κώδικας (Τ.Κ.):"
+      ],
+      "Land:": [
+        "Χώρα:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Μέγιστη χωρητικότητα αίθουσας (άτομα):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Προσβάσιμο σε αναπηρικό αμαξίδιο"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Επιλέξτε μόνο εφόσον έχει επαληθευτεί. Εμφανίζεται στη λίστα χώρων διεξαγωγής και στη διαδρομή REST /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL χάρτη / οδηγιών πρόσβασης:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Ιστότοπος χώρου διεξαγωγής:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Μέγιστη χωρητικότητα αίθουσας:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Χωρητικότητα καθήμενων του συνεδριακού χώρου."
+      ],
+      "Zugänglichkeit:": [
+        "Προσβασιμότητα:"
+      ],
+      "Google Maps Link:": [
+        "Σύνδεσμος χάρτη:"
+      ],
+      "Stadt & Adresse": [
+        "Πόλη & διεύθυνση"
+      ],
+      "Kapazität": [
+        "Χωρητικότητα"
+      ],
+      "Rollstuhlgerecht": [
+        "Πρόσβαση με αμαξίδιο"
+      ],
+      "Ja": [
+        "Ναι"
+      ],
+      "Nicht angegeben": [
+        "Δεν καθορίστηκε"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Πολύ υψηλός όγκος ταυτόχρονων αιτημάτων αυτή τη στιγμή. Δοκιμάστε ξανά σε %d δευτερόλεπτα. Δεν έχει δεσμευτεί θέση."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Χωρίς μόνιμη κρυφή μνήμη αντικειμένων (Redis, Memcached), η αίθουσα αναμονής καταμετρά στη βάση δεδομένων: τα απορριφθέντα αιτήματα παραλείπουν τα ερωτήματα κράτησης, αλλά κοστίζουν μία ανάγνωση και μία εγγραφή στον πίνακα επιλογών."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Μετρήσεις Cyber Events"
+      ],
+      "Cyber Events Kennzahl": [
+        "Μέτρηση Cyber Events"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Εμφανίζει ζωντανές μετρήσεις για ενεργά συνέδρια, επιβεβαιωμένες εγγραφές και ελεύθερες θέσεις."
+      ],
+      "Kennzahl": [
+        "Δείκτης"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Αναγνωριστικό εκδήλωσης (προαιρετικό)"
+      ],
+      "Dokumentation": [
+        "Τεκμηρίωση"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Καθορίστε ένα έγκυρο αναγνωριστικό εκδήλωσης: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Δεν βρέθηκε έγκυρο διακριτικό επιβεβαίωσης. Χρησιμοποιήστε τον σύνδεσμο από το e-mail σας."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Νεότερη ενεργή εκδήλωση (αυτόματα) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Αυτόματα (τρέχον συνέδριο)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Επιλογή εκδήλωσης"
+      ],
+      "Ziel-Konferenz": [
+        "Συνέδριο προορισμού"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Επιλέξτε το συνέδριο του οποίου τα στοιχεία εμφανίζονται στην κεντρική κεφαλίδα."
+      ],
+      "Design & Layout-Presets": [
+        "Προεπιλογές σχεδίασης & διάταξης"
+      ],
+      "Theme-Preset": [
+        "Προεπιλογή θέματος"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (προεπιλογή)"
+      ],
+      "Federal Blue": [
+        "Ομοσπονδιακό μπλε (Federal Blue)"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Κυανή λάμψη Cyberpunk (Cyberpunk Cyan Glow)"
+      ],
+      "Clean White & Modern": [
+        "Καθαρό λευκό & μοντέρνο (Clean White & Modern)"
+      ],
+      "Glassmorphism Blur": [
+        "Θόλωμα γυαλιού (Glassmorphism Blur)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Στρογγύλευση γωνιών (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Καμία (0px)"
+      ],
+      "Mittel (8px)": [
+        "Μεσαία (8px)"
+      ],
+      "Groß (16px)": [
+        "Μεγάλη (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Πολύ μεγάλη (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Ενεργοποίηση εφέ λάμψης (Glow)"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Κείμενα & κουμπιά προτροπής (CTA)"
+      ],
+      "Badge / Dachzeile": [
+        "Ετικέτα / υπέρτιτλος"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Προσαρμοσμένη κύρια επικεφαλίδα (προαιρετικό)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Προεπιλογή: τίτλος της εκδήλωσης"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Προσαρμοσμένο εισαγωγικό κείμενο"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Προεπιλογή: περιγραφή της εκδήλωσης"
+      ],
+      "Primärer CTA-Button Text": [
+        "Κείμενο κύριου κουμπιού CTA"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Σύνδεσμος / άγκυρα κύριου κουμπιού CTA"
+      ],
+      "Sekundären Button anzeigen": [
+        "Εμφάνιση δευτερεύοντος κουμπιού"
+      ],
+      "Sekundärer Button Text": [
+        "Κείμενο δευτερεύοντος κουμπιού"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Σύνδεσμος δευτερεύοντος κουμπιού"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Ορατότητα στοιχείων"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Εμφάνιση ζωντανού χρονόμετρου αντίστροφης μέτρησης"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Εμφάνιση ένδειξης ελεύθερων θέσεων / χωρητικότητας"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Εμφάνιση ένδειξης κατάστασης (ανοικτό/πλήρες)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Εμφάνιση χώρου διεξαγωγής"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Εμφάνιση ημερομηνίας & ώρας"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Εμφάνιση τιμής εισιτηρίου / σήματος δωρεάν συμμετοχής"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Εμφάνιση κουμπιού εξαγωγής ημερολογίου (.ics)"
+      ],
+      "Kopfbereich": [
+        "Κεντρική κεφαλίδα (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Προεπιλογή: περιγραφή της εκδήλωσης καθώς και ημερομηνία, χώρος, τιμή, ελεύθερες θέσεις, αντίστροφη μέτρηση και κουμπί εγγραφής."
+      ],
+      "Countdown": [
+        "Αντίστροφη μέτρηση"
+      ],
+      "Freie Plätze": [
+        "Ελεύθερες θέσεις"
+      ],
+      "Stil: %s": [
+        "Στυλ: %s"
+      ],
+      "Button: %s": [
+        "Κουμπί: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Επιλογή συνεδρίου"
+      ],
+      "Ziel-Veranstaltung": [
+        "Εκδήλωση προορισμού"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Επιλέξτε την εκδήλωση στην οποία εγγράφονται οι επισκέπτες."
+      ],
+      "Formular-Design & Theme": [
+        "Σχεδίαση & θέμα φόρμας"
+      ],
+      "Formular-Stil": [
+        "Στυλ φόρμας"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (προεπιλογή)"
+      ],
+      "Clean White Studio": [
+        "Καθαρό λευκό στούντιο (Clean White Studio)"
+      ],
+      "Eckenabrundung": [
+        "Στρογγύλευση γωνιών"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Πεδία φόρμας & επιλογές συλλογής στοιχείων"
+      ],
+      "Individueller Formulartitel": [
+        "Προσαρμοσμένος τίτλος φόρμας"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Προσαρμοσμένος υπότιτλος / σημείωση"
+      ],
+      "Standard: kein Untertitel": [
+        "Προεπιλογή: χωρίς υπότιτλο"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Εμφάνιση πεδίου οργανισμού / εταιρείας"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Εμφάνιση πλαισίου συγκατάθεσης φωτογραφιών & βίντεο"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Εμφάνιση κεφαλίδας βασικών στοιχείων στη φόρμα"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Ετικέτα κουμπιού & σύνδεσμοι απορρήτου"
+      ],
+      "Absende-Button Beschriftung": [
+        "Ετικέτα κουμπιού υποβολής"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Προσαρμοσμένο URL πολιτικής απορρήτου (προαιρετικό)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Προεπιλογή: σελίδα απορρήτου από Ρυθμίσεις > Απόρρητο"
+      ],
+      "Anmeldeformular": [
+        "Φόρμα εγγραφής"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Εγγραφή με διπλή επιβεβαίωση: το Brevo αποστέλλει τον σύνδεσμο επιβεβαίωσης και η εγγραφή ισχύει μόλις επιβεβαιωθεί."
+      ],
+      "Standard nach Ticketpreis": [
+        "Προεπιλογή βάσει τιμής εισιτηρίου"
+      ],
+      "Überschrift & Untertitel": [
+        "Επικεφαλίδα & υπότιτλος"
+      ],
+      "Überschrift": [
+        "Επικεφαλίδα"
+      ],
+      "Untertitel / Beschreibung": [
+        "Υπότιτλος / περιγραφή"
+      ],
+      "Suche, Angaben & Export": [
+        "Αναζήτηση, μεταδεδομένα & εξαγωγή"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Εμφάνιση πεδίου ζωντανής αναζήτησης συνεδριών"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Εμφάνιση στοιχείων αίθουσας και χώρου"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Εμφάνιση εικόνων ομιλητών"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Εμφάνιση πλήρους εξαγωγής ημερολογίου (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Συνεδρίες σε χρονολογική σειρά με αίθουσα, ομιλητή, περιγραφή, αναζήτηση και εξαγωγή .ics."
+      ],
+      "Suche": [
+        "Αναζήτηση"
+      ],
+      ".ics-Download": [
+        "Λήψη .ics"
+      ],
+      "Layout & Spalten": [
+        "Διάταξη & στήλες"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Αριθμός στηλών (υπολογιστής)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Κείμενα & εμφάνιση λεπτομερειών"
+      ],
+      "Untertitel": [
+        "Υπότιτλος"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Εμφάνιση θέματος ομιλίας συνεδρίας"
+      ],
+      "Raumangabe anzeigen": [
+        "Εμφάνιση ένδειξης αίθουσας"
+      ],
+      "Uhrzeit anzeigen": [
+        "Εμφάνιση ώρας έναρξης"
+      ],
+      "Konferenz: ": [
+        "Συνέδριο: "
+      ],
+      "%d Spalten": [
+        "%d στήλες"
+      ],
+      "Vortragsthemen": [
+        "Θέματα ομιλιών"
+      ],
+      "Titel": [
+        "Τίτλος"
+      ],
+      "Individueller Titel": [
+        "Προσαρμοσμένος τίτλος"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Υπηρεσίες & επιλογές ημερολογίου"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Εμφάνιση Apple / Outlook (αρχείο .ics)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Εμφάνιση απευθείας συνδέσμου Ημερολογίου Google"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Εμφάνιση απευθείας συνδέσμου Outlook Web"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Εμφάνιση απευθείας συνδέσμου Microsoft 365"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Εμφάνιση σημείωσης ζώνης ώρας"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Εμφάνιση σημείωσης υπενθύμισης στο αρχείο .ics"
+      ],
+      "Kalender": [
+        "Ημερολόγιο"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Αρχείο .ics με υπενθύμιση μία ημέρα πριν από την έναρξη και συνδέσμους προς το Ημερολόγιο Google, το Outlook Web και το Microsoft 365."
+      ],
+      ".ics-Datei": [
+        "Αρχείο .ics"
+      ],
+      "Session-Auswahl": [
+        "Επιλογέας συνεδριών"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Αυτό το μπλοκ δεν έχει ρυθμίσεις. Εμφανίζει τις συνεδρίες για το διακριτικό του συνδέσμου επιβεβαίωσης· χωρίς διακριτικό εμφανίζεται ειδοποίηση."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Η θέση δεσμεύεται κατά την αποθήκευση, εφόσον η συνεδρία δεν είναι πλήρης."
+      ],
+      "Ticketpass-Optionen": [
+        "Επιλογές κάρτας εισιτηρίου"
+      ],
+      "Pass-Überschrift": [
+        "Τίτλος κάρτας"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Γραμμή κεφαλίδας (προεπιλογή: τίτλος εκδήλωσης)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Εμφάνιση κουμπιού εκτύπωσης (εκτύπωση κάρτας)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Εμφάνιση αριθμού εισιτηρίου"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Εμφάνιση αριθμού τιμολογίου / αναφοράς"
+      ],
+      "Check-In Status anzeigen": [
+        "Εμφάνιση κατάστασης προσέλευσης"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Κάρτα για επιβεβαιωμένες εγγραφές, προσβάσιμη μέσω του διακριτικού από το e-mail επιβεβαίωσης: όνομα, εταιρεία, κατάσταση, αριθμός τιμολογίου, αριθμός εισιτηρίου και κουμπί εκτύπωσης."
+      ],
+      "Ticketnummer": [
+        "Αριθμός εισιτηρίου"
+      ],
+      "Druckfunktion": [
+        "Λειτουργία εκτύπωσης"
+      ],
+      "Titel der Veranstaltung": [
+        "Τίτλος εκδήλωσης"
+      ],
+      "Layout & Farbschema": [
+        "Διάταξη & χρωματικό σχήμα"
+      ],
+      "Raster-Layout": [
+        "Διάταξη πλέγματος"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "Πλέγμα 4 στηλών (προεπιλογή)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "Πλέγμα 2 στηλών (ευρύ)"
+      ],
+      "Farbthema": [
+        "Χρωματικό θέμα"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (προεπιλογή)"
+      ],
+      "Angezeigte Karten": [
+        "Εμφανιζόμενες κάρτες"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Κάρτες που περιγράφουν τη λειτουργία του προσθέτου. Το μπλοκ δεν αξιολογεί τη νομική συμμόρφωση του ιστοτόπου."
+      ],
+      "Double Opt-in": [
+        "Διπλή επιβεβαίωση (Double Opt-in)"
+      ],
+      "Formulare": [
+        "Φόρμες"
+      ],
+      "Eigene Assets": [
+        "Αυτοφιλοξενούμενοι πόροι"
+      ],
+      "Abfrage & Filterung": [
+        "Ερωτήματα & φιλτράρισμα"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Μέγιστος αριθμός συνεδρίων"
+      ],
+      "Status-Filter": [
+        "Φίλτρο κατάστασης"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Μόνο ενεργές εκδηλώσεις"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Ενεργές και αρχειοθετημένες εκδηλώσεις"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Μόνο αρχειοθετημένες εκδηλώσεις"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Ορατά μεταδεδομένα & κουμπιά"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Εμφάνιση γραμμής ζωντανής αναζήτησης"
+      ],
+      "Preisschild anzeigen": [
+        "Εμφάνιση ετικέτας τιμής"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Εμφάνιση χώρου διεξαγωγής / τοποθεσίας"
+      ],
+      "Datums-Badge anzeigen": [
+        "Εμφάνιση σήματος ημερομηνίας"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Εμφάνιση απευθείας συνδέσμου ημερολογίου .ics"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Εμφάνιση σύντομης περιγραφής"
+      ],
+      "CTA-Button Beschriftung": [
+        "Ετικέτα κουμπιού CTA"
+      ],
+      "Veranstaltungsübersicht": [
+        "Επισκόπηση εκδηλώσεων"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Πλέγμα εκδηλώσεων με ημερομηνία, τιμή, τοποθεσία, σύνοψη, κουμπί εγγραφής και σύνδεσμο .ics."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Μέγ. %d εκδηλώσεις"
+      ],
+      "Cyber Events Sitzplan": [
+        "Πλάνο θέσεων Cyber Events"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Ρυθμίσεις πλάνου θέσεων"
+      ],
+      "Überschrift (optional)": [
+        "Επικεφαλίδα (προαιρετικό)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Περιγραφή (προαιρετικό)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Ενεργοποίηση ζωντανής ενημέρωσης"
+      ],
+      "Sitzplan": [
+        "Πλάνο θέσεων"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Γραφική επισκόπηση πληρότητας όλων των συνεδριών μιας εκδήλωσης με προσβάσιμο πίνακα δεδομένων."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Ημερολόγιο πολλαπλών προβολών Cyber Events"
+      ],
+      "Ansichten & Datenquelle": [
+        "Προβολές & πηγή δεδομένων"
+      ],
+      "Standardansicht": [
+        "Προεπιλεγμένη προβολή"
+      ],
+      "Monatskalender": [
+        "Μηνιαίο ημερολόγιο"
+      ],
+      "Wochenplan": [
+        "Εβδομαδιαίο πρόγραμμα"
+      ],
+      "Tagesagenda": [
+        "Ημερήσιο πρόγραμμα"
+      ],
+      "Listenansicht": [
+        "Προβολή λίστας"
+      ],
+      "Kartenansicht": [
+        "Προβολή καρτών"
+      ],
+      "Raumübersicht": [
+        "Επισκόπηση αιθουσών"
+      ],
+      "Track-Matrix": [
+        "Πίνακας θεματικών ενοτήτων"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Μέγιστος αριθμός εγγραφών"
+      ],
+      "Bedienleiste & Filter": [
+        "Γραμμή εργαλείων & φίλτρα"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Εμφάνιση εναλλαγής προβολής"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Εμφάνιση φίλτρων ενοτήτων και αιθουσών"
+      ],
+      "Suchfeld anzeigen": [
+        "Εμφάνιση πεδίου αναζήτησης"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Εμφάνιση γραμμής ενημερώσεων"
+      ],
+      "Kalender-Ansichten": [
+        "Προβολές ημερολογίου"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Ημερολόγιο & πρόγραμμα πολλαπλών προβολών"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Εναλλασσόμενες προβολές μήνα, εβδομάδας, ημέρας, λίστας, καρτών, αιθουσών και θεματικών ενοτήτων."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Πρόγραμμα συνεδρίου Cyber Events"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Διαδραστικό πρόγραμμα συνεδρίου πολλαπλών ενοτήτων με χρονογραμμή, στοιχεία ομιλητών, φίλτρα αιθουσών και λήψη iCal (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (Ημερολόγιο, πρόγραμμα & ενότητες)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Εκτεταμένη σουίτα ημερολογίου & προγράμματος με 7 διαδραστικές προβολές: μηνιαίο ημερολόγιο, εβδομαδιαίο πρόγραμμα, ημερήσιο πρόγραμμα, προβολή λίστας, κάρτες φωτογραφιών, χάρτη αιθουσών και πίνακα πολλαπλών ενοτήτων."
+      ],
+      "block keyword\u0004event": [
+        "εκδήλωση"
+      ],
+      "block keyword\u0004calendar": [
+        "ημερολόγιο"
+      ],
+      "block keyword\u0004agenda": [
+        "πρόγραμμα"
+      ],
+      "block keyword\u0004schedule": [
+        "ωρολόγιο"
+      ],
+      "block keyword\u0004summit": [
+        "συνέδριο"
+      ],
+      "block keyword\u0004timetable": [
+        "διάγραμμα"
+      ],
+      "block keyword\u0004matrix": [
+        "πίνακας"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Ημερολόγιο & γραφικό στοιχείο .ics Cyber Events"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Γραφικό στοιχείο ημερολογίου με λήψη .ics και συνδέσμους προς Ημερολόγιο Google, Outlook Web και Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Κεντρική κεφαλίδα & αντίστροφη μέτρηση Cyber Event"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Κεντρικό banner εκδήλωσης με αντίστροφη μέτρηση, βασικά στοιχεία, ένδειξη κατάστασης και κουμπιά εγγραφής."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Πλέγμα επισκόπησης & αρχείου Cyber Events"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Δυναμική επισκόπηση καρτών επερχόμενων συνεδρίων, συμποσίων και εργαστηρίων με γραμμή αναζήτησης και φίλτρα κατάστασης."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Φόρμα εγγραφής Cyber Events"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Φόρμα εγγραφής με διπλή επιβεβαίωση Brevo, προαιρετική φωτογραφία προφίλ και συγκατάθεση φωτογράφισης."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Πλάνο θέσεων Cyber Events"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Πληρότητα όλων των συνεδριών μιας εκδήλωσης σε μορφή SVG, με συνεχή ενημέρωση μέσω Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Σήματα ασφάλειας & εμπιστοσύνης Cyber Events"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Επισκόπηση των λειτουργιών απορρήτου και ασφάλειας του προσθέτου: διπλή επιβεβαίωση, χρόνοι διατήρησης, αρχείο ελέγχου, XML τιμολογίων."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Επιλογέας συνεδριών & εργαστηρίων Cyber Events"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Επιλογέας συνεδριών για επιβεβαιωμένες εγγραφές: οι θέσεις δεσμεύονται κατά την αποθήκευση εφόσον υπάρχει διαθεσιμότητα."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Πλέγμα ομιλητών & ειδικών Cyber Events"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Αυτόματα παραγόμενη επισκόπηση κεντρικών ομιλητών, εισηγήσεων, κατανομής αιθουσών και βιογραφικών στοιχείων."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Ψηφιακή κάρτα εισιτηρίου Cyber Events"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Κάρτα συμμετέχοντα για επιβεβαιωμένες εγγραφές με αριθμό εισιτηρίου, εκδήλωση, χώρο διεξαγωγής και κουμπί εκτύπωσης."
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/events-grid",
+	"version": "1.1.0",
+	"title": "Cyber Events Übersicht & Archiv Grid",
+	"category": "cyber-events",
+	"icon": "grid-view",
+	"description": "Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"limit": {
+			"type": "integer",
+			"default": 6
+		},
+		"columns": {
+			"type": "integer",
+			"default": 3
+		},
+		"cardStyle": {
+			"type": "string",
+			"default": "enterprise-dark"
+		},
+		"filterStatus": {
+			"type": "string",
+			"default": "active"
+		},
+		"showSearch": {
+			"type": "boolean",
+			"default": true
+		},
+		"showPriceTag": {
+			"type": "boolean",
+			"default": true
+		},
+		"showLocation": {
+			"type": "boolean",
+			"default": true
+		},
+		"showDateBadge": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCalendarQuickLink": {
+			"type": "boolean",
+			"default": true
+		},
+		"showDescription": {
+			"type": "boolean",
+			"default": true
+		},
+		"ctaButtonText": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

@@ -1,0 +1,51 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/ticket-pass-verifier",
+	"version": "1.1.0",
+	"title": "Cyber Events Digitaler Ticket-Pass",
+	"category": "cyber-events",
+	"icon": "tickets-alt",
+	"description": "Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"passTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"organizationName": {
+			"type": "string",
+			"default": ""
+		},
+		"cardStyle": {
+			"type": "string",
+			"default": "badge-card"
+		},
+		"showPrintButton": {
+			"type": "boolean",
+			"default": true
+		},
+		"showQrMatrix": {
+			"type": "boolean",
+			"default": true
+		},
+		"showInvoiceRef": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCheckinStatus": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

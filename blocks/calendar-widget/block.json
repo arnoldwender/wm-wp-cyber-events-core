@@ -1,0 +1,59 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/calendar-widget",
+	"version": "1.1.0",
+	"title": "Cyber Events Kalender & .ics Widget",
+	"category": "cyber-events",
+	"icon": "calendar",
+	"description": "Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"cardStyle": {
+			"type": "string",
+			"default": "glass-modern"
+		},
+		"customTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"showAppleIcs": {
+			"type": "boolean",
+			"default": true
+		},
+		"showGoogleCal": {
+			"type": "boolean",
+			"default": true
+		},
+		"showOutlookWeb": {
+			"type": "boolean",
+			"default": true
+		},
+		"showOffice365": {
+			"type": "boolean",
+			"default": true
+		},
+		"showTimezone": {
+			"type": "boolean",
+			"default": true
+		},
+		"showReminderNotice": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

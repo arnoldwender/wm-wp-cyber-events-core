@@ -1,0 +1,2824 @@
+{
+  "translation-revision-date": "2026-11-21T14:02:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "nl_NL",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Evenementen, sessies en aanmeldingen met double opt-in via Brevo, check-in, factuur-XML (EN 16931) en DATEV-export."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Evenement niet gevonden of niet meer actief."
+      ],
+      "Verbindlich anmelden": [
+        "Aanmelden met betalingsverplichting"
+      ],
+      "Kostenfrei anmelden": [
+        "Gratis aanmelden"
+      ],
+      "Datum": [
+        "Datum"
+      ],
+      "Veranstaltungsort": [
+        "Locatie"
+      ],
+      "Einlass": [
+        "Inloop"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Na bevestiging via de link in de e-mail"
+      ],
+      "Kontaktdaten": [
+        "Contactgegevens"
+      ],
+      "Einwilligung": [
+        "Toestemming"
+      ],
+      "Bestätigung": [
+        "Bevestiging"
+      ],
+      "Vorname": [
+        "Voornaam"
+      ],
+      "z. B. Erika": [
+        "bijv. Sanne"
+      ],
+      "Nachname": [
+        "Achternaam"
+      ],
+      "z. B. Mustermann": [
+        "bijv. Jansen"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Zakelijk e-mailadres"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Instelling / overheidsinstantie / bedrijf"
+      ],
+      "z. B. Beispiel GmbH": [
+        "bijv. Voorbeeld B.V."
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profielfoto voor deelnemerspas (optioneel)"
+      ],
+      "Profilbild Vorschau": [
+        "Voorbeeld profielfoto"
+      ],
+      "Foto auswählen": [
+        "Foto kiezen"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG of WebP · max. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Toestemming privacy & double opt-in *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Ik geef toestemming voor de verwerking van mijn gegevens voor deelname aan de conferentie conform de AVG. Ter verificatie ontvang ik een bevestigingslink per e-mail."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Privacyverklaring lezen"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Foto- en video-opnamen (portretrecht)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Ik geef toestemming dat er tijdens het evenement foto- en video-opnamen van mij mogen worden gemaakt voor de public relations van de organisator."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Mission Control & bezetting"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "CyberEvents Enterprise Engine actief"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Capaciteitsbeheer, DATEV-export en check-in"
+      ],
+      "Events": [
+        "Evenementen"
+      ],
+      "Bestätigte Gäste": [
+        "Bevestigde gasten"
+      ],
+      "Ausstehende DOI": [
+        "Openstaande DOI"
+      ],
+      "Mission Control öffnen": [
+        "Mission Control openen"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "AVG-toestemming vereist"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Deze export bevat beschermde persoonsgegevens in de zin van art. 4 punt 1 AVG. Vóór het downloaden moet u bevestigen dat u de gegevens vertrouwelijk behandelt, uitsluitend doelgebonden verwerkt en na afloop van het evenement conform de privacywetgeving verwijdert."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Terug naar boekingsbeheer"
+      ],
+      "DSGVO-Schutz": [
+        "AVG-bescherming"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Het exporteren van financiële en debiteurengegevens vereist de bevestiging dat de gegevens vertrouwelijk en uitsluitend voor de boekhouding worden gebruikt."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Terug naar DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV-export"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Onvoldoende rechten."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Dashboard & KPI's"
+      ],
+      "Dashboard": [
+        "Dashboard"
+      ],
+      "Alle Veranstaltungen": [
+        "Alle evenementen"
+      ],
+      "Veranstaltungen": [
+        "Evenementen"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Nieuw evenement aanmaken"
+      ],
+      "Neue Veranstaltung": [
+        "Nieuw evenement"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Locaties & congrescentra"
+      ],
+      "Veranstaltungsorte": [
+        "Locaties"
+      ],
+      "Sessions & Agenda": [
+        "Sessies & programma"
+      ],
+      "Neue Session erstellen": [
+        "Nieuwe sessie aanmaken"
+      ],
+      "Neue Session": [
+        "Nieuwe sessie"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Deelnemers & boekingen"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV-import & onboarding"
+      ],
+      "CSV-Import": [
+        "CSV-import"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Financiën & DATEV-export"
+      ],
+      "Finanzen & DATEV": [
+        "Financiën & DATEV"
+      ],
+      "Audit-Log": [
+        "Auditlogboek"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Instellingen & Theme Studio"
+      ],
+      "Einstellungen": [
+        "Instellingen"
+      ],
+      "Handbuch & Dokumentation": [
+        "Handboek & documentatie"
+      ],
+      "Handbuch": [
+        "Handboek"
+      ],
+      "Events & Konferenzen": [
+        "Evenementen & conferenties"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Rechten voor evenementen- en conferentiebeheer."
+      ],
+      "Teilnehmer verwalten": [
+        "Deelnemers beheren"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Maakt het inzien en exporteren van evenementaanmeldingen mogelijk zonder volledige WordPress-beheerderstoegang."
+      ],
+      "Einstellungen & Theme": [
+        "Instellingen & thema"
+      ],
+      "Handbuch & Doku": [
+        "Handboek & documentatie"
+      ],
+      "Plugin-Navigation": [
+        "Pluginnavigatie"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Evenement succesvol opgeslagen!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "De gegevens zijn synchroon bijgewerkt in de database en in WordPress."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Evenement verwijderd!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Het record is verwijderd en het bericht is naar de prullenbak verplaatst."
+      ],
+      "Demodaten angelegt.": [
+        "Demogegevens aangemaakt."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Voorbeeldevenement, sessies en voorbeelddeelnemers zijn aangemaakt; facturen worden alleen aangemaakt wanneer de gegevens van de factuurafzender zijn ingesteld."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents Command Console"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Evenementen, sessies en aanmeldingen met double opt-in via Brevo, check-in, factuur-XML en DATEV-export."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Onderdeel van de WM Suite-pluginfamilie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub-modus"
+      ],
+      "Standalone": [
+        "Zelfstandig"
+      ],
+      "Demo-Daten auffrischen": [
+        "Demogegevens vernieuwen"
+      ],
+      "Springen zu:": [
+        "Spring naar:"
+      ],
+      "Kurzanleitung": [
+        "Snelstartgids"
+      ],
+      "Kennzahlen": [
+        "Kerncijfers"
+      ],
+      "Rechnungen": [
+        "Facturen"
+      ],
+      "Audit-Protokoll": [
+        "Auditlogboek"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Wat doet CyberEvents en wat vindt u op dit scherm?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "De plugin beheert evenementen met sessies en aanmeldingen. Deelnemers bevestigen hun aanmelding via een double-opt-in-link die door Brevo wordt verzonden (API-sleutel vereist), kiezen daarna sessies waarvan de plaatsen niet overboekt kunnen worden en worden bij de ingang via hun token ingecheckt. Facturen worden gegenereerd als CII-XML (EN 16931) en kunnen als DATEV-boekingsbatch worden geëxporteerd."
+      ],
+      "Schnellzugriff:": [
+        "Snelle toegang:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Deelnemers en aanmeldingen"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Facturen als DATEV-batch exporteren"
+      ],
+      "Event Auslastung": [
+        "Bezettingsgraad evenementen"
+      ],
+      "Kritisch": [
+        "Kritiek"
+      ],
+      "Optimal": [
+        "Optimaal"
+      ],
+      "Max. Kapazität:": [
+        "Max. capaciteit:"
+      ],
+      "Gebucht:": [
+        "Geboekt:"
+      ],
+      "Live Check-In Counter": [
+        "Live check-in-teller"
+      ],
+      "Anwesend": [
+        "Aanwezig"
+      ],
+      "Registriert:": [
+        "Geregistreerd:"
+      ],
+      "Eingecheckt:": [
+        "Ingecheckt:"
+      ],
+      "Wartend:": [
+        "Wachtend:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Nieuwe aanmeldingen (24 u)"
+      ],
+      "Sessions": [
+        "Sessies"
+      ],
+      "in 24 h": [
+        "in 24 u"
+      ],
+      "Ausstehende DOI:": [
+        "Openstaande DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "Brevo CRM-wachtrijtelemetrie"
+      ],
+      "Jobs": [
+        "Taken"
+      ],
+      "Verarbeitung": [
+        "Verwerking"
+      ],
+      "Verarbeitet:": [
+        "Verwerkt:"
+      ],
+      "Schnellaktionen": [
+        "Snelle acties"
+      ],
+      "Neue Konferenz anlegen": [
+        "Nieuwe conferentie aanmaken"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Deelnemerslijst & check-in"
+      ],
+      "CSV-Batch Import": [
+        "CSV-batchimport"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Evenementoverzicht & bezettingsmonitoring"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Bevestigde aanmeldingen per evenement ten opzichte van de ingestelde capaciteit."
+      ],
+      "Event suchen...": [
+        "Evenement zoeken..."
+      ],
+      "Neue Konferenz": [
+        "Nieuwe conferentie"
+      ],
+      "Konferenz / Event": [
+        "Conferentie / evenement"
+      ],
+      "Zeitraum": [
+        "Periode"
+      ],
+      "Ort": [
+        "Plaats"
+      ],
+      "Kapazität & Belegung": [
+        "Capaciteit & bezetting"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Aktionen": [
+        "Acties"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Geen evenementen gevonden."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Bewerken in de Gutenberg-blokeditor"
+      ],
+      "Bearbeiten": [
+        "Bewerken"
+      ],
+      "Schnellbearbeitung": [
+        "Snel bewerken"
+      ],
+      "Vorschau": [
+        "Voorbeeld"
+      ],
+      "Teilnehmer (%d)": [
+        "Deelnemers (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Wilt u dit evenement echt definitief verwijderen?"
+      ],
+      "Löschen": [
+        "Verwijderen"
+      ],
+      "%d Sessions": [
+        "%d sessies"
+      ],
+      "/ %d Plätze": [
+        "/ %d plaatsen"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(zonder capaciteitslimiet)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Bewerken in de Gutenberg-editor"
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Snel bewerken openen"
+      ],
+      "Quick": [
+        "Snel"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Frontendpagina bekijken"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Geldige en geannuleerde facturen evenals onbevestigde aanmeldingen."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Bruto, geldige facturen"
+      ],
+      "Gültige Rechnungen": [
+        "Geldige facturen"
+      ],
+      "Storniert": [
+        "Geannuleerd"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Onbevestigde aanmeldingen"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV-export & auditlogboek"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Boekingsbatch van facturen en creditnota's voor een periode; stem grootboekrekeningen en btw-codes af met uw belastingadviseur."
+      ],
+      "DATEV Format": [
+        "DATEV-formaat"
+      ],
+      "Kategorie 21 (v13)": [
+        "Categorie 21 (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256-keten"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonimisering na 90 dagen"
+      ],
+      "DATEV Export Studio öffnen": [
+        "DATEV Export Studio openen"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Auditlogboek bekijken"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Doorlopend gekoppeld auditlogboek: elke vermelding ondertekent zijn voorganger mee, zodat latere wijzigingen, verwijderingen en invoegingen opvallen. Manipulatiebewijs, geen onveranderlijkheid — wie wp-config.php kan lezen, beschikt over de sleutel."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Volledig auditlogboek openen"
+      ],
+      "Zeitstempel": [
+        "Tijdstempel"
+      ],
+      "Ereignis-Typ": [
+        "Gebeurtenistype"
+      ],
+      "Benutzer / System": [
+        "Gebruiker / systeem"
+      ],
+      "Objekt-ID": [
+        "Object-ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Auditdetails & bewijs"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Tot nu toe zijn er geen auditregels vastgelegd."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Evenement bewerken / snelle configuratie"
+      ],
+      "Schließen": [
+        "Sluiten"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Titel van de conferentie / het evenement:"
+      ],
+      "URL-Slug:": [
+        "URL-slug:"
+      ],
+      "Tagungsort / Location:": [
+        "Conferentielocatie / adres:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Start (datum & tijd):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Einde (datum & tijd):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Max. deelnemerscapaciteit:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Ticketprijs (netto in €):"
+      ],
+      "Status:": [
+        "Status:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Actief (gepubliceerd)"
+      ],
+      "Entwurf (Draft)": [
+        "Concept"
+      ],
+      "Archiviert": [
+        "Gearchiveerd"
+      ],
+      "Kostenpflichtig": [
+        "Betaald"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Openen in de Gutenberg-blokeditor"
+      ],
+      "Abbrechen": [
+        "Annuleren"
+      ],
+      "Änderungen speichern": [
+        "Wijzigingen opslaan"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Deelnemersgegevens succesvol bijgewerkt!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "De registratiegegevens en de status zijn opgeslagen in de database."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Deelnemer verwijderd!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "De aanmelding en alle bijbehorende sessieboekingen zijn verwijderd."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Check-in-status bijgewerkt!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "De aanwezigheidsstatus van de deelnemer is omgeschakeld."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Double opt-in bevestigd!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "De aanmelding is handmatig als bevestigd gemarkeerd."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Deelnemers- & boekingsbeheer"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Alle aanmeldingen met double-opt-in-status, sessieboekingen en facturen."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Naambadges / deelnemerslijst (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Gefilterd op conferentie: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Filter wissen"
+      ],
+      "Alle Teilnehmer": [
+        "Alle deelnemers"
+      ],
+      "Bestätigt": [
+        "Bevestigd"
+      ],
+      "Ausstehend DOI": [
+        "Openstaande DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Zoek op naam, e-mail of bedrijf..."
+      ],
+      "Teilnehmer": [
+        "Deelnemer"
+      ],
+      "Organisation / Firma": [
+        "Organisatie / bedrijf"
+      ],
+      "Check-In": [
+        "Check-in"
+      ],
+      "Rechnung": [
+        "Factuur"
+      ],
+      "Anmeldedatum": [
+        "Aanmelddatum"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Geen aanmeldingen gevonden."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Deelnemersgegevens bewerken"
+      ],
+      "Auschecken": [
+        "Uitchecken"
+      ],
+      "Einchecken": [
+        "Inchecken"
+      ],
+      "DOI bestätigen": [
+        "DOI bevestigen"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Wilt u deze deelnemer echt definitief verwijderen?"
+      ],
+      "Status umschalten": [
+        "Status omschakelen"
+      ],
+      "Eingecheckt": [
+        "Ingecheckt"
+      ],
+      "Nicht vor Ort": [
+        "Niet aanwezig"
+      ],
+      "Rechnungs-XML": [
+        "Factuur-XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Gratis / geen"
+      ],
+      "Edit": [
+        "Bewerken"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Wilt u deze deelnemer echt verwijderen?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Deelnemersgegevens bewerken / deelnemersbeheer"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profielfoto / pasfoto deelnemer (JPG, PNG, WebP · max. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Foto verwijderen"
+      ],
+      "Vorname:": [
+        "Voornaam:"
+      ],
+      "Nachname:": [
+        "Achternaam:"
+      ],
+      "E-Mail-Adresse:": [
+        "E-mailadres:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organisatie / bedrijf / overheidsinstantie:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Toegewezen conferentie:"
+      ],
+      "Anmeldestatus:": [
+        "Aanmeldstatus:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Bevestigd"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "In afwachting (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Geannuleerd"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Onbestelbaar (bounced)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Check-in-status (op locatie):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Nee / niet op locatie"
+      ],
+      "Ja / Eingecheckt": [
+        "Ja / ingecheckt"
+      ],
+      "Rechnungsnummer:": [
+        "Factuurnummer:"
+      ],
+      "Zahlungsstatus:": [
+        "Betalingsstatus:"
+      ],
+      "Kostenfrei (Free)": [
+        "Gratis"
+      ],
+      "Ausstehend (Pending)": [
+        "In afwachting"
+      ],
+      "Bezahlt (Paid)": [
+        "Betaald"
+      ],
+      "Erstattet (Refunded)": [
+        "Terugbetaald"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "AVG-privacytoestemming verleend"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Toestemming foto- & video-opnamen verleend"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "AVG-privacy & exporttoestemming"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Bescherming van persoonsgegevens (art. 4 & 5 AVG)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Deze export genereert een CSV-bestand met gevoelige persoonsgegevens van deelnemers (volledige namen, bedrijven, zakelijke e-mailadressen, factuurreferenties en check-in-status)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Doelbinding (art. 5 lid 1 sub b AVG):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "De gegevens mogen uitsluitend worden gebruikt voor de operationele uitvoering van het evenement (bijv. afdrukken van naambadges en accreditatie bij de ingang)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Vertrouwelijkheid & beveiliging (art. 5 lid 1 sub f AVG):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Doorgifte aan onbevoegde derden of opslag op onversleutelde mobiele apparaten is verboden."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Verwijderingsplicht (art. 17 AVG):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Na afloop van de conferentie moet het geëxporteerde lokale bestand onverwijld en conform de privacywetgeving worden verwijderd."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Ik bevestig de AVG-toestemming:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Ik neem er kennis van dat deze export vertrouwelijke persoonsgegevens bevat. Ik verplicht mij tot een doelgebonden, zorgvuldige verwerking en tot strikte naleving van de wettelijke privacyvoorschriften."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "CSV-export nu veilig downloaden"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Factuur-XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "XML naar klembord kopiëren"
+      ],
+      "Keine Berechtigung.": [
+        "Geen toestemming."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Beveiligingsfout: alleen echte CSV-bestanden zijn toegestaan."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Het bestand is te groot (maximaal 5 MB toegestaan)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Selecteer een evenement en lever CSV-gegevens aan."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "CSV-batchimport deelnemers (duplicaatbescherming TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Geautomatiseerde import van deelnemerslijsten uit externe systemen met strikte preventie van dubbele aanmeldingen."
+      ],
+      "Import-Zusammenfassung": [
+        "Importsamenvatting"
+      ],
+      "Gesamtzeilen": [
+        "Totaal aantal rijen"
+      ],
+      "Neu Importiert": [
+        "Nieuw geïmporteerd"
+      ],
+      "Dubletten abgewiesen": [
+        "Duplicaten geweigerd"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Nieuwe deelnemerslijst importeren"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Doelevenement *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Evenement selecteren —"
+      ],
+      "CSV-Datei auswählen": [
+        "CSV-bestand kiezen"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Indeling: Voornaam;Achternaam;E-mail;Bedrijf (gescheiden door puntkomma of komma, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Of CSV-tekst plakken"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "CSV-import nu uitvoeren"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF Boekingsbatch Studio"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Gestandaardiseerde financiële export (categorie 21, formaatversie 700 / 125 velden) voor belastingadviseurs en DATEV-boekhouding."
+      ],
+      "Exportzeitraum festlegen": [
+        "Exportperiode selecteren"
+      ],
+      "Laufender Monat": [
+        "Huidige maand"
+      ],
+      "Vormonat": [
+        "Vorige maand"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Volledig jaar 2026"
+      ],
+      "Datum von *": [
+        "Datum vanaf *"
+      ],
+      "Datum bis *": [
+        "Datum tot en met *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Bevestiging voor de export van debiteurengegevens:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Ik bevestig dat de export van financiële gegevens en factuurontvangers persoonsgegevens bevat en uitsluitend voor de wettelijk verplichte boekhouding en fiscale verwerking aan het geautoriseerde belastingadvieskantoor wordt doorgegeven."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "DATEV EXTF-boekingsbatch (.csv) downloaden"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Gekoppeld controlespoor van alle beveiligingsrelevante handelingen, double opt-ins, annuleringen en toegangsverificaties."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Auditketen intact — %1$d items inhoudelijk gecontroleerd, %2$d gepseudonimiseerd (ketenpositie gecontroleerd)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Auditketen NIET intact"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d item(s) stammen van vóór de ketenkoppeling en hebben geen verifieerbare handtekening. Ze gelden als ongecontroleerd, niet als intact."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY is niet gedefinieerd: de ketensleutel komt uit de database — precies de plek waar een aanvaller met schrijfrechten wijzigingen zou aanbrengen. Definieer AUTH_KEY in wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Tijdstip"
+      ],
+      "Ereignistyp": [
+        "Gebeurtenistype"
+      ],
+      "Referenz-ID": [
+        "Referentie-ID"
+      ],
+      "IP-Adresse": [
+        "IP-adres"
+      ],
+      "Audit-Details (JSON)": [
+        "Auditdetails (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Geen logboekregels gevonden."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Evenement \"%1$s\" aangemaakt met %2$d sessies en %3$d deelnemers."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demogegevens succesvol geïmporteerd!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "%1$d evenementen, %2$d sessies, %3$d aanmeldingen en %4$d facturen zijn verwijderd."
+      ],
+      "Demodaten bereinigt!": [
+        "Demogegevens opgeschoond!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Fabrieksinstellingen hersteld!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Alle tabellen zijn geleegd en de instellingen zijn teruggezet."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Geüpload themabestand is verwijderd."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Instellingen veilig opgeslagen."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Enterprise-configuratie & beveiliging"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Ontwerp, Brevo, facturen en DATEV, botbescherming en demogegevens."
+      ],
+      "Design & Theme Studio": [
+        "Ontwerp & Theme Studio"
+      ],
+      "Brevo CRM & Webhooks": [
+        "Brevo CRM & webhooks"
+      ],
+      "Rechnungen & DATEV": [
+        "Facturen & DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Botbescherming (Friendly Captcha)"
+      ],
+      "Demodaten & Reset": [
+        "Demogegevens & reset"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Frontend-designsysteem & thema-overerving"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Kies hoe evenementen en boekingsformulieren op de frontend worden vormgegeven. Standaard neemt de plugin naadloos alle lettertypen, kleuren en knoppen over van het actieve WordPress-thema."
+      ],
+      "Primärfarbe": [
+        "Primaire kleur"
+      ],
+      "Akzentfarbe": [
+        "Accentkleur"
+      ],
+      "Kartenhintergrund": [
+        "Kaartachtergrond"
+      ],
+      "Textfarbe": [
+        "Tekstkleur"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Eigen themakleuren & randen (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Primaire kleur (knoppen & accenten):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Accentkleur (badges & gloed):"
+      ],
+      "Seitenhintergrund:": [
+        "Pagina-achtergrond:"
+      ],
+      "Kartenhintergrund:": [
+        "Kaartachtergrond:"
+      ],
+      "Haupttextfarbe:": [
+        "Hoofdtekstkleur:"
+      ],
+      "Eckenabrundung (px):": [
+        "Hoekradius (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Aangepast CSS-thema uploaden (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Upload een op maat gemaakt .css-stijlbestand (bijv. bureau-thema.css). Dit wordt geïsoleerd geladen en automatisch gevalideerd."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Actief aangepast thema aanwezig"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Wilt u het geüploade CSS-themabestand echt verwijderen?"
+      ],
+      "Theme löschen": [
+        "Thema verwijderen"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Extra aangepaste CSS (inline-editor)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Voer hier aangepaste CSS-regels in, bijv.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "Brevo API v3 & webhook-authenticatie"
+      ],
+      "Brevo API Key (v3)": [
+        "Brevo API-sleutel (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Wordt gebruikt voor asynchrone double-opt-in-e-mailverzending en synchronisatie van contactkenmerken."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Gedeeld webhook-geheim / handtekeningtoken"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Tijdsaanvalbestendig token voor het valideren van binnenkomende Brevo-webhook-payloads."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "API-sleutel medewerkersscanner (toegangscontrole)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Authenticatietoken voor mobiele scannerapparaten van het toegangspersoneel."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Wachtruimte: toelatingen per minuut"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Verzoeken voor aanmelding en sessieboeking die per minuut en per evenement worden doorgelaten. 0 schakelt de wachtruimte uit (standaard). Daarboven antwoordt de route met HTTP 503 en Retry-After voordat er een databasequery wordt uitgevoerd — er wordt hiermee geen plaats gereserveerd."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Teller-backend op deze installatie: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "persistente objectcache"
+      ],
+      "Datenbank (Transients)": [
+        "database (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI-sjabloon-ID"
+      ],
+      "Brevo Kontaktliste ID": [
+        "Brevo-contactlijst-ID"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Facturen (CII-XML) & DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Voorvoegsel factuurnummer"
+      ],
+      "Rechnungssteller": [
+        "Factuurafzender"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Zonder deze gegevens worden er geen facturen of creditnota's aangemaakt: %s."
+      ],
+      "Name / Firma": [
+        "Naam / bedrijf"
+      ],
+      "Straße und Hausnummer": [
+        "Straat en huisnummer"
+      ],
+      "PLZ": [
+        "Postcode"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Land (ISO-code, bijv. NL of DE)"
+      ],
+      "USt-IdNr.": [
+        "Btw-nummer"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Belastingnummer (indien geen btw-id)"
+      ],
+      "E-Mail für Rechnungen": [
+        "E-mailadres voor facturatie"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN voor overboekingen (optioneel)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV-adviseursnummer"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV-cliëntnummer"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Opbrengstrekening (bijv. 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Debiteurenrekening (bijv. 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "De plugin bevat nog geen captcha-widget: de instelling wordt opgeslagen, maar het formulier wordt zonder captcha verwerkt."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Friendly Captcha inschakelen"
+      ],
+      "Sitekey": [
+        "Sitesleutel (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API-sleutel / geheim"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Beheer van demogegevens & fabrieksinstellingen (reset)"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Voorbeeldgegevens importeren, weer verwijderen of de plugin terugzetten naar de fabrieksinstellingen."
+      ],
+      "1. Demodaten importieren": [
+        "1. Demogegevens importeren"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Maakt een voorbeeldconferentie aan met sessies en voorbeelddeelnemers. Facturen worden alleen aangemaakt wanneer de gegevens van de factuurafzender zijn ingesteld."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Wilt u nu voorbeeldgegevens importeren?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Demogegevens importeren (conferenties, sessies, deelnemers, facturen)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Demogegevens opschonen (alleen testgegevens verwijderen)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Verwijdert uitsluitend gegenereerde democonferenties, demosessies, demodeelnemers en demofacturen. Echte evenementen en boekingen blijven volledig ongemoeid."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Wilt u alle demogegevens verwijderen? Echte gegevens blijven behouden."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Demogegevens opschonen (alleen testgegevens)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Terugzetten naar fabrieksinstellingen (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Waarschuwing (onomkeerbaar):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Leegt alle tabellen voor evenementen, sessies, aanmeldingen, facturen en het auditlogboek, verwijdert alle cybevent- en cybsession-berichten en zet alle instellingen terug naar de standaardwaarden."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "WAARSCHUWING: Weet u het absoluut zeker? Hiermee worden ALLE evenementen, aanmeldingen en facturen verwijderd en alle instellingen teruggezet!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Volledige fabrieksreset (alles verwijderen & standaardwaarden herstellen)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Gedrag bij de-installatie van de plugin"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Alle tabellen en instellingen verwijderen bij de-installatie"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Standaard blijven alle evenement-, aanmeldings-, factuur- en auditgegevens behouden wanneer u de plugin verwijdert (wettelijke bewaarplichten). Schakel deze optie alleen in als bij het verwijderen van de plugin alle tabellen definitief moeten worden gewist."
+      ],
+      "Alle Einstellungen speichern": [
+        "Alle instellingen opslaan"
+      ],
+      "Platzbuchung": [
+        "Plaatsreservering"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Een plaats wordt geboekt met één voorwaardelijke UPDATE (belegt = belegt + 1, alleen zolang belegt < kapazitaet). Van twee gelijktijdige aanvragen voor de laatste plaats wijzigt er slechts één de rij; de andere krijgt de melding 'volgeboekt'."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Facturen en creditnota's worden gegenereerd als CII-XML volgens het profiel EN 16931 en in tests gecontroleerd met de Mustang-validator. Er wordt geen pdf aangemaakt, dus de XML is geen ZUGFeRD-hybridebestand. Of de facturen in een specifiek geval aan de wettelijke eisen voldoen, beoordeelt uw belastingadviseur."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF & boekhouding"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Exporteert facturen en creditnota's van een periode als boekingsbatch in DATEV-formaat (EXTF 700, categorie 21) in Windows-1252. Debiteuren- en opbrengstrekeningen komen uit de instellingen; elke regel draagt belastingcode 3. Stem rekeningen en codes af met uw belastingadviseur."
+      ],
+      "Handbuch & API:": [
+        "Handboek & API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Volledig handboek"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Ontwikkeld door WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Beheerders- & ontwikkelaarshandboek"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Plaatsboeking, factuur-XML, DATEV-export, Brevo double opt-in, shortcodes en themapresets."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Plaatsboeking zonder overboeking"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "De bezettingsteller wordt in één enkele voorwaardelijke instructie opgehoogd; van twee gelijktijdige aanvragen voor de laatste plaats werkt er slechts één de rij bij:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Factuur-XML & DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Facturen en creditnota's met afzendergegevens uit de instellingen, leveringsdatum en doorlopend nummer. Geen pdf, geen Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Creditnota's:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Eigen doorlopend nummer, type 381 met verwijzing naar de oorspronkelijke factuur."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Boekingsbatch voor een periode binnen één kalenderjaar, Windows-1252. Stem grootboekrekeningen en btw-codes af met uw belastingadviseur."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. Brevo CRM double opt-in & achtergrondwachtrij"
+      ],
+      "Double Opt-In (DOI):": [
+        "Double opt-in (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "Brevo verstuurt de bevestigingsmail met een persoonlijke link; de link bevestigt de aanmelding eenmalig. Onbevestigde aanmeldingen worden na 14 dagen verwijderd."
+      ],
+      "Warteschlange:": [
+        "Wachtrij:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Aanroepen naar Brevo lopen via een databasewachtrij die elke minuut door WP-Cron wordt verwerkt (of wp cybevents queue-run), met maximaal vijf pogingen."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Shortcodes & Gutenberg-integratie"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Toegankelijk aanmeldformulier."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interactief conferentieprogramma & trackoverzicht."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Tokengebaseerde sessiekeuze na DOI-bevestiging."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI voor beheerders"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Themapresets & designtokens"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "De frontend past zich flexibel aan elk WordPress-thema aan of gebruikt ingebouwde designpresets:"
+      ],
+      "Presets:": [
+        "Presets:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Meerdere kleurpresets, waaronder een in dieppaars, violet en roze (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Thema-overerving (standaard):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Neemt lettertypen, randradii en primaire kleuren naadloos over van het actieve thema (GeneratePress, Astra, Twenty Twenty-Four)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS custom properties:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Aandachtspunten & best practices"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "De tabellen worden aangemaakt met ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Bewaartermijnen:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Onbevestigde aanmeldingen worden na 14 dagen verwijderd, regels in het auditlogboek na 90 dagen gepseudonimiseerd (behalve factuurgebeurtenissen). Bevestigde aanmeldingen en facturen verwijdert de plugin niet automatisch; daarvoor is geen instelling aanwezig."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Verwerking van de wachtrij en opschoning van bewaartermijnen draaien via WP-Cron; op sites zonder regelmatig bezoekersverkeer is een echte systeem-cronjob vereist."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events Suite"
+      ],
+      "Veranstaltung auswählen": [
+        "Evenement selecteren"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Selecteer het doelevenement voor dit blok."
+      ],
+      "Key Facts Header anzeigen": [
+        "Kop met kerngegevens tonen"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Stappenindicator (stepper) tonen"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Knop voor agenda-export (.ics) tonen"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Afteltimer tonen"
+      ],
+      "Freie Plätze anzeigen": [
+        "Vrije plaatsen tonen"
+      ],
+      "Spaltenanzahl": [
+        "Aantal kolommen"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Selecteer een geldig evenement in de blokinstellingen."
+      ],
+      "Vorschau im Editor": [
+        "Voorbeeld in editor"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Sessiekeuze voor bevestigde aanmeldingen"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Op de frontend wordt dit blok dynamisch voor elke deelnemer gerenderd met diens persoonlijke token."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Geen bevestigingstoken gevonden."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Open deze pagina via de gepersonaliseerde link uit uw bevestigingsmail."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Ongeldig of verlopen deelnemerstoken."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Plattegrond van het evenement"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Op de frontend toont dit blok de bezetting van elke sessie als SVG en houdt deze via Server-Sent Events actueel."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Evenement niet gevonden."
+      ],
+      "Jetzt anmelden": [
+        "Nu aanmelden"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Nu gratis aanmelden"
+      ],
+      "Programm ansehen": [
+        "Programma bekijken"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Gratis deelname"
+      ],
+      "Anmeldung geöffnet": [
+        "Aanmelding geopend"
+      ],
+      "Ausgebucht": [
+        "Volgeboekt"
+      ],
+      "Preis": [
+        "Prijs"
+      ],
+      "%d freier Platz": [
+        "%d vrije plaats",
+        "%d vrije plaatsen"
+      ],
+      "von max. %d": [
+        "van max. %d"
+      ],
+      "Beginn in:": [
+        "Begint over:"
+      ],
+      "Tage": [
+        "Dagen"
+      ],
+      "Std.": [
+        "Uur"
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sec."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Exporteren naar agenda (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics-bestand)"
+      ],
+      "Google Kalender": [
+        "Google Agenda"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Het .ics-bestand bevat een herinnering één dag voor aanvang."
+      ],
+      "Referenten & Fachexperten": [
+        "Sprekers & vakexperts"
+      ],
+      "Referenten": [
+        "Sprekers"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "De sprekerslijst wordt binnenkort bekendgemaakt."
+      ],
+      "TEILNEHMERPASS": [
+        "DEELNEMERSPAS"
+      ],
+      "Teilnehmerpass": [
+        "Deelnemerspas"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Ticket & accreditatie openen"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Voer uw 64-cijferige beveiligingstoken uit de bevestigingsmail in:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Token invoeren (bijv. c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Pas tonen"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Ongeldig of onbekend boekingstoken."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Voor deze aanmelding is geen deelnemerspas beschikbaar: de aanmelding is nog niet bevestigd of is geannuleerd."
+      ],
+      "Max Mustermann": [
+        "Jan Jansen"
+      ],
+      "Beispiel GmbH": [
+        "Voorbeeld B.V."
+      ],
+      "Veranstaltung": [
+        "Evenement"
+      ],
+      "Rechnungs-Nr.": [
+        "Factuurnr."
+      ],
+      "Keine": [
+        "Geen"
+      ],
+      "Ticket-Nummer": [
+        "Ticketnummer"
+      ],
+      "Pass drucken": [
+        "Pas afdrukken"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Gegevensbescherming en beveiliging"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Double opt-in en bewaartermijnen"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Een aanmelding is pas geldig na bevestiging via de link in de e-mail. Onbevestigde aanmeldingen worden na 14 dagen verwijderd en items in het auditlogboek worden na 90 dagen gepseudonimiseerd."
+      ],
+      "Beschriftete Formulare": [
+        "Gelabelde formulieren"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Formuliervelden met zichtbare labels, gemarkeerde verplichte velden en statusmeldingen die door schermlezers worden voorgelezen."
+      ],
+      "Eigene Skripte und Styles": [
+        "Zelfgehoste scripts en stijlen"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "De plugin laadt zijn scripts, stijlen en pictogrammen vanaf uw eigen server in plaats van een CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Auditlogboek en tokens"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Een met HMAC-SHA256 gekoppeld auditlogboek maakt manipulatie achteraf zichtbaar. Deelnemerstokens worden uitsluitend als SHA-256-hash opgeslagen."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Factuur-XML en DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Facturen als CII-XML volgens het profiel EN 16931 en export als DATEV-boekingsbatch."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "Friendly Captcha (Proof-of-Work)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Privacyvriendelijke botbescherming zonder gebruikerstracking of beeldpuzzels volgens de EU-privacywetgeving."
+      ],
+      "Zur Anmeldung": [
+        "Naar aanmelden"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Er zijn geen gearchiveerde evenementen."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Er zijn momenteel geen geplande evenementen."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Evenementen filteren op titel of locatie..."
+      ],
+      "Kostenfrei": [
+        "Gratis"
+      ],
+      "In Kalender eintragen": [
+        "Toevoegen aan agenda"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Live conferentie- en programmaticker"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "LIVE PROGRAMMATELEMETRIE"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Weergave- en filterbediening"
+      ],
+      "Kalenderansichten": [
+        "Kalenderweergaven"
+      ],
+      "Monat": [
+        "Maand"
+      ],
+      "Woche": [
+        "Week"
+      ],
+      "Tag / Agenda": [
+        "Dag / programma"
+      ],
+      "Liste": [
+        "Lijst"
+      ],
+      "Karten": [
+        "Kaarten"
+      ],
+      "Räume & Ort": [
+        "Zalen & locatie"
+      ],
+      "Summit Tracks": [
+        "Congrestracks"
+      ],
+      "Vorheriger Zeitraum": [
+        "Vorige periode"
+      ],
+      "Nächster Zeitraum": [
+        "Volgende periode"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Zoek evenement, onderwerp of spreker..."
+      ],
+      "Suchbegriff eingeben": [
+        "Zoekterm invoeren"
+      ],
+      "Track oder Kategorie filtern": [
+        "Track of categorie filteren"
+      ],
+      "Alle Fach-Tracks": [
+        "Alle vaktracks"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "Track 01: Post-kwantumcryptografie"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "Track 02: Zero Trust & DORA-weerbaarheid"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "Track 03: Autonome AI & beroepsgeheim"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "Track 04: Software-toeleveringsketen & CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Conferentiezaal filteren"
+      ],
+      "Alle Säle & Räume": [
+        "Alle zalen & ruimtes"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenaire zaal Alpha (keynotes)"
+      ],
+      "Security Lab Beta": [
+        "Security Lab Beta"
+      ],
+      "Workshop Studio Gamma": [
+        "Workshop Studio Gamma"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtual AS4 Stream Hub"
+      ],
+      "Monatskalenderansicht": [
+        "Maandkalenderweergave"
+      ],
+      "Mo": [
+        "Ma"
+      ],
+      "Di": [
+        "Di"
+      ],
+      "Mi": [
+        "Wo"
+      ],
+      "Do": [
+        "Do"
+      ],
+      "Fr": [
+        "Vr"
+      ],
+      "Sa": [
+        "Za"
+      ],
+      "So": [
+        "Zo"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Weekschema- en tijdroosterweergave"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Dagprogramma- en tijdlijnweergave"
+      ],
+      "Chronologische Listenansicht": [
+        "Chronologische lijstweergave"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Visuele fotokaartenweergave"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Locatie- en zaalnavigatorweergave"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Congres multi-trackmatrix"
+      ],
+      "Dialog schließen": [
+        "Dialoogvenster sluiten"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Ongeldige sessie- of aanmeldings-ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "De boeking kon vanwege een databasefout niet worden verwerkt."
+      ],
+      "Session %d existiert nicht.": [
+        "Sessie %d bestaat niet."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "\"%1$s\" is volgeboekt (%2$d van %2$d plaatsen bezet)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "De boeking kon niet worden opgeslagen. De plaats is weer vrijgegeven."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "De annulering kon vanwege een databasefout niet worden verwerkt."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Geen geldig bestand geüpload."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Fout bij het uploaden van het bestand."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "De profielfoto mag maximaal 5 MB groot zijn."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Ongeldig bestandsformaat. Toegestaan zijn JPG, PNG en WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Ongeldige bestandsextensie. Toegestaan zijn .jpg, .jpeg, .png en .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Fout bij het opslaan van de profielfoto."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Het auditlogboek is leeg, hoewel er eerder %d items waren vastgelegd."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Er is achteraf een niet-ondertekend item in de keten ingevoegd."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ketenbreuk bij regel #%d: een regel is verwijderd, tussengevoegd of verplaatst."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "De handtekening van item #%d komt niet overeen met de controlesom van de inhoud."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Item #%d is gemarkeerd als gepseudonimiseerd zonder geldig bewijs: de inhoud kan zijn gewijzigd."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "De inhoud van item #%d is na aanmaak gewijzigd."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Het einde van het logboek klopt niet met de laatst genoteerde regel. De nieuwste regels zijn verwijderd."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Evenementen"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Evenement"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Evenement"
+      ],
+      "event\u0004Neu erstellen": [
+        "Nieuw toevoegen"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Evenement bewerken"
+      ],
+      "Veranstaltung ansehen": [
+        "Evenement bekijken"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Evenementen doorzoeken"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Geen evenementen gevonden in de prullenbak."
+      ],
+      "Veranstaltungsdaten": [
+        "Evenementgegevens"
+      ],
+      "Veranstaltungsort:": [
+        "Locatie:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Locaties beheren ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Opgeslagen locatie kiezen —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Handmatige locatie / zaal / adres..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Kies een opgeslagen locatie uit de lijst of pas de locatie- en zaalomschrijving individueel aan."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Start (datum & tijd):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Einde (datum & tijd):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Betaald evenement"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Er zijn momenteel geen conferentieprogramma's beschikbaar."
+      ],
+      "Programm": [
+        "Programma"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Zoek onderwerp, spreker of zaal..."
+      ],
+      "Konferenz-Agenda": [
+        "Conferentieprogramma"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Het gedetailleerde programma wordt binnenkort bekendgemaakt."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "CyberEvents-deelnemersgegevens"
+      ],
+      "E-Mail": [
+        "E-mail"
+      ],
+      "Unternehmen / Organisation": [
+        "Bedrijf / organisatie"
+      ],
+      "Profilbild": [
+        "Profielfoto"
+      ],
+      "Einwilligung Datenschutz": [
+        "Privacytoestemming"
+      ],
+      "ja": [
+        "ja"
+      ],
+      "nein": [
+        "nee"
+      ],
+      "Einwilligung Fotos": [
+        "Fototoestemming"
+      ],
+      "Bestätigung angefordert": [
+        "Bevestiging aangevraagd"
+      ],
+      "Bestätigt am": [
+        "Bevestigd op"
+      ],
+      "Eingecheckt am": [
+        "Ingecheckt op"
+      ],
+      "Gebuchte Sessions": [
+        "Geboekte sessies"
+      ],
+      "Rechnungsnummer": [
+        "Factuurnummer"
+      ],
+      "CyberEvents Registrierungen": [
+        "CyberEvents-aanmeldingen"
+      ],
+      "CyberEvents Rechnungen": [
+        "CyberEvents-facturen"
+      ],
+      "Empfänger": [
+        "Ontvanger"
+      ],
+      "Adresse": [
+        "Adres"
+      ],
+      "Bruttobetrag": [
+        "Brutobedrag"
+      ],
+      "Ausgestellt am": [
+        "Uitgegeven op"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Aanmelding #%d kon niet worden verwijderd."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Aanmelding #%d kon niet worden geanonimiseerd; de gegevens zijn ongewijzigd."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Aanmelding #%1$d is geanonimiseerd. Factuur %2$s met naam, adres en e-mail blijft ongewijzigd opgeslagen; de plugin verwijdert geen facturen."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "De Brevo-webhook is uitgeschakeld zonder gedeeld geheim (antwoordt 401). Bounces en uitschrijvingen worden pas verwerkt zodra er een geheim is ingesteld."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Geen Brevo API-sleutel ingesteld: bevestigingsmails worden niet verzonden; nieuwe aanmeldingen blijven onbevestigd en worden na 14 dagen verwijderd."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "Friendly Captcha is ingeschakeld maar heeft geen effect: de plugin bevat geen captcha-widget, waardoor het formulier zonder botbescherming wordt verwerkt."
+      ],
+      "Einstellungen öffnen": [
+        "Instellingen openen"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Te veel verzoeken. Probeer het over een minuut opnieuw."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "De selectie is niet opgeslagen: %s Uw eerdere boekingen blijven behouden."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Nieuwe sessies zijn geboekt, maar niet elke gedeselecteerde sessie kon worden vrijgegeven: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Ongeldig beveiligingstoken (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Ongeldig formuliertoken (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Deelnemer niet geautoriseerd of niet gevonden."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Geen afbeeldingsbestand verzonden."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profielfoto succesvol bijgewerkt."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Bevestigingstoken ontbreekt."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Ongeldig of nog niet bevestigd ticket."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Voor dit evenement zijn geen sessies geconfigureerd."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Bezettingsplan: bezette en vrije plaatsen per sessie"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — %2$d van %3$d plaatsen bezet"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Er is geen evenement opgegeven voor het bezettingsplan."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Het evenement van het bezettingsplan bestaat niet."
+      ],
+      "frei": [
+        "vrij"
+      ],
+      "belegt": [
+        "bezet"
+      ],
+      "von Ihnen gebucht": [
+        "door u geboekt"
+      ],
+      "Belegung je Session": [
+        "Bezetting per sessie"
+      ],
+      "Session": [
+        "Sessie"
+      ],
+      "Belegt": [
+        "Bezet"
+      ],
+      "Frei": [
+        "Vrij"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "De bezetting wordt doorlopend bijgewerkt."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Momentopname bij het laden van de pagina; de bezetting wordt niet live bijgewerkt."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demogegevens: boeking voor %1$s geweigerd — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demogegevens: deelname geannuleerd"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sessies & tracks"
+      ],
+      "post type singular name\u0004Session": [
+        "Sessie"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sessies"
+      ],
+      "Alle Sessions": [
+        "Alle sessies"
+      ],
+      "Session bearbeiten": [
+        "Sessie bewerken"
+      ],
+      "Session ansehen": [
+        "Sessie bekijken"
+      ],
+      "Sessions durchsuchen": [
+        "Sessies doorzoeken"
+      ],
+      "Keine Sessions gefunden.": [
+        "Geen sessies gevonden."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Geen sessies gevonden in de prullenbak."
+      ],
+      "Session-Daten": [
+        "Sessiegegevens"
+      ],
+      "Zugehörige Konferenz:": [
+        "Bijbehorende conferentie:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Geen conferentie geselecteerd —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Spreker & instelling:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "bijv. Sanne Jansen (Voorbeeld B.V.)"
+      ],
+      "Raum / Saal / Track:": [
+        "Zaal / ruimte / track:"
+      ],
+      "Workshop-Kapazität:": [
+        "Workshopcapaciteit:"
+      ],
+      "Speaker": [
+        "Spreker"
+      ],
+      "Raum / Track": [
+        "Zaal / track"
+      ],
+      "Zeitfenster": [
+        "Tijdslot"
+      ],
+      "Belegung": [
+        "Bezetting"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Welkom, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Kies uw sessies. Een plaats wordt toegewezen bij het opslaan, zolang de sessie niet volgeboekt is."
+      ],
+      "Anmeldung bestätigt": [
+        "Aanmelding bevestigd"
+      ],
+      "Für diese Session eingetragen": [
+        "Ingeschreven voor deze sessie"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Deze sessie selecteren"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "De plaats wordt bij het opslaan toegewezen, zolang de sessie niet volgeboekt is."
+      ],
+      "Sessions ausgewählt": [
+        "Sessies geselecteerd"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Selectie opslaan"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "WordPress-themastandaard (automatisch overgeërfd)"
+      ],
+      "Empfohlen": [
+        "Aanbevolen"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Neemt typografie, kleuren, knoppen en witruimte één-op-één over van het actieve WordPress-thema (GeneratePress, Astra, Twenty Twenty-Four enz.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violet en rosé (donkerlila, violet, rosé accent)"
+      ],
+      "Farbstark": [
+        "Kleurrijk"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Donkerlila (#482683), helder violet (#7D40E7), rosé accent (#DF0079), Noto Sans als het thema dit laadt, en een subtiel kleurverloop."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (marineblauw en cyaan)"
+      ],
+      "High-Tech Dark": [
+        "Hightech donker"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Op maat gemaakte donkere en kobaltblauwe hightech-uitstraling met gloedaccenten voor cybersecurityconferenties."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (leisteen & monochroom)"
+      ],
+      "Modern": [
+        "Modern"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Helder, ingetogen SaaS-ontwerp met neutrale grijstinten, strakke randen en royale witruimte."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (klassiek & warme tinten)"
+      ],
+      "Klassik": [
+        "Klassiek"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Warme ivoor- en bordeauxtinten voor academische symposia en hoogwaardige vakcongressen."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Hoog contrast (zwart op wit)"
+      ],
+      "Hochkontrast": [
+        "Hoog contrast"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Zwarte tekst op wit (contrast 21:1) met geel accent en versterkte focusranden."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Aangepast thema (eigen kleuren & CSS)"
+      ],
+      "Individuell": [
+        "Aangepast"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Vrije kleurkiezers en ondersteuning voor geüploade aangepaste CSS-stijlbestanden."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Geen geldig uploadbestand opgegeven."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Beveiligingsfout: er mogen uitsluitend zuivere .css-bestanden worden geüpload."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "Het CSS-bestand overschrijdt de limiet van 2 MB."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Kon het themabestand niet op de server opslaan."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Aangepast thema-CSS geüpload en geactiveerd."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Locaties"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Locatie"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Locaties doorzoeken"
+      ],
+      "Häufige Tagungsorte": [
+        "Veelgebruikte locaties"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Alle locaties"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Locatie bewerken"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Locatie bijwerken"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Nieuwe locatie toevoegen"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Naam van nieuwe locatie"
+      ],
+      "Orte mit Kommas trennen": [
+        "Locaties scheiden met komma's"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Locaties toevoegen of verwijderen"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Kiezen uit meest gebruikte locaties"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Geen locaties gevonden."
+      ],
+      "Stadt / Ort:": [
+        "Stad / plaats:"
+      ],
+      "z. B. Musterstadt": [
+        "bijv. Utrecht"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Gemeente of stad van de conferentielocatie."
+      ],
+      "Straße & Hausnummer:": [
+        "Straat & huisnummer:"
+      ],
+      "z. B. Musterstraße 1": [
+        "bijv. Voorbeeldstraat 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Postcode:"
+      ],
+      "Land:": [
+        "Land:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maximale zaalcapaciteit (personen):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Rolstoeltoegankelijk"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Alleen aanvinken indien gecontroleerd. Wordt getoond in de locatielijst en in de REST-route /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "URL voor kaart / routebeschrijving:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Website van de locatie:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maximale zaalcapaciteit:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Zitplaatscapaciteit van het conferentiegedeelte."
+      ],
+      "Zugänglichkeit:": [
+        "Toegankelijkheid:"
+      ],
+      "Google Maps Link:": [
+        "Kaartlink:"
+      ],
+      "Stadt & Adresse": [
+        "Stad & adres"
+      ],
+      "Kapazität": [
+        "Capaciteit"
+      ],
+      "Rollstuhlgerecht": [
+        "Rolstoeltoegankelijk"
+      ],
+      "Ja": [
+        "Ja"
+      ],
+      "Nicht angegeben": [
+        "Niet opgegeven"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Zeer veel gelijktijdige aanvragen op dit moment. Probeer het over %d seconden opnieuw. Er is nog geen plaats gereserveerd."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Zonder persistente objectcache (Redis, Memcached) telt de wachtruimte in de database: geweigerde aanvragen besparen de boekingsquery's, maar kosten wel één lees- en één schrijfbewerking op de optietabel."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events Kerncijfers"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events Kerncijfer"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Geeft live kerncijfers weer voor actieve conferenties, bevestigde aanmeldingen en vrije plaatsen."
+      ],
+      "Kennzahl": [
+        "Kengetal"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Evenement-ID (optioneel)"
+      ],
+      "Dokumentation": [
+        "Documentatie"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Geef een geldige evenement-ID op: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Geen geldig bevestigingstoken gevonden. Gebruik de link uit uw e-mail."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Nieuwste actieve evenement (automatisch) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatisch (huidige conferentie)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Evenementselectie"
+      ],
+      "Ziel-Konferenz": [
+        "Doelconferentie"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Selecteer de conferentie waarvan de gegevens in de hero-banner worden geladen."
+      ],
+      "Design & Layout-Presets": [
+        "Design- & lay-outpresets"
+      ],
+      "Theme-Preset": [
+        "Themapreset"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (standaard)"
+      ],
+      "Federal Blue": [
+        "Federaal blauw"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Cyberpunk cyaangloed"
+      ],
+      "Clean White & Modern": [
+        "Helder wit & modern"
+      ],
+      "Glassmorphism Blur": [
+        "Glasmorfisme-vervaging"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Hoekafgronding (border-radius)"
+      ],
+      "Ohne (0px)": [
+        "Geen (0px)"
+      ],
+      "Mittel (8px)": [
+        "Gemiddeld (8px)"
+      ],
+      "Groß (16px)": [
+        "Groot (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Extra groot (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Gloed-effect inschakelen"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Teksten & call-to-action-knoppen"
+      ],
+      "Badge / Dachzeile": [
+        "Badge / bovenkop"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Aangepaste hoofdkop (optioneel)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Standaard: titel van het evenement"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Aangepaste introductietekst / lead"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Standaard: beschrijving van het evenement"
+      ],
+      "Primärer CTA-Button Text": [
+        "Tekst primaire CTA-knop"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Doellink / anker primaire CTA-knop"
+      ],
+      "Sekundären Button anzeigen": [
+        "Secundaire knop tonen"
+      ],
+      "Sekundärer Button Text": [
+        "Tekst secundaire knop"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Doellink secundaire knop"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Zichtbaarheid van elementen"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Live afteltimer tonen"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Pil met vrije plaatsen / capaciteit tonen"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Statuspil (geopend/volgeboekt) tonen"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Locatie tonen"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Datum & tijd tonen"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Ticketprijs / gratis-badge tonen"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Knop voor agenda-export (.ics) tonen"
+      ],
+      "Kopfbereich": [
+        "Hero-kopgedeelte"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Standaard: beschrijving van het evenement, plus datum, locatie, prijs, vrije plaatsen, afteltimer en aanmeldknop."
+      ],
+      "Countdown": [
+        "Afteltimer"
+      ],
+      "Freie Plätze": [
+        "Vrije plaatsen"
+      ],
+      "Stil: %s": [
+        "Stijl: %s"
+      ],
+      "Button: %s": [
+        "Knop: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Conferentieselectie"
+      ],
+      "Ziel-Veranstaltung": [
+        "Doelevenement"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Selecteer het evenement waarvoor bezoekers zich aanmelden."
+      ],
+      "Formular-Design & Theme": [
+        "Formulierontwerp & thema"
+      ],
+      "Formular-Stil": [
+        "Formulierstijl"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (standaard)"
+      ],
+      "Clean White Studio": [
+        "Clean White Studio"
+      ],
+      "Eckenabrundung": [
+        "Hoekafgronding"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Formuliervelden & invoeropties"
+      ],
+      "Individueller Formulartitel": [
+        "Aangepaste formuliertitel"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Aangepaste ondertitel / toelichting"
+      ],
+      "Standard: kein Untertitel": [
+        "Standaard: geen ondertitel"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Veld voor organisatie / bedrijf tonen"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Toestemmingsvakje voor foto- & video-opnamen tonen"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Kop met kerngegevens in formulier tonen"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Knoptekst & privacylinks"
+      ],
+      "Absende-Button Beschriftung": [
+        "Tekst verzendknop"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Aangepaste URL privacyverklaring (optioneel)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Standaard: privacypagina onder Instellingen > Privacy"
+      ],
+      "Anmeldeformular": [
+        "Aanmeldformulier"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Aanmelding met double opt-in: Brevo stuurt de bevestigingslink en pas na bevestiging is de aanmelding geldig."
+      ],
+      "Standard nach Ticketpreis": [
+        "Standaard op basis van ticketprijs"
+      ],
+      "Überschrift & Untertitel": [
+        "Kop & ondertitel"
+      ],
+      "Überschrift": [
+        "Koptekst"
+      ],
+      "Untertitel / Beschreibung": [
+        "Ondertitel / beschrijving"
+      ],
+      "Suche, Angaben & Export": [
+        "Zoeken, metadata & export"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Live zoekveld voor sessies tonen"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Zaal- en locatiegegevens tonen"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Sprekersavatars tonen"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Volledige agenda-export (.ics) tonen"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Sessies in chronologische volgorde met zaal, spreker, beschrijving, zoekfunctie en .ics-export."
+      ],
+      "Suche": [
+        "Zoeken"
+      ],
+      ".ics-Download": [
+        ".ics-download"
+      ],
+      "Layout & Spalten": [
+        "Lay-out & kolommen"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Aantal kolommen (desktop)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Tekst- & detailweergave"
+      ],
+      "Untertitel": [
+        "Ondertitel"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Onderwerp van sessievoordracht tonen"
+      ],
+      "Raumangabe anzeigen": [
+        "Zaalaanduiding tonen"
+      ],
+      "Uhrzeit anzeigen": [
+        "Starttijd tonen"
+      ],
+      "Konferenz: ": [
+        "Conferentie: "
+      ],
+      "%d Spalten": [
+        "%d kolommen"
+      ],
+      "Vortragsthemen": [
+        "Voordrachtonderwerpen"
+      ],
+      "Titel": [
+        "Titel"
+      ],
+      "Individueller Titel": [
+        "Aangepaste titel"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Agendadiensten & opties"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Apple / Outlook (.ics-bestand) tonen"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Directe link naar Google Agenda tonen"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Directe link naar Outlook Web tonen"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Directe link naar Microsoft 365 tonen"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Tijdzone-melding tonen"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Melding over de herinnering in het .ics-bestand tonen"
+      ],
+      "Kalender": [
+        "Agenda"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        ".ics-bestand met een herinnering één dag voor aanvang plus links naar Google Agenda, Outlook Web en Microsoft 365."
+      ],
+      ".ics-Datei": [
+        ".ics-bestand"
+      ],
+      "Session-Auswahl": [
+        "Sessiekiezer"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Dit blok heeft geen instellingen. Het toont de sessies voor het token uit de bevestigingslink; zonder token verschijnt er een melding."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Een plaats wordt bij het opslaan toegewezen, zolang de sessie niet volgeboekt is."
+      ],
+      "Ticketpass-Optionen": [
+        "Opties deelnemerspas"
+      ],
+      "Pass-Überschrift": [
+        "Titel van pas"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Kopregel (standaard: titel van het evenement)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Afdrukknop (badge afdrukken) tonen"
+      ],
+      "Ticketnummer anzeigen": [
+        "Ticketnummer tonen"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Factuurnummer / referentie tonen"
+      ],
+      "Check-In Status anzeigen": [
+        "Check-in-status tonen"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Pas voor bevestigde aanmeldingen, geopend via het token uit de bevestigingsmail: naam, bedrijf, status, factuurnummer, ticketnummer en afdrukfunctie."
+      ],
+      "Ticketnummer": [
+        "Ticketnummer"
+      ],
+      "Druckfunktion": [
+        "Afdrukknop"
+      ],
+      "Titel der Veranstaltung": [
+        "Titel van het evenement"
+      ],
+      "Layout & Farbschema": [
+        "Lay-out & kleurenschema"
+      ],
+      "Raster-Layout": [
+        "Rasterlay-out"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4-koloms raster (standaard)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2-koloms raster (breed)"
+      ],
+      "Farbthema": [
+        "Kleurthema"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (standaard)"
+      ],
+      "Angezeigte Karten": [
+        "Weergegeven kaarten"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kaarten die beschrijven wat de plugin doet. Het blok doet geen uitspraak over juridische conformiteit van de website."
+      ],
+      "Double Opt-in": [
+        "Double opt-in"
+      ],
+      "Formulare": [
+        "Formulieren"
+      ],
+      "Eigene Assets": [
+        "Zelfgehoste bestanden"
+      ],
+      "Abfrage & Filterung": [
+        "Query & filtering"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maximaal aantal conferenties"
+      ],
+      "Status-Filter": [
+        "Statusfilter"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Alleen actieve evenementen"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Actieve en gearchiveerde evenementen"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Alleen gearchiveerde evenementen"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Zichtbare metadata & knoppen"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Live zoekbalk tonen"
+      ],
+      "Preisschild anzeigen": [
+        "Prijslabel tonen"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Locatie / congreslocatie tonen"
+      ],
+      "Datums-Badge anzeigen": [
+        "Datumbadge tonen"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Directe .ics-agendalink tonen"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Korte beschrijving tonen"
+      ],
+      "CTA-Button Beschriftung": [
+        "Tekst CTA-knop"
+      ],
+      "Veranstaltungsübersicht": [
+        "Evenementoverzicht"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Raster van evenementen met datum, prijs, locatie, samenvatting, aanmeldknop en .ics-link."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Max. %d evenementen"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events Bezettingsplan"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Instellingen bezettingsplan"
+      ],
+      "Überschrift (optional)": [
+        "Kop (optioneel)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Beschrijvingstekst (optioneel)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Live updates inschakelen"
+      ],
+      "Sitzplan": [
+        "Bezettingsplan"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafisch bezettingsoverzicht van alle sessies van een evenement met een toegankelijke gegevenstabel."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events Multi-View Kalender"
+      ],
+      "Ansichten & Datenquelle": [
+        "Weergaven & gegevensbron"
+      ],
+      "Standardansicht": [
+        "Standaardweergave"
+      ],
+      "Monatskalender": [
+        "Maandkalender"
+      ],
+      "Wochenplan": [
+        "Weekschema"
+      ],
+      "Tagesagenda": [
+        "Dagprogramma"
+      ],
+      "Listenansicht": [
+        "Lijstweergave"
+      ],
+      "Kartenansicht": [
+        "Kaartweergave"
+      ],
+      "Raumübersicht": [
+        "Zaaloverzicht"
+      ],
+      "Track-Matrix": [
+        "Trackmatrix"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maximaal aantal items"
+      ],
+      "Bedienleiste & Filter": [
+        "Werkbalk & filters"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Weergaveschakelaar tonen"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Track- en zaalfilters tonen"
+      ],
+      "Suchfeld anzeigen": [
+        "Zoekveld tonen"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Tickerbalk tonen"
+      ],
+      "Kalender-Ansichten": [
+        "Kalenderweergaven"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Multi-view kalender & programma"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Omschakelbare maand-, week-, dag-, lijst-, kaart-, zaal- en trackweergave."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events Conferentieprogramma"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interactief multi-track conferentieprogramma met tijdlijn, sprekersdetails, zaalfilters en iCal-download (.ics)."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalender, programma & tracks)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Uitgebreide kalender- en programmasuite met 7 interactieve frontendweergaven: maandkalender, weekschema, dagprogramma, lijstweergave, fotokaarten, zaalplattegrond en multi-track congresmatrix."
+      ],
+      "block keyword\u0004event": [
+        "evenement"
+      ],
+      "block keyword\u0004calendar": [
+        "kalender"
+      ],
+      "block keyword\u0004agenda": [
+        "programma"
+      ],
+      "block keyword\u0004schedule": [
+        "rooster"
+      ],
+      "block keyword\u0004summit": [
+        "congres"
+      ],
+      "block keyword\u0004timetable": [
+        "tijdschema"
+      ],
+      "block keyword\u0004matrix": [
+        "matrix"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events Agenda- & .ics-widget"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Agendawidget met .ics-download en links naar Google Agenda, Outlook Web en Microsoft 365."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event Hero- & aftelbanner"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Kopgedeelte voor evenementen met afteltimer, kerngegevens, statuspil en aanmeldknoppen."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events Overzichts- & archiefraster"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dynamisch kaartoverzicht van aankomende conferenties, symposia en workshops met zoekbalk en statusfilters."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events Aanmeldformulier"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Aanmeldformulier met double opt-in via Brevo, optionele profielfoto en toestemming voor foto-opnamen."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events Bezettingsplan"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Bezetting van alle sessies van een evenement als SVG, doorlopend bijgewerkt via Server-Sent Events."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events Beveiligings- & vertrouwensbadges"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Overzicht van de privacy- en beveiligingsfuncties van de plugin: double opt-in, bewaartermijnen, auditlogboek, factuur-XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events Sessie- & workshopkiezer"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Sessiekeuze voor bevestigde aanmeldingen: plaatsen worden bij het opslaan toegewezen zolang er capaciteit beschikbaar is."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events Sprekers- & expertraster"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatisch gegenereerd overzicht van keynotesprekers, sessievoordrachten, zaalindeling en sprekersprofielen."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events Digitale deelnemerspas"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Deelnemerspas voor bevestigde aanmeldingen met ticketnummer, evenement, locatie en afdrukknop."
+      ]
+    }
+  }
+}

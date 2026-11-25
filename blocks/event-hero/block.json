@@ -1,0 +1,103 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm-cyber-events/event-hero",
+	"version": "1.1.0",
+	"title": "Cyber Event Hero & Countdown Banner",
+	"category": "cyber-events",
+	"icon": "superhero-alt",
+	"description": "Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.",
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": {
+			"margin": true,
+			"padding": true
+		},
+		"color": {
+			"background": true,
+			"text": true
+		}
+	},
+	"attributes": {
+		"eventId": {
+			"type": "integer",
+			"default": 0
+		},
+		"presetStyle": {
+			"type": "string",
+			"default": "dark-enterprise"
+		},
+		"customHeading": {
+			"type": "string",
+			"default": ""
+		},
+		"customLead": {
+			"type": "string",
+			"default": ""
+		},
+		"badgeText": {
+			"type": "string",
+			"default": ""
+		},
+		"showStatusPill": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCountdown": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCapacityPill": {
+			"type": "boolean",
+			"default": true
+		},
+		"showLocation": {
+			"type": "boolean",
+			"default": true
+		},
+		"showDateTime": {
+			"type": "boolean",
+			"default": true
+		},
+		"showPrice": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCalendarButton": {
+			"type": "boolean",
+			"default": true
+		},
+		"ctaText": {
+			"type": "string",
+			"default": ""
+		},
+		"ctaUrl": {
+			"type": "string",
+			"default": "#cybevents-registration-form"
+		},
+		"showSecondaryCta": {
+			"type": "boolean",
+			"default": true
+		},
+		"secondaryCtaText": {
+			"type": "string",
+			"default": ""
+		},
+		"secondaryCtaUrl": {
+			"type": "string",
+			"default": ""
+		},
+		"borderRadius": {
+			"type": "string",
+			"default": "lg"
+		},
+		"enableGlow": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"textdomain": "wm-cyber-events-core",
+	"editorScript": "cybevents-blocks-editor-js",
+	"editorStyle": "cybevents-blocks-editor-css"
+}

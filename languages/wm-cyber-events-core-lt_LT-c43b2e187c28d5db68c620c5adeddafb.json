@@ -1,0 +1,2825 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:36+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "blocks/editor.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cyber-events-core",
+        "lang": "lt_LT",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);"
+      },
+      "WM Cyber Events Core": [
+        "WM Cyber Events Core"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cyber-events-core/"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML (EN 16931) und DATEV-Export.": [
+        "Renginiai, sesijos ir registracijos su dvigubu patvirtinimu per „Brevo“, atvykimo registracija, sąskaitų XML (EN 16931) ir DATEV eksportu."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Veranstaltung nicht gefunden oder nicht mehr aktiv.": [
+        "Renginys nerastas arba nebeaktyvus."
+      ],
+      "Verbindlich anmelden": [
+        "Registruotis su mokėjimo įsipareigojimu"
+      ],
+      "Kostenfrei anmelden": [
+        "Registruotis nemokamai"
+      ],
+      "Datum": [
+        "Data"
+      ],
+      "Veranstaltungsort": [
+        "Renginio vieta"
+      ],
+      "Einlass": [
+        "Įėjimas"
+      ],
+      "Nach Bestätigung per E-Mail-Link": [
+        "Patvirtinus per nuorodą el. laiške"
+      ],
+      "Kontaktdaten": [
+        "Kontaktiniai duomenys"
+      ],
+      "Einwilligung": [
+        "Sutikimas"
+      ],
+      "Bestätigung": [
+        "Patvirtinimas"
+      ],
+      "Vorname": [
+        "Vardas"
+      ],
+      "z. B. Erika": [
+        "pvz., Eglė"
+      ],
+      "Nachname": [
+        "Pavardė"
+      ],
+      "z. B. Mustermann": [
+        "pvz., Kazlauskienė"
+      ],
+      "Geschäftliche E-Mail-Adresse": [
+        "Darbinis el. pašto adresas"
+      ],
+      "Institution / Behörde / Unternehmen": [
+        "Institucija / įstaiga / įmonė"
+      ],
+      "z. B. Beispiel GmbH": [
+        "pvz., UAB Pavyzdys"
+      ],
+      "Profilfoto für Teilnehmerpass (Optional)": [
+        "Profilio nuotrauka dalyvio leidimui (neprivaloma)"
+      ],
+      "Profilbild Vorschau": [
+        "Profilio nuotraukos peržiūra"
+      ],
+      "Foto auswählen": [
+        "Pasirinkti nuotrauką"
+      ],
+      "JPG, PNG oder WebP · max. 5 MB": [
+        "JPG, PNG arba WebP · maks. 5 MB"
+      ],
+      "Datenschutz & Double Opt-In Einwilligung *": [
+        "Duomenų apsauga ir dvigubo patvirtinimo sutikimas *"
+      ],
+      "Ich willige in die Verarbeitung meiner Daten zur Konferenzteilnahme gemäß DSGVO ein. Zur Verifizierung erhalte ich einen Bestätigungslink per E-Mail.": [
+        "Sutinku, kad mano duomenys būtų tvarkomi dalyvavimo konferencijoje tikslais pagal BDAR. Patvirtinimui gausiu patvirtinimo nuorodą el. paštu."
+      ],
+      "Datenschutzerklärung lesen": [
+        "Skaityti privatumo politiką"
+      ],
+      "Foto- & Videoaufnahmen (§§ 22, 23 KUG)": [
+        "Fotografavimas ir filmavimas (§§ 22, 23 KUG)"
+      ],
+      "Ich willige ein, dass im Rahmen der Veranstaltung Bild- und Videoaufnahmen von mir für die Öffentlichkeitsarbeit des Veranstalters erstellt werden dürfen.": [
+        "Sutinku, kad renginio metu būčiau fotografuojamas (-a) ir filmuojamas (-a) organizatoriaus viešųjų ryšių tikslais."
+      ],
+      "WM Cyber Events — Mission Control & Auslastung": [
+        "WM Cyber Events — Valdymo centras ir užimtumas"
+      ],
+      "CyberEvents Enterprise Engine aktiv": [
+        "„CyberEvents Enterprise Engine“ aktyvus"
+      ],
+      "Kapazitätsmanagement, DATEV-Export und Check-in": [
+        "Vietų skaičiaus valdymas, DATEV eksportas ir atvykimo registracija"
+      ],
+      "Events": [
+        "Renginiai"
+      ],
+      "Bestätigte Gäste": [
+        "Patvirtinti svečiai"
+      ],
+      "Ausstehende DOI": [
+        "Laukiantys DOI"
+      ],
+      "Mission Control öffnen": [
+        "Atidaryti valdymo centrą"
+      ],
+      "DSGVO-Einverständnis erforderlich": [
+        "Būtinas BDAR sutikimas"
+      ],
+      "Dieser Export enthält schutzbedürftige personenbezogene Daten gemäß Art. 4 Nr. 1 DSGVO. Sie müssen vor dem Herunterladen bestätigen, dass Sie die Daten vertraulich behandeln, zweckgebunden verarbeiten und nach der Veranstaltung datenschutzkonform löschen.": [
+        "Šiame eksporte yra neskelbtinų asmens duomenų pagal BDAR 4 str. 1 d. Prieš atsisiųsdami privalote patvirtinti, kad duomenis tvarkysite konfidencialiai, tik nustatytu tikslu ir po renginio ištrinsite laikydamiesi duomenų apsaugos reikalavimų."
+      ],
+      "Zurück zum Buchungsmanagement": [
+        "Grįžti į rezervacijų valdymą"
+      ],
+      "DSGVO-Schutz": [
+        "BDAR apsauga"
+      ],
+      "Der Export von Finanz- und Debitorendaten erfordert die Bestätigung, dass die Daten vertraulich und nur für die Buchhaltung verwendet werden.": [
+        "Finansinių ir debitorių duomenų eksportui būtina patvirtinti, kad duomenys bus saugomi konfidencialiai ir naudojami tik buhalterinei apskaitai."
+      ],
+      "Zurück zum DATEV Studio": [
+        "Grįžti į DATEV Studio"
+      ],
+      "DATEV-Export": [
+        "DATEV eksportas"
+      ],
+      "Unzureichende Berechtigungen.": [
+        "Nepakanka teisių."
+      ],
+      "Cyber Events": [
+        "Cyber Events"
+      ],
+      "Dashboard & KPIs": [
+        "Valdymo skydelis ir rodikliai (KPI)"
+      ],
+      "Dashboard": [
+        "Valdymo skydelis"
+      ],
+      "Alle Veranstaltungen": [
+        "Visi renginiai"
+      ],
+      "Veranstaltungen": [
+        "Renginiai"
+      ],
+      "Neue Veranstaltung erstellen": [
+        "Kurti naują renginį"
+      ],
+      "Neue Veranstaltung": [
+        "Naujas renginys"
+      ],
+      "Veranstaltungsorte & Tagungsstätten": [
+        "Renginių ir konferencijų vietos"
+      ],
+      "Veranstaltungsorte": [
+        "Renginių vietos"
+      ],
+      "Sessions & Agenda": [
+        "Sesijos ir darbotvarkė"
+      ],
+      "Neue Session erstellen": [
+        "Kurti naują sesiją"
+      ],
+      "Neue Session": [
+        "Nauja sesija"
+      ],
+      "Teilnehmer & Buchungen": [
+        "Dalyviai ir rezervacijos"
+      ],
+      "CSV-Import & Onboarding": [
+        "CSV importas ir įtraukimas"
+      ],
+      "CSV-Import": [
+        "CSV importas"
+      ],
+      "Finanzen & DATEV-Export": [
+        "Finansai ir DATEV eksportas"
+      ],
+      "Finanzen & DATEV": [
+        "Finansai ir DATEV"
+      ],
+      "Audit-Log": [
+        "Audito žurnalas"
+      ],
+      "Einstellungen & Theme Studio": [
+        "Nuostatos ir temų studija"
+      ],
+      "Einstellungen": [
+        "Nuostatos"
+      ],
+      "Handbuch & Dokumentation": [
+        "Vadovas ir dokumentacija"
+      ],
+      "Handbuch": [
+        "Vadovas"
+      ],
+      "Events & Konferenzen": [
+        "Renginiai ir konferencijos"
+      ],
+      "Fähigkeiten für Event- und Konferenzmanagement.": [
+        "Teisės renginių ir konferencijų valdymui."
+      ],
+      "Teilnehmer verwalten": [
+        "Tvarkyti dalyvius"
+      ],
+      "Erlaubt das Einsehen und Exportieren von Veranstaltungsanmeldungen ohne WordPress-Vollzugriff.": [
+        "Leidžia peržiūrėti ir eksportuoti renginių registracijas be pilnos „WordPress“ administratoriaus prieigos."
+      ],
+      "Einstellungen & Theme": [
+        "Nuostatos ir tema"
+      ],
+      "Handbuch & Doku": [
+        "Vadovas ir dokumentai"
+      ],
+      "Plugin-Navigation": [
+        "Įskiepio naršymas"
+      ],
+      "Veranstaltung erfolgreich gespeichert!": [
+        "Renginys sėkmingai įrašytas!"
+      ],
+      "Die Daten wurden synchron in der Datenbank und im WordPress-System aktualisiert.": [
+        "Duomenys sinchroniškai atnaujinti duomenų bazėje ir „WordPress“ sistemoje."
+      ],
+      "Veranstaltung gelöscht!": [
+        "Renginys ištrintas!"
+      ],
+      "Der Datensatz wurde entfernt und der Beitrag in den Papierkorb verschoben.": [
+        "Įrašas pašalintas, o įrašas perkeltas į šiukšlinę."
+      ],
+      "Demodaten angelegt.": [
+        "Demonstraciniai duomenys sukurti."
+      ],
+      "Beispielveranstaltung, Sessions und Beispiel-Teilnehmer wurden angelegt; Rechnungen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Sukurtas pavyzdinis renginys, sesijos ir pavyzdiniai dalyviai; sąskaitos faktūros kuriamos tik nustačius pardavėjo rekvizitus."
+      ],
+      "CyberEvents Command Console": [
+        "CyberEvents valdymo pultas"
+      ],
+      "Enterprise 2026": [
+        "Enterprise 2026"
+      ],
+      "Veranstaltungen, Sessions und Anmeldungen mit Double Opt-in über Brevo, Check-in, Rechnungs-XML und DATEV-Export.": [
+        "Renginiai, sesijos ir registracijos su dvigubu patvirtinimu per „Brevo“, atvykimo registracija, sąskaitų XML ir DATEV eksportu."
+      ],
+      "Part of the WM Suite plugin family": [
+        "WM Suite įskiepių šeimos dalis"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub režimas"
+      ],
+      "Standalone": [
+        "Savarankiškas"
+      ],
+      "Demo-Daten auffrischen": [
+        "Atnaujinti demonstracinius duomenis"
+      ],
+      "Springen zu:": [
+        "Pereiti į:"
+      ],
+      "Kurzanleitung": [
+        "Trumpas vadovas"
+      ],
+      "Kennzahlen": [
+        "Rodikliai"
+      ],
+      "Rechnungen": [
+        "Sąskaitos"
+      ],
+      "Audit-Protokoll": [
+        "Audito žurnalas"
+      ],
+      "Was macht CyberEvents, und was finden Sie hier?": [
+        "Ką daro „CyberEvents“ ir ką rasite šiame lange?"
+      ],
+      "Das Plugin verwaltet Veranstaltungen mit Sessions und Anmeldungen. Teilnehmer bestätigen ihre Anmeldung über einen Double-Opt-in-Link, den Brevo versendet (API-Schlüssel nötig), wählen danach Sessions, deren Plätze nicht überbucht werden, und werden am Einlass über ihr Token eingecheckt. Rechnungen entstehen als CII-XML (EN 16931) und lassen sich als DATEV-Buchungsstapel exportieren.": [
+        "Įskiepis valdo renginius su sesijomis ir registracijomis. Dalyviai patvirtina registraciją per „Brevo“ išsiųstą dvigubo patvirtinimo nuorodą (būtinas API raktas), tuomet renkasi sesijas, kurių vietos negali būti viršytos, ir prie įėjimo pažymimi pagal savo prieigos raktą. Sąskaitos faktūros generuojamos kaip CII-XML (EN 16931) ir gali būti eksportuojamos kaip DATEV įrašų paketas."
+      ],
+      "Schnellzugriff:": [
+        "Greita prieiga:"
+      ],
+      "Teilnehmer und Anmeldungen": [
+        "Dalyviai ir registracijos"
+      ],
+      "Rechnungen als DATEV-Stapel exportieren": [
+        "Eksportuoti sąskaitas kaip DATEV paketą"
+      ],
+      "Event Auslastung": [
+        "Renginio užimtumas"
+      ],
+      "Kritisch": [
+        "Kritinis"
+      ],
+      "Optimal": [
+        "Optimalus"
+      ],
+      "Max. Kapazität:": [
+        "Maks. talpa:"
+      ],
+      "Gebucht:": [
+        "Rezervuota:"
+      ],
+      "Live Check-In Counter": [
+        "Tiesioginis atvykimo skaitiklis"
+      ],
+      "Anwesend": [
+        "Dalyvauja"
+      ],
+      "Registriert:": [
+        "Užsiregistravo:"
+      ],
+      "Eingecheckt:": [
+        "Atvyko:"
+      ],
+      "Wartend:": [
+        "Laukia:"
+      ],
+      "Neue Anmeldungen (24 h)": [
+        "Naujos registracijos (24 val.)"
+      ],
+      "Sessions": [
+        "Sesijos"
+      ],
+      "in 24 h": [
+        "per 24 val."
+      ],
+      "Ausstehende DOI:": [
+        "Laukiantys DOI:"
+      ],
+      "Brevo CRM Queue Telemetrie": [
+        "„Brevo“ CRM eilės telemetrija"
+      ],
+      "Jobs": [
+        "Užduotys"
+      ],
+      "Verarbeitung": [
+        "Vykdoma"
+      ],
+      "Verarbeitet:": [
+        "Apdorota:"
+      ],
+      "Schnellaktionen": [
+        "Greiti veiksmai"
+      ],
+      "Neue Konferenz anlegen": [
+        "Kurti naują konferenciją"
+      ],
+      "Teilnehmerliste & Check-in": [
+        "Dalyvių sąrašas ir atvykimas"
+      ],
+      "CSV-Batch Import": [
+        "CSV paketinis importas"
+      ],
+      "Veranstaltungsübersicht & Auslastungs-Monitoring": [
+        "Renginių apžvalga ir užimtumo stebėsena"
+      ],
+      "Bestätigte Anmeldungen je Veranstaltung im Verhältnis zur eingetragenen Kapazität.": [
+        "Patvirtintos registracijos kiekviename renginyje, palyginti su nustatyta talpa."
+      ],
+      "Event suchen...": [
+        "Ieškoti renginio..."
+      ],
+      "Neue Konferenz": [
+        "Nauja konferencija"
+      ],
+      "Konferenz / Event": [
+        "Konferencija / renginys"
+      ],
+      "Zeitraum": [
+        "Laikotarpis"
+      ],
+      "Ort": [
+        "Miestas"
+      ],
+      "Kapazität & Belegung": [
+        "Talpa ir užimtumas"
+      ],
+      "Status": [
+        "Būsena"
+      ],
+      "Aktionen": [
+        "Veiksmai"
+      ],
+      "Keine Veranstaltungen gefunden.": [
+        "Renginių nerasta."
+      ],
+      "Im Gutenberg Block-Editor bearbeiten": [
+        "Redaguoti „Gutenberg“ blokų redaktoriuje"
+      ],
+      "Bearbeiten": [
+        "Redaguoti"
+      ],
+      "Schnellbearbeitung": [
+        "Greitasis redagavimas"
+      ],
+      "Vorschau": [
+        "Peržiūra"
+      ],
+      "Teilnehmer (%d)": [
+        "Dalyviai (%d)"
+      ],
+      "Möchten Sie diese Veranstaltung wirklich unwiderruflich löschen?": [
+        "Ar tikrai norite negrįžtamai ištrinti šį renginį?"
+      ],
+      "Löschen": [
+        "Ištrinti"
+      ],
+      "%d Sessions": [
+        "%d sesijos (-ų)"
+      ],
+      "/ %d Plätze": [
+        "/ %d vietų"
+      ],
+      "(ohne Kapazitätsgrenze)": [
+        "(be talpos ribos)"
+      ],
+      "Im Gutenberg Editor bearbeiten": [
+        "Redaguoti „Gutenberg“ redaktoriuje"
+      ],
+      "Editor": [
+        "Redaktorius"
+      ],
+      "Schnellbearbeitung öffnen": [
+        "Atidaryti greitąjį redagavimą"
+      ],
+      "Quick": [
+        "Greitai"
+      ],
+      "Frontend-Seite anzeigen": [
+        "Rodyti svetainės puslapį"
+      ],
+      "Gültige und stornierte Rechnungen sowie unbestätigte Anmeldungen.": [
+        "Galiojančios ir atšauktos sąskaitos faktūros bei nepatvirtintos registracijos."
+      ],
+      "Brutto, gültige Rechnungen": [
+        "Bendra suma, galiojančios sąskaitos"
+      ],
+      "Gültige Rechnungen": [
+        "Galiojančios sąskaitos"
+      ],
+      "Storniert": [
+        "Atšaukta"
+      ],
+      "Unbestätigte Anmeldungen": [
+        "Nepatvirtintos prenumeratos"
+      ],
+      "DATEV-Export & Audit-Log": [
+        "DATEV eksportas ir audito žurnalas"
+      ],
+      "Buchungsstapel der Rechnungen und Gutschriften eines Zeitraums; Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Laikotarpio sąskaitų faktūrų ir kreditinių sąskaitų apskaitos paketas; sąskaitas ir mokesčių kodus suderinkite su mokesčių konsultantu."
+      ],
+      "DATEV Format": [
+        "DATEV formatas"
+      ],
+      "Kategorie 21 (v13)": [
+        "21 kategorija (v13)"
+      ],
+      "Windows-1252": [
+        "Windows-1252"
+      ],
+      "HMAC-SHA256-Kette": [
+        "HMAC-SHA256 grandinė"
+      ],
+      "Pseudonymisierung nach 90 Tagen": [
+        "Pseudonimizavimas po 90 dienų"
+      ],
+      "DATEV Export Studio öffnen": [
+        "Atidaryti DATEV Export Studio"
+      ],
+      "Audit-Protokoll einsehen": [
+        "Peržiūrėti audito žurnalą"
+      ],
+      "Fortlaufend verkettetes Audit-Log: jeder Eintrag signiert seinen Vorgänger mit, sodass nachträgliche Änderungen, Löschungen und Einschleusungen auffallen. Manipulationsnachweis, keine Unveränderbarkeit — wer die wp-config.php liest, hält den Schlüssel.": [
+        "Nuosekliai susietas audito žurnalas: kiekvienas įrašas pasirašo ir ankstesnį įrašą, todėl vėlesni pakeitimai, ištrynimai ir įterpimai yra pastebimi. Tai klastojimo įrodymas, o ne nekintamumas — kas skaito wp-config.php, tas turi raktą."
+      ],
+      "Vollständiges Audit-Log öffnen": [
+        "Atidaryti visą audito žurnalą"
+      ],
+      "Zeitstempel": [
+        "Laiko žyma"
+      ],
+      "Ereignis-Typ": [
+        "Įvykio tipas"
+      ],
+      "Benutzer / System": [
+        "Naudotojas / sistema"
+      ],
+      "Objekt-ID": [
+        "Objekto ID"
+      ],
+      "Audit-Details & Nachweis": [
+        "Audito duomenys ir įrodymas"
+      ],
+      "Bislang keine Audit-Einträge protokolliert.": [
+        "Audito įrašų dar nėra."
+      ],
+      "Veranstaltung bearbeiten / Schnellkonfiguration": [
+        "Redaguoti renginį / greitoji konfigūracija"
+      ],
+      "Schließen": [
+        "Uždaryti"
+      ],
+      "Titel der Konferenz / Veranstaltung:": [
+        "Konferencijos / renginio pavadinimas:"
+      ],
+      "URL-Slug:": [
+        "URL nuorodos dalis (slug):"
+      ],
+      "Tagungsort / Location:": [
+        "Renginio vieta / lokacija:"
+      ],
+      "Beginn (Datum & Zeit):": [
+        "Pradžia (data ir laikas):"
+      ],
+      "Ende (Datum & Zeit):": [
+        "Pabaiga (data ir laikas):"
+      ],
+      "Max. Teilnehmerkapazität:": [
+        "Maks. dalyvių skaičius:"
+      ],
+      "Ticketpreis (Netto in €):": [
+        "Bilieto kaina (be PVM, €):"
+      ],
+      "Status:": [
+        "Būsena:"
+      ],
+      "Aktiv (Veröffentlicht)": [
+        "Aktyvus (paskelbtas)"
+      ],
+      "Entwurf (Draft)": [
+        "Juodraštis"
+      ],
+      "Archiviert": [
+        "Suarchyvuotas"
+      ],
+      "Kostenpflichtig": [
+        "Mokamas"
+      ],
+      "Im Gutenberg Block-Editor öffnen": [
+        "Atidaryti „Gutenberg“ blokų redaktoriuje"
+      ],
+      "Abbrechen": [
+        "Atšaukti"
+      ],
+      "Änderungen speichern": [
+        "Įrašyti pakeitimus"
+      ],
+      "Teilnehmerdaten erfolgreich aktualisiert!": [
+        "Dalyvio duomenys sėkmingai atnaujinti!"
+      ],
+      "Die Registrierungsdaten und der Status wurden in der Datenbank gespeichert.": [
+        "Registracijos duomenys ir būsena įrašyti į duomenų bazę."
+      ],
+      "Teilnehmer gelöscht!": [
+        "Dalyvis ištrintas!"
+      ],
+      "Die Registrierung und alle zugehörigen Session-Buchungen wurden entfernt.": [
+        "Registracija ir visos susijusios sesijų rezervacijos pašalintos."
+      ],
+      "Check-In Status aktualisiert!": [
+        "Atvykimo būsena atnaujinta!"
+      ],
+      "Der Anwesenheitsstatus des Teilnehmers wurde umgeschaltet.": [
+        "Dalyvio dalyvavimo būsena perjungta."
+      ],
+      "Double Opt-In bestätigt!": [
+        "Dvigubas patvirtinimas (Double Opt-in) patvirtintas!"
+      ],
+      "Die Registrierung wurde manuell als bestätigt markiert.": [
+        "Registracija rankiniu būdu pažymėta kaip patvirtinta."
+      ],
+      "Teilnehmer & Buchungsmanagement": [
+        "Dalyvių ir rezervacijų valdymas"
+      ],
+      "Alle Anmeldungen mit Double-Opt-in-Status, Session-Buchungen und Rechnungen.": [
+        "Visos registracijos su dvigubo patvirtinimo būsena, sesijų rezervacijomis ir sąskaitomis faktūromis."
+      ],
+      "Namensschilder / Teilnehmerliste (CSV)": [
+        "Vardo kortelės / dalyvių sąrašas (CSV)"
+      ],
+      "Gefiltert nach Konferenz: \"%1$s\" (#%2$d)": [
+        "Filtruojama pagal konferenciją: \"%1$s\" (#%2$d)"
+      ],
+      "Filter aufheben": [
+        "Valyti filtrą"
+      ],
+      "Alle Teilnehmer": [
+        "Visi dalyviai"
+      ],
+      "Bestätigt": [
+        "Patvirtinta"
+      ],
+      "Ausstehend DOI": [
+        "Laukiama DOI"
+      ],
+      "Name, E-Mail oder Firma suchen...": [
+        "Ieškoti vardo, el. pašto arba įmonės..."
+      ],
+      "Teilnehmer": [
+        "Dalyvis"
+      ],
+      "Organisation / Firma": [
+        "Organizacija / įmonė"
+      ],
+      "Check-In": [
+        "Atvykimas"
+      ],
+      "Rechnung": [
+        "Sąskaita faktūra"
+      ],
+      "Anmeldedatum": [
+        "Registracijos data"
+      ],
+      "Keine Registrierungen vorhanden.": [
+        "Registracijų nėra."
+      ],
+      "Teilnehmerdaten bearbeiten": [
+        "Redaguoti dalyvio duomenis"
+      ],
+      "Auschecken": [
+        "Atšaukti atvykimą"
+      ],
+      "Einchecken": [
+        "Pažymėti atvykimą"
+      ],
+      "DOI bestätigen": [
+        "Patvirtinti DOI"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich unwiderruflich löschen?": [
+        "Ar tikrai norite negrįžtamai ištrinti šį dalyvį?"
+      ],
+      "Status umschalten": [
+        "Perjungti būseną"
+      ],
+      "Eingecheckt": [
+        "Atvyko"
+      ],
+      "Nicht vor Ort": [
+        "Nėra vietoje"
+      ],
+      "Rechnungs-XML": [
+        "Sąskaitos XML"
+      ],
+      "Kostenfrei / Keine": [
+        "Nemokamai / nėra"
+      ],
+      "Edit": [
+        "Redaguoti"
+      ],
+      "Möchten Sie diesen Teilnehmer wirklich löschen?": [
+        "Ar tikrai norite ištrinti šį dalyvį?"
+      ],
+      "Teilnehmerdaten bearbeiten / Teilnehmerverwaltung": [
+        "Redaguoti dalyvio duomenis / dalyvių valdymas"
+      ],
+      "Profilfoto / Teilnehmer-Passbild (JPG, PNG, WebP · max. 5 MB):": [
+        "Profilio nuotrauka / dalyvio kortelės nuotrauka (JPG, PNG, WebP · maks. 5 MB):"
+      ],
+      "Foto entfernen": [
+        "Pašalinti nuotrauką"
+      ],
+      "Vorname:": [
+        "Vardas:"
+      ],
+      "Nachname:": [
+        "Pavardė:"
+      ],
+      "E-Mail-Adresse:": [
+        "El. pašto adresas:"
+      ],
+      "Organisation / Firma / Behörde:": [
+        "Organizacija / įmonė / įstaiga:"
+      ],
+      "Zugewiesene Konferenz:": [
+        "Priskirta konferencija:"
+      ],
+      "Anmeldestatus:": [
+        "Registracijos būsena:"
+      ],
+      "Bestätigt (Confirmed)": [
+        "Patvirtinta"
+      ],
+      "Ausstehend (Pending DOI)": [
+        "Laukiama (DOI)"
+      ],
+      "Storniert (Cancelled)": [
+        "Atšaukta"
+      ],
+      "Unzustellbar (Bounced)": [
+        "Nepristatoma (grįžęs laiškas)"
+      ],
+      "Check-In Status (Vor Ort):": [
+        "Atvykimo būsena (vietoje):"
+      ],
+      "Nein / Nicht vor Ort": [
+        "Ne / nėra vietoje"
+      ],
+      "Ja / Eingecheckt": [
+        "Taip / atvyko"
+      ],
+      "Rechnungsnummer:": [
+        "Sąskaitos faktūros numeris:"
+      ],
+      "Zahlungsstatus:": [
+        "Mokėjimo būsena:"
+      ],
+      "Kostenfrei (Free)": [
+        "Nemokamai"
+      ],
+      "Ausstehend (Pending)": [
+        "Laukiama"
+      ],
+      "Bezahlt (Paid)": [
+        "Apmokėta"
+      ],
+      "Erstattet (Refunded)": [
+        "Grąžinta"
+      ],
+      "DSGVO-Datenschutz zugestimmt": [
+        "BDAR duomenų apsaugos sutikimas duotas"
+      ],
+      "Foto- & Videoaufnahmen zugestimmt": [
+        "Fotografavimo ir filmavimo sutikimas duotas"
+      ],
+      "DSGVO-Datenschutz & Export-Einverständnis": [
+        "BDAR privatumas ir eksporto sutikimas"
+      ],
+      "Schutz personenbezogener Daten (Art. 4 & 5 DSGVO)": [
+        "Asmens duomenų apsauga (BDAR 4 ir 5 str.)"
+      ],
+      "Dieser Export generiert eine CSV-Datei mit schutzwürdigen personenbezogenen Teilnehmerdaten (Vollständige Namen, Firmen, geschäftliche E-Mail-Adressen, Rechnungsreferenzen und Check-In-Status).": [
+        "Šis eksportas sugeneruoja CSV failą su jautriais dalyvių asmens duomenimis (vardais, pavardėmis, įmonėmis, darbiniais el. pašto adresais, sąskaitų nuorodomis ir atvykimo būsena)."
+      ],
+      "Zweckbindung (Art. 5 Abs. 1 lit. b DSGVO):": [
+        "Tikslo apribojimas (BDAR 5 str. 1 d. b p.):"
+      ],
+      "Die Daten dürfen ausschließlich zur operativen Durchführung der Veranstaltung (z. B. Namensschilddruck, Akkreditierung am Einlass) genutzt werden.": [
+        "Duomenys gali būti naudojami tik operaciniam renginio vykdymui (pvz., vardo kortelių spausdinimui ir akreditacijai prie įėjimo)."
+      ],
+      "Vertraulichkeit & Schutz (Art. 5 Abs. 1 lit. f DSGVO):": [
+        "Konfidencialumas ir apsauga (BDAR 5 str. 1 d. f p.):"
+      ],
+      "Eine Weitergabe an unbefugte Dritte oder Speicherung auf unverschlüsselten Mobilgeräten ist untersagt.": [
+        "Draudžiama perduoti duomenis neįgaliotiems tretiesiems asmenims arba saugoti nešifruotuose mobiliuosiuose įrenginiuose."
+      ],
+      "Löschpflicht (Art. 17 DSGVO):": [
+        "Ištrynimo pareiga (BDAR 17 str.):"
+      ],
+      "Nach Abschluss der Konferenz ist die exportierte lokale Datei unverzüglich und datenschutzkonform zu löschen.": [
+        "Pasibaigus konferencijai eksportuotas vietinis failas privalo būti nedelsiant ištrintas laikantis duomenų apsaugos taisyklių."
+      ],
+      "Ich bestätige das DSGVO-Einverständnis:": [
+        "Patvirtinu BDAR sutikimą:"
+      ],
+      "Ich nehme zur Kenntnis, dass dieser Export vertrauliche personenbezogene Daten enthält. Ich verpflichte mich zur zweckgebundenen, sorgfältigen Verarbeitung und zur strikten Einhaltung der gesetzlichen Datenschutzanforderungen.": [
+        "Patvirtinu žinąs (-anti), kad šiame eksporte yra konfidencialių asmens duomenų. Įsipareigoju juos tvarkyti atsakingai, tik nustatytu tikslu ir griežtai laikantis teisės aktų reikalavimų."
+      ],
+      "CSV-Export jetzt sicher herunterladen": [
+        "Saugiai atsisiųsti CSV eksportą dabar"
+      ],
+      "Rechnungs-XML (CII, EN 16931)": [
+        "Sąskaitos XML (CII, EN 16931)"
+      ],
+      "XML in Zwischenablage kopieren": [
+        "Kopijuoti XML į iškarpinę"
+      ],
+      "Keine Berechtigung.": [
+        "Nėra teisių."
+      ],
+      "Sicherheitsfehler: Nur echte CSV-Dateien sind zulässig.": [
+        "Saugumo klaida: leidžiami tik tikri CSV failai."
+      ],
+      "Die Datei ist zu groß (maximal 5 MB erlaubt).": [
+        "Failas per didelis (leidžiama ne daugiau kaip 5 MB)."
+      ],
+      "Bitte wählen Sie ein Event und stellen Sie CSV-Daten bereit.": [
+        "Pasirinkite renginį ir pateikite CSV duomenis."
+      ],
+      "Teilnehmer CSV-Batch Import (Dublettenabwehr TF-01)": [
+        "Dalyvių CSV paketinis importas (dublikatų apsauga TF-01)"
+      ],
+      "Automatischer Import von Teilnehmerlisten aus externen Systemen mit strikter Vermeidung doppelter Registrierungen.": [
+        "Automatinis dalyvių sąrašų importas iš išorinių sistemų griežtai išvengiant pasikartojančių registracijų."
+      ],
+      "Import-Zusammenfassung": [
+        "Importo suvestinė"
+      ],
+      "Gesamtzeilen": [
+        "Iš viso eilučių"
+      ],
+      "Neu Importiert": [
+        "Naujai importuota"
+      ],
+      "Dubletten abgewiesen": [
+        "Atmesti dublikatai"
+      ],
+      "Neue Teilnehmerliste importieren": [
+        "Importuoti naują dalyvių sąrašą"
+      ],
+      "Ziel-Veranstaltung *": [
+        "Tikslinis renginys *"
+      ],
+      "— Veranstaltung auswählen —": [
+        "— Pasirinkite renginį —"
+      ],
+      "CSV-Datei auswählen": [
+        "Pasirinkti CSV failą"
+      ],
+      "Format: Vorname;Nachname;E-Mail;Firma (Semikolon oder Komma getrennt, UTF-8)": [
+        "Formatas: Vardas;Pavardė;El.paštas;Įmonė (atskirta kabliataškiais arba kableliais, UTF-8)"
+      ],
+      "Oder CSV-Text einfügen": [
+        "Arba įklijuokite CSV tekstą"
+      ],
+      "CSV-Import jetzt ausführen": [
+        "Vykdyti CSV importą dabar"
+      ],
+      "DATEV EXTF Buchungsstapel Studio": [
+        "DATEV EXTF apskaitos paketų studija"
+      ],
+      "Standardisierter Finanzexport (Kategorie 21, Formatversion 700 / 125 Felder) für Steuerberater und DATEV Rechnungswesen.": [
+        "Standartizuotas finansinis eksportas (21 kategorija, 700 formato versija / 125 laukai) mokesčių konsultantams ir DATEV apskaitai."
+      ],
+      "Exportzeitraum festlegen": [
+        "Nustatyti eksporto laikotarpį"
+      ],
+      "Laufender Monat": [
+        "Einamasis mėnuo"
+      ],
+      "Vormonat": [
+        "Praėjęs mėnuo"
+      ],
+      "Gesamtes Jahr 2026": [
+        "Visi 2026 metai"
+      ],
+      "Datum von *": [
+        "Data nuo *"
+      ],
+      "Datum bis *": [
+        "Data iki *"
+      ],
+      "Bestätigung für den Export von Debitorendaten:": [
+        "Debitorių duomenų eksporto patvirtinimas:"
+      ],
+      "Ich bestätige, dass der Export von Finanz- und Rechnungsempfängerdaten personenbezogene Daten enthält und ausschließlich zur gesetzlich vorgeschriebenen Buchführung und steuerlichen Erfassung an die autorisierte Steuerkanzlei weitergeleitet wird.": [
+        "Patvirtinu, kad finansinių ir sąskaitų gavėjų įrašų eksporte yra asmens duomenų ir kad jie perduodami tik įgaliotai apskaitos įmonei įstatymų numatytai buhalterinei ir mokestinei apskaitai."
+      ],
+      "DATEV EXTF Buchungsstapel (.csv) herunterladen": [
+        "Atsisiųsti DATEV EXTF apskaitos paketą (.csv)"
+      ],
+      "Verketteter Prüfpfad aller sicherheitsrelevanten Vorgänge, Double Opt-Ins, Stornierungen und IDOR-Abwehrmaßnahmen.": [
+        "Susietas visų saugumui svarbių veiksmų, dvigubų patvirtinimų, atšaukimų ir prieigos patikrų audito pėdsakas."
+      ],
+      "Audit-Kette integer — %1$d Einträge inhaltlich geprüft, %2$d pseudonymisiert (nur Kettenposition prüfbar).": [
+        "Audito grandinė nepažeista — %1$d įrašų patikrinta pagal turinį, %2$d pseudonimizuota (patikrinta vieta grandinėje)."
+      ],
+      "Audit-Kette NICHT integer": [
+        "Audito grandinė PAŽEISTA"
+      ],
+      "%d Eintrag/Einträge stammen aus der Zeit vor der Verkettung und tragen keine prüfbare Signatur. Sie gelten als ungeprüft, nicht als integer.": [
+        "%d įrašas (-ai) sukurti iki susiejimo į grandinę ir neturi patikrinamo parašo. Jie laikomi nepatikrintais, o ne nepažeistais."
+      ],
+      "AUTH_KEY ist nicht definiert: der Kettenschlüssel stammt aus der Datenbank — also von dort, wo ein Angreifer ohnehin schreiben würde. Setzen Sie AUTH_KEY in der wp-config.php.": [
+        "AUTH_KEY neapibrėžtas: grandinės raktas paimtas iš duomenų bazės — tos pačios vietos, kurią rašymo teises turintis užpuolikas galėtų pakeisti. Apibrėžkite AUTH_KEY faile wp-config.php."
+      ],
+      "Zeitpunkt": [
+        "Laikas"
+      ],
+      "Ereignistyp": [
+        "Įvykio tipas"
+      ],
+      "Referenz-ID": [
+        "Nuorodos ID"
+      ],
+      "IP-Adresse": [
+        "IP adresas"
+      ],
+      "Audit-Details (JSON)": [
+        "Audito duomenys (JSON)"
+      ],
+      "Keine Log-Einträge vorhanden.": [
+        "Žurnalo įrašų nerasta."
+      ],
+      "Veranstaltung \"%1$s\" mit %2$d Sessions und %3$d Teilnehmern angelegt.": [
+        "Renginys \"%1$s\" sukurtas su %2$d sesijomis ir %3$d dalyviais."
+      ],
+      "Demodaten erfolgreich importiert!": [
+        "Demonstraciniai duomenys sėkmingai importuoti!"
+      ],
+      "%1$d Events, %2$d Sessions, %3$d Registrierungen und %4$d Rechnungen wurden gelöscht.": [
+        "Ištrinta: %1$d renginių, %2$d sesijų, %3$d registracijų ir %4$d sąskaitų faktūrų."
+      ],
+      "Demodaten bereinigt!": [
+        "Demonstraciniai duomenys išvalyti!"
+      ],
+      "Werkseinstellungen wiederhergestellt!": [
+        "Gamyklinės nuostatos atkurtos!"
+      ],
+      "Alle Tabellen wurden geleert und die Einstellungen zurückgesetzt.": [
+        "Visos lentelės ištuštintos, o nuostatos atstatytos."
+      ],
+      "Hochgeladene Theme-Datei wurde entfernt.": [
+        "Įkeltas temos failas pašalintas."
+      ],
+      "Einstellungen sicher gespeichert.": [
+        "Nuostatos saugiai įrašytos."
+      ],
+      "Enterprise Konfiguration & Sicherheit": [
+        "Įmonės konfigūracija ir saugumas"
+      ],
+      "Design, Brevo, Rechnungen und DATEV, Bot-Schutz und Demodaten.": [
+        "Dizainas, „Brevo“, sąskaitos faktūros ir DATEV, apsauga nuo robotų ir demonstraciniai duomenys."
+      ],
+      "Design & Theme Studio": [
+        "Dizainas ir temų studija"
+      ],
+      "Brevo CRM & Webhooks": [
+        "„Brevo“ CRM ir Webhook pranešimai"
+      ],
+      "Rechnungen & DATEV": [
+        "Sąskaitos faktūros ir DATEV"
+      ],
+      "Bot-Schutz (Friendly Captcha)": [
+        "Apsauga nuo robotų („Friendly Captcha“)"
+      ],
+      "Demodaten & Reset": [
+        "Demonstraciniai duomenys ir atstatymas"
+      ],
+      "Frontend Design-System & Theme-Vererbung": [
+        "Svetainės dizaino sistema ir temos paveldėjimas"
+      ],
+      "Wählen Sie, wie Veranstaltungen und Buchungsformulare im Frontend gestaltet werden. Standardmäßig erbt das Plugin nahtlos alle Schriften, Farben und Buttons vom aktiven WordPress-Theme.": [
+        "Pasirinkite, kaip renginiai ir registracijos formos bus atvaizduojami svetainėje. Pagal numatytąsias nuostatas įskiepis sklandžiai paveldi visus šriftus, spalvas ir mygtukus iš aktyvios „WordPress“ temos."
+      ],
+      "Primärfarbe": [
+        "Pagrindinė spalva"
+      ],
+      "Akzentfarbe": [
+        "Akcento spalva"
+      ],
+      "Kartenhintergrund": [
+        "Kortelės fonas"
+      ],
+      "Textfarbe": [
+        "Teksto spalva"
+      ],
+      "Eigene Theme-Farben & Ränder (Custom Theme Customizer)": [
+        "Individualios temos spalvos ir rėmeliai (Custom Theme Customizer)"
+      ],
+      "Primärfarbe (Buttons & Akzente):": [
+        "Pagrindinė spalva (mygtukai ir akcentai):"
+      ],
+      "Akzentfarbe (Badges & Glow):": [
+        "Akcento spalva (ženkleliai ir švytėjimas):"
+      ],
+      "Seitenhintergrund:": [
+        "Puslapio fonas:"
+      ],
+      "Kartenhintergrund:": [
+        "Kortelės fonas:"
+      ],
+      "Haupttextfarbe:": [
+        "Pagrindinio teksto spalva:"
+      ],
+      "Eckenabrundung (px):": [
+        "Kampų apvalinimas (px):"
+      ],
+      "Custom CSS-Theme hochladen (.css)": [
+        "Įkelti pasirinktinę CSS temą (.css)"
+      ],
+      "Laden Sie eine maßgeschneiderte .css-Datei hoch (z.B. agentur-theme.css). Diese wird isoliert geladen und automatisch validiert.": [
+        "Įkelkite individualų .css stilių failą (pvz., agency-theme.css). Jis įkeliamas izoliuotai ir patikrinamas automatiškai."
+      ],
+      "Aktives Custom-Theme vorhanden": [
+        "Aktyvi pasirinktinė tema įjungta"
+      ],
+      "Möchten Sie die hochgeladene CSS-Theme-Datei wirklich löschen?": [
+        "Ar tikrai norite ištrinti įkeltą CSS temos failą?"
+      ],
+      "Theme löschen": [
+        "Ištrinti temą"
+      ],
+      "Zusätzliches Benutzerdefiniertes CSS (Inline Editor)": [
+        "Papildomas pasirinktinis CSS (integruotas redaktorius)"
+      ],
+      "/* Eigene CSS-Regeln hier eintragen, z.B.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }": [
+        "/* Čia įveskite pasirinktines CSS taisykles, pvz.: */&#10;.cybevents-event-card { box-shadow: 0 10px 25px rgba(0,0,0,0.05); }"
+      ],
+      "Brevo API v3 & Webhook-Authentifizierung": [
+        "„Brevo“ API v3 ir Webhook autentifikavimas"
+      ],
+      "Brevo API Key (v3)": [
+        "„Brevo“ API raktas (v3)"
+      ],
+      "Wird für den asynchronen Double Opt-In E-Mail-Versand und Attribut-Sync genutzt.": [
+        "Naudojamas asinchroniniam dvigubo patvirtinimo el. laiškų siuntimui ir kontaktų atributų sinchronizavimui."
+      ],
+      "Webhook Shared Secret / Signatur-Token": [
+        "Bendroji Webhook paslaptis / parašo prieigos raktas"
+      ],
+      "Timing-Attack-sicherer Token zur Validierung eingehender Brevo Webhook-Payloads.": [
+        "Laiko atakoms atsparus raktas gaunamiems „Brevo“ Webhook duomenims tikrinti."
+      ],
+      "Staff Scanner API Key (Einlass-Kontrolle)": [
+        "Personalo skaitytuvo API raktas (įėjimo patikra)"
+      ],
+      "Authentifizierungstoken für mobile Scanner-Geräte des Einlass-Personals.": [
+        "Autentifikavimo raktas įėjimo personalo mobiliesiems skaitytuvams."
+      ],
+      "Warteraum: Zulassungen pro Minute": [
+        "Laukiamasis: leidžiamų užklausų skaičius per minutę"
+      ],
+      "Anfragen an Anmeldung und Session-Buchung, die pro Minute und Veranstaltung durchgelassen werden. 0 schaltet den Warteraum ab (Standard). Darüber antwortet die Route mit HTTP 503 und Retry-After, bevor eine Datenbankabfrage läuft — ein Platz ist damit nicht reserviert.": [
+        "Registracijos ir sesijų rezervacijos užklausos, praleidžiamos per minutę vienam renginiui. 0 išjungia laukiamąjį (numatyta). Viršijus ribą maršrutas grąžina HTTP 503 ir Retry-After dar prieš duomenų bazės užklausą — vieta nerezervuojama."
+      ],
+      "Zähler-Backend dieser Installation: %s.": [
+        "Šio diegimo skaitiklio posistemė: %s."
+      ],
+      "persistenter Objekt-Cache": [
+        "nuolatinis objektų podėlis"
+      ],
+      "Datenbank (Transients)": [
+        "duomenų bazė (transients)"
+      ],
+      "DOI Template ID": [
+        "DOI šablono ID"
+      ],
+      "Brevo Kontaktliste ID": [
+        "„Brevo“ kontaktų sąrašo ID"
+      ],
+      "Rechnungen (CII-XML) & DATEV": [
+        "Sąskaitos faktūros (CII-XML) ir DATEV"
+      ],
+      "Rechnungsnummer-Präfix": [
+        "Sąskaitos numerio priešdėlis"
+      ],
+      "Rechnungssteller": [
+        "Sąskaitos išrašytojas"
+      ],
+      "Ohne diese Angaben werden keine Rechnungen und Gutschriften erstellt: %s.": [
+        "Be šių duomenų sąskaitos faktūros ir kreditinės sąskaitos negeneruojamos: %s."
+      ],
+      "Name / Firma": [
+        "Vardas, pavardė / įmonė"
+      ],
+      "Straße und Hausnummer": [
+        "Gatvė ir namo numeris"
+      ],
+      "PLZ": [
+        "Pašto kodas"
+      ],
+      "Land (ISO-Code, z. B. DE)": [
+        "Šalis (ISO kodas, pvz., LT)"
+      ],
+      "USt-IdNr.": [
+        "PVM kodas"
+      ],
+      "Steuernummer (falls keine USt-IdNr.)": [
+        "Mokesčių mokėtojo kodas (jei nėra PVM kodo)"
+      ],
+      "E-Mail für Rechnungen": [
+        "El. paštas sąskaitoms"
+      ],
+      "IBAN für Überweisungen (optional)": [
+        "IBAN banko pavedimams (neprivaloma)"
+      ],
+      "DATEV": [
+        "DATEV"
+      ],
+      "DATEV Beraternummer": [
+        "DATEV konsultanto numeris"
+      ],
+      "DATEV Mandantennummer": [
+        "DATEV kliento numeris"
+      ],
+      "Erlöskonto (z.B. 8400 / 4400)": [
+        "Pajamų sąskaita (pvz., 8400 / 4400)"
+      ],
+      "Forderungskonto (z.B. 1400 / 1200)": [
+        "Pirkėjų įsiskolinimo sąskaita (pvz., 1400 / 1200)"
+      ],
+      "Das Plugin enthält noch kein Captcha-Widget: die Einstellung wird gespeichert, das Formular wird aber ohne Captcha verarbeitet.": [
+        "Įskiepyje dar nėra integruoto „Captcha“ valdiklio: nuostata įrašoma, tačiau forma apdorojama be „Captcha“ patikros."
+      ],
+      "Friendly Captcha aktivieren": [
+        "Įjungti „Friendly Captcha“"
+      ],
+      "Sitekey": [
+        "Svetainės raktas (Sitekey)"
+      ],
+      "API Key / Secret": [
+        "API raktas / paslaptis"
+      ],
+      "Demodaten-Management & Werkseinstellungen (Reset)": [
+        "Demonstracinių duomenų valdymas ir gamyklinis atstatymas"
+      ],
+      "Beispieldaten einspielen, wieder entfernen oder das Plugin auf Werkseinstellungen zurücksetzen.": [
+        "Importuokite pavyzdinius duomenis, vėl juos pašalinkite arba atstatykite įskiepio gamyklines nuostatas."
+      ],
+      "1. Demodaten importieren": [
+        "1. Importuoti demonstracinius duomenis"
+      ],
+      "Legt eine Beispielkonferenz mit Sessions und Beispiel-Teilnehmern an. Rechnungen entstehen nur, wenn die Rechnungssteller-Daten gesetzt sind.": [
+        "Sukuria pavyzdinę konferenciją su sesijomis ir pavyzdiniais dalyviais. Sąskaitos faktūros sukuriamos tik nustačius pardavėjo duomenis."
+      ],
+      "Möchten Sie Beispieldaten jetzt importieren?": [
+        "Ar norite dabar importuoti pavyzdinius duomenis?"
+      ],
+      "Demodaten importieren (Konferenzen, Sessions, Teilnehmer, Rechnungen)": [
+        "Importuoti demonstracinius duomenis (konferencijos, sesijos, dalyviai, sąskaitos)"
+      ],
+      "2. Demodaten bereinigen (Nur Testdaten löschen)": [
+        "2. Išvalyti demonstracinius duomenis (ištrinti tik bandomuosius duomenis)"
+      ],
+      "Löscht ausschließlich generierte Demo-Konferenzen, Demo-Sessions, Demo-Teilnehmer und Demo-Rechnungen. Reale Veranstaltungen und Buchungen bleiben vollständig unberührt.": [
+        "Ištrina tik sugeneruotas demonstracines konferencijas, sesijas, dalyvius ir sąskaitas. Tikri renginiai ir rezervacijos lieka visiškai nepaliesti."
+      ],
+      "Möchten Sie alle Demodaten sicher entfernen? Echte Daten bleiben erhalten.": [
+        "Ar norite saugiai pašalinti visus demonstracinius duomenis? Tikri duomenys išliks."
+      ],
+      "Demodaten bereinigen (Nur Testdaten)": [
+        "Išvalyti demonstracinius duomenis (tik bandomuosius)"
+      ],
+      "3. Auf Werkseinstellungen zurücksetzen (Factory Reset)": [
+        "3. Atkurti gamyklines nuostatas (Factory Reset)"
+      ],
+      "Achtung (Irreversibel):": [
+        "Dėmesio (negrįžtama):"
+      ],
+      "Leert alle Event-, Session-, Registrierungs-, Rechnungs- und Audit-Log-Tabellen, löscht alle cybevent- und cybsession-Beiträge und setzt sämtliche Einstellungen auf den Auslieferungszustand zurück.": [
+        "Ištuština visas renginių, sesijų, registracijų, sąskaitų ir audito žurnalo lenteles, ištrina visus cybevent ir cybsession įrašus ir atstato visas nuostatas į pradines."
+      ],
+      "WARNUNG: Sind Sie absolut sicher? Dies löscht ALLE Events, Registrierungen, Rechnungen und setzt die Einstellungen zurück!": [
+        "ĮSPĖJIMAS: ar esate visiškai tikri? Tai ištrins VISUS renginius, registracijas bei sąskaitas ir atstatys visas nuostatas!"
+      ],
+      "Vollständiger Factory Reset (Alles löschen & auf Werkseinstellungen zurück)": [
+        "Pilnas gamyklinis atstatymas (ištrinti viską ir atkurti numatytąsias nuostatas)"
+      ],
+      "4. Verhalten bei Plugin-Deinstallation": [
+        "4. Elgsena pašalinant įskiepį"
+      ],
+      "Alle Tabellen und Einstellungen bei Deinstallation löschen": [
+        "Pašalinant įskiepį ištrinti visas lenteles ir nuostatas"
+      ],
+      "Standardmäßig bleiben alle Veranstaltungs-, Registrierungs-, Rechnungs- und Audit-Daten beim Löschen des Plugins erhalten (Aufbewahrungspflichten). Aktivieren Sie diese Option nur, wenn beim Entfernen des Plugins sämtliche Tabellen endgültig gelöscht werden sollen.": [
+        "Pagal numatytąsias nuostatas ištrinant įskiepį visi renginių, registracijų, sąskaitų ir audito duomenys išsaugomi (teisės aktų numatyti saugojimo terminai). Įjunkite šią parinktį tik tuo atveju, jei pašalinant įskiepį visos lentelės turi būti ištrintos visam laikui."
+      ],
+      "Alle Einstellungen speichern": [
+        "Įrašyti visas nuostatas"
+      ],
+      "Platzbuchung": [
+        "Vietos rezervavimas"
+      ],
+      "Ein Platz wird mit einem einzigen bedingten UPDATE gebucht (belegt = belegt + 1, nur solange belegt < kapazitaet). Von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile; die andere erhält die Meldung „ausgebucht“.": [
+        "Vieta rezervuojama vienu sąlyginiu UPDATE sakiniu (belegt = belegt + 1, tik kol belegt < kapazitaet). Iš dviejų vienalaikių užklausų dėl paskutinės vietos tik viena pakeičia eilutę; kita gauna pranešimą „visos vietos užimtos“."
+      ],
+      "Rechnungen und Gutschriften werden als CII-XML nach dem Profil EN 16931 erzeugt und im Test mit dem Validator Mustang geprüft. Es wird kein PDF erzeugt, das XML ist also keine ZUGFeRD-Hybriddatei. Ob die Rechnungen im Einzelfall die gesetzlichen Anforderungen erfüllen, prüft die Steuerberatung.": [
+        "Sąskaitos faktūros ir kreditinės sąskaitos generuojamos kaip CII-XML pagal EN 16931 profilį ir testuose tikrinamos „Mustang“ tikrintuvu. PDF negeneruojamas, todėl XML nėra hibridinis ZUGFeRD failas. Ar sąskaitos konkrečiu atveju atitinka įstatymų reikalavimus, įvertina mokesčių konsultantas."
+      ],
+      "DATEV EXTF & Buchhaltung": [
+        "DATEV EXTF ir apskaita"
+      ],
+      "Exportiert Rechnungen und Gutschriften eines Zeitraums als Buchungsstapel im DATEV-Format (EXTF 700, Kategorie 21) in Windows-1252. Forderungs- und Erlöskonto kommen aus den Einstellungen; jede Zeile trägt den Steuerschlüssel 3. Konten und Schlüssel mit der Steuerberatung abstimmen.": [
+        "Eksportuoja laikotarpio sąskaitas faktūras ir kreditines sąskaitas kaip DATEV formato įrašų paketą (EXTF 700, 21 kategorija) Windows-1252 koduote. Pirkėjų įsiskolinimo ir pajamų sąskaitos imamos iš nuostatų; kiekvienoje eilutėje naudojamas mokesčio kodas 3. Sąskaitas ir kodus suderinkite su mokesčių konsultantu."
+      ],
+      "Handbuch & API:": [
+        "Vadovas ir API:"
+      ],
+      "Vollständiges Handbuch": [
+        "Pilnas vadovas"
+      ],
+      "Entwickelt von WM Suite.": [
+        "Sukūrė WM Suite."
+      ],
+      "WM Cyber Events Core — Administrator- & Entwickler-Handbuch": [
+        "WM Cyber Events Core — Administratoriaus ir kūrėjo vadovas"
+      ],
+      "Platzbuchung, Rechnungs-XML, DATEV-Export, Brevo Double Opt-in, Shortcodes und Theme-Presets.": [
+        "Vietų rezervavimas, sąskaitų XML, DATEV eksportas, „Brevo“ dvigubas patvirtinimas, trumpieji kodai ir temų ruošiniai."
+      ],
+      "1. Platzbuchung ohne Überbuchung": [
+        "1. Vietų rezervavimas be perteklinio užsakymo"
+      ],
+      "Der Belegungszähler wird in einer einzigen bedingten Anweisung erhöht; von zwei gleichzeitigen Anfragen auf den letzten Platz ändert nur eine die Zeile:": [
+        "Užimtumo skaitiklis padidinamas vienu sąlyginiu sakiniu; iš dviejų vienalaikių užklausų dėl paskutinės vietos tik viena atnaujina eilutę:"
+      ],
+      "2. Rechnungs-XML & DATEV": [
+        "2. Sąskaitų XML ir DATEV"
+      ],
+      "CII-XML (EN 16931):": [
+        "CII-XML (EN 16931):"
+      ],
+      "Rechnungen und Gutschriften mit Rechnungssteller aus den Einstellungen, Leistungsdatum und fortlaufender Nummer. Kein PDF, keine Leitweg-ID.": [
+        "Sąskaitos faktūros ir kreditinės sąskaitos su pardavėjo rekvizitais iš nuostatų, paslaugos data ir nuosekliu numeriu. Be PDF, be Leitweg-ID."
+      ],
+      "Gutschriften:": [
+        "Kreditinės sąskaitos:"
+      ],
+      "Eigene Nummer, Typ 381 mit Verweis auf die Originalrechnung.": [
+        "Atskiras eilės numeris, 381 tipas su nuoroda į pradinę sąskaitą faktūrą."
+      ],
+      "DATEV EXTF 700:": [
+        "DATEV EXTF 700:"
+      ],
+      "Buchungsstapel eines Zeitraums innerhalb eines Kalenderjahres, Windows-1252. Konten und Steuerschlüssel mit der Steuerberatung abstimmen.": [
+        "Vienų kalendorinių metų laikotarpio įrašų paketas, Windows-1252. Sąskaitas ir mokesčių kodus suderinkite su mokesčių konsultantu."
+      ],
+      "3. Brevo CRM Double Opt-In & Background Queue": [
+        "3. „Brevo“ CRM dvigubas patvirtinimas ir foninė eilė"
+      ],
+      "Double Opt-In (DOI):": [
+        "Dvigubas patvirtinimas (DOI):"
+      ],
+      "Brevo versendet die Bestätigungs-E-Mail mit einem persönlichen Link; der Link bestätigt die Anmeldung einmalig. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht.": [
+        "„Brevo“ išsiunčia patvirtinimo el. laišką su asmenine nuoroda; nuoroda vieną kartą patvirtina registraciją. Nepatvirtintos registracijos ištrinamos po 14 dienų."
+      ],
+      "Warteschlange:": [
+        "Eilė:"
+      ],
+      "Aufrufe an Brevo laufen über eine Datenbank-Warteschlange, die WP-Cron jede Minute abarbeitet (oder wp cybevents queue-run), mit bis zu fünf Versuchen.": [
+        "Užklausos į „Brevo“ vykdomos per duomenų bazės eilę, kurią WP-Cron apdoroja kas minutę (arba per wp cybevents queue-run), iki penkių bandymų."
+      ],
+      "4. Shortcodes & Gutenberg Integration": [
+        "4. Trumpieji kodai ir „Gutenberg“ integracija"
+      ],
+      "Barrierefreies Registrierungsformular.": [
+        "Pritaikyta prieinamumui registracijos forma."
+      ],
+      "Interaktive Konferenz-Agenda & Track-Übersicht.": [
+        "Interaktyvi konferencijos darbotvarkė ir krypčių apžvalga."
+      ],
+      "Token-basierte Session-Auswahl nach DOI-Bestätigung.": [
+        "Prieigos raktu pagrįstas sesijų pasirinkimas po DOI patvirtinimo."
+      ],
+      "5. WP-CLI für Administratoren": [
+        "5. WP-CLI administratoriams"
+      ],
+      "6. Theme-Presets & Design Tokens": [
+        "6. Temų ruošiniai ir dizaino žetonai"
+      ],
+      "Das Frontend passt sich flexibel an jedes WordPress-Theme an oder nutzt vorgefertigte Design-Presets:": [
+        "Svetainės sąsaja lanksčiai prisitaiko prie bet kurios „WordPress“ temos arba naudoja paruoštus dizaino ruošinius:"
+      ],
+      "Presets:": [
+        "Ruošiniai:"
+      ],
+      "Mehrere Farb-Presets, darunter eines in Dunkellila, Violett und Rose (#482683, #7D40E7, #DF0079).": [
+        "Keli spalvų ruošiniai, tarp jų tamsiai purpurinės, violetinės ir rožinės spalvų derinys (#482683, #7D40E7, #DF0079)."
+      ],
+      "Theme-Vererbung (Standard):": [
+        "Temos paveldėjimas (numatytasis):"
+      ],
+      "Erbt Schriftarten, Rahmenradien und Primärfarben nahtlos vom aktiven Theme (GeneratePress, Astra, Twenty Twenty-Four).": [
+        "Sklandžiai paveldi šriftus, rėmelių apvalinimą ir pagrindines spalvas iš aktyvios temos („GeneratePress“, „Astra“, „Twenty Twenty-Four“)."
+      ],
+      "CSS Custom Properties:": [
+        "CSS pasirinktinės savybės:"
+      ],
+      "7. Gotchas & Best Practices": [
+        "7. Svarbios pastabos ir geroji praktika"
+      ],
+      "InnoDB:": [
+        "InnoDB:"
+      ],
+      "Die Tabellen werden mit ENGINE=InnoDB angelegt.": [
+        "Lentelės sukuriamos naudojant ENGINE=InnoDB."
+      ],
+      "Löschfristen:": [
+        "Saugojimo ir trynimo terminai:"
+      ],
+      "Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert (außer Rechnungsereignissen). Bestätigte Anmeldungen und Rechnungen löscht das Plugin nicht automatisch; dafür gibt es keine Einstellung.": [
+        "Nepatvirtintos registracijos ištrinamos po 14 dienų, audito žurnalo įrašai pseudonimizuojami po 90 dienų (išskyrus sąskaitų įvykius). Patvirtintų registracijų ir sąskaitų įskiepis automatiškai neištrina; tokios nuostatos nėra."
+      ],
+      "WP-Cron:": [
+        "WP-Cron:"
+      ],
+      "Warteschlange und Löschfristen laufen über WP-Cron; auf Seiten ohne regelmäßige Besucher braucht es einen echten Cronjob.": [
+        "Eilės apdorojimas ir trynimo terminai veikia per WP-Cron; svetainėms be nuolatinio lankytojų srauto reikalinga tikra sisteminė cron užduotis."
+      ],
+      "Cyber Events Suite": [
+        "Cyber Events rinkinys"
+      ],
+      "Veranstaltung auswählen": [
+        "Pasirinkti renginį"
+      ],
+      "Wählen Sie das Ziel-Event für diesen Block.": [
+        "Pasirinkite tikslinį renginį šiam blokui."
+      ],
+      "Key Facts Header anzeigen": [
+        "Rodyti pagrindinių faktų antraštę"
+      ],
+      "Schrittanzeige (Stepper) anzeigen": [
+        "Rodyti žingsnių indikatorių"
+      ],
+      "Kalender-Export (.ics) Button anzeigen": [
+        "Rodyti kalendoriaus eksporto (.ics) mygtuką"
+      ],
+      "Countdown-Timer anzeigen": [
+        "Rodyti atgalinio skaičiavimo laikmatį"
+      ],
+      "Freie Plätze anzeigen": [
+        "Rodyti laisvas vietas"
+      ],
+      "Spaltenanzahl": [
+        "Stulpelių skaičius"
+      ],
+      "Bitte wählen Sie eine gültige Veranstaltung in den Block-Einstellungen.": [
+        "Bloko nuostatose pasirinkite galiojantį renginį."
+      ],
+      "Vorschau im Editor": [
+        "Peržiūra redaktoriuje"
+      ],
+      "Session-Auswahl für bestätigte Anmeldungen": [
+        "Sesijų pasirinkimas patvirtintoms registracijoms"
+      ],
+      "Dieser Block wird im Frontend dynamisch für jeden Teilnehmer mit seinem individuellen Token gerendert.": [
+        "Svetainėje šis blokas dinamiškai atvaizduojamas kiekvienam dalyviui naudojant jo individualų prieigos raktą."
+      ],
+      "Kein Bestätigungs-Token gefunden.": [
+        "Patvirtinimo prieigos raktas nerastas."
+      ],
+      "Bitte rufen Sie diesen Bereich über den personalisierten Link aus Ihrer Bestätigungs-E-Mail auf.": [
+        "Atidarykite šį puslapį naudodami asmeninę nuorodą iš patvirtinimo el. laiško."
+      ],
+      "Ungültiger oder abgelaufener Teilnehmer-Token.": [
+        "Netinkamas arba nebegaliojantis dalyvio prieigos raktas."
+      ],
+      "Sitzplan der Veranstaltung": [
+        "Renginio vietų planas"
+      ],
+      "Im Frontend zeigt dieser Block die Belegung jeder Session als SVG und hält sie über Server-Sent Events aktuell.": [
+        "Svetainėje šis blokas atvaizduoja kiekvienos sesijos užimtumą kaip SVG ir atnaujina jį per „Server-Sent Events“."
+      ],
+      "Veranstaltung nicht gefunden.": [
+        "Renginys nerastas."
+      ],
+      "Jetzt anmelden": [
+        "Registruotis dabar"
+      ],
+      "Jetzt kostenfrei anmelden": [
+        "Registruotis nemokamai dabar"
+      ],
+      "Programm ansehen": [
+        "Peržiūrėti programą"
+      ],
+      "Kostenfreie Teilnahme": [
+        "Nemokamas dalyvavimas"
+      ],
+      "Anmeldung geöffnet": [
+        "Registracija atvira"
+      ],
+      "Ausgebucht": [
+        "Visos vietos užimtos"
+      ],
+      "Preis": [
+        "Kaina"
+      ],
+      "%d freier Platz": [
+        "%d laisva vieta",
+        "%d laisvos vietos",
+        "%d laisvų vietų"
+      ],
+      "von max. %d": [
+        "iš maks. %d"
+      ],
+      "Beginn in:": [
+        "Pradžia už:"
+      ],
+      "Tage": [
+        "Dien."
+      ],
+      "Std.": [
+        "Val."
+      ],
+      "Min.": [
+        "Min."
+      ],
+      "Sek.": [
+        "Sek."
+      ],
+      "In Kalender exportieren (.ics)": [
+        "Eksportuoti į kalendorių (.ics)"
+      ],
+      "Apple / Outlook (.ics-Datei)": [
+        "Apple / Outlook (.ics failas)"
+      ],
+      "Google Kalender": [
+        "Google kalendorius"
+      ],
+      "Outlook Web": [
+        "Outlook Web"
+      ],
+      "Microsoft 365": [
+        "Microsoft 365"
+      ],
+      "Die .ics-Datei enthält eine Erinnerung einen Tag vor Beginn.": [
+        "Faile .ics yra priminimas prieš vieną dieną iki pradžios."
+      ],
+      "Referenten & Fachexperten": [
+        "Pranešėjai ir srities ekspertai"
+      ],
+      "Referenten": [
+        "Pranešėjai"
+      ],
+      "Die Referentenliste wird in Kürze bekanntgegeben.": [
+        "Pranešėjų sąrašas bus paskelbtas netrukus."
+      ],
+      "TEILNEHMERPASS": [
+        "DALYVIO LEIDIMAS"
+      ],
+      "Teilnehmerpass": [
+        "Dalyvio leidimas"
+      ],
+      "Ticket & Akkreditierung aufrufen": [
+        "Atidaryti bilietą ir akreditaciją"
+      ],
+      "Geben Sie Ihren 64-stelligen Sicherheits-Token aus der Bestätigungs-E-Mail ein:": [
+        "Įveskite savo 64 simbolių saugos prieigos raktą iš patvirtinimo el. laiško:"
+      ],
+      "Token eingeben (z. B. c8b60990...)": [
+        "Įveskite raktą (pvz., c8b60990...)"
+      ],
+      "Pass anzeigen": [
+        "Rodyti leidimą"
+      ],
+      "Ungültiger oder nicht gefundener Buchungstoken.": [
+        "Netinkamas arba nežinomas rezervacijos prieigos raktas."
+      ],
+      "Für diese Registrierung gibt es keinen Teilnehmerpass: sie ist nicht bestätigt oder wurde storniert.": [
+        "Šiai registracijai dalyvio leidimo nėra: ji nepatvirtinta arba buvo atšaukta."
+      ],
+      "Max Mustermann": [
+        "Jonas Kazlauskas"
+      ],
+      "Beispiel GmbH": [
+        "UAB Pavyzdys"
+      ],
+      "Veranstaltung": [
+        "Renginys"
+      ],
+      "Rechnungs-Nr.": [
+        "Sąsk. nr."
+      ],
+      "Keine": [
+        "Nėra"
+      ],
+      "Ticket-Nummer": [
+        "Bilieto numeris"
+      ],
+      "Pass drucken": [
+        "Spausdinti leidimą"
+      ],
+      "Datenschutz und Sicherheit": [
+        "Duomenų apsauga ir saugumas"
+      ],
+      "Double Opt-in und Löschfristen": [
+        "Dvigubas patvirtinimas ir saugojimo terminai"
+      ],
+      "Eine Anmeldung gilt erst nach Bestätigung über den E-Mail-Link. Unbestätigte Anmeldungen werden nach 14 Tagen gelöscht, Einträge im Audit-Log nach 90 Tagen pseudonymisiert.": [
+        "Registracija įsigalioja tik patvirtinus per nuorodą el. laiške. Nepatvirtintos registracijos ištrinamos po 14 dienų, o audito žurnalo įrašai pseudonimizuojami po 90 dienų."
+      ],
+      "Beschriftete Formulare": [
+        "Pažymėtos formos"
+      ],
+      "Formularfelder mit sichtbaren Beschriftungen, markierten Pflichtfeldern und Rückmeldungen, die Screenreader vorlesen.": [
+        "Formų laukai su matomomis etiketėmis, pažymėtais privalomais laukais ir būsenos pranešimais, kuriuos perskaito ekrano skaitytuvai."
+      ],
+      "Eigene Skripte und Styles": [
+        "Vietiniai scenarijai ir stiliai"
+      ],
+      "Das Plugin lädt seine Skripte, Styles und Icons vom eigenen Server, nicht von einem CDN.": [
+        "Įskiepis pateikia savo scenarijus, stilius ir piktogramas iš Jūsų serverio, o ne iš CDN."
+      ],
+      "Audit-Log und Tokens": [
+        "Audito žurnalas ir prieigos raktai"
+      ],
+      "Ein mit HMAC-SHA256 verkettetes Audit-Log macht nachträgliche Änderungen erkennbar. Teilnehmer-Tokens werden nur als SHA-256-Hash gespeichert.": [
+        "Su HMAC-SHA256 susietas audito žurnalas leidžia aptikti vėlesnius pakeitimus. Dalyvių prieigos raktai saugomi tik kaip SHA-256 maišos."
+      ],
+      "Rechnungs-XML und DATEV": [
+        "Sąskaitų XML ir DATEV"
+      ],
+      "Rechnungen als CII-XML nach dem Profil EN 16931 und Export als DATEV-Buchungsstapel.": [
+        "Sąskaitos faktūros kaip CII-XML pagal EN 16931 profilį ir eksportas kaip DATEV įrašų paketas."
+      ],
+      "Friendly Captcha (Proof-of-Work)": [
+        "„Friendly Captcha“ (darbo įrodymas)"
+      ],
+      "Privatsphäre-freundlicher Bot-Schutz ohne Nutzer-Tracking oder Bilderrätsel nach EU-Datenschutzrecht.": [
+        "Privatumą tausojanti apsauga nuo robotų be naudotojų sekimo ar vaizdinių galvosūkių pagal ES duomenų apsaugos teisę."
+      ],
+      "Zur Anmeldung": [
+        "Prisijungti"
+      ],
+      "Es gibt keine archivierten Veranstaltungen.": [
+        "Suarchyvuotų renginių nėra."
+      ],
+      "Aktuell sind keine geplanten Veranstaltungen vorhanden.": [
+        "Šiuo metu suplanuotų renginių nėra."
+      ],
+      "Veranstaltung nach Titel oder Ort filtern...": [
+        "Filtruoti renginius pagal pavadinimą arba vietą..."
+      ],
+      "Kostenfrei": [
+        "Nemokamai"
+      ],
+      "In Kalender eintragen": [
+        "Įtraukti į kalendorių"
+      ],
+      ".ics": [
+        ".ics"
+      ],
+      "Live Konferenz- und Agenda-Ticker": [
+        "Tiesioginė konferencijos ir darbotvarkės informacinė juosta"
+      ],
+      "LIVE AGENDA TELEMETRIE": [
+        "TIESIOGINĖ DARBOTVARKĖS TELEMETRIJA"
+      ],
+      "Ansichten und Filtersteuerung": [
+        "Rodinių ir filtrų valdikliai"
+      ],
+      "Kalenderansichten": [
+        "Kalendoriaus rodiniai"
+      ],
+      "Monat": [
+        "Mėnuo"
+      ],
+      "Woche": [
+        "Savaitė"
+      ],
+      "Tag / Agenda": [
+        "Diena / darbotvarkė"
+      ],
+      "Liste": [
+        "Sąrašas"
+      ],
+      "Karten": [
+        "Kortelės"
+      ],
+      "Räume & Ort": [
+        "Salės ir vieta"
+      ],
+      "Summit Tracks": [
+        "Konferencijos kryptys"
+      ],
+      "Vorheriger Zeitraum": [
+        "Ankstesnis laikotarpis"
+      ],
+      "Nächster Zeitraum": [
+        "Kitas laikotarpis"
+      ],
+      "Veranstaltung, Thema oder Dozent suchen...": [
+        "Ieškoti renginio, temos arba pranešėjo..."
+      ],
+      "Suchbegriff eingeben": [
+        "Įveskite paieškos frazę"
+      ],
+      "Track oder Kategorie filtern": [
+        "Filtruoti kryptį arba kategoriją"
+      ],
+      "Alle Fach-Tracks": [
+        "Visos dalykinės kryptys"
+      ],
+      "Track 01: Post-Quantum-Kryptografie": [
+        "01 kryptis: Pokvantinė kriptografija"
+      ],
+      "Track 02: Zero-Trust & DORA Resilienz": [
+        "02 kryptis: „Zero Trust“ ir DORA atsparumas"
+      ],
+      "Track 03: Autonome KI & § 203 StGB": [
+        "03 kryptis: Autonominis DI ir konfidencialumo taisyklės"
+      ],
+      "Track 04: Software Supply Chain & CRA": [
+        "04 kryptis: Programinės įrangos tiekimo grandinė ir CRA"
+      ],
+      "Konferenzsaal filtern": [
+        "Filtruoti konferencijų salę"
+      ],
+      "Alle Säle & Räume": [
+        "Visos salės ir patalpos"
+      ],
+      "Plenarsaal Alpha (Keynotes)": [
+        "Plenarinė salė „Alpha“ (Pagrindiniai pranešimai)"
+      ],
+      "Security Lab Beta": [
+        "Saugumo laboratorija „Beta“"
+      ],
+      "Workshop Studio Gamma": [
+        "Praktinių dirbtuvių studija „Gamma“"
+      ],
+      "Virtual AS4 Stream Hub": [
+        "Virtualus AS4 transliacijų centras"
+      ],
+      "Monatskalenderansicht": [
+        "Mėnesio kalendoriaus rodinys"
+      ],
+      "Mo": [
+        "Pr"
+      ],
+      "Di": [
+        "An"
+      ],
+      "Mi": [
+        "Tr"
+      ],
+      "Do": [
+        "Kt"
+      ],
+      "Fr": [
+        "Pn"
+      ],
+      "Sa": [
+        "Št"
+      ],
+      "So": [
+        "Sk"
+      ],
+      "Wochenplan- und Zeitrasteransicht": [
+        "Savaitės tvarkaraščio ir laiko tinklelio rodinys"
+      ],
+      "Tagesagenda und Zeitstrahlansicht": [
+        "Dienos darbotvarkės ir laiko juostos rodinys"
+      ],
+      "Chronologische Listenansicht": [
+        "Chronologinis sąrašo rodinys"
+      ],
+      "Visuelle Fotokarten-Ansicht": [
+        "Vaizdinis nuotraukų kortelių rodinys"
+      ],
+      "Standort- und Raumnavigator-Ansicht": [
+        "Vietos ir salių vedlio rodinys"
+      ],
+      "Summit Multi-Track Matrix": [
+        "Daugiakryptė konferencijos matrica"
+      ],
+      "Dialog schließen": [
+        "Uždaryti langą"
+      ],
+      "Ungültige Session- oder Registrierungs-ID.": [
+        "Netinkamas sesijos arba registracijos ID."
+      ],
+      "Die Buchung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Rezervacijos nepavyko apdoroti dėl duomenų bazės klaidos."
+      ],
+      "Session %d existiert nicht.": [
+        "Sesija %d neegzistuoja."
+      ],
+      "„%1$s\" ist ausgebucht (%2$d von %2$d Plätzen belegt).": [
+        "„%1$s\" neturi laisvų vietų (užimta %2$d iš %2$d vietų)."
+      ],
+      "Die Buchung konnte nicht gespeichert werden. Der Platz wurde wieder freigegeben.": [
+        "Rezervacijos įrašyti nepavyko. Vieta vėl atlaisvinta."
+      ],
+      "Die Stornierung konnte wegen eines Datenbankfehlers nicht verarbeitet werden.": [
+        "Atšaukimo nepavyko apdoroti dėl duomenų bazės klaidos."
+      ],
+      "Keine gültige Datei hochgeladen.": [
+        "Neįkeltas galiojantis failas."
+      ],
+      "Fehler beim Datei-Upload.": [
+        "Failo įkėlimo klaida."
+      ],
+      "Das Profilbild darf maximal 5 MB groß sein.": [
+        "Profilio nuotrauka negali viršyti 5 MB."
+      ],
+      "Ungültiges Dateiformat. Erlaubt sind JPG, PNG und WebP.": [
+        "Netinkamas failo formatas. Leidžiami formatai: JPG, PNG ir WebP."
+      ],
+      "Ungültige Dateiendung. Erlaubt sind .jpg, .jpeg, .png und .webp.": [
+        "Netinkamas failo plėtinys. Leidžiami plėtiniai: .jpg, .jpeg, .png ir .webp."
+      ],
+      "Fehler beim Speichern des Profilbildes.": [
+        "Klaida įrašant profilio nuotrauką."
+      ],
+      "Das Audit-Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Audito žurnalas tuščias, nors anksčiau buvo užfiksuota %d įrašų."
+      ],
+      "Ein unsignierter Eintrag wurde nachträglich in die Kette eingefügt.": [
+        "Į grandinę vėliau buvo įterptas nepasirašytas įrašas."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Grandinės nutrūkimas ties įrašu #%d: įrašas ištrintas, įterptas arba sukeistas vietomis."
+      ],
+      "Die Signatur des Eintrags #%d passt nicht zu seiner Prüfsumme.": [
+        "Įrašo #%d parašas neatitinka jo turinio kontrolinės sumos."
+      ],
+      "Eintrag #%d ist als pseudonymisiert markiert, aber ohne gültigen Nachweis: sein Inhalt kann verändert worden sein.": [
+        "Įrašas #%d pažymėtas kaip pseudonimizuotas be galiojančio įrodymo: jo turinys galėjo būti pakeistas."
+      ],
+      "Der Inhalt des Eintrags #%d wurde nachträglich verändert.": [
+        "Įrašo #%d turinys buvo pakeistas po sukūrimo."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Žurnalo pabaiga neatitinka paskutinio užfiksuoto įrašo. Naujausi įrašai pašalinti."
+      ],
+      "post type general name\u0004Veranstaltungen": [
+        "Renginiai"
+      ],
+      "post type singular name\u0004Veranstaltung": [
+        "Renginys"
+      ],
+      "admin menu\u0004Cyber Events": [
+        "Cyber Events"
+      ],
+      "add new on admin bar\u0004Veranstaltung": [
+        "Renginys"
+      ],
+      "event\u0004Neu erstellen": [
+        "Pridėti naują"
+      ],
+      "Veranstaltung bearbeiten": [
+        "Redaguoti renginį"
+      ],
+      "Veranstaltung ansehen": [
+        "Peržiūrėti renginį"
+      ],
+      "Veranstaltungen durchsuchen": [
+        "Ieškoti renginių"
+      ],
+      "Keine Veranstaltungen im Papierkorb.": [
+        "Šiukšlinėje renginių nėra."
+      ],
+      "Veranstaltungsdaten": [
+        "Renginio duomenys"
+      ],
+      "Veranstaltungsort:": [
+        "Renginio vieta:"
+      ],
+      "Veranstaltungsorte verwalten ↗": [
+        "Tvarkyti renginių vietas ↗"
+      ],
+      "— Hinterlegten Tagungsort wählen —": [
+        "— Pasirinkite išsaugotą renginio vietą —"
+      ],
+      "Manueller Ort / Raum / Adresse...": [
+        "Rankiniu būdu įvesta vieta / salė / adresas..."
+      ],
+      "Wählen Sie einen hinterlegten Ort aus der Liste oder passen Sie die Ortsbezeichnung/Raumangabe individuell an.": [
+        "Pasirinkite išsaugotą vietą iš sąrašo arba pritaikykite vietos / patalpos aprašymą."
+      ],
+      "Beginn (Datum & Uhrzeit):": [
+        "Pradžia (data ir laikas):"
+      ],
+      "Ende (Datum & Uhrzeit):": [
+        "Pabaiga (data ir laikas):"
+      ],
+      "Kostenpflichtige Veranstaltung": [
+        "Mokamas renginys"
+      ],
+      "Aktuell sind keine Konferenzpläne verfügbar.": [
+        "Šiuo metu konferencijų tvarkaraščių nėra."
+      ],
+      "Programm": [
+        "Programa"
+      ],
+      "Thema, Referent oder Raum suchen...": [
+        "Ieškoti temos, pranešėjo arba salės..."
+      ],
+      "Konferenz-Agenda": [
+        "Konferencijos darbotvarkė"
+      ],
+      "Detailliertes Programm wird in Kürze bekanntgegeben.": [
+        "Išsami programa bus paskelbta netrukus."
+      ],
+      "CyberEvents Teilnehmerdaten": [
+        "„CyberEvents“ dalyvių duomenys"
+      ],
+      "E-Mail": [
+        "El. paštas"
+      ],
+      "Unternehmen / Organisation": [
+        "Įmonė / organizacija"
+      ],
+      "Profilbild": [
+        "Profilio nuotrauka"
+      ],
+      "Einwilligung Datenschutz": [
+        "Privatumo sutikimas"
+      ],
+      "ja": [
+        "taip"
+      ],
+      "nein": [
+        "ne"
+      ],
+      "Einwilligung Fotos": [
+        "Fotografavimo sutikimas"
+      ],
+      "Bestätigung angefordert": [
+        "Paprašyta patvirtinimo"
+      ],
+      "Bestätigt am": [
+        "Patvirtinta"
+      ],
+      "Eingecheckt am": [
+        "Atvykimas pažymėtas"
+      ],
+      "Gebuchte Sessions": [
+        "Rezervuotos sesijos"
+      ],
+      "Rechnungsnummer": [
+        "Sąskaitos numeris"
+      ],
+      "CyberEvents Registrierungen": [
+        "„CyberEvents“ registracijos"
+      ],
+      "CyberEvents Rechnungen": [
+        "„CyberEvents“ sąskaitos faktūros"
+      ],
+      "Empfänger": [
+        "Gavėjas"
+      ],
+      "Adresse": [
+        "Adresas"
+      ],
+      "Bruttobetrag": [
+        "Bendra suma (su PVM)"
+      ],
+      "Ausgestellt am": [
+        "Išrašyta"
+      ],
+      "Registrierung #%d konnte nicht gelöscht werden.": [
+        "Registracijos #%d ištrinti nepavyko."
+      ],
+      "Registrierung #%d konnte nicht anonymisiert werden; die Daten sind unverändert.": [
+        "Registracijos #%d anonimizuoti nepavyko; duomenys liko nepakeisti."
+      ],
+      "Registrierung #%1$d wurde anonymisiert. Die Rechnung %2$s mit Name, Adresse und E-Mail bleibt unverändert gespeichert; Rechnungen löscht das Plugin nicht.": [
+        "Registracija #%1$d anonimizuota. Sąskaita faktūra %2$s su vardu, adresu ir el. paštu lieka saugoma nepakeista; įskiepis sąskaitų neištrina."
+      ],
+      "Der Brevo-Webhook ist ohne Shared Secret deaktiviert (antwortet 401). Bounces und Abmeldungen werden nicht verarbeitet, bis ein Secret hinterlegt ist.": [
+        "„Brevo“ Webhook be bendrosios paslapties yra išjungtas (grąžina 401). Grįžę laiškai ir atsisakymai nebus apdorojami, kol nebus nustatyta paslaptis."
+      ],
+      "Kein Brevo-API-Schlüssel hinterlegt: Bestätigungs-E-Mails werden nicht versendet, neue Anmeldungen bleiben unbestätigt und werden nach 14 Tagen gelöscht.": [
+        "Nenustatytas „Brevo“ API raktas: patvirtinimo el. laiškai nesiunčiami, naujos registracijos lieka nepatvirtintos ir ištrinamos po 14 dienų."
+      ],
+      "Friendly Captcha ist aktiviert, hat aber keine Wirkung: das Plugin enthält kein Captcha-Widget, das Formular wird ohne Bot-Schutz verarbeitet.": [
+        "„Friendly Captcha“ įjungta, tačiau neveikia: įskiepyje nėra „Captcha“ valdiklio, todėl forma apdorojama be apsaugos nuo robotų."
+      ],
+      "Einstellungen öffnen": [
+        "Atidaryti nuostatas"
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es in einer Minute erneut.": [
+        "Per daug užklausų. Bandykite dar kartą po minutės."
+      ],
+      "Die Auswahl wurde nicht gespeichert: %s Ihre bisherigen Buchungen bleiben bestehen.": [
+        "Pasirinkimas neįrašytas: %s Ankstesnės Jūsų rezervacijos lieka galioti."
+      ],
+      "Neue Sessions wurden gebucht, aber nicht jede abgewählte Session konnte freigegeben werden: %s": [
+        "Naujos sesijos rezervuotos, tačiau ne kiekvieną atžymėtą sesiją pavyko atlaisvinti: %s"
+      ],
+      "Ungültiges Sicherheits-Token (Nonce).": [
+        "Netinkamas saugos prieigos raktas (nonce)."
+      ],
+      "Ungültiges Formular-Token (Nonce).": [
+        "Netinkamas formos prieigos raktas (nonce)."
+      ],
+      "Teilnehmer nicht autorisiert oder nicht gefunden.": [
+        "Dalyvis neįgaliotas arba nerastas."
+      ],
+      "Keine Bilddatei übermittelt.": [
+        "Nepateiktas vaizdo failas."
+      ],
+      "Profilbild erfolgreich aktualisiert.": [
+        "Profilio nuotrauka sėkmingai atnaujinta."
+      ],
+      "Bestätigungs-Token fehlt.": [
+        "Trūksta patvirtinimo prieigos rakto."
+      ],
+      "Ungültiges oder noch nicht bestätigtes Ticket.": [
+        "Netinkamas arba dar nepatvirtintas bilietas."
+      ],
+      "Für diese Veranstaltung sind keine Sessions hinterlegt.": [
+        "Šiam renginiui sesijų nesukonfigūruota."
+      ],
+      "Sitzplan: belegte und freie Plätze je Session": [
+        "Vietų planas: užimtos ir laisvos vietos kiekvienoje sesijoje"
+      ],
+      "%1$s — %2$d von %3$d Plätzen belegt": [
+        "%1$s — užimta %2$d iš %3$d vietų"
+      ],
+      "Für den Sitzplan fehlt die Veranstaltung.": [
+        "Vietų planui nenurodytas renginys."
+      ],
+      "Die Veranstaltung des Sitzplans existiert nicht.": [
+        "Vietų plano renginys neegzistuoja."
+      ],
+      "frei": [
+        "laisva"
+      ],
+      "belegt": [
+        "užimta"
+      ],
+      "von Ihnen gebucht": [
+        "rezervuota Jūsų"
+      ],
+      "Belegung je Session": [
+        "Užimtumas pagal sesiją"
+      ],
+      "Session": [
+        "Sesija"
+      ],
+      "Belegt": [
+        "Užimta"
+      ],
+      "Frei": [
+        "Laisva"
+      ],
+      "Belegung wird laufend aktualisiert.": [
+        "Užimtumas atnaujinamas automatiškai."
+      ],
+      "Stand bei Seitenaufruf; die Belegung wird nicht laufend aktualisiert.": [
+        "Būklė puslapio įkėlimo metu; užimtumas neatnaujinamas tiesiogiai."
+      ],
+      "Demodaten: Buchung für %1$s abgelehnt — %2$s": [
+        "Demonstraciniai duomenys: rezervacija dalyviui %1$s atmesta — %2$s"
+      ],
+      "Demodaten: Teilnahme storniert": [
+        "Demonstraciniai duomenys: dalyvavimas atšauktas"
+      ],
+      "post type general name\u0004Sessions & Tracks": [
+        "Sesijos ir kryptys"
+      ],
+      "post type singular name\u0004Session": [
+        "Sesija"
+      ],
+      "admin menu\u0004Sessions": [
+        "Sesijos"
+      ],
+      "Alle Sessions": [
+        "Visos sesijos"
+      ],
+      "Session bearbeiten": [
+        "Redaguoti sesiją"
+      ],
+      "Session ansehen": [
+        "Peržiūrėti sesiją"
+      ],
+      "Sessions durchsuchen": [
+        "Ieškoti sesijų"
+      ],
+      "Keine Sessions gefunden.": [
+        "Sesijų nerasta."
+      ],
+      "Keine Sessions im Papierkorb.": [
+        "Šiukšlinėje sesijų nėra."
+      ],
+      "Session-Daten": [
+        "Sesijos duomenys"
+      ],
+      "Zugehörige Konferenz:": [
+        "Pagrindinė konferencija:"
+      ],
+      "— Keine Konferenz ausgewählt —": [
+        "— Konferencija nepasirinkta —"
+      ],
+      "Referent / Speaker & Institution:": [
+        "Pranešėjas ir institucija:"
+      ],
+      "z. B. Erika Mustermann (Beispiel GmbH)": [
+        "pvz., Eglė Kazlauskienė (UAB Pavyzdys)"
+      ],
+      "Raum / Saal / Track:": [
+        "Salė / patalpa / kryptis:"
+      ],
+      "Workshop-Kapazität:": [
+        "Dirbtuvių talpa:"
+      ],
+      "Speaker": [
+        "Pranešėjas"
+      ],
+      "Raum / Track": [
+        "Salė / kryptis"
+      ],
+      "Zeitfenster": [
+        "Laiko intervalas"
+      ],
+      "Belegung": [
+        "Užimtumas"
+      ],
+      "Willkommen, %1$s %2$s!": [
+        "Sveiki, %1$s %2$s!"
+      ],
+      "Wählen Sie Ihre Sessions. Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Pasirinkite savo sesijas. Vieta paskiriama įrašant, kol sesijoje dar yra laisvų vietų."
+      ],
+      "Anmeldung bestätigt": [
+        "Registracija patvirtinta"
+      ],
+      "Für diese Session eingetragen": [
+        "Užregistruota šiai sesijai"
+      ],
+      "Diesen Programmpunkt auswählen": [
+        "Pasirinkti šią sesiją"
+      ],
+      "Der Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Vieta paskiriama įrašant, kol sesijoje dar yra laisvų vietų."
+      ],
+      "Sessions ausgewählt": [
+        "Pasirinktos sesijos"
+      ],
+      "Auswahl verbindlich speichern": [
+        "Patvirtinti ir įrašyti pasirinkimą"
+      ],
+      "WordPress Theme-Standard (Automatisch vererbt)": [
+        "„WordPress“ temos standartas (paveldima automatiškai)"
+      ],
+      "Empfohlen": [
+        "Rekomenduojama"
+      ],
+      "Übernimmt Typografie, Farben, Buttons und Abstände 1:1 vom aktiven WordPress-Theme (GeneratePress, Astra, Twenty Twenty-Four etc.).": [
+        "Tiesiogiai perima tipografiją, spalvas, mygtukus ir tarpus iš aktyvios „WordPress“ temos („GeneratePress“, „Astra“, „Twenty Twenty-Four“ ir kt.)."
+      ],
+      "Violett & Rosé (Dunkellila, Violett, Rosé-Akzent)": [
+        "Violetinė ir rožinė (tamsiai alyvinė, violetinė, rožinis akcentas)"
+      ],
+      "Farbstark": [
+        "Ryški"
+      ],
+      "Dunkellila (#482683), leuchtendes Violett (#7D40E7), Rosé-Akzent (#DF0079), Noto Sans, sofern das Theme sie lädt, und ein dezenter Farbverlauf.": [
+        "Tamsiai alyvinė (#482683), ryški violetinė (#7D40E7), rožinis akcentas (#DF0079), Noto Sans, jei tema ją įkelia, ir subtilus spalvų perėjimas."
+      ],
+      "Enterprise Dark (Navy & Cyan)": [
+        "Enterprise Dark (tamsiai mėlyna ir žydra)"
+      ],
+      "High-Tech Dark": [
+        "Aukštųjų technologijų tamsioji"
+      ],
+      "Bespoke Dark & Cobalt High-Tech Look mit Glow-Effekten, abgestimmt auf Cyber-Sicherheit & Konferenzen.": [
+        "Individualus tamsus ir kobalto stilius su švytėjimo akcentais, pritaikytas kibernetinio saugumo konferencijoms."
+      ],
+      "Minimalist Modern (Slate & Monochrome)": [
+        "Minimalist Modern (šiferio ir vienspalvė)"
+      ],
+      "Modern": [
+        "Modernus"
+      ],
+      "Klares, schlichtes SaaS-Design mit reduzierten Graustufen, feinen Rändern und maximalem Weißraum.": [
+        "Švarus, santūrus SaaS dizainas su neutraliais pilkais atspalviais, tiksliais rėmeliais ir gausia balta erdve."
+      ],
+      "Editorial Warm (Klassisch & Warmton)": [
+        "Editorial Warm (klasikiniai ir šilti tonai)"
+      ],
+      "Klassik": [
+        "Klasikinis"
+      ],
+      "Warme Elfenbein- und Burgunder-Töne für akademische Symposien und gehobene Fachkongresse.": [
+        "Šilti dramblio kaulo ir bordo atspalviai akademiniams simpoziumams bei aukšto lygio kongresams."
+      ],
+      "Hochkontrast (Schwarz auf Weiß)": [
+        "Didelis kontrastas (juoda ant balto)"
+      ],
+      "Hochkontrast": [
+        "Didelis kontrastas"
+      ],
+      "Schwarzer Text auf Weiß (Kontrast 21:1) mit gelbem Akzent und verstärkten Fokus-Rahmen.": [
+        "Juodas tekstas baltame fone (kontrastas 21:1) su geltonu akcentu ir paryškintais fokusavimo rėmeliais."
+      ],
+      "Benutzerdefiniertes Theme (Eigene Farben & CSS)": [
+        "Pasirinktinė tema (savo spalvos ir CSS)"
+      ],
+      "Individuell": [
+        "Individualus"
+      ],
+      "Freie Farbdefinition und Unterstützung für hochgeladene Custom-CSS-Stylesheets.": [
+        "Laisvas spalvų parinkimas ir įkeltų pasirinktinių CSS stilių failų palaikymas."
+      ],
+      "Keine gültige Upload-Datei übergeben.": [
+        "Nepateiktas galiojantis įkėlimo failas."
+      ],
+      "Sicherheitsfehler: Es dürfen ausschließlich reine .css-Dateien hochgeladen werden.": [
+        "Saugumo klaida: leidžiama įkelti tik grynuosius .css failus."
+      ],
+      "Die CSS-Datei überschreitet das Limit von 2 MB.": [
+        "CSS failas viršija 2 MB ribą."
+      ],
+      "Konnte die Theme-Datei nicht auf dem Server speichern.": [
+        "Nepavyko įrašyti temos failo serveryje."
+      ],
+      "Custom-Theme CSS erfolgreich hochgeladen und aktiviert.": [
+        "Pasirinktinės temos CSS sėkmingai įkeltas ir aktyvuotas."
+      ],
+      "taxonomy general name\u0004Veranstaltungsorte": [
+        "Renginių vietos"
+      ],
+      "taxonomy singular name\u0004Veranstaltungsort": [
+        "Renginio vieta"
+      ],
+      "Veranstaltungsorte durchsuchen": [
+        "Ieškoti renginių vietų"
+      ],
+      "Häufige Tagungsorte": [
+        "Dažnos renginių vietos"
+      ],
+      "Alle Veranstaltungsorte": [
+        "Visos renginių vietos"
+      ],
+      "Veranstaltungsort bearbeiten": [
+        "Redaguoti renginio vietą"
+      ],
+      "Veranstaltungsort aktualisieren": [
+        "Atnaujinti renginio vietą"
+      ],
+      "Neuen Veranstaltungsort hinzufügen": [
+        "Pridėti naują renginio vietą"
+      ],
+      "Name des neuen Tagungsorts": [
+        "Naujos renginio vietos pavadinimas"
+      ],
+      "Orte mit Kommas trennen": [
+        "Atskirkite vietas kableliais"
+      ],
+      "Orte hinzufügen oder entfernen": [
+        "Pridėti arba pašalinti vietas"
+      ],
+      "Aus häufig genutzten Orten wählen": [
+        "Rinktis iš dažniausiai naudojamų vietų"
+      ],
+      "Keine Veranstaltungsorte gefunden.": [
+        "Renginių vietų nerasta."
+      ],
+      "Stadt / Ort:": [
+        "Miestas / gyvenvietė:"
+      ],
+      "z. B. Musterstadt": [
+        "pvz., Vilnius"
+      ],
+      "Hauptstadt oder Gemeinde des Tagungsorts.": [
+        "Savivaldybė arba miestas, kuriame vyksta renginys."
+      ],
+      "Straße & Hausnummer:": [
+        "Gatvė ir namo numeris:"
+      ],
+      "z. B. Musterstraße 1": [
+        "pvz., Pavyzdžio g. 1"
+      ],
+      "Postleitzahl (PLZ):": [
+        "Pašto kodas:"
+      ],
+      "Land:": [
+        "Šalis:"
+      ],
+      "Maximale Raumkapazität (Personen):": [
+        "Maksimali patalpos talpa (žmonių):"
+      ],
+      "Rollstuhlgerecht zugänglich": [
+        "Pritaikyta judantiems neįgaliojo vežimėliu"
+      ],
+      "Nur ankreuzen, wenn geprüft. Die Angabe erscheint in der Liste der Veranstaltungsorte und in der REST-Route /venues.": [
+        "Pažymėkite tik patikrinę. Informacija rodoma renginių vietų sąraše ir REST maršrute /venues."
+      ],
+      "Google Maps / Wegbeschreibung URL:": [
+        "Žemėlapio / maršruto URL:"
+      ],
+      "Webseite des Tagungsorts:": [
+        "Renginio vietos interneto svetainė:"
+      ],
+      "Maximale Raumkapazität:": [
+        "Maksimali patalpos talpa:"
+      ],
+      "Personenkapazität des Tagungs- und Konferenzbereichs.": [
+        "Konferencijų zonos sėdimų vietų skaičius."
+      ],
+      "Zugänglichkeit:": [
+        "Prieinamumas:"
+      ],
+      "Google Maps Link:": [
+        "Žemėlapio nuoroda:"
+      ],
+      "Stadt & Adresse": [
+        "Miestas ir adresas"
+      ],
+      "Kapazität": [
+        "Talpa"
+      ],
+      "Rollstuhlgerecht": [
+        "Pritaikyta vežimėliams"
+      ],
+      "Ja": [
+        "Taip"
+      ],
+      "Nicht angegeben": [
+        "Nenurodyta"
+      ],
+      "Sehr viele Anfragen gleichzeitig. Bitte versuchen Sie es in %d Sekunden erneut. Ein Platz ist damit nicht reserviert.": [
+        "Šiuo metu labai daug vienalaikių užklausų. Bandykite dar kartą po %d sek. Vieta nerezervuota."
+      ],
+      "Ohne persistenten Objekt-Cache (Redis, Memcached) zählt die Warteschlange in der Datenbank: abgewiesene Anfragen sparen die Buchungsabfragen, kosten aber selbst einen Lese- und einen Schreibzugriff auf die Optionstabelle.": [
+        "Be nuolatinio objektų podėlio („Redis“, „Memcached“) laukiamasis skaičiuoja duomenų bazėje: atmestos užklausos sutaupo rezervacijos užklausas, tačiau vis tiek kainuoja vieną skaitymą ir vieną rašymą parinkčių lentelėje."
+      ],
+      "Cyber Events Kennzahlen": [
+        "Cyber Events rodikliai"
+      ],
+      "Cyber Events Kennzahl": [
+        "Cyber Events rodiklis"
+      ],
+      "Gibt Live-Kennzahlen zu aktiven Konferenzen, Bestätigungen und freien Plätzen aus.": [
+        "Išveda tiesioginius aktyvių konferencijų, patvirtintų registracijų ir laisvų vietų rodiklius."
+      ],
+      "Kennzahl": [
+        "Rodiklis"
+      ],
+      "Veranstaltungs-ID (optional)": [
+        "Renginio ID (neprivaloma)"
+      ],
+      "Dokumentation": [
+        "Dokumentacija"
+      ],
+      "Bitte geben Sie eine gültige Event-ID an: [cybevents_registration event_id=\"123\"]": [
+        "Nurodykite galiojantį renginio ID: [cybevents_registration event_id=\"123\"]"
+      ],
+      "Kein gültiger Bestätigungs-Token gefunden. Bitte nutzen Sie den Link aus Ihrer E-Mail.": [
+        "Galiojantis patvirtinimo prieigos raktas nerastas. Naudokite nuorodą iš savo el. laiško."
+      ],
+      "— Neueste aktive Veranstaltung (Automatisch) —": [
+        "— Naujausias aktyvus renginys (automatiškai) —"
+      ],
+      "Automatisch (Aktuelle Konferenz)": [
+        "Automatiškai (dabartinė konferencija)"
+      ],
+      "Veranstaltungs-Auswahl": [
+        "Renginio pasirinkimas"
+      ],
+      "Ziel-Konferenz": [
+        "Tikslinė konferencija"
+      ],
+      "Wählen Sie die Konferenz, deren Daten im Hero geladen werden.": [
+        "Pasirinkite konferenciją, kurios duomenys bus įkeliami pagrindiniame skydelyje."
+      ],
+      "Design & Layout-Presets": [
+        "Dizaino ir išdėstymo ruošiniai"
+      ],
+      "Theme-Preset": [
+        "Temos ruošinys"
+      ],
+      "Enterprise Dark & Glow (Standard)": [
+        "Enterprise Dark & Glow (numatytasis)"
+      ],
+      "Federal Blue": [
+        "Federalinė mėlyna (Federal Blue)"
+      ],
+      "Cyberpunk Cyan Glow": [
+        "Kiberpanko žydras švytėjimas (Cyberpunk Cyan Glow)"
+      ],
+      "Clean White & Modern": [
+        "Švari balta ir moderni (Clean White & Modern)"
+      ],
+      "Glassmorphism Blur": [
+        "Stiklo suliejimas (Glassmorphism Blur)"
+      ],
+      "Eckenabrundung (Border Radius)": [
+        "Kampų apvalinimas (Border Radius)"
+      ],
+      "Ohne (0px)": [
+        "Be apvalinimo (0px)"
+      ],
+      "Mittel (8px)": [
+        "Vidutinis (8px)"
+      ],
+      "Groß (16px)": [
+        "Didelis (16px)"
+      ],
+      "Sehr groß (24px)": [
+        "Labai didelis (24px)"
+      ],
+      "Leucht- & Glow-Effekt aktivieren": [
+        "Įjungti švytėjimo (Glow) efektą"
+      ],
+      "Texte & Call-to-Action Buttons": [
+        "Tekstai ir raginimo veikti (CTA) mygtukai"
+      ],
+      "Badge / Dachzeile": [
+        "Ženklelis / viršutinė eilutė"
+      ],
+      "Individuelle Hauptüberschrift (Optional)": [
+        "Pasirinktinė pagrindinė antraštė (neprivaloma)"
+      ],
+      "Standard: Titel der Veranstaltung": [
+        "Numatyta: renginio pavadinimas"
+      ],
+      "Individueller Einleitungstext / Lead": [
+        "Pasirinktinis įžanginis tekstas"
+      ],
+      "Standard: Beschreibung der Veranstaltung": [
+        "Numatyta: renginio aprašymas"
+      ],
+      "Primärer CTA-Button Text": [
+        "Pagrindinio CTA mygtuko tekstas"
+      ],
+      "Primärer CTA-Button Ziel-Link / Anker": [
+        "Pagrindinio CTA mygtuko tikslinė nuoroda / inkaras"
+      ],
+      "Sekundären Button anzeigen": [
+        "Rodyti antrinį mygtuką"
+      ],
+      "Sekundärer Button Text": [
+        "Antrinio mygtuko tekstas"
+      ],
+      "Sekundärer Button Ziel-Link": [
+        "Antrinio mygtuko tikslinė nuoroda"
+      ],
+      "Sichtbarkeit von Elementen": [
+        "Elementų matomumas"
+      ],
+      "Live Countdown-Timer anzeigen": [
+        "Rodyti tiesioginį atgalinio skaičiavimo laikmatį"
+      ],
+      "Freie Plätze / Kapazitäts-Pill anzeigen": [
+        "Rodyti laisvų vietų / talpos ženklelį"
+      ],
+      "Status-Pill (Geöffnet/Ausgebucht) anzeigen": [
+        "Rodyti būsenos ženklelį (atvira / pilna)"
+      ],
+      "Veranstaltungsort anzeigen": [
+        "Rodyti renginio vietą"
+      ],
+      "Datum & Uhrzeit anzeigen": [
+        "Rodyti datą ir laiką"
+      ],
+      "Ticketpreis / Kostenfrei-Badge anzeigen": [
+        "Rodyti bilieto kainą / nemokamo įėjimo ženklelį"
+      ],
+      "Kalender-Export Button (.ics) anzeigen": [
+        "Rodyti kalendoriaus eksporto (.ics) mygtuką"
+      ],
+      "Kopfbereich": [
+        "Viršutinė sritis (Hero)"
+      ],
+      "Standard: Beschreibung der Veranstaltung, dazu Datum, Ort, Preis, freie Plätze, Countdown und Anmelde-Button.": [
+        "Numatyta: renginio aprašymas, taip pat data, vieta, kaina, laisvos vietos, atgalinis skaičiavimas ir registracijos mygtukas."
+      ],
+      "Countdown": [
+        "Atgalinis skaičiavimas"
+      ],
+      "Freie Plätze": [
+        "Laisvos vietos"
+      ],
+      "Stil: %s": [
+        "Stilius: %s"
+      ],
+      "Button: %s": [
+        "Mygtukas: %s"
+      ],
+      "Konferenz-Auswahl": [
+        "Konferencijos pasirinkimas"
+      ],
+      "Ziel-Veranstaltung": [
+        "Tikslinis renginys"
+      ],
+      "Wählen Sie das Event aus, für das sich Besucher anmelden.": [
+        "Pasirinkite renginį, į kurį registruojasi lankytojai."
+      ],
+      "Formular-Design & Theme": [
+        "Formos dizainas ir tema"
+      ],
+      "Formular-Stil": [
+        "Formos stilius"
+      ],
+      "Cyber Glassmorphism (Standard)": [
+        "Cyber Glassmorphism (numatytasis)"
+      ],
+      "Clean White Studio": [
+        "Švari balta studija (Clean White Studio)"
+      ],
+      "Eckenabrundung": [
+        "Kampų apvalinimas"
+      ],
+      "Formularfelder & Erfassungsoptionen": [
+        "Formos laukai ir duomenų rinkimo parinktys"
+      ],
+      "Individueller Formulartitel": [
+        "Pasirinktinis formos pavadinimas"
+      ],
+      "Individueller Untertitel / Hinweis": [
+        "Pasirinktinė paantraštė / pastaba"
+      ],
+      "Standard: kein Untertitel": [
+        "Numatyta: be paantraštės"
+      ],
+      "Organisation / Firma Feld anzeigen": [
+        "Rodyti organizacijos / įmonės lauką"
+      ],
+      "Foto- & Videoaufnahmen Einwilligung anzeigen": [
+        "Rodyti fotografavimo ir filmavimo sutikimo langelį"
+      ],
+      "Key Facts Header im Formular anzeigen": [
+        "Rodyti pagrindinių faktų antraštę formoje"
+      ],
+      "Button-Beschriftung & DSGVO-Links": [
+        "Mygtuko tekstas ir privatumo nuorodos"
+      ],
+      "Absende-Button Beschriftung": [
+        "Pateikimo mygtuko tekstas"
+      ],
+      "Individuelle Datenschutz-URL (Optional)": [
+        "Pasirinktinis privatumo politikos URL (neprivaloma)"
+      ],
+      "Standard: Datenschutzseite aus Einstellungen > Datenschutz": [
+        "Numatyta: privatumo puslapis iš Nuostatos > Privatumas"
+      ],
+      "Anmeldeformular": [
+        "Registracijos forma"
+      ],
+      "Anmeldung mit Double Opt-in: Brevo sendet den Bestätigungslink, erst danach gilt die Anmeldung.": [
+        "Registracija su dvigubu patvirtinimu: „Brevo“ išsiunčia patvirtinimo nuorodą, ir tik ją patvirtinus registracija įsigalioja."
+      ],
+      "Standard nach Ticketpreis": [
+        "Numatyta pagal bilieto kainą"
+      ],
+      "Überschrift & Untertitel": [
+        "Antraštė ir paantraštė"
+      ],
+      "Überschrift": [
+        "Antraštė"
+      ],
+      "Untertitel / Beschreibung": [
+        "Paantraštė / aprašymas"
+      ],
+      "Suche, Angaben & Export": [
+        "Paieška, metaduomenys ir eksportas"
+      ],
+      "Live-Suchfeld für Sessions anzeigen": [
+        "Rodyti tiesioginį sesijų paieškos lauką"
+      ],
+      "Raum- und Ortsangaben anzeigen": [
+        "Rodyti salės ir vietos informaciją"
+      ],
+      "Referenten-Avatare anzeigen": [
+        "Rodyti pranešėjų portretus"
+      ],
+      "Gesamten Kalender-Export (.ics) anzeigen": [
+        "Rodyti pilną kalendoriaus eksportą (.ics)"
+      ],
+      "Sessions in zeitlicher Reihenfolge mit Raum, Referent, Beschreibung, Suche und .ics-Export.": [
+        "Chronologine tvarka išdėstytos sesijos su sale, pranešėju, aprašymu, paieška ir .ics eksportu."
+      ],
+      "Suche": [
+        "Paieška"
+      ],
+      ".ics-Download": [
+        ".ics atsisiuntimas"
+      ],
+      "Layout & Spalten": [
+        "Išdėstymas ir stulpeliai"
+      ],
+      "Spaltenanzahl (Desktop)": [
+        "Stulpelių skaičius (darbalaukyje)"
+      ],
+      "Texte & Detail-Anzeigen": [
+        "Tekstai ir detalių rodymas"
+      ],
+      "Untertitel": [
+        "Paantraštė"
+      ],
+      "Vortragsthema der Session anzeigen": [
+        "Rodyti sesijos pranešimo temą"
+      ],
+      "Raumangabe anzeigen": [
+        "Rodyti salės žymą"
+      ],
+      "Uhrzeit anzeigen": [
+        "Rodyti pradžios laiką"
+      ],
+      "Konferenz: ": [
+        "Konferencija: "
+      ],
+      "%d Spalten": [
+        "%d stulpeliai (-ių)"
+      ],
+      "Vortragsthemen": [
+        "Pranešimų temos"
+      ],
+      "Titel": [
+        "Pavadinimas"
+      ],
+      "Individueller Titel": [
+        "Pasirinktinis pavadinimas"
+      ],
+      "Kalender-Dienste & Optionen": [
+        "Kalendoriaus paslaugos ir parinktys"
+      ],
+      "Apple / Outlook (.ics Datei) anzeigen": [
+        "Rodyti Apple / Outlook (.ics failas)"
+      ],
+      "Google Kalender Direkt-Link anzeigen": [
+        "Rodyti tiesioginę „Google“ kalendoriaus nuorodą"
+      ],
+      "Outlook Web Direkt-Link anzeigen": [
+        "Rodyti tiesioginę „Outlook Web“ nuorodą"
+      ],
+      "Microsoft 365 Direkt-Link anzeigen": [
+        "Rodyti tiesioginę „Microsoft 365“ nuorodą"
+      ],
+      "Zeitzonen-Hinweis anzeigen": [
+        "Rodyti laiko juostos pastabą"
+      ],
+      "Hinweis auf die Erinnerung in der .ics-Datei anzeigen": [
+        "Rodyti pastabą apie priminimą .ics faile"
+      ],
+      "Kalender": [
+        "Kalendorius"
+      ],
+      ".ics-Datei mit einer Erinnerung einen Tag vor Beginn und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Failas .ics su priminimu prieš vieną dieną iki pradžios ir nuorodomis į „Google“ kalendorių, „Outlook Web“ ir „Microsoft 365“."
+      ],
+      ".ics-Datei": [
+        ".ics failas"
+      ],
+      "Session-Auswahl": [
+        "Sesijų pasirinkimas"
+      ],
+      "Dieser Block hat keine Einstellungen. Er zeigt die Sessions zu dem Token aus dem Bestätigungslink; ohne Token erscheint ein Hinweis.": [
+        "Šis blokas neturi nuostatų. Jis rodo sesijas pagal prieigos raktą iš patvirtinimo nuorodos; be rakto rodomas pranešimas."
+      ],
+      "Ein Platz wird beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Vieta paskiriama įrašant, kol sesijoje dar yra laisvų vietų."
+      ],
+      "Ticketpass-Optionen": [
+        "Bilieto leidimo parinktys"
+      ],
+      "Pass-Überschrift": [
+        "Leidimo antraštė"
+      ],
+      "Kopfzeile (Standard: Titel der Veranstaltung)": [
+        "Viršutinė eilutė (numatyta: renginio pavadinimas)"
+      ],
+      "Drucken-Button (Print Badge) anzeigen": [
+        "Rodyti spausdinimo mygtuką (spausdinti kortelę)"
+      ],
+      "Ticketnummer anzeigen": [
+        "Rodyti bilieto numerį"
+      ],
+      "Rechnungsnummer / Referenz anzeigen": [
+        "Rodyti sąskaitos faktūros numerį / nuorodą"
+      ],
+      "Check-In Status anzeigen": [
+        "Rodyti atvykimo būseną"
+      ],
+      "Pass für bestätigte Anmeldungen, aufgerufen mit dem Token aus der Bestätigungs-E-Mail: Name, Firma, Status, Rechnungsnummer, Ticketnummer und Druckfunktion.": [
+        "Leidimas patvirtintoms registracijoms, atidaromas naudojant raktą iš patvirtinimo el. laiško: vardas, įmonė, būsena, sąskaitos numeris, bilieto numeris ir spausdinimo funkcija."
+      ],
+      "Ticketnummer": [
+        "Bilieto numeris"
+      ],
+      "Druckfunktion": [
+        "Spausdinimo funkcija"
+      ],
+      "Titel der Veranstaltung": [
+        "Renginio pavadinimas"
+      ],
+      "Layout & Farbschema": [
+        "Išdėstymas ir spalvų schema"
+      ],
+      "Raster-Layout": [
+        "Tinklelio išdėstymas"
+      ],
+      "4 Spalten Grid (Standard)": [
+        "4 stulpelių tinklelis (numatytasis)"
+      ],
+      "2 Spalten Grid (Groß)": [
+        "2 stulpelių tinklelis (platus)"
+      ],
+      "Farbthema": [
+        "Spalvų tema"
+      ],
+      "Dark Cyber Glow (Standard)": [
+        "Dark Cyber Glow (numatytoji)"
+      ],
+      "Angezeigte Karten": [
+        "Rodomos kortelės"
+      ],
+      "Karten zu dem, was das Plugin tut. Ob die Website rechtliche Vorgaben erfüllt, bewertet der Block nicht.": [
+        "Kortelės, apibūdinančios įskiepio veikimą. Blokas nevertina, ar svetainė atitinka teisinius reikalavimus."
+      ],
+      "Double Opt-in": [
+        "Dvigubas patvirtinimas (Double Opt-in)"
+      ],
+      "Formulare": [
+        "Formos"
+      ],
+      "Eigene Assets": [
+        "Vietiniai ištekliai"
+      ],
+      "Abfrage & Filterung": [
+        "Užklausos ir filtravimas"
+      ],
+      "Maximale Anzahl Konferenzen": [
+        "Maksimalus konferencijų skaičius"
+      ],
+      "Status-Filter": [
+        "Būsenos filtras"
+      ],
+      "Nur aktive Veranstaltungen": [
+        "Tik aktyvūs renginiai"
+      ],
+      "Aktive und archivierte Veranstaltungen": [
+        "Aktyvūs ir suarchyvuoti renginiai"
+      ],
+      "Nur archivierte Veranstaltungen": [
+        "Tik suarchyvuoti renginiai"
+      ],
+      "Sichtbare Metadaten & Buttons": [
+        "Matomi metaduomenys ir mygtukai"
+      ],
+      "Live-Suchleiste anzeigen": [
+        "Rodyti tiesioginę paieškos juostą"
+      ],
+      "Preisschild anzeigen": [
+        "Rodyti kainos etiketę"
+      ],
+      "Standort / Tagungsort anzeigen": [
+        "Rodyti renginio vietą / lokaciją"
+      ],
+      "Datums-Badge anzeigen": [
+        "Rodyti datos ženklelį"
+      ],
+      "Direkten .ics Kalenderlink anzeigen": [
+        "Rodyti tiesioginę .ics kalendoriaus nuorodą"
+      ],
+      "Beschreibungstext anzeigen": [
+        "Rodyti aprašymo ištrauką"
+      ],
+      "CTA-Button Beschriftung": [
+        "CTA mygtuko tekstas"
+      ],
+      "Veranstaltungsübersicht": [
+        "Renginių apžvalga"
+      ],
+      "Raster der Veranstaltungen mit Datum, Preis, Ort, Kurzbeschreibung, Anmelde-Button und .ics-Link.": [
+        "Renginių tinklelis su data, kaina, vieta, trumpu aprašymu, registracijos mygtuku ir .ics nuoroda."
+      ],
+      "Max. %d Veranstaltungen": [
+        "Maks. %d renginių"
+      ],
+      "Cyber Events Sitzplan": [
+        "Cyber Events vietų planas"
+      ],
+      "Sitzplan-Einstellungen": [
+        "Vietų plano nuostatos"
+      ],
+      "Überschrift (optional)": [
+        "Antraštė (neprivaloma)"
+      ],
+      "Beschreibungstext (optional)": [
+        "Aprašomasis tekstas (neprivaloma)"
+      ],
+      "Live-Aktualisierung aktivieren": [
+        "Įjungti tiesioginį atnaujinimą"
+      ],
+      "Sitzplan": [
+        "Vietų planas"
+      ],
+      "Grafische Belegungsübersicht aller Sessions einer Veranstaltung mit barrierefreier Datentabelle.": [
+        "Grafinė visų renginio sesijų užimtumo apžvalga su prieinamumui pritaikyta duomenų lentele."
+      ],
+      "Cyber Events Multi-View Kalender": [
+        "Cyber Events kelių rodinių kalendorius"
+      ],
+      "Ansichten & Datenquelle": [
+        "Rodiniai ir duomenų šaltinis"
+      ],
+      "Standardansicht": [
+        "Numatytasis rodinys"
+      ],
+      "Monatskalender": [
+        "Mėnesio kalendorius"
+      ],
+      "Wochenplan": [
+        "Savaitės tvarkaraštis"
+      ],
+      "Tagesagenda": [
+        "Dienos darbotvarkė"
+      ],
+      "Listenansicht": [
+        "Sąrašo rodinys"
+      ],
+      "Kartenansicht": [
+        "Kortelių rodinys"
+      ],
+      "Raumübersicht": [
+        "Salių apžvalga"
+      ],
+      "Track-Matrix": [
+        "Krypčių matrica"
+      ],
+      "Maximale Anzahl Einträge": [
+        "Maksimalus įrašų skaičius"
+      ],
+      "Bedienleiste & Filter": [
+        "Įrankių juosta ir filtrai"
+      ],
+      "Ansichts-Umschalter anzeigen": [
+        "Rodyti rodinio perjungiklį"
+      ],
+      "Track- und Raumfilter anzeigen": [
+        "Rodyti krypčių ir salių filtrus"
+      ],
+      "Suchfeld anzeigen": [
+        "Rodyti paieškos lauką"
+      ],
+      "Meldungsleiste anzeigen": [
+        "Rodyti pranešimų juostą"
+      ],
+      "Kalender-Ansichten": [
+        "Kalendoriaus rodiniai"
+      ],
+      "Multi-View Kalender & Agenda": [
+        "Kelių rodinių kalendorius ir darbotvarkė"
+      ],
+      "Umschaltbare Monats-, Wochen-, Tages-, Listen-, Karten-, Raum- und Track-Ansicht.": [
+        "Perjungiami mėnesio, savaitės, dienos, sąrašo, kortelių, salių ir krypčių rodiniai."
+      ],
+      "block title\u0004Cyber Events Konferenz-Agenda": [
+        "Cyber Events konferencijos darbotvarkė"
+      ],
+      "block description\u0004Interaktiver Multi-Track Konferenzplan mit Zeitstrahl, Referenten-Details, Raumfiltern und iCal (.ics) Download.": [
+        "Interaktyvus daugiakryptis konferencijos planas su laiko juosta, pranešėjų informacija, salių filtrais ir iCal (.ics) atsisiuntimu."
+      ],
+      "block title\u0004Cyber Events Multi-View Pro (Kalender, Agenda & Tracks)": [
+        "Cyber Events Multi-View Pro (kalendorius, darbotvarkė ir kryptys)"
+      ],
+      "block description\u0004Erweiterte Kalender- & Agenda-Suite mit 7 interaktiven Frontend-Ansichten: Monatskalender, Wochenplan, Tagesagenda, Listenansicht, Fotokarten, Raumkarte und Summit Multi-Track Matrix.": [
+        "Išplėstinis kalendoriaus ir darbotvarkės rinkinys su 7 interaktyviais rodiniais: mėnesio kalendoriumi, savaitės tvarkaraščiu, dienos darbotvarke, sąrašo rodiniu, nuotraukų kortelėmis, salių planu ir daugiakrypte matrica."
+      ],
+      "block keyword\u0004event": [
+        "renginys"
+      ],
+      "block keyword\u0004calendar": [
+        "kalendorius"
+      ],
+      "block keyword\u0004agenda": [
+        "darbotvarkė"
+      ],
+      "block keyword\u0004schedule": [
+        "tvarkaraštis"
+      ],
+      "block keyword\u0004summit": [
+        "konferencija"
+      ],
+      "block keyword\u0004timetable": [
+        "grafikas"
+      ],
+      "block keyword\u0004matrix": [
+        "matrica"
+      ],
+      "block title\u0004Cyber Events Kalender & .ics Widget": [
+        "Cyber Events kalendorius ir .ics valdiklis"
+      ],
+      "block description\u0004Kalender-Widget mit .ics-Download und Links zu Google Kalender, Outlook Web und Microsoft 365.": [
+        "Kalendoriaus valdiklis su .ics atsisiuntimu ir nuorodomis į „Google“ kalendorių, „Outlook Web“ bei „Microsoft 365“."
+      ],
+      "block title\u0004Cyber Event Hero & Countdown Banner": [
+        "Cyber Event pagrindinis skydelis ir atgalinis skaičiavimas"
+      ],
+      "block description\u0004Veranstaltungs-Kopfbereich mit Countdown, Eckdaten, Status und Anmelde-Buttons.": [
+        "Renginio viršutinis skydelis su atgaliniu skaičiavimu, pagrindiniais faktais, būsena ir registracijos mygtukais."
+      ],
+      "block title\u0004Cyber Events Übersicht & Archiv Grid": [
+        "Cyber Events apžvalgos ir archyvo tinklelis"
+      ],
+      "block description\u0004Dynamische Kartenübersicht aller anstehenden Konferenzen, Symposien und Workshops mit Suchleiste und Status-Filtern.": [
+        "Dinaminė artėjančių konferencijų, simpoziumų ir dirbtuvių kortelių apžvalga su paieškos juosta ir būsenos filtrais."
+      ],
+      "block title\u0004Cyber Events Registrierungsformular": [
+        "Cyber Events registracijos forma"
+      ],
+      "block description\u0004Anmeldeformular mit Double Opt-in über Brevo, optionalem Profilbild und Einwilligung zu Fotoaufnahmen.": [
+        "Registracijos forma su dvigubu patvirtinimu per „Brevo“, neprivaloma profilio nuotrauka ir fotografavimo sutikimu."
+      ],
+      "block title\u0004Cyber Events Sitzplan": [
+        "Cyber Events vietų planas"
+      ],
+      "block description\u0004Belegung aller Sessions einer Veranstaltung als SVG, laufend aktualisiert über Server-Sent Events.": [
+        "Visų renginio sesijų užimtumas SVG formatu, nuolat atnaujinamas per „Server-Sent Events“."
+      ],
+      "block title\u0004Cyber Events Security & Trust Badges": [
+        "Cyber Events saugumo ir pasitikėjimo ženkleliai"
+      ],
+      "block description\u0004Übersicht der Datenschutz- und Sicherheitsfunktionen des Plugins: Double Opt-in, Löschfristen, Audit-Log, Rechnungs-XML.": [
+        "Įskiepio duomenų apsaugos ir saugumo funkcijų apžvalga: dvigubas patvirtinimas, trynimo terminai, audito žurnalas, sąskaitų XML."
+      ],
+      "block title\u0004Cyber Events Session- & Workshop-Selektor": [
+        "Cyber Events sesijų ir dirbtuvių parinkiklis"
+      ],
+      "block description\u0004Session-Auswahl für bestätigte Anmeldungen: Plätze werden beim Speichern vergeben, solange die Session nicht ausgebucht ist.": [
+        "Sesijų pasirinkimas patvirtintoms registracijoms: vietos paskiriamos įrašant, kol yra laisvų vietų."
+      ],
+      "block title\u0004Cyber Events Referenten & Speaker Grid": [
+        "Cyber Events pranešėjų ir ekspertų tinklelis"
+      ],
+      "block description\u0004Automatisch generierte Übersicht aller Keynote-Speaker, Referenten, Raumverteilung und Bio-Details.": [
+        "Automatiškai generuojama visų pagrindinių pranešėjų, pranešimų, salių paskirstymo ir biografijų apžvalga."
+      ],
+      "block title\u0004Cyber Events Digitaler Ticket-Pass": [
+        "Cyber Events skaitmeninis bilieto leidimas"
+      ],
+      "block description\u0004Teilnehmerpass für bestätigte Anmeldungen mit Ticketnummer, Veranstaltung, Ort und Druckfunktion.": [
+        "Dalyvio leidimas patvirtintoms registracijoms su bilieto numeriu, renginiu, vieta ir spausdinimo funkcija."
+      ]
+    }
+  }
+}
